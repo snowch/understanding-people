@@ -149,25 +149,6 @@ If asking someone directly could put you at risk, use the [support page](../supp
 
 In a 1995 paper, Gilbert and Malone examined earlier research on why people judge someone’s character without giving enough weight to their situation. This gives us a reason to ask what was happening around Rowan before deciding what Rowan is like. It does not mean every judgment about character is wrong. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/7870861/).
 
-<section class="reader-action" markdown="1" aria-labelledby="practise-three-questions">
-
-### Put it into practice: try the three questions {#practise-three-questions}
-
-Now use a recent situation from **your own life**—something someone said or did that puzzled or upset you. Write a short answer to each question:
-
-1. **What did they say or do?** Describe their words or actions without guessing their reason. If you have a relevant message, check the wording rather than relying only on your memory.
-2. **Why do I think they did it?** Write the reason you suspect and what led you to that explanation. Keep it separate from what you actually saw or heard.
-3. **How could I check?** Write one question you could ask or one piece of information you could look at. Choose something that could change your mind, not just confirm your first guess.
-
-If it is safe and useful, make that check. Afterwards, note what you learned and whether it changes what you will do next. You may still be unsure why the person acted as they did.
-
-Next time you catch yourself guessing someone's reason, use the same three questions. You can use this situation again in the weekly exercise below.
-
-<!-- practice-notes: chapter-01-three-questions | Try the three questions -->
-
-</section>
-
-
 <details class="evidence-detail" markdown="1">
 <summary>More about the research</summary>
 
@@ -238,11 +219,33 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-Choose **one** of the two exercises below for this week. Start by noticing your own thinking, rather than labelling someone else.
+## Put it into practice {#put-it-into-practice}
+
+Start with the three-question exercise below. **That is enough for this week.** If you want to practise noticing a particular bias too, choose one of the optional focuses afterwards.
+
+<section class="reader-action" markdown="1" aria-labelledby="practise-three-questions">
+
+### Start here: try the three questions {#practise-three-questions}
+
+Now use a recent situation from **your own life**—something someone said or did that puzzled or upset you. Write a short answer to each question:
+
+1. **What did they say or do?** Describe their words or actions without guessing their reason. If you have a relevant message, check the wording rather than relying only on your memory.
+2. **Why do I think they did it?** Write the reason you suspect and what led you to that explanation. Keep it separate from what you actually saw or heard.
+3. **How could I check?** Write one question you could ask or one piece of information you could look at. Choose something that could change your mind, not just confirm your first guess.
+
+If it is safe and useful, make that check. Afterwards, note what you learned and whether it changes what you will do next. You may still be unsure why the person acted as they did.
+
+Next time you catch yourself guessing someone's reason, use the same three questions. In a week, return to your notes and ask what you would do differently. You can choose a return date below; the book does not send reminders.
+
+<!-- practice-notes: chapter-01-three-questions | Try the three questions -->
+
+</section>
+
+**Optional: choose one focus for the week.** Use the same situation or another ordinary moment. Notice your own thinking, rather than labelling someone else. You can add to your main exercise notes; the separate notes below are there if you want them.
 
 <section class="reader-action weekly-practice" markdown="1" aria-labelledby="choose-response">
 
-### Put it into practice this week: notice confirmation bias {#choose-response}
+### Optional focus this week: notice confirmation bias {#choose-response}
 
 Once this week, when you feel sure why someone acted as they did, ask: **“Am I noticing only the things that support my explanation?”** Look for something you may have overlooked. It might support your explanation, weaken it or leave you unsure.
 
@@ -256,7 +259,7 @@ In a week, return to your notes. **What would you do differently next time?** Ch
 
 <section class="reader-action weekly-practice" markdown="1" aria-labelledby="week-correspondence">
 
-### Put it into practice this week: notice correspondence bias {#week-correspondence}
+### Optional focus this week: notice correspondence bias {#week-correspondence}
 
 Once this week, notice a judgment such as “They’re lazy” or “They’re rude”. Ask **“What was happening around them that might help explain what they did?”**
 

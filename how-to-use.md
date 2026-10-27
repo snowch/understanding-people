@@ -24,7 +24,7 @@ Before reading the key takeaways, try the chapter’s **Can you use it?** questi
 
 These are self-checks, not scored tests or proof that you will remember later. Some later chapters bring back an earlier idea in a new situation. Try answering before looking back. You can also return a week later and attempt the end-of-chapter check again without opening the answers.
 
-Choose **one** weekly exercise. Chapter 1 offers separate options for noticing confirmation bias and correspondence bias in your own thinking. You do not need to track everyone around you or complete every exercise.
+Use **Try this** panels during a chapter for a short rehearsal. The **Put it into practice** tasks are grouped at the end, after the self-check and key takeaways, so you can apply the lesson to your own life. In Chapter 1, start with the three questions. That is enough; noticing confirmation bias or correspondence bias is an optional focus for the week. You do not need to track everyone around you or complete every exercise.
 
 ### Keep notes if they help
 
