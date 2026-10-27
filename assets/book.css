@@ -94,3 +94,9 @@ dialog button { padding: 10px 20px; font: inherit; color: var(--paper); backgrou
 @media (max-width: 480px) { .reader-action { padding: 20px 18px; } .reader-action > h2, .reader-action > h3 { font-size: 17px; gap: 9px; } }
 @media (prefers-color-scheme: dark) { .reader-action th { background: rgb(181 213 173 / .09); } }
 @media print { .reader-action { --action-ink: black; --action-accent: #333; --action-paper: white; border: 1px solid #777; border-left-width: 4px; padding: 14px; } .reader-action a { color: black; } .reader-action > h2, .reader-action > h3 { font-size: 13pt; } }
+/* Optional answers and evidence keep the main reading sequence focused. */
+.answer-check, .evidence-detail { margin: 20px 0; padding-block: 14px; border-block: 1px solid var(--line); }
+.answer-check > summary, .evidence-detail > summary { font: 600 15px/1.5 system-ui, sans-serif; color: var(--accent); }
+.answer-check[open] > summary, .evidence-detail[open] > summary { margin-bottom: 18px; }
+.answer-check > :last-child, .evidence-detail > :last-child { margin-bottom: 0; }
+@media print { .answer-check::details-content, .evidence-detail::details-content { content-visibility: visible; display: block; } .answer-check > summary, .evidence-detail > summary { margin-bottom: 12px; color: black; } }
