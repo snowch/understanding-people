@@ -1,14 +1,19 @@
 # Truth, lies and uncertainty
 
-*Draft chapter · Research summaries are cited; examples and conversation suggestions are illustrative.*
-
 A contractor says a replacement part was ordered on Monday. When you ask for an update, they hesitate and look away. You suspect they are lying.
 
 The delay matters, but the gesture does not establish why it happened. Begin with the claim you need to evaluate: was the part ordered, when, and what delivery date is supported?
 
 ## What lie-detection research can tell us
 
-Bond and DePaulo's 2006 meta-analysis combined 206 research documents involving 24,483 judges. In the unaided judgment tasks they examined, average accuracy was about **54%**, only modestly above a 50% guessing benchmark. That is an average across those tasks, not your personal accuracy or the probability that this contractor is lying. It does not describe an investigation with access to independent records. [Research abstract](https://pubmed.ncbi.nlm.nih.gov/16859438/).
+Bond and DePaulo's 2006 meta-analysis combined 206 research documents involving 24,483 judges. In the unaided truth–lie tasks they examined, average accuracy was about **54%**, with a notable asymmetry:
+
+| Kind of statement | Correctly classified, on average |
+| --- | --- |
+| Truths | 61% |
+| Lies | 47% |
+
+Participants were better at recognising truths than lies. That pattern is compatible with a tendency to judge statements as true, but does not by itself establish why it occurs. These averages neither estimate whether this contractor is lying nor describe an investigation with independent records. [Bond and DePaulo, 2006](https://pubmed.ncbi.nlm.nih.gov/16859438/).
 
 A later review by Vrij, Hartwig and Granhag describes known nonverbal cues to deceit as weak and unreliable. Nervousness, gaze and movement should not become a checklist for assigning dishonesty. Combining several ambiguous gestures does not, by itself, establish a valid test. [Review, 2019](https://pubmed.ncbi.nlm.nih.gov/30609913/).
 
@@ -35,9 +40,11 @@ That supports examining specific interviewing practices; it does not validate ev
 
 For any named method, ask what outcome was measured: more conversation, more information, more accurate information, more confessions or better discrimination between truth and lies. Improving one does not automatically establish the others.
 
-## A practical conversation
+<section class="reader-action" markdown="1" aria-labelledby="check-account">
 
-The following is an everyday adaptation for organising a discussion, not a validated lie-detection procedure:
+### Put it into practice: check the account {#check-account}
+
+For an everyday question about a claim, organise the conversation around information you can clarify:
 
 1. **Invite an account.** “Can you talk me through what happened with the order?”
 2. **Clarify without supplying details.** “What confirmation did you receive?”
@@ -45,7 +52,23 @@ The following is an everyday adaptation for organising a discussion, not a valid
 4. **Seek proportionate corroboration.** “Please forward the confirmation when it arrives.”
 5. **Agree on a decision.** “If we have no confirmed delivery date by Friday, let's discuss another option.”
 
+</section>
+
 The outcome you need may be a reliable delivery plan. You can request evidence and set a deadline without winning an argument about the contractor's honesty.
+
+## Include your own stake in the answer
+
+Before deciding how credible the contractor seems, ask what you want to be true. Perhaps you need the repair finished before a family visit and are accepting an unclear reassurance. Or a previous bad experience has left you ready to interpret any hesitation as dishonesty. These possibilities concern your judgment, not evidence about this contractor.
+
+<section class="reader-action" markdown="1" aria-labelledby="same-check">
+
+### Try this: use the same check for a welcome answer {#same-check}
+
+Write the claim you need to verify and the information that would address it. Would you ask for that information if the speaker were familiar, confident, or saying exactly what you hoped to hear?
+
+Choose a proportionate check you could explain without making an accusation—for example, confirming the delivery date from the order record.
+
+</section>
 
 ## Do not turn uncertainty into an accusation
 

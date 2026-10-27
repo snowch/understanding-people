@@ -4,7 +4,7 @@ A science-informed guide to understanding what drives people—including ourselv
 
 [Read the book](https://snowch.github.io/understanding-people/) · [Contents](contents.md) · [Evidence standards](evidence.md)
 
-This is the initial editorial draft: an introduction, a broad chapter plan, two developed sample chapters, a practical worksheet, and an annotated source list. Planned chapters are explicitly labelled; this is not a completed or externally reviewed textbook.
+This is the initial editorial draft: an introduction, a broad chapter plan, three developed sample chapters, a practical worksheet, an annotated source list, and reading, author and support pages. Planned chapters are explicitly labelled; this is not a completed or externally reviewed textbook.
 
 The book draws on psychology, sociology, anthropology and decision science. Examples span work, friendship, family life, learning, public life and commercial decisions. Investigative interviewing and deception are assessed against evidence, including the limits of claims associated with the FBI.
 
@@ -33,3 +33,5 @@ With a local server running, `python3 scripts/verify_install.py http://localhost
 ## Writing
 
 Edit the Markdown files. Register new pages in `PAGES` in `scripts/build.py`, set their source path in `CHAPTERS`, and update `contents.md`. Keep the chapter anchors in the contents so planned-chapter links continue to resolve. Cite research beside the claim it supports and add an annotated entry in `references.md`. Distinguish research findings, interpretations and practical suggestions. All scenarios are fictional teaching examples, not evidence.
+
+Practical reader actions use a blue `section.reader-action` panel with a labelled heading and checklist icon. Use `markdown="1"` on the section and give its heading an explicit ID referenced by `aria-labelledby`. Keep research explanations outside the panels, and make each action concrete. The styling includes mobile, dark-mode and print variants. General caveats belong in `how-to-use.md`; retain claim-specific qualifications beside the relevant finding.

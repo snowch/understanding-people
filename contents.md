@@ -2,7 +2,7 @@
 
 The chapters follow a shared process of understanding people. Family, work, education, friendship, public life and purchasing decisions provide examples throughout; they do not define separate audiences or sections.
 
-**Draft status:** chapters 1 and 9 are available as developed samples. All other numbered chapters below are planned, with their scope shown here rather than empty chapter pages.
+**Draft status:** chapters 1, 3 and 9 are available as developed samples. All other numbered chapters below are planned, with their scope shown here rather than empty chapter pages.
 
 ## Part I · Seeing clearly
 
@@ -11,7 +11,7 @@ The chapters follow a shared process of understanding people. Family, work, educ
 
 ## Part II · What shapes behaviour?
 
-3. <span id="chapter-03"></span>**Needs, motives and competing goals** — Autonomy, belonging, competence, security, incentives and the difference between wanting something and being able to act. *Planned.*
+3. <span id="chapter-03"></span>**[Needs, motives and competing goals](chapters/03-needs-motives-goals.md)** — Autonomy, belonging, competence, security, incentives and the difference between wanting something and being able to act. Includes self-reflection and a community-volunteering example. *Draft available.*
 4. <span id="chapter-04"></span>**Beliefs, identity and personal history** — Expectations, self-image, values, learning and why the same event can mean different things to different people. *Planned.*
 5. <span id="chapter-05"></span>**Emotion, stress and coping** — How circumstances affect attention and responses; why outward composure does not reveal everything someone feels. *Planned.*
 6. <span id="chapter-06"></span>**Personality, habits and situations** — Traits as tendencies, patterns across contexts, habitual actions and the limitations of rigid personality types. *Planned.*
@@ -30,18 +30,21 @@ The chapters follow a shared process of understanding people. Family, work, educ
 
 ## Supporting pages
 
+- [How to use this book](how-to-use.md)
 - [Evidence standards](evidence.md)
 - [A situation worksheet](worksheet.md)
+- [When this book is the wrong tool](support.md)
 - [Sources and further reading](references.md)
+- [About the book and author](about.md)
 
 ## Find a starting point
 
 | Your question | Available starting point | Planned deeper treatment |
 | --- | --- | --- |
-| Why are they avoiding this? | Before you explain someone | Motivation; emotion; habits |
-| Why do we see the same event differently? | Evidence standards | Beliefs; culture; disagreement |
-| Can I trust what they say? | Truth, lies and uncertainty | Questions and listening |
-| How can I help someone act? | Situation worksheet | Motivation and cooperation |
-| When should I set a limit? | Before you explain someone | Conflict and boundaries |
+| Why am I—or someone else—avoiding this? | [Needs, motives and competing goals](chapters/03-needs-motives-goals.md) | Emotion; habits |
+| Why do we see the same event differently? | [Before you explain someone](chapters/01-before-you-explain.md) | Beliefs; culture; disagreement |
+| Can I trust what they say? | [Truth, lies and uncertainty](chapters/09-truth-lies-uncertainty.md) | Questions and listening |
+| How can I help myself or someone else act? | [Needs, motives and competing goals](chapters/03-needs-motives-goals.md) | Motivation and cooperation |
+| When should I set a limit? | [Situation worksheet](worksheet.md#choose-a-response) and [support](support.md) | Chapter 11: conflict and boundaries |
 
 The completed chapters will pair a recognisable situation with multiple explanations, relevant research, questions that could distinguish those explanations and an example response. Each will explain where the evidence stops and practical judgment begins.

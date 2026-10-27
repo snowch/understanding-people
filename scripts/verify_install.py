@@ -8,6 +8,7 @@ Native install events are simulated; OS installation itself needs a real browser
 import sys
 from urllib.parse import urljoin
 from playwright.sync_api import sync_playwright
+from build import PAGES, destination
 
 base = sys.argv[1]
 with sync_playwright() as playwright:
@@ -59,8 +60,7 @@ with sync_playwright() as playwright:
     assert standalone_page.locator('.install-button').is_hidden()
     # All chapters are saved, even if not previously visited, including hashed CSS URLs.
     context.set_offline(True)
-    for path in ['', 'contents.html', 'evidence.html', 'worksheet.html', 'references.html',
-                 'chapters/01-before-you-explain.html', 'chapters/09-truth-lies-uncertainty.html']:
+    for path in ['', *(destination(source).as_posix() for source, _ in PAGES)]:
         response = page.goto(urljoin(base, path))
         assert response.ok, path
         assert page.locator('h1').count() == 1
@@ -68,4 +68,4 @@ with sync_playwright() as playwright:
         assert page.evaluate("getComputedStyle(document.body).backgroundColor") == 'rgb(248, 247, 242)'
     assert not errors, errors
     browser.close()
-    print('Passed: install events, manual-help dialog, focus, installed state, manifest/icons, responsive header and all seven pages offline.')
+    print('Passed: install events, manual-help dialog, focus, installed state, manifest/icons, responsive header and all book pages offline.')

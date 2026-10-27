@@ -10,7 +10,7 @@ Science-informed means that explanations should be accountable to evidence, incl
 | Interpretation | An explicit possibility rather than a verdict about a person | Public disagreement might reflect a concern about how the group will react. |
 | Practical suggestion | A reason to try it, without implying it has been validated as an intervention | Ask what changed between the private conversation and the meeting. |
 
-The observation–alternatives–checking framework and the worksheet are editorial tools for reasoning. They are not clinical assessments, personality tests or lie-detection instruments.
+The [reading guide](how-to-use.md) explains the status of the framework, exercises and fictional examples. Blue action panels identify practical suggestions; their styling is not an evidence grade.
 
 ## Match the method to the question
 
@@ -26,12 +26,12 @@ For each substantive research claim, the editorial questions are: who participat
 
 ## Describe confidence without false precision
 
-As the book develops, claims will distinguish converging support, findings limited to particular settings, mixed evidence and practitioner proposals. These descriptions are editorial judgments, not a formal evidence-grading system. A topic will not receive one blanket confidence label when its individual claims differ.
+Claims distinguish research syntheses, findings limited to particular settings and practical applications. For example, Chapter 1 separates a review of attribution from a two-experiment study of considering alternatives; Chapter 3 distinguishes associations in student research from a suggested change to a volunteer rota. These descriptions are editorial judgments, not a formal evidence-grading system. A topic will not receive one blanket confidence label when its individual claims differ.
 
 Group averages cannot establish an individual's motive. A difference observed between groups may coexist with considerable variation within each group. Cultural patterns, personality measures and brain findings all need this restraint.
 
 ## Keep sources and examples separate
 
-All scenarios in this draft are fictional. They illustrate reasoning and do not count as evidence that a technique works. Suggested wording is original practical advice unless a passage says otherwise. Sources are linked beside research claims and annotated in the [reference list](references.md).
+Sources are linked beside research claims and annotated in the [reference list](references.md). An evidence-supported component does not automatically validate a whole conversation, worksheet or combined framework. Applications are identified where the book moves beyond the population or setting actually studied.
 
-This first draft draws on a small set of foundational sources. It is not a comprehensive or continuously updated literature review. Before expanding a topic, check newer reviews, replication evidence, corrections and relevant field research. When a claim changes, update the explanation as well as its citation.
+The current sources support the three available chapters, rather than every subject in the proposed contents. Foundational work is read alongside later syntheses where available, and contrary findings are included when they change the account. Malle’s challenge to a broad actor–observer claim in Chapter 1 is one example. Further chapters need their own research before publication; the book is not a comprehensive or continuously updated literature review.

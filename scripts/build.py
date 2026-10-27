@@ -19,16 +19,20 @@ OUT = ROOT / "_site"
 PAGES = [
     ("book.md", "Introduction"),
     ("contents.md", "Contents & reading routes"),
+    ("how-to-use.md", "How to use this book"),
     ("evidence.md", "How we use evidence"),
     ("chapters/01-before-you-explain.md", "Before you explain someone"),
+    ("chapters/03-needs-motives-goals.md", "Needs, motives & competing goals"),
     ("chapters/09-truth-lies-uncertainty.md", "Truth, lies & uncertainty"),
     ("worksheet.md", "Situation worksheet"),
+    ("support.md", "When to seek other help"),
     ("references.md", "Sources & further reading"),
+    ("about.md", "About the book & author"),
 ]
 CHAPTERS = [
     ("Before you explain someone", "chapters/01-before-you-explain.md"),
     ("What counts as knowing?", None),
-    ("Needs, motives and competing goals", None),
+    ("Needs, motives and competing goals", "chapters/03-needs-motives-goals.md"),
     ("Beliefs, identity and personal history", None),
     ("Emotion, stress and coping", None),
     ("Personality, habits and situations", None),
@@ -133,7 +137,7 @@ def build():
     for index, (name, label) in enumerate(PAGES):
         title, text = sources[name]
         page = destination(name)
-        converter = markdown.Markdown(extensions=["tables", "fenced_code", "toc", "sane_lists"],
+        converter = markdown.Markdown(extensions=["tables", "fenced_code", "toc", "sane_lists", "md_in_html", "attr_list"],
                                       extension_configs={"toc": {"toc_depth": "2-3"}})
         body = converter.convert(text)
         body = re.sub(r'\b(href|src)="([^"]*)"', rewrite_link, body)

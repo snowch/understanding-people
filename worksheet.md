@@ -1,47 +1,89 @@
 # Work through a situation
 
-Use a low-stakes situation first. This worksheet organises reflection; it does not score, diagnose or classify another person. Print it or use it as a guide in your own notes.
+Start with a low-stakes situation involving **yourself or another person**. Print this page or use it as a guide in your own notes. Keep the focus on a question you can investigate and a response you can choose.
 
-## 1. What happened?
+<section class="reader-action" markdown="1" aria-labelledby="describe-event">
 
-Describe the action or words, when and where they occurred, and what you know first-hand. Separate exact wording from recollection.
+## 1. Describe what happened {#describe-event}
+
+Separate what you observed from what you inferred. Include when and where it happened, what you know first-hand and how it affected you or others.
 
 **Observation:** _______________________________________________
 
-**Effect on me or others:** ______________________________________
+**Effect:** _____________________________________________________
 
-## 2. What am I assuming?
+For your own behaviour, “I missed the session twice” is more useful than “I am unreliable”. For someone else's, distinguish exact wording from recollection.
 
-Write your current explanation. What about your expectations, past experiences or immediate feelings might be shaping it?
+</section>
+
+<section class="reader-action" markdown="1" aria-labelledby="examine-account">
+
+## 2. Examine your account {#examine-account}
+
+What is your current explanation? What do you want to be true? What would be uncomfortable to discover? If another person is involved, what might your own actions or expectations have contributed?
 
 **My interpretation:** ___________________________________________
 
-## 3. What else could explain it?
+**My stake in the answer:** ______________________________________
 
-| Possibility | What would make it more plausible? | What would count against it? |
+If you are explaining your own behaviour, name both your reasons and any effect on others. Understanding a constraint can go alongside taking responsibility for a missed commitment.
+
+</section>
+
+<section class="reader-action" markdown="1" aria-labelledby="compare-explanations">
+
+## 3. Compare plausible explanations {#compare-explanations}
+
+| Possibility | What would support it? | What would count against it? |
 | --- | --- | --- |
 | A goal, concern or preference | | |
 | A situational or practical constraint | | |
 | A misunderstanding, including mine | | |
 
-These are prompts, not an exhaustive model. Several explanations can be true at once.
+Consider time, resources, relationships and who controls the arrangements. More than one explanation may be relevant. Include unwelcome possibilities as well as reassuring ones.
 
-## 4. What could I ask or check?
+</section>
 
-Choose a neutral question or a proportionate, legitimate source of information. Avoid a question that assumes your conclusion, such as “Why are you trying to undermine me?”
+<section class="reader-action" markdown="1" aria-labelledby="choose-check">
+
+## 4. Choose a question or check {#choose-check}
+
+Use a neutral question or a proportionate, legitimate source of information. For your own motivation, compare a recent occasion when the action was possible with one when it was not. What differed?
 
 **Question or evidence:** ________________________________________
 
-**What answer would change my mind?** ___________________________
+**What would change my mind?** __________________________________
 
-## 5. What response is justified now?
+Avoid a question that already assumes your conclusion, such as “Why are you trying to undermine me?”
 
-Consider clarification, support, a negotiated change, a boundary or waiting for better evidence. Prefer a reversible step where possible. If asking directly is unsafe or exposes you to retaliation, consider support or distance instead.
+</section>
 
-**Next action:** _________________________________________________
+<section class="reader-action" markdown="1" aria-labelledby="choose-a-response">
+
+## 5. Choose a response {#choose-a-response}
+
+Consider clarification, support, a negotiated change, a boundary or obtaining better evidence. Ask what is justified now, what you control and whose agreement you need. If action is feasible, specify the next step and a fallback for the main obstacle.
+
+**My action:** __________________________________________________
+
+**If the obstacle occurs, I will:** _________________________________
 
 **What I will review, and when:** __________________________________
 
-## 6. What did I learn?
+If asking directly could expose you to retaliation or harm, consider support or distance instead. See [When this book is the wrong tool](support.md).
 
-Record what actually changed. Keep unresolved questions visible. You can improve a decision without arriving at a complete explanation of a person.
+</section>
+
+<section class="reader-action" markdown="1" aria-labelledby="review-outcome">
+
+## 6. Review what happened {#review-outcome}
+
+Record the outcome, including information that weakens your original account. What did your own response change? What remains unresolved? Would you repeat the action, adjust the arrangement or stop?
+
+**What I learned:** ______________________________________________
+
+**What I will change:** ___________________________________________
+
+A better-informed decision is useful even when a person's motives remain uncertain.
+
+</section>
