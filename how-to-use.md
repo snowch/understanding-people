@@ -12,9 +12,9 @@ You can read straight through without doing every exercise. When a question fits
 
 ### Try this: choose an example you can revisit {#choose-example}
 
-Pick a recent, low-stakes event. Write what you observed, your current explanation and one thing you do not yet know. After reading a chapter, return to those notes: what would you now ask or do differently?
+Pick a recent event from your own life that you feel comfortable thinking about. Write three things: **what you saw or heard**, **why you think it happened**, and **what you still do not know**. After reading a chapter, return to those notes: what would you now ask or do differently?
 
-If you are thinking about someone else, include **your own part in the interaction**. If you are thinking about yourself, include the circumstances as well as your intentions.
+If someone else is involved, include what you said or did and how that might have affected their response. If you are thinking about yourself, include what was happening around you as well as what you meant to do.
 
 </section>
 
@@ -26,13 +26,13 @@ Research claims have nearby source links and a description of the relevant limit
 
 All named scenarios are fictional teaching examples. They show how an explanation might develop; they are not case-study evidence that an approach succeeds.
 
-The five-step framework and worksheet are the book's synthesis. They have not been validated as a combined assessment or intervention. This book offers education, not diagnosis, treatment, a personality test or a way to establish guilt. Where distress, impairment or safety is the central concern, use the [support page](support.md) to consider a more appropriate next step.
+We brought together the five-step method and worksheet from the ideas in the book. Researchers have not tested them as a complete method. They are learning tools, not a way to diagnose or treat a condition, test personality or establish guilt. If someone is struggling with daily life or may be unsafe, use the [support page](support.md) to consider what help is needed.
 
 ## Use uncertainty without getting stuck
 
-You can make a proportionate decision before understanding someone's motives completely. A repeated missed commitment may justify changing an arrangement. You can acknowledge that an explanation is uncertain while being clear about the effect of the behaviour.
+You can choose a reasonable next step before you fully understand why someone acted as they did. A repeated missed commitment may justify changing an arrangement. You can acknowledge that an explanation is uncertain while being clear about the effect of the behaviour.
 
-Likewise, an alternative explanation does not have to be a reassuring one. The task is to consider plausible accounts and check them fairly, including unwelcome evidence. There is no obligation to keep searching for a benign interpretation of harmful conduct.
+Likewise, an alternative explanation does not have to be a reassuring one. Consider explanations that could fit what happened, and check them fairly, including facts you would rather not accept. You do not have to keep looking for an innocent explanation of behaviour that harms you.
 
 ## Read the current edition as a draft
 

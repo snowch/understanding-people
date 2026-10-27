@@ -115,11 +115,11 @@ If asking someone directly could put you at risk, use the [support page](../supp
 <p class="definition-label">Definition</p>
 <dl>
 <dt id="definition-correspondence-bias"><dfn><a href="../glossary.md#correspondence-bias">Correspondence bias</a></dfn></dt>
-<dd><p>Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.</p><p class="definition-example"><strong>Example:</strong> You decide Rowan is an unhelpful person after one critical comment, without checking whether a new budget problem affected the proposal.</p></dd>
+<dd><p>Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.</p><p class="definition-example"><strong>Example:</strong> You decide Rowan is an unhelpful person after one critical comment, without checking whether a new budget problem affected the proposal. You have treated the comment as proof of Rowan’s character while overlooking a possible reason for it.</p></dd>
 </dl>
 </section>
 
-Gilbert and Malone reviewed research on correspondence bias. Their account gives us a reason to consider someone’s situation before judging their character. It does not mean every judgment about character is wrong. [Gilbert and Malone, 1995](https://pubmed.ncbi.nlm.nih.gov/7870861/).
+In a 1995 paper, Gilbert and Malone examined earlier research on why people judge someone’s character without giving enough weight to their situation. This gives us a reason to ask what was happening around Rowan before deciding what Rowan is like. It does not mean every judgment about character is wrong. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/7870861/).
 
 For everyday use, ask: **“What did they say or do? Why do I think they did it? How could I check?”**
 
@@ -128,11 +128,11 @@ Your memory can be mistaken too. If a relevant message exists, check the wording
 <details class="evidence-detail" markdown="1">
 <summary>More about the research</summary>
 
-Lord, Lepper and Preston ran two experiments in which people judged others. Asking participants to consider an opposing explanation reduced the particular errors being studied more than telling them to be fair and unbiased. This gives a reason to try another explanation. It does not prove that the exercises here will solve a disagreement. [Lord, Lepper and Preston, 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/).
+In a study published in 1984, Lord, Lepper and Preston ran two experiments in which people judged others. Asking participants to consider an opposing explanation reduced the particular errors being studied more than telling them to be fair and unbiased. This gives a reason to try another explanation. It does not prove that the exercises here will solve a disagreement. [Read about the experiments](https://pubmed.ncbi.nlm.nih.gov/6527215/).
 
-You may have heard that we blame other people's character but blame circumstances for our own actions. Malle combined results from 173 studies and found that this was not a general rule. The results depended on the situation, including whether the event was positive or negative. It is still worth checking your own assumptions without claiming that everyone makes the same mistake. [Malle, 2006](https://pubmed.ncbi.nlm.nih.gov/17073526/).
+You may have heard that we blame other people's character but blame circumstances for our own actions. In a 2006 paper, Bertram Malle combined results from 173 studies and found that this was not a general rule. The results depended on the situation, including whether the event was positive or negative. It is still worth checking your own assumptions without claiming that everyone makes the same mistake. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/17073526/).
 
-Research carried out in one population may not apply everywhere. Henrich and colleagues examined this problem in psychological research. In Rowan's case, ask how people in this team usually disagree. Do not assume you know why Rowan acted that way because of their nationality. [Henrich, Heine and Norenzayan, 2010](https://pubmed.ncbi.nlm.nih.gov/20550733/).
+Research carried out in one population may not apply everywhere. In their 2010 paper *The weirdest people in the world?*, Henrich, Heine and Norenzayan compared research findings across populations and questioned claims based mainly on participants from wealthy Western societies. In Rowan's case, ask how people in this team usually disagree. Do not assume you know why Rowan acted that way because of their nationality. [Read about the paper](https://pubmed.ncbi.nlm.nih.gov/20550733/).
 
 </details>
 

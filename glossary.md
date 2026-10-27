@@ -22,9 +22,9 @@ How common something is in the relevant group before you consider a particular c
 
 ## Big Five {#big-five}
 
-A way of describing personality using five broad dimensions, with people varying along each one. These are dimensions, not five types of person.
+A way of describing personality on five broad scales. A person can be higher or lower on each scale; these are not five types of person.
 
-**Example:** Alex can be less outgoing than a friend while being similarly organised. One dimension does not decide the others.
+**Example:** Alex can be less outgoing than a friend while being similarly organised. Where you fall on one scale does not decide where you fall on the others.
 
 [Read in Chapter 6](chapters/06-personality-habits-situations.md#definition-big-five).
 
@@ -38,7 +38,7 @@ A limit on what you will accept or take part in, backed by an action you can tak
 
 ## Cognitive flexibility {#cognitive-flexibility}
 
-Being able to switch between ways of thinking or approaches when the task calls for it.
+Being able to change your approach or way of thinking when you need to.
 
 **Example:** When neither proposed visit date works, Noor considers a shorter visit on a different weekend.
 
@@ -64,7 +64,7 @@ Looking for information—or understanding it in a way—that supports what you 
 
 Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.
 
-**Example:** You decide Rowan is an unhelpful person after one critical comment, without checking whether a new budget problem affected the proposal.
+**Example:** You decide Rowan is an unhelpful person after one critical comment, without checking whether a new budget problem affected the proposal. You have treated the comment as proof of Rowan’s character while overlooking a possible reason for it.
 
 [Read in Chapter 1](chapters/01-before-you-explain.md#definition-correspondence-bias).
 
@@ -80,7 +80,7 @@ Additional evidence that supports a claim, especially evidence from an independe
 
 What people in a group commonly do, or believe others commonly do.
 
-**Example:** At the residents’ meeting, newcomers usually stay quiet.
+**Example:** At the residents’ meeting, newcomers usually stay quiet. Staying quiet is the usual behaviour, whether or not anyone thinks it should be.
 
 [Read in Chapter 7](chapters/07-culture-groups-power.md#definition-descriptive-norm).
 
@@ -104,7 +104,7 @@ Psychological abuse that undermines someone’s trust in their own memory, perce
 
 A learned tendency to respond fairly automatically when a familiar situation occurs.
 
-**Example:** Alex sits on the sofa and reaches for the phone before deciding how to spend the evening.
+**Example:** After many evenings spent scrolling on the sofa, Alex sits down there and reaches for the phone before deciding what to do. The familiar setting prompts the familiar action.
 
 [Read in Chapter 6](chapters/06-personality-habits-situations.md#definition-habit).
 
@@ -136,7 +136,7 @@ A question worded in a way that suggests the answer the questioner expects.
 
 In this book, influencing someone in a way that makes it harder for them to choose freely with the information they need.
 
-**Example:** Imagine Martin knowingly tells the family you agreed to organise the gathering, although you agreed only to bring food, to pressure you into taking on the extra work.
+**Example:** Imagine a version of the family example where you agreed only to bring food. Martin knows this, but tells the family you agreed to organise the whole gathering. He is using their expectation to pressure you into taking on work you did not choose.
 
 [Read in Chapter 11](chapters/11-conflict-manipulation-boundaries.md#definition-manipulation).
 
@@ -144,7 +144,7 @@ In this book, influencing someone in a way that makes it harder for them to choo
 
 Reasoning in which what you want to be true influences how you judge the information.
 
-**Example:** Maya wants to see herself as a considerate friend, so she quickly dismisses Dev’s complaint that her public offer was embarrassing.
+**Example:** Maya wants to see herself as a considerate friend, so she quickly dismisses Dev’s complaint that her public offer was embarrassing. What she wants to believe about herself affects how she judges his complaint.
 
 [Read in Chapter 4](chapters/04-beliefs-identity-history.md#definition-motivated-reasoning).
 
@@ -152,7 +152,7 @@ Reasoning in which what you want to be true influences how you judge the informa
 
 The changing story you tell about your life: how your past, present and hopes for the future fit together.
 
-**Example:** Dev sees himself as someone who has learned to manage alone and wants to remain independent.
+**Example:** Suppose Dev describes learning to manage alone when he was younger. He sees independence as part of who he is now and wants to keep it in the future. This story connects his past, present and hopes.
 
 [Read in Chapter 4](chapters/04-beliefs-identity-history.md#definition-narrative-identity).
 
@@ -176,7 +176,7 @@ A tendency in how someone thinks, feels or behaves across occasions. It does not
 
 What people in a group believe others expect or approve of.
 
-**Example:** A newcomer believes that members will disapprove if they interrupt the chair.
+**Example:** A newcomer believes that members will disapprove if they interrupt the chair. This is about what the group expects, rather than how often people actually interrupt.
 
 [Read in Chapter 7](chapters/07-culture-groups-power.md#definition-prescriptive-norm).
 

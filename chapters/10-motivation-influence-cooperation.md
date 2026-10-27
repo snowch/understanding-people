@@ -1,18 +1,18 @@
 # Motivation, influence and cooperation
 
-A local music group wants members to practise before rehearsal. Its organiser, Elena, proposes a public leaderboard of practice hours. One member likes the idea. Another has little time but practises efficiently. A third worries that reporting fewer hours will make them look unserious.
+A local music group wants members to practise before rehearsal. Its organiser, Elena, proposes a public list ranking members by the hours they say they practise. One member likes the idea. Another has little time but practises efficiently. A third worries that reporting fewer hours will make them look unserious.
 
-The group wants better rehearsals. A leaderboard measures reported time. Before choosing an incentive, clarify the behaviour and the outcome you actually need.
+Elena wants members to play better together. A list of hours tells her how long they say they practised, but not how well they prepared. She needs to decide what improvement she wants before choosing a reward or ranking.
 
-## Start with a shared aim and an honest request
+## Explain what you need and what the other person can choose {#start-with-a-shared-aim-and-an-honest-request}
 
-Chapter 3 examined reasons for acting and the circumstances that make action feasible. Here the question is how to respond when your goal depends on another person's participation.
+[Chapter 3](03-needs-motives-goals.md) asked why people want to act and what makes it possible. Here we ask what you can do when you need someone else’s help.
 
-Separate three things: what you want, why it matters and what freedom the other person has. “We need these passages prepared so the ensemble can rehearse together” explains an outcome. “Would you try this practice plan?” makes a request. “This performance requires a minimum level of preparation” states a condition, which should be clear before people commit.
+Elena could say, “We need everyone to prepare this passage so we can play it together at rehearsal.” She can then ask what would help. If performing requires a minimum level of preparation, she needs to explain that before people agree to take part.
 
 In a family, school or workplace, choice may be constrained. A parent cannot offer a child unlimited freedom over every obligation, and a manager may need a task completed. Be honest about what is fixed and what can be negotiated: timing, method, support or alternatives. Calling a requirement a choice does not make it one.
 
-## Diagnose the obstacle before increasing the pressure
+## Find out what is making preparation difficult {#diagnose-the-obstacle-before-increasing-the-pressure}
 
 Elena asks members what makes preparation difficult. One does not know which bars need work. Another cannot play loudly at home. Another has been rehearsing the wrong version of the score.
 
@@ -20,59 +20,59 @@ Elena asks members what makes preparation difficult. One does not know which bar
 | --- | --- |
 | The goal is unclear | Specify the passage and what “ready” means. |
 | The method is ineffective | Demonstrate a useful approach and check understanding. |
-| Resources or access are missing | Arrange a feasible place, time or adapted task. |
-| Goals conflict | Negotiate priorities and the size of the commitment. |
-| The person does not choose the activity | Discuss an honest reduction, alternative or withdrawal. |
+| The person lacks a place, time or equipment | Find a suitable place, time or different way to prepare. |
+| Other commitments get in the way | Agree what can be done and which tasks matter most. |
+| The person no longer wants to take part | Discuss doing less, a different role or leaving the activity. |
 
-This is an application of the earlier chapters, not a diagnostic test. Several obstacles can coexist. A more attractive reward will not correct a wrong score, and a detailed plan will not create time that is already committed to care or paid work.
+These are possible responses to the music-group example. More than one difficulty may be present. A reward cannot correct the wrong sheet music, and a detailed plan cannot create time already needed for care or paid work.
 
 <section class="reader-action" markdown="1" aria-labelledby="define-success">
 
-### Try this: define success before choosing an incentive {#define-success}
+### Try this: are you measuring the improvement you want? {#define-success}
 
-Write the outcome you want and the measure you were about to use. Ask: **Could the measure improve while the real outcome stayed the same or became worse?**
+Think of a goal of your own or a group you help. Write **what you want to improve** and **what you plan to count**. Could the count go up without the result improving? Elena’s members could log more hours without playing the passage better.
 
-For yourself, check whether your wish to see visible effort is obscuring what would actually help. Discuss the measure with the people affected.
+Ask whether you want proof that people are trying, or information about what actually helps. Discuss the measure with the people who will be judged by it.
 
 </section>
 
-## Incentives and interest do not have one simple relationship
+## Rewards can help in some ways and not others {#incentives-and-interest-do-not-have-one-simple-relationship}
 
-Cerasoli, Nicklin and Ford's meta-analysis examined [intrinsic motivation](../glossary.md#intrinsic-motivation), incentives and performance across school, work and physical domains. Intrinsic motivation was particularly relevant to performance quality, while incentives were stronger predictors of quantity in their joint analyses. The relationship varied with how incentives were tied to performance. This synthesis does not support either “rewards always work” or “rewards always destroy motivation”, and it does not identify the best arrangement for this music group. [Cerasoli and colleagues, 2014](https://pubmed.ncbi.nlm.nih.gov/24491020/).
+In a 2014 paper, Cerasoli, Nicklin and Ford combined findings from studies of school, work and physical activities. Enjoyment of the activity—[intrinsic motivation](../glossary.md#intrinsic-motivation)—was especially linked with the quality of performance. Incentives, such as rewards, were stronger predictors of how much people produced in the combined analysis. The results varied with the reward arrangement. They do not show that rewards always help or always harm motivation. [Read the research summary](https://pubmed.ncbi.nlm.nih.gov/24491020/).
 
-Elena can therefore ask a more concrete question: what might a reward encourage members to do? Paying attention to preparation is different from rewarding the largest number of logged minutes. A public comparison also changes what members disclose to one another; that choice needs agreement, not just an assumption that visibility is motivating.
+Return to Elena’s proposal. Would the public list encourage useful preparation or simply more reported minutes? Members also need to agree to sharing that information. Elena should not assume that public comparison will help everyone.
 
-Payment and fair terms should not be replaced by appeals to passion. If the group requires professional work, the practical discussion includes compensation. If it relies on volunteers, it needs commitments that volunteers can reasonably choose.
+Enjoying an activity does not replace fair payment for work. If Elena needs professional work, she should discuss pay. If members volunteer, she needs commitments they are willing and able to make.
 
-## Support effective action, not just more effort
+## Help people find a useful way to practise {#support-effective-action-not-just-more-effort}
 
-Consider a related learning situation. A teenager, Sam, says, “I studied for hours and still forgot everything.” A parent could add rewards or restrictions. First, it is worth asking what studying involved.
+Now consider a separate example about studying. A teenager, Sam, says, “I studied for hours and still forgot everything.” Before adding rewards or restrictions, a parent could ask how Sam studied.
 
-Dunlosky and colleagues' review of ten learning techniques rated practice testing and distributed practice highly for their usefulness across a range of learners, materials and tasks. This supports trying retrieval and spaced study rather than equating exposure to notes with learning. It does not make one timetable optimal for every subject or learner. [Dunlosky and colleagues, 2013](https://pubmed.ncbi.nlm.nih.gov/26173288/).
+In a 2013 paper, Dunlosky and colleagues compared research on ten study methods. They found broad support for testing yourself on the material and spreading study across separate sessions. These methods helped across a range of learners and tasks, but the paper does not identify one best timetable for everyone. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/26173288/).
 
 A practical plan might be to close the notes, try a few relevant questions, check mistakes and return to the material on another day. Sam and the parent can agree on help and a review point. That is an educational application, not a promise of particular grades.
 
-For Elena's music group, the exact learning method needs to fit musical skills; the study review is not direct evidence for a rehearsal technique. The transferable question is whether members have an effective way to prepare, rather than whether they can be persuaded to log more time.
+Now return to Elena’s music group. The research on studying does not directly establish the best musical rehearsal method. But Elena can still ask whether members know a useful way to prepare the difficult passage, rather than simply asking them to practise longer.
 
-## Make cooperation possible by comparing constraints
+## Find an arrangement that each person can manage {#make-cooperation-possible-by-comparing-constraints}
 
-One musician can attend a short sectional rehearsal but cannot practise at home. Another can prepare independently but cannot arrive early. A workable agreement might exchange responsibilities or offer different preparation routes. Equal participation need not mean identical activity, but the group should make the expectations explicit.
+One musician can attend a short rehearsal with others playing the same part but cannot practise at home. Another can prepare independently but cannot arrive early. A workable agreement might exchange responsibilities or offer different preparation routes. Equal participation need not mean identical activity, but the group should make the expectations explicit.
 
 Ask what each person needs to make a promise reliable. Then state what happens if circumstances change. “Message by Thursday if you cannot prepare this part” helps the organiser adjust. It also makes the limit visible: the ensemble may need to reassign a part rather than repeatedly hoping for a different outcome.
 
-## A buying decision is also the buyer's decision
+## Help a customer decide whether the product fits {#a-buying-decision-is-also-the-buyers-decision}
 
-Suppose you sell booking software and a client postpones a purchase. They might doubt its value, lack budget authority, fear migration work or prefer their current system. Asking “What would you need to assess before deciding?” can reveal which issue matters.
+Here is a separate example from sales. You sell booking software, and a client keeps postponing the purchase. They may doubt its value, need someone else to approve the budget, worry about moving their records or prefer the current system. Ask what they need to find out before deciding.
 
-Explain benefits in terms the client can verify, including costs, limitations and alternatives. A short trial may answer a question about usability; it cannot establish a promised long-term saving by itself. Agree on what the trial should show and how both sides will assess it.
+Explain benefits the client can check, along with costs, limitations and other options. A short trial can help them judge ease of use, but cannot by itself prove a long-term saving. Agree what you both want to learn from the trial.
 
 These are practical standards for a fair exchange, not a research-backed script for closing a sale. Do not invent urgency, hide material terms or use personal disclosures to pressure someone. If the product does not fit, understanding the client may appropriately lead to no purchase.
 
-## Review cooperation from both sides
+## Did the new arrangement work for everyone involved? {#review-cooperation-from-both-sides}
 
-The music group tries a clear weekly preparation note and an optional shared practice slot. At the next rehearsal, Elena asks whether the target passage improved and whether the arrangement was workable. Members may report that clarity helped while the time was inconvenient. The next revision can preserve one and change the other.
+Return to Elena’s group. Suppose she sends a clear weekly note about what to prepare and offers an optional shared practice session. At the next rehearsal, she asks whether the passage improved and whether the new session was convenient. The note might help even if the session needs a different time.
 
-The important outcome is not merely that people complied once. Ask whether the work improved, whether the commitment remains feasible and whose effort made it possible. Include your own contribution: were instructions clear, resources available and agreed support delivered?
+Check more than whether people did what you asked once. Did the work improve? Can they keep up the commitment? Who had to do extra work? Check your part too: did you give clear instructions and provide the help you promised?
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
@@ -80,9 +80,9 @@ The important outcome is not merely that people complied once. Ask whether the w
 
 - Define the desired outcome before choosing a measure, reward or reminder.
 - Match support to the obstacle: clarity, skill, resources, conflicting goals or an unwanted commitment.
-- Incentives and intrinsic motivation relate to performance in ways that depend on the task and arrangement.
+- Rewards and enjoyment can both matter, but their effects depend on the task and the reward arrangement.
 - Check whether your own instructions, expectations or measures are part of the difficulty.
-- Respect meaningful choice, explain fixed requirements and review the costs as well as the result.
+- Explain what people can choose and what is required. Check the effort and costs as well as the result.
 
 </section>
 
@@ -90,7 +90,7 @@ The important outcome is not merely that people complied once. Ask whether the w
 
 ### Put it into practice: agree on one workable change {#agree-experiment}
 
-With the person involved, specify **the outcome**, **one obstacle to address**, **the support each side will provide**, and **when you will review it**.
+For something you and another person want to improve, agree on **what you want to happen**, **one difficulty to address**, **what each of you will do**, and **when you will check whether it helped**.
 
 State what is optional and what is required. At the review, ask whether the change helped and whether either side needs to revise or end the commitment.
 

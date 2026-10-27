@@ -1,18 +1,18 @@
 # Emotion, stress and coping
 
-At the end of a difficult day, Noor's brother asks which weekend she wants to visit their parents. She answers, “I can't deal with this now.” He hears rejection. Noor has spent the afternoon arranging an urgent repair, missed lunch and is still waiting for a call. She wants to see her family, but another decision feels like too much.
+At the end of a difficult day, Noor's brother sends a message asking when they can discuss a weekend visit to their parents. She replies, “I can't deal with this now.” He hears rejection. Noor has spent the afternoon arranging an urgent repair, missed lunch and is still waiting for a call. She wants to see her family, but another decision feels like too much.
 
-This fictional account gives us information her brother does not yet have. In real life, a sharp response could reflect overload, irritation about the proposed visit, a longstanding disagreement or something else. The task is to make room for those possibilities while addressing the effect of the response.
+We know about Noor’s difficult day because this is a fictional example. Her brother does not yet know. In a real conversation, he would need to ask rather than assume that stress explained her reply. He can also tell her that her reply upset him.
 
-## Separate feeling, expression and action
+## What did Noor do, and how might she be feeling? {#separate-feeling-expression-and-action}
 
-“Noor spoke sharply” describes an expression. “Noor is angry” names a possible feeling. “Noor does not care about us” adds an explanation about her values. Those claims require different evidence.
+Her brother read Noor’s short reply as sharp. He may guess that she is angry. If he then concludes that she does not care about the family, he has made another guess. The tone of her reply does not establish either explanation.
 
 A person can also report several feelings: pleased about a visit, worried about the expense and irritated by the timing. There is no need to find one emotion that explains everything. Ask what they can tell you, while recognising that they may need time or may prefer not to discuss it.
 
-Taking a feeling seriously does not settle the facts behind it. “I understand that you felt excluded” can be followed by “Let's check how the invitation went missing.” Equally, an inaccurate interpretation does not make the distress unreal. Keep the experience and the disputed event distinct.
+Here is a separate example. A friend feels hurt because they did not receive an invitation. You can say, “I understand that you felt left out,” and then check why the invitation did not reach them. Taking the hurt seriously does not require you to assume someone deliberately excluded them.
 
-## Stress can change what is manageable
+## Stress can make some tasks harder {#stress-can-change-what-is-manageable}
 
 <section class="definition" markdown="1" aria-label="Definitions: Working memory, Cognitive flexibility">
 <p class="definition-label">Definitions</p>
@@ -20,31 +20,31 @@ Taking a feeling seriously does not settle the facts behind it. “I understand 
 <dt id="definition-working-memory"><dfn><a href="../glossary.md#working-memory">Working memory</a></dfn></dt>
 <dd><p>Holding a small amount of information in mind while using it.</p><p class="definition-example"><strong>Example:</strong> Noor keeps two possible visit dates in mind while checking which one fits her other plans.</p></dd>
 <dt id="definition-cognitive-flexibility"><dfn><a href="../glossary.md#cognitive-flexibility">Cognitive flexibility</a></dfn></dt>
-<dd><p>Being able to switch between ways of thinking or approaches when the task calls for it.</p><p class="definition-example"><strong>Example:</strong> When neither proposed visit date works, Noor considers a shorter visit on a different weekend.</p></dd>
+<dd><p>Being able to change your approach or way of thinking when you need to.</p><p class="definition-example"><strong>Example:</strong> When neither proposed visit date works, Noor considers a shorter visit on a different weekend.</p></dd>
 </dl>
 </section>
 
-Shields, Sazma and Yonelinas's meta-analysis found that acute stress impaired working memory and cognitive flexibility on average, with more complex effects on inhibition and variation across study conditions. These findings concern measured cognitive tasks; they cannot diagnose Noor's state or imply that stress makes everyone incapable of reasoning. [Shields and colleagues, 2016](https://pubmed.ncbi.nlm.nih.gov/27371161/).
+In a 2016 paper, Shields, Sazma and Yonelinas combined results from studies of short-term stress and thinking tasks. On average, stress made working-memory and mental-switching tasks harder. Its effects on stopping or controlling responses were mixed and depended on what was tested. These results do not tell us exactly what Noor was experiencing. [Read the research summary](https://pubmed.ncbi.nlm.nih.gov/27371161/).
 
-The practical possibility is that the same request may be easier at another time or in a simpler form. Noor's brother might ask, “Do you want me to send the two dates so you can reply tomorrow?” That changes the demand without deciding why she struggled.
+Return to Noor and her brother. He could make the request easier to answer: “Would it help if I sent two possible dates and you replied tomorrow?” That may help without him knowing exactly why she struggled.
 
-He can still say, “I can wait, but please don't speak to me like that.” Understanding a possible constraint and asking for respectful conduct can happen together. Noor can explain the timing and apologise for the response without claiming that stress made her words inevitable.
+He can still say, “I can wait. Your reply felt sharp to me.” Noor can explain that she had a difficult day and apologise. Stress may help explain a response without making it acceptable.
 
 <section class="reader-action" markdown="1" aria-labelledby="check-demand">
 
-### Try this: check the demand before repeating it {#check-demand}
+### Try this: could you make the request easier to answer? {#check-demand}
 
-For a conversation that stalled, list what the person was being asked to do: **remember details, make a decision, explain themselves, change plans or manage several tasks at once**.
+Think of a conversation of your own that went badly. What were you asking the other person to do: **remember details, make a decision, explain themselves, change plans or manage several tasks at once**?
 
-Consider one change to timing, format or complexity. Include yourself: would you listen or explain more clearly after a pause?
+Would it help to ask later, write down the options or discuss one thing at a time? Check yourself too: would a pause help you listen more carefully?
 
 </section>
 
 ## Choose a response that fits the problem
 
-Bonanno and Burton's review argues against treating any one coping or emotion-regulation strategy as uniformly helpful. Their framework emphasises sensitivity to context, access to different strategies and adjustment in response to feedback. It is a theoretical synthesis with methodological limits, not a formula that identifies the right response for every person. [Bonanno and Burton, 2013](https://pubmed.ncbi.nlm.nih.gov/26173226/).
+In a 2013 paper, Bonanno and Burton examined research on coping with stress and managing emotions. They argued that a useful response depends on the situation. People may need several ways to cope and a way to notice when one is not helping. Their paper proposes an explanation based on existing research; it does not provide a proven formula for every person. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/26173226/).
 
-For the visit, distinguish a problem that can be changed from a feeling that needs room:
+In Noor’s example, the helpful response depends on what is making the visit difficult:
 
 | What might be happening? | A practical option to consider | What to check afterwards |
 | --- | --- | --- |
@@ -55,48 +55,48 @@ For the visit, distinguish a problem that can be changed from a feeling that nee
 
 These options are our application to the example. They are not interchangeable: encouragement will not pay a fare, and rescheduling will not repair an insult that nobody acknowledges.
 
-## Reconsider an interpretation without forcing reassurance
+## Check whether you misunderstood the request {#reconsider-an-interpretation-without-forcing-reassurance}
 
-Noor initially thinks her brother expects an immediate decision. She checks the message again and sees that he asked when she could discuss it. That makes another interpretation possible: perhaps the urgency came partly from the day she was having.
+Suppose Noor reads her brother’s message again. She notices that he asked when they could discuss the visit, rather than demanding a decision tonight. She may have read urgency into the message because she was already feeling overwhelmed.
 
-She can act on that discovery: “I read this as something I had to solve tonight. Tomorrow evening works.” Reconsidering the meaning helps because there is relevant information to reconsider. It should not become a demand to find a positive story about everything.
+She could reply, “I read this as something I had to decide tonight. I can talk tomorrow evening.” She has found a specific reason to reconsider what she thought he meant. She does not have to find a reassuring explanation for every upsetting exchange.
 
-If the brother has repeatedly pressured Noor after she says she is unavailable, changing her interpretation alone would leave the pattern intact. Then the response needs an agreement about contact or a limit. The useful question is whether the problem lies in an uncertain interpretation, an unwanted condition, or both.
+Now consider a different possibility: her brother has repeatedly pushed for an answer after she said she was unavailable. Rereading one message would not solve that pattern. They would need to agree on when to talk, or Noor might need to set a limit.
 
-## Make a pause specific enough to be useful
+## If you pause the conversation, agree when to return {#make-a-pause-specific-enough-to-be-useful}
 
 “I need a break” can protect a difficult conversation from escalating, but an indefinite disappearance may leave the other person unable to plan. In an ordinary, safe disagreement, agree on what happens next: “I can talk tomorrow after dinner. If that changes, I'll message you.”
 
-Noor's brother also has constraints. If tickets must be booked tonight, he can explain the deadline and make his own arrangements if she cannot decide. Giving someone time does not require suspending every other need.
+Noor’s brother may also have a deadline. If tickets must be booked tonight, he can explain the deadline and make his own arrangements if she cannot decide. Giving someone time does not require suspending every other need.
 
-A pause may instead reveal that the conversation needs outside support. Persistent distress, major changes in functioning or concerns about safety call for more than an improved conversational technique. The [support page](../support.md) describes routes to appropriate help. Do not assign a clinical explanation from irritability, quietness or one stressful week.
+If someone remains very distressed, struggles with ordinary daily activities or feels unsafe, a better conversation may not be enough. The [support page](../support.md) suggests ways to get other help. Irritability, quietness or one stressful week cannot tell you whether someone has a mental-health condition.
 
-## Review the effect, including your contribution
+## Did the change help, and what part did you play? {#review-the-effect-including-your-contribution}
 
 Suppose Noor responds warmly the next day. That suggests the later conversation worked better on that occasion. It does not establish a general rule that all sharp responses are stress, or that her brother must always absorb them.
 
-Suppose the visit remains difficult to discuss. The timing hypothesis has not explained enough. Ask whether there is a concern about the visit itself. If Noor says she does not want to go, engage with that answer rather than treating it as a feeling that must be regulated away.
+If the visit is still difficult to discuss the next day, timing may not explain enough. Ask whether Noor has a concern about the visit itself. If she does not want to go, discuss that answer rather than treating it as a feeling she needs to get rid of.
 
-For your own reactions, keep two questions side by side: “What was making this difficult?” and “What effect did my response have?” An account that includes both makes room for support and repair.
+When thinking about your own response, ask both “What was making this difficult for me?” and “How did I treat the other person?” You may need support and also need to apologise or change something.
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
 
 - Distinguish what someone feels, what they express and how they act.
-- Acute stress can affect cognitive performance, but group findings do not identify an individual's state.
-- Match the response to the problem: timing, practical conditions, interpretation and hurt may need different attention.
-- Examine your own load and assumptions while remaining responsible for your conduct.
+- Short-term stress can make some thinking tasks harder. Research averages do not tell you exactly what one person is experiencing.
+- Find out whether the problem needs a different time, practical help, a clearer explanation or an apology.
+- Notice what was difficult for you, while taking responsibility for how you treated the other person.
 - Review whether a pause or adjustment helped, and seek appropriate support when distress or safety is the central concern.
 
 </section>
 
 <section class="reader-action" markdown="1" aria-labelledby="choose-adjustment">
 
-### Put it into practice: change one condition {#choose-adjustment}
+### Put it into practice: try a different time or way to talk {#choose-adjustment}
 
-Choose a manageable conversation. Agree on one adjustment—**a different time, a shorter agenda, written options or a break with a return time**.
+Choose a conversation you can safely revisit. Agree on one change: **talk later, discuss fewer things, write down the options, or take a break and agree when to return**.
 
-Afterwards, ask whether the conversation became easier and whether the underlying issue moved forward. If only the atmosphere improved, decide what still needs addressing.
+Afterwards, ask whether talking became easier and whether you made progress on the problem. Feeling calmer is helpful, but you may still need to decide what to do.
 
 </section>

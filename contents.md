@@ -6,27 +6,27 @@ The chapters follow a shared process of understanding people. Family, work, educ
 
 ## Part I · Seeing clearly
 
-1. <span id="chapter-01"></span>**[Before you explain someone](chapters/01-before-you-explain.md)** — Observation versus interpretation, competing explanations, context and the limits of mind-reading.
-2. <span id="chapter-02"></span>**[What counts as knowing?](chapters/02-what-counts-as-knowing.md)** — Correlation and causation, uncertainty, base rates, individual versus group findings, and how to change your mind.
+1. <span id="chapter-01"></span>**[Before you explain someone](chapters/01-before-you-explain.md)** — Separate what you saw or heard from why you think it happened, and check other possible explanations.
+2. <span id="chapter-02"></span>**[What counts as knowing?](chapters/02-what-counts-as-knowing.md)** — Decide what a study, a number or an observation can tell you—and what would change your mind.
 
 ## Part II · What shapes behaviour?
 
-3. <span id="chapter-03"></span>**[Needs, motives and competing goals](chapters/03-needs-motives-goals.md)** — Autonomy, belonging, competence, resources and the difference between wanting something and being able to act. Includes self-reflection and a community-volunteering example.
+3. <span id="chapter-03"></span>**[Needs, motives and competing goals](chapters/03-needs-motives-goals.md)** — Explore the difference between wanting to do something and being able to do it, through a community-volunteering example and questions about your own plans.
 4. <span id="chapter-04"></span>**[Beliefs, identity and personal history](chapters/04-beliefs-identity-history.md)** — Expectations, self-image, values, personal history and why the same event can mean different things to different people.
-5. <span id="chapter-05"></span>**[Emotion, stress and coping](chapters/05-emotion-stress-coping.md)** — How circumstances affect attention and responses; why outward composure does not reveal everything someone feels.
-6. <span id="chapter-06"></span>**[Personality, habits and situations](chapters/06-personality-habits-situations.md)** — Traits as tendencies, patterns across contexts, habitual actions and the limitations of rigid personality types.
-7. <span id="chapter-07"></span>**[Culture, groups and power](chapters/07-culture-groups-power.md)** — Social roles, norms, institutions, status, dependency and material constraints. Cultural knowledge informs questions without determining an individual's character.
+5. <span id="chapter-05"></span>**[Emotion, stress and coping](chapters/05-emotion-stress-coping.md)** — Explore how stress can affect thinking and why looking calm does not tell us how someone feels.
+6. <span id="chapter-06"></span>**[Personality, habits and situations](chapters/06-personality-habits-situations.md)** — Understand personality as a set of tendencies, notice how situations change behaviour, and see how habits develop.
+7. <span id="chapter-07"></span>**[Culture, groups and power](chapters/07-culture-groups-power.md)** — Ask what a group expects, who makes the decisions and who can afford to disagree. Learn about culture without assuming everyone in a group is alike.
 
 ## Part III · Learning about another person
 
-8. <span id="chapter-08"></span>**[Questions, listening and disagreement](chapters/08-questions-listening-disagreement.md)** — Open questions, checking interpretations, memory, perspective-taking and making room for an answer you did not expect.
-9. <span id="chapter-09"></span>**[Truth, lies and uncertainty](chapters/09-truth-lies-uncertainty.md)** — Deception research, independent evidence, investigative interviewing, FBI-associated claims and the limits of behavioural cues.
+8. <span id="chapter-08"></span>**[Questions, listening and disagreement](chapters/08-questions-listening-disagreement.md)** — Ask clear questions, listen to the answer and check whether you understood it. Learn why memory and imagination can mislead us.
+9. <span id="chapter-09"></span>**[Truth, lies and uncertainty](chapters/09-truth-lies-uncertainty.md)** — Examine what research says about spotting lies, checking evidence and techniques described as “FBI methods”.
 
 ## Part IV · Choosing a response
 
 10. <span id="chapter-10"></span>**[Motivation, influence and cooperation](chapters/10-motivation-influence-cooperation.md)** — Supporting action, explaining value, negotiating and respecting choice. Applications across learning, leadership, shared projects and buying decisions.
-11. <span id="chapter-11"></span>**[Conflict, manipulation and boundaries](chapters/11-conflict-manipulation-boundaries.md)** — Disagreement, repeated harmful behaviour, gaslighting, coercion and proportionate protection without amateur diagnosis.
-12. <span id="chapter-12"></span>**[Putting understanding to work](chapters/12-putting-understanding-to-work.md)** — Integrating the lenses, choosing small reversible actions and knowing when further analysis will not help.
+11. <span id="chapter-11"></span>**[Conflict, manipulation and boundaries](chapters/11-conflict-manipulation-boundaries.md)** — Recognise repeated harm, understand gaslighting and controlling behaviour, and set limits without needing to diagnose anyone.
+12. <span id="chapter-12"></span>**[Putting understanding to work](chapters/12-putting-understanding-to-work.md)** — Bring the book's questions together, try a small change you can undo, and recognise when more analysis will not help.
 
 ## Supporting pages
 

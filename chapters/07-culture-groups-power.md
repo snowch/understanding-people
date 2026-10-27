@@ -4,33 +4,33 @@ A residents' association holds a meeting about a shared courtyard. Longstanding 
 
 One tenant, Salma, wanted to ask about children playing there. She did not know whether tenants could vote. Another had to leave for work. A third worried that criticising the arrangements might reach the landlord. Silence has several possible explanations before we even consider anyone's personality.
 
-To understand a person in a group, examine the setting that makes some actions easy and others costly.
+Before judging someone’s silence, ask what makes speaking easy or risky in that group.
 
-## Culture supplies meanings, not a script for each person
+## Learn the group’s customs without assuming everyone is the same {#culture-supplies-meanings-not-a-script-for-each-person}
 
-Culture includes shared practices and meanings: what counts as politeness, who normally speaks first, how obligations are expressed and which explanations seem reasonable. Those patterns can exist in a profession, family, neighbourhood or institution, as well as across national settings.
+Culture includes shared customs and ideas: what counts as polite, who speaks first, what people owe one another and which explanations seem reasonable. Families, workplaces and neighbourhoods can have their own customs, as can wider societies.
 
-Vignoles and colleagues examined models of selfhood in two multinational surveys. Their results challenged a simple division between an independent “West” and an interdependent “East”: ways of relating self and others varied along multiple dimensions. These are patterns in self-reports from sampled groups, not instructions for predicting an individual from their nationality. [Vignoles and colleagues, 2016](https://pubmed.ncbi.nlm.nih.gov/27359126/).
+In a 2016 paper, Vignoles and colleagues reported two surveys across many countries about how people see themselves and relate to others. The results did not fit a simple claim that Western people are independent and Eastern people depend on their groups. People combined independence and connection in different ways. These survey patterns cannot tell us how a particular person will behave. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/27359126/).
 
-For the courtyard, ask how this particular association conducts disagreement. Are questions welcomed from newcomers? Does “any other business” genuinely invite new topics, or does everyone already know that decisions are settled beforehand? Salma can answer questions about her experience without representing an entire culture.
+Return to the courtyard meeting. Are newcomers’ questions welcomed? When the chair asks for other business, can members really raise new issues, or have decisions already been made? Ask Salma about this meeting rather than expecting her to speak for everyone from her background.
 
-## Distinguish what people do from what they are expected to do
+## What usually happens, and what do people expect? {#distinguish-what-people-do-from-what-they-are-expected-to-do}
 
 <section class="definition" markdown="1" aria-label="Definitions: Descriptive norm, Prescriptive norm">
 <p class="definition-label">Definitions</p>
 <dl>
 <dt id="definition-descriptive-norm"><dfn><a href="../glossary.md#descriptive-norm">Descriptive norm</a></dfn></dt>
-<dd><p>What people in a group commonly do, or believe others commonly do.</p><p class="definition-example"><strong>Example:</strong> At the residents’ meeting, newcomers usually stay quiet.</p></dd>
+<dd><p>What people in a group commonly do, or believe others commonly do.</p><p class="definition-example"><strong>Example:</strong> At the residents’ meeting, newcomers usually stay quiet. Staying quiet is the usual behaviour, whether or not anyone thinks it should be.</p></dd>
 <dt id="definition-prescriptive-norm"><dfn><a href="../glossary.md#prescriptive-norm">Prescriptive norm</a></dfn></dt>
-<dd><p>What people in a group believe others expect or approve of.</p><p class="definition-example"><strong>Example:</strong> A newcomer believes that members will disapprove if they interrupt the chair.</p></dd>
+<dd><p>What people in a group believe others expect or approve of.</p><p class="definition-example"><strong>Example:</strong> A newcomer believes that members will disapprove if they interrupt the chair. This is about what the group expects, rather than how often people actually interrupt.</p></dd>
 </dl>
 </section>
 
 For this book, these terms help us ask about two different things: what usually happens in a group and what its members think should happen.
 
-The chair may believe that anyone is welcome to speak because the agenda says so. Members may instead learn the effective rule by watching what happens to someone who challenges a proposal. Examine both the stated arrangement and its operation.
+The chair may say anyone is welcome to speak. But members also notice how the chair responds to criticism. If a newcomer is mocked for asking a question, others may learn to stay quiet. Compare the stated rule with what happens in practice.
 
-Ask about exceptions too. Does a newcomer with professional status receive more attention than a longstanding tenant? Can someone disagree without being interrupted or losing access to information? These questions move from cultural meaning to the distribution of influence.
+Ask who gets a different response. Is a professional newcomer listened to more closely than a longstanding tenant? Can everyone disagree without being interrupted or losing access to information? These details show who has more influence.
 
 <section class="reader-action" markdown="1" aria-labelledby="notice-unwritten-rule">
 
@@ -38,68 +38,68 @@ Ask about exceptions too. Does a newcomer with professional status receive more 
 
 Choose a group you know. Describe **what newcomers are told**, **what regular members actually do**, and **what happens when someone behaves differently**.
 
-Identify one assumption you no longer notice because the group's ways feel normal to you. How could someone learn that rule without having to make a public mistake?
+What do you already know about the group that a newcomer would have to work out? How could you explain it before they make a mistake?
 
 </section>
 
-## Institutions can reward familiar ways of participating
+## Knowing how an organisation works can give you an advantage {#institutions-can-reward-familiar-ways-of-participating}
 
-Lareau's ethnographic study of Black and white families in the United States examined how class-related childrearing practices shaped interactions with professionals and institutions. It showed mechanisms through which some familiar ways of speaking and negotiating could secure advantages. The situated qualitative evidence is valuable for understanding processes; it is not a universal classification of families or a basis for judging a parent by income. [Lareau, 2002](https://doi.org/10.1177/000312240206700507).
+In a study published in 2002, sociologist Annette Lareau observed family life among Black and white families in the United States. She examined how differences linked with social class shaped children’s dealings with professionals and organisations. Familiar ways of asking questions and negotiating could help some children obtain support or opportunities. These detailed observations explain possible processes; they do not classify every family or justify judging a parent by income. [Read the study](https://doi.org/10.1177/000312240206700507).
 
-Applied to our fictional meeting, the question is whether the association rewards knowledge that established members take for granted. Knowing how to submit an agenda item, whom to contact and which documents matter can change what participation achieves.
+Back at the fictional residents’ meeting, established members may know how to get a question onto the agenda, whom to contact and which documents to bring. A newcomer might care just as much but not know how to get heard.
 
-A practical response could be to explain voting rights, circulate proposals in advance and offer a way to raise questions before the meeting. That is our proposed application, not an intervention tested by Lareau's study. It also requires checking who can access the alternative: an online form may help some residents and exclude others.
+The chair could explain voting rights, send proposals in advance and accept questions before the meeting. Those are suggestions for this example, not changes tested in Lareau’s study. Check whether people can use them: an online form will not help someone who cannot access it.
 
-## Anthropology widens what seems like ordinary behaviour
+## What does taking part mean to people in this setting? {#anthropology-widens-what-seems-like-ordinary-behaviour}
 
-Henrich and colleagues combined economic games with local contextual knowledge across 15 small-scale societies. Behaviour varied more across these settings than a narrow student-based account would suggest, and group-level economic and social arrangements were associated with differences in play. The games and associations do not establish one universal motive, rank cultures by generosity or prove that changing a particular institution causes cooperation. [Henrich and colleagues, 2005](https://henrich.fas.harvard.edu/publications/economic-man-cross-cultural-perspective-behavioral-experiments-15-small-scale).
+In research published in 2005, Henrich and colleagues studied decisions in economic games across 15 small-scale societies. In these tasks, people make choices such as how to divide money or other resources with another person. They compared the choices people made with knowledge of local social and economic life. Choices varied across societies and were linked with features of those settings. The research does not prove that changing one arrangement causes cooperation, or that some cultures are more generous than others. [Read about the study](https://henrich.fas.harvard.edu/publications/economic-man-cross-cultural-perspective-behavioral-experiments-15-small-scale).
 
-The contribution here is methodological: examine how an interaction makes sense in local life. In one courtyard, volunteering for maintenance might imply a continuing obligation. In another, people may expect paid staff to do it. An invitation that sounds like a small favour to the chair could sound like an open-ended commitment to someone else.
+For our courtyard example, ask what residents think an invitation means. One might hear “help with maintenance once”. Another might hear “take responsibility for this every week”. The chair should explain the commitment rather than assuming everyone understood the same thing.
 
 Ask what participants think they are agreeing to. Watching attendance alone would miss that difference in meaning.
 
-## Map power through practical questions
+## Who can decide, and who can safely say no? {#map-power-through-practical-questions}
 
-Power becomes easier to discuss when you name the decision and the resources involved:
+In the courtyard example, ask who controls the money, rules and decisions:
 
 | Question | What to inspect in the courtyard example |
 | --- | --- |
 | Who sets the choices? | Who writes the agenda and decides which options are affordable? |
 | Who controls resources? | Who holds the maintenance budget, keys and contact lists? |
 | Who can refuse? | Can a resident decline work or challenge a charge without retaliation? |
-| Who carries the cost? | Whose time, money, access or reputation is at stake? |
+| Who carries the cost? | Who gives up time or money, loses access to something, or risks being judged badly? |
 | Who can obtain a review? | Is there a clear process for correcting a decision? |
 
-This is an editorial checklist for the scenario, not a formal scale of power. It may reveal that the chair has less freedom than expected because funding comes with conditions. It may also reveal that tenants face consequences owners do not. Neither should be collapsed into an account of confidence or motivation.
+These are questions to help you examine the meeting, not a test that gives someone a power score. The chair may have limits because the funding comes with conditions. Tenants may fear consequences that owners do not. Either could affect what people say, even if they feel confident.
 
-An invitation to “speak up” cannot by itself remove dependency. If criticism could endanger someone's housing or safety, do not use public disclosure as an exercise in participation. The appropriate route may involve independent advice or support.
+Telling someone to “speak up” does not remove the risk of losing housing or essential support. If that risk is present, do not pressure them to share their concern publicly. Independent advice or support may be more useful.
 
-## Improve one arrangement, then check whose voice it reaches
+## Did the change make it easier for people to take part? {#improve-one-arrangement-then-check-whose-voice-it-reaches}
 
 Suppose the chair clarifies that all residents can submit questions, but only certain members can vote. That transparency matters even if the arrangement remains unequal. The group can then discuss the rules themselves, rather than inviting participation under a mistaken impression.
 
 A tenant asks about play hours in advance. The chair includes the question and publishes an answer. That is evidence that this route worked for one concern. It does not show that everyone feels able to challenge the chair or that all access barriers have disappeared.
 
-For yourself, ask what your position lets you overlook. Someone who can speak without fear may experience a meeting as relaxed. Someone who risks a tenancy, job or essential relationship may experience the same room differently. Understanding requires examining those consequences as well as listening to the people involved.
+Think about your own position. Would disagreeing put your home, job or an important relationship at risk? If not, the meeting may feel easier to you than to someone who faces those risks. Ask about the consequences instead of assuming everyone feels equally free to speak.
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
 
-- Shared meanings inform behaviour without determining an individual's character.
+- Customs can help explain behaviour, but they cannot tell you what every member of a group is like.
 - Compare stated rules with what people do and what disagreement actually costs.
-- Institutions can reward familiarity with particular ways of participating.
-- Examine which resources and freedoms your own position lets you take for granted.
-- Improve concrete arrangements and check who can use them; encouragement alone may leave a power imbalance intact.
+- Knowing how to ask questions or challenge a decision can help someone get heard.
+- Check whether your own position makes it easier to speak or refuse than it is for others.
+- Change a specific arrangement and check who benefits. Encouragement alone may not make disagreement safe.
 
 </section>
 
 <section class="reader-action" markdown="1" aria-labelledby="map-participation">
 
-### Put it into practice: make participation more workable {#map-participation}
+### Put it into practice: make it easier for someone to take part {#map-participation}
 
-For a group you help organise, identify one obstacle: **unclear rules, inaccessible timing, missing information or a cost of disagreeing**.
+Choose a group you help organise. Look for one difficulty: **unclear rules, an inconvenient meeting time, missing information or a risk of being punished for disagreeing**.
 
-Ask affected people privately and without pressure what would help. Offer one feasible change, explain its limits and review whether it widened participation rather than merely moving the obstacle.
+Ask the people affected what would help, without pressuring them to disclose anything. Make one change you can deliver, then check whether it helped and whether anyone still faces the same difficulty.
 
 </section>

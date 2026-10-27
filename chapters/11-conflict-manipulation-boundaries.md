@@ -2,29 +2,29 @@
 
 A relative, Martin, volunteers you to organise a family gathering. You had agreed only to bring food. When you object, he says you are remembering it wrong, then tells others that you are unreliable. You wonder whether this is a misunderstanding, manipulation or gaslighting.
 
-The label matters less immediately than two facts: you did not agree to the task, and a story about your reliability is circulating. You can clarify your commitment and decide how to protect your time while remaining uncertain about Martin's intentions.
+You can start with what you know: you agreed to bring food, and Martin is telling people you agreed to organise. You can correct that claim and decide what work you will accept, even if you do not know why he said it.
 
 If the situation includes threats, fear or control over your safety or essential resources, begin with the [support page](../support.md). The conversations below assume it is reasonably safe to disagree.
 
-## Describe the conduct before deciding what to call it
+## Start with what the person did {#describe-the-conduct-before-deciding-what-to-call-it}
 
-Conflict can involve incompatible preferences, unclear agreements or actions that harm another person. Not every conflict is abuse, and abuse should not be reduced to a mutual communication problem.
+People can disagree because they want different things or understood an agreement differently. They can also hurt, threaten or control each other. Abuse requires attention to the harmful behaviour; it should not be treated as a problem that both people can fix by communicating better.
 
 <section class="definition" markdown="1" aria-label="Definition: Manipulation">
 <p class="definition-label">Definition</p>
 <dl>
 <dt id="definition-manipulation"><dfn><a href="../glossary.md#manipulation">Manipulation</a></dfn></dt>
-<dd><p>In this book, influencing someone in a way that makes it harder for them to choose freely with the information they need.</p><p class="definition-example"><strong>Example:</strong> Imagine Martin knowingly tells the family you agreed to organise the gathering, although you agreed only to bring food, to pressure you into taking on the extra work.</p></dd>
+<dd><p>In this book, influencing someone in a way that makes it harder for them to choose freely with the information they need.</p><p class="definition-example"><strong>Example:</strong> Imagine a version of the family example where you agreed only to bring food. Martin knows this, but tells the family you agreed to organise the whole gathering. He is using their expectation to pressure you into taking on work you did not choose.</p></dd>
 </dl>
 </section>
 
-This is the book’s working description of manipulation. It directs attention to conduct; it is not a clinical category or a test of someone’s personality.
+This is how the book uses the word manipulation. It describes what someone does, rather than diagnosing their personality.
 
 Ask what happened and what options remain. Did Martin acknowledge a correction? Did he pressure you after you declined? Can you refuse without threats or loss of essential support? Those questions are more useful than deciding whether he is “a manipulator” in every part of his life.
 
-A serious threat can require action immediately. You do not need to wait for repetition before treating it seriously. For less clear events, a pattern across occasions may help distinguish an isolated misunderstanding from an arrangement that repeatedly overrides your choices.
+Take a serious threat seriously the first time it happens. For less clear events, look at whether the behaviour repeats and whether the person accepts a correction. That can help you decide what support or protection you need.
 
-## Use “gaslighting” carefully without minimising harm
+## What does gaslighting mean here? {#use-gaslighting-carefully-without-minimising-harm}
 
 <section class="definition" markdown="1" aria-label="Definition: Gaslighting">
 <p class="definition-label">Definition</p>
@@ -34,31 +34,31 @@ A serious threat can require action immediately. You do not need to wait for rep
 </dl>
 </section>
 
-Sweet's sociological analysis examines gaslighting as psychological abuse that undermines a person's confidence in their reality, with domestic violence as its strategic case. It connects this process to power and social inequalities, including the use of stereotypes and institutions to discredit a victim. This qualitative and theoretical account illuminates mechanisms; it is not a diagnostic checklist for every disagreement or a prevalence estimate. [Sweet, 2019](https://doi.org/10.1177/0003122419874843).
+In a 2019 paper, sociologist Paige Sweet used research on domestic violence to explain how gaslighting can work. She examined how abusers can use unequal power, stereotypes and other people’s authority to make a victim’s account seem untrustworthy. The paper explains possible ways this abuse happens. It does not provide a checklist for diagnosing a person or say how common gaslighting is. [Read the paper](https://doi.org/10.1177/0003122419874843).
 
-A disagreement over a conversation, even an upsetting one, is insufficient by itself to establish gaslighting. Equally, you need not prove a complete theory of gaslighting before seeking support about repeated denial, intimidation or efforts to discredit you.
+One disagreement about a conversation does not establish gaslighting. But you can ask for support if someone repeatedly denies what happened, frightens you or tries to make others distrust you. You do not have to prove which label fits first.
 
 In the family example, compare two possible developments. Martin checks the messages, admits the misunderstanding and corrects what he told others. Alternatively, he ignores the messages, repeatedly calls you incapable of remembering and pressures others to distrust you. The second pattern calls for more protection than another attempt to explain the same evidence. These are fictional contrasts, not a scoring system.
 
-## Keep the evidence proportionate and safe
+## Keep useful records only when it is safe {#keep-the-evidence-proportionate-and-safe}
 
-A message showing “I can bring food” may clarify what you offered. If useful and safe, preserve relevant communications or make a brief factual note of an event. Distinguish exact wording from recollection and include what you do not know.
+A message saying “I can bring food” may help show what you agreed to. If safe and useful, keep relevant messages or write a brief note. Make clear which words you have a record of and which you only remember.
 
-Do not turn documentation into an obligation to build a perfect case. In a monitored or threatening relationship, keeping records or announcing that you are collecting them may increase risk. Specialist advice about a safer route can matter more than another piece of evidence. You should not have to confront someone or secure their admission before seeking help.
+You do not need a perfect record before asking for help. If someone monitors your device or threatens you, collecting records could increase the risk. A support service can help you consider a safer approach. You do not have to confront the person or get them to admit what happened.
 
-NHS guidance identifies controlling access to money, isolating someone, monitoring communications and threats among signs that can occur in domestic abuse. Abuse can be nonphysical. Its support services are UK-specific; readers elsewhere should use suitable local services. [NHS guidance](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/).
+Guidance from the UK National Health Service (NHS) identifies controlling access to money, isolating someone, monitoring communications and threats among signs that can occur in domestic abuse. Abuse can be nonphysical. Its support services are UK-specific; readers elsewhere should use suitable local services. [NHS guidance](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/).
 
 <section class="reader-action" markdown="1" aria-labelledby="name-impact">
 
-### Try this: name the conduct and the impact {#name-impact}
+### Try this: describe what happened and how it affected you {#name-impact}
 
-For a situation that is safe to reflect on, write **what happened**, **what it cost or prevented**, and **what you need now**. You can do this without choosing a label for the person.
+Choose a situation of your own that is safe to think about. Describe **what the person did**, **how it affected you**, and **what you need now**. For example, you may need a false claim corrected or a task reassigned. You do not need a label for the person.
 
 If writing or storing notes could put you at risk, do not use this exercise as a reason to do so. Consider a trusted person or specialist support using a safer means of contact.
 
 </section>
 
-## Make a boundary about what you can do
+## Say what you will and will not agree to {#make-a-boundary-about-what-you-can-do}
 
 <section class="definition" markdown="1" aria-label="Definition: Boundary">
 <p class="definition-label">Definition</p>
@@ -76,45 +76,45 @@ A request asks another person to act differently. An agreement sets terms both a
 | Agreement | “I will bring food; someone else will organise the venue.” |
 | Boundary | “I will not take on tasks that have been assigned without my agreement.” |
 
-The boundary does not make Martin cooperate. It clarifies your own participation. Choose a response you can realistically carry out; do not threaten consequences you cannot or do not intend to use.
+Martin may still disagree. The boundary tells him what you will do. Choose a limit you can act on, and avoid threatening a consequence you cannot or do not intend to carry out.
 
 In a safe exchange, you might say: “I agreed to bring food, not organise the gathering. I can still bring food. Please correct the message saying I am organising.” If pressure continues, you can repeat the limit without entering an endless argument about your character.
 
-What is feasible depends on resources and dependency. Someone who depends on the other person for housing, income or care may not be able to withdraw safely. Difficulty enforcing a limit is not evidence of weakness or consent. Practical support may be needed to create options.
+Your options may be limited if you rely on the person for housing, income or care. You may need practical support before you can refuse safely. Being unable to enforce a limit does not mean you are weak or agree to the behaviour.
 
-## Judge repair by what changes
+## After an apology, look for a change in behaviour {#judge-repair-by-what-changes}
 
-An apology can begin repair. For this situation, useful follow-through would include correcting the inaccurate message, reallocating the task and asking before making future commitments on your behalf.
+Martin could apologise, correct the message, find someone else to organise and ask before offering your time again. Those changes would address what happened.
 
-An explanation such as stress or a mistaken assumption may help make sense of the event. It does not remove the need to address the impact. Conversely, a genuine mistake followed by a correction need not become a permanent verdict about character.
+If Martin was stressed or misunderstood, that may explain his mistake. He still needs to correct its effects. If he does correct it, you need not treat that one mistake as proof of what he will always be like.
 
-If the conduct repeats, adjust your reliance on promises accordingly. You might confirm commitments in a shared message, stop accepting certain tasks or reduce participation. In formal disputes about work, money or legal rights, appropriate professional advice may be more useful than applying a conversational framework.
+If it happens again, you may decide to confirm agreements in a shared message, take on fewer tasks or stop helping with some events. For disputes about work, money or legal rights, professional advice may be more useful than another conversation.
 
-## Include yourself without assigning equal blame
+## Check your own behaviour without taking responsibility for abuse {#include-yourself-without-assigning-equal-blame}
 
 Ask whether you have made an unclear offer, avoided stating a limit or described an agreement inaccurately. If so, correct your part. That does not make you responsible for another person's threats, coercion or abuse.
 
-Also examine how you respond to someone else's boundary. Do you accept their refusal, or keep reframing it until they give in? If you recognise coercive or abusive behaviour in your own actions, stop the conduct and seek appropriate specialist help; the support guidance links to services for people concerned about their behaviour.
+Check how you react when someone says no to you. Do you accept the answer, or keep pressuring them until they give in? If you are behaving abusively, stop and seek specialist help. The [NHS guidance](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/) includes a service for people worried about their own behaviour.
 
-Understanding should increase accountability, including your own. It should not become a reason to keep exposing yourself to harm while trying to discover the perfect explanation.
+Understanding what happened should help you decide what needs to change. It should not keep you in harm’s way while you search for a perfect explanation.
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
 
-- Describe conduct, impact and available choices before relying on a label.
-- Gaslighting involves undermining someone's reality; one disputed memory does not establish it.
-- Protection and support do not require certainty about motive or a complete evidential case.
-- Examine your own conduct without taking responsibility for another person's abuse.
-- Make limits feasible and assess repair through changed behaviour; where disagreement is unsafe, prioritise support.
+- Describe what the person did, how it affected you and what you can do next.
+- Gaslighting undermines someone’s trust in their own memory, perceptions or judgment; one disputed memory does not establish it.
+- You can seek protection or support without proving what the person intended.
+- Correct your own mistakes without taking responsibility for another person’s abuse.
+- Choose limits you can act on and look for changed behaviour after an apology. If disagreeing is unsafe, seek support.
 
 </section>
 
 <section class="reader-action" markdown="1" aria-labelledby="choose-safe-limit">
 
-### Put it into practice: choose a feasible next step {#choose-safe-limit}
+### Put it into practice: choose a step you can safely take {#choose-safe-limit}
 
-If it is safe to disagree, write **the specific conduct**, **your request or limit**, and **what you will do if the arrangement does not change**. Keep the action within your control.
+If it is safe to disagree, write **what the person did**, **what you will ask for or stop agreeing to**, and **what you will do if it happens again**. Choose an action you can carry out yourself.
 
 If fear, monitoring, threats or dependency make that unsafe, choose a support step instead. You do not need to announce a boundary, confront the person or collect further evidence before asking for help.
 

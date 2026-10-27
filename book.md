@@ -4,7 +4,7 @@
 
 You keep postponing something you care about. A friend seems distant. A colleague agrees with you, then acts differently. Before deciding what these moments mean, it helps to ask what else could explain them—and what would let you check.
 
-**This book is for curious adults who want to understand themselves and other people more clearly.** You need no background in psychology. The situations range across friendships, family life, learning, work and community life because the underlying questions travel between them.
+**This book is for curious adults who want to understand themselves and other people more clearly.** You need no background in psychology. The situations range across friendships, family life, learning, work and community life because the same questions can help in each setting.
 
 The aim is to help you form better explanations and choose useful responses: a clearer question, a more workable plan, an offer of support, a negotiated change or a boundary.
 
@@ -26,13 +26,13 @@ The aim is to help you form better explanations and choose useful responses: a c
 
 Begin with what happened. Consider the person's goals and circumstances, as well as your own expectations. Look for information that could change your interpretation. Then choose a response that fits what you know, and review what happens.
 
-This process applies inward too. When you miss a commitment, ask what made it difficult, what you were choosing between, and how your explanation compares with the one you would give someone else.
+Use these questions about yourself too. When you miss a commitment, ask what made it difficult, what you were choosing between, and how your explanation compares with the one you would give someone else.
 
 <section class="reader-action" markdown="1" aria-labelledby="start-small">
 
 ### Try this: start small {#start-small}
 
-Choose one low-stakes moment from this week. Write two sentences: **“What happened was…”** and **“My explanation is…”** Can you state the first without assuming the second?
+Choose one recent event from your own life that you feel comfortable thinking about. Answer two questions: **“What did I see or hear?”** and **“Why do I think it happened?”** Keep your answers separate. For example, “My friend has not replied for two days” tells us what happened. “They are annoyed with me” is one possible explanation.
 
 Keep that example in mind as you read. The green action panels offer small ways to apply each idea.
 
