@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright © 2026 Christopher Snow
 """Build the static book and validate local links and fragment targets."""
 
 from html import escape, unescape
@@ -6,6 +7,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit, urlunsplit
 import hashlib
+import json
 import os
 import re
 import shutil
@@ -125,6 +127,7 @@ def build():
     if OUT.exists():
         shutil.rmtree(OUT)
     shutil.copytree(ROOT / "assets", OUT / "assets")
+    shutil.copyfile(ROOT / "manifest.webmanifest", OUT / "manifest.webmanifest")
     css_hash = hashlib.sha256((ROOT / "assets/book.css").read_bytes()).hexdigest()[:12]
 
     for index, (name, label) in enumerate(PAGES):
@@ -153,13 +156,24 @@ def build():
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{escape(description, quote=True)}">
 <meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#27664f">
 <title>{escape(title)}{'' if name == 'book.md' else ' · Understanding people'}</title>
 <link rel="icon" href="{relative(Path('assets/favicon.svg'), page)}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{relative(Path('assets/apple-touch-icon.png'), page)}">
+<link rel="manifest" href="{relative(Path('manifest.webmanifest'), page)}">
 <link rel="stylesheet" href="{relative(Path('assets/book.css'), page)}?v={css_hash}">
+<script defer src="{relative(Path('assets/install.js'), page)}"></script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><a href="{relative(Path('contents.html'), page)}">Explore the book <span aria-hidden="true">↗</span></a></header>
+<header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><div class="header-actions"><a class="explore-book" href="{relative(Path('contents.html'), page)}">Explore the book <span aria-hidden="true">↗</span></a><button class="install-button" type="button" aria-label="Install Understanding people" title="Install Understanding people" hidden><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 15v5h16v-5"/></svg></button></div></header>
+<dialog id="install-help" aria-labelledby="install-title">
+<h2 id="install-title">Install Understanding people</h2>
+<p>Add the book to your home screen or desktop for a separate reading window.</p>
+<ul><li><strong>iPhone or iPad:</strong> open this page in Safari, tap Share, then Add to Home Screen. If offered, leave Open as Web App switched on.</li><li><strong>Chrome or Edge:</strong> open the browser menu and look for Install app, Install page as app, or Add to Home screen.</li><li><strong>Safari on Mac:</strong> choose File → Add to Dock, if available.</li></ul>
+<p>If your browser has no install option, you can bookmark the book and read it here.</p>
+<form method="dialog"><button type="submit">Close</button></form>
+</dialog>
 <details class="mobile-nav"><summary>Contents</summary><nav aria-label="Book on mobile">{nav_html}</nav></details>
 <div class="layout">
 <aside class="book-sidebar"><p class="nav-label">THE BOOK</p><p class="sidebar-title">Understanding<br>people</p><nav aria-label="Book chapters">{nav_html}</nav></aside>
@@ -168,7 +182,7 @@ def build():
 {contents}<div class="prose">{body}</div>
 </article>
 <nav class="pagination" aria-label="Continue reading">{''.join(pagination)}</nav>
-<footer><span>Understanding people · Draft edition</span><a href="https://github.com/snowch/understanding-people/blob/main/{name}">Page source</a></footer>
+<footer><div><span>Understanding people · Draft edition</span><p class="copyright">© 2026 Christopher Snow</p></div><a href="https://github.com/snowch/understanding-people/blob/main/{name}">Page source</a></footer>
 </main></div>
 <script>
 const sidebar = document.querySelector('.book-sidebar');
@@ -184,6 +198,15 @@ if (current && sidebar.clientHeight) {{
         output.parent.mkdir(parents=True, exist_ok=True)
         output.write_text(html, encoding="utf-8")
     (OUT / ".nojekyll").touch()
+    files = sorted(p.relative_to(OUT).as_posix() for p in OUT.rglob("*") if p.is_file())
+    digest = hashlib.sha256()
+    for name in files:
+        digest.update(name.encode())
+        digest.update((OUT / name).read_bytes())
+    worker = (ROOT / "scripts/service-worker.js").read_text()
+    digest.update(worker.encode())
+    worker = worker.replace("__VERSION__", digest.hexdigest()[:16]).replace("__FILES__", json.dumps(["./", *files]))
+    (OUT / "sw.js").write_text(worker, encoding="utf-8")
     print(f"Built {check_links()} pages; all local links and anchors resolve.")
 
 

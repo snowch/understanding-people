@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Understanding people",
+  "short_name": "Understanding",
+  "description": "A science-informed guide to understanding what drives people—including ourselves.",
+  "lang": "en-GB",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#27664f",
+  "icons": [
+    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
