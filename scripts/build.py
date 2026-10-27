@@ -139,6 +139,13 @@ def practice_notes(match):
         ("action", "What did I notice, ask or try?"),
         ("review", "What did I learn, and what would I do differently next time?"),
     ]
+    if note_id == "chapter-01-three-questions":
+        fields = [
+            ("event", "What did they say or do?"),
+            ("thought", "Why do I think they did it?"),
+            ("action", "How could I check?"),
+            ("review", "After checking: what did I learn, and what will I do next?"),
+        ]
     inputs = []
     for key, label in fields:
         field_id = f"{note_id}-{key}"

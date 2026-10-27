@@ -36,8 +36,19 @@ with sync_playwright() as pw:
         for panel in page.locator('.reader-action, .chapter-check, .recall-practice, .remember-cue').all():
             label = panel.get_attribute('aria-labelledby')
             assert panel.locator(f'[id="{label}"]').count() == 1
-    assert (question_count, recall_count, note_count) == (37, 6, 13)
+    assert (question_count, recall_count, note_count) == (37, 6, 14)
     page.goto(first)
+    three = page.locator('[data-notes-id="chapter-01-three-questions"]')
+    three.locator('summary').click()
+    for label, answer in [
+        ('What did they say or do?', 'They said the plan was not ready.'),
+        ('Why do I think they did it?', 'I guessed they disliked it.'),
+        ('How could I check?', 'Ask what still needs doing.'),
+    ]:
+        three.get_by_label(label, exact=True).fill(answer)
+    page.reload()
+    three.locator('summary').click()
+    assert three.get_by_label('How could I check?', exact=True).input_value() == 'Ask what still needs doing.'
     summary = page.locator('.chapter-check summary').first
     assert summary.locator('..').get_attribute('open') is None
     summary.focus()
@@ -116,7 +127,7 @@ with sync_playwright() as pw:
         blocked = browser.new_context(accept_downloads=True, service_workers='block')
         blocked.add_init_script(setup)
         bp = blocked.new_page(); bp.goto(first)
-        bn = bp.locator('.practice-notes').first; bn.locator('summary').click()
+        bn = bp.locator('[data-notes-id="week-01-confirmation"]'); bn.locator('summary').click()
         bn.get_by_label('What happened?', exact=True).fill('Keep this unsaved note.')
         assert 'could not be saved' in bn.locator('[role=status]').inner_text()
         with bp.expect_download() as di:
@@ -126,7 +137,7 @@ with sync_playwright() as pw:
     # Without JS, the writing space and printable prompts remain, with honest guidance.
     nojs = browser.new_context(java_script_enabled=False, service_workers='block')
     np = nojs.new_page(); np.goto(first)
-    nn = np.locator('.practice-notes').first; nn.locator('summary').click()
+    nn = np.locator('[data-notes-id="week-01-confirmation"]'); nn.locator('summary').click()
     assert nn.locator('noscript').is_visible()
     assert nn.get_by_label('What happened?', exact=True).is_visible()
     assert nn.locator('.notes-controls').is_hidden()
@@ -138,10 +149,10 @@ with sync_playwright() as pw:
     op.wait_for_function('navigator.serviceWorker.controller !== null')
     offline.set_offline(True)
     op.reload()
-    on = op.locator('.practice-notes').first; on.locator('summary').click()
+    on = op.locator('[data-notes-id="week-01-confirmation"]'); on.locator('summary').click()
     on.get_by_label('What happened?', exact=True).fill('Written offline.')
     op.reload(); on.locator('summary').click()
     assert on.get_by_label('What happened?', exact=True).input_value() == 'Written offline.'
     assert not errors, errors
     browser.close()
-print('Passed: 12 chapter checks (37 questions), 6 later recalls, 13 weekly exercises; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')
+print('Passed: 12 chapter checks (37 questions), 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')

@@ -149,9 +149,24 @@ If asking someone directly could put you at risk, use the [support page](../supp
 
 In a 1995 paper, Gilbert and Malone examined earlier research on why people judge someone’s character without giving enough weight to their situation. This gives us a reason to ask what was happening around Rowan before deciding what Rowan is like. It does not mean every judgment about character is wrong. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/7870861/).
 
-For everyday use, ask: **“What did they say or do? Why do I think they did it? How could I check?”**
+<section class="reader-action" markdown="1" aria-labelledby="practise-three-questions">
 
-Your memory can be mistaken too. If a relevant message exists, check the wording rather than relying only on what you remember.
+### Put it into practice: try the three questions {#practise-three-questions}
+
+Now use a recent situation from **your own life**—something someone said or did that puzzled or upset you. Write a short answer to each question:
+
+1. **What did they say or do?** Describe their words or actions without guessing their reason. If you have a relevant message, check the wording rather than relying only on your memory.
+2. **Why do I think they did it?** Write the reason you suspect and what led you to that explanation. Keep it separate from what you actually saw or heard.
+3. **How could I check?** Write one question you could ask or one piece of information you could look at. Choose something that could change your mind, not just confirm your first guess.
+
+If it is safe and useful, make that check. Afterwards, note what you learned and whether it changes what you will do next. You may still be unsure why the person acted as they did.
+
+Next time you catch yourself guessing someone's reason, use the same three questions. You can use this situation again in the weekly exercise below.
+
+<!-- practice-notes: chapter-01-three-questions | Try the three questions -->
+
+</section>
+
 
 <details class="evidence-detail" markdown="1">
 <summary>More about the research</summary>
