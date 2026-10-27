@@ -23,6 +23,40 @@ PAGES = [
     ("worksheet.md", "Situation worksheet"),
     ("references.md", "Sources & further reading"),
 ]
+CHAPTERS = [
+    ("Before you explain someone", "chapters/01-before-you-explain.md"),
+    ("What counts as knowing?", None),
+    ("Needs, motives and competing goals", None),
+    ("Beliefs, identity and personal history", None),
+    ("Emotion, stress and coping", None),
+    ("Personality, habits and situations", None),
+    ("Culture, groups and power", None),
+    ("Questions, listening and disagreement", None),
+    ("Truth, lies and uncertainty", "chapters/09-truth-lies-uncertainty.md"),
+    ("Motivation, influence and cooperation", None),
+    ("Conflict, manipulation and boundaries", None),
+    ("Putting understanding to work", None),
+]
+
+
+def book_navigation(source, page):
+    def entry(item, caption, number="", fragment="", planned=False):
+        current = ' aria-current="page"' if item == source and not fragment else ""
+        href = relative(destination(item), page) + fragment
+        status = '<small class="nav-status">Planned</small>' if planned else ""
+        return (f'<li><a href="{escape(href)}"{current}>'
+                f'<span class="nav-number">{number}</span>'
+                f'<span class="nav-title">{escape(caption)}{status}</span></a></li>')
+
+    chapters = [entry("book.md", "Introduction", "—")]
+    for number, (caption, item) in enumerate(CHAPTERS, 1):
+        chapters.append(entry(item or "contents.md", caption, f"{number:02}",
+                              "" if item else f"#chapter-{number:02}", planned=item is None))
+    resources = [entry(item, caption) for item, caption in PAGES
+                 if item != "book.md" and not item.startswith("chapters/")]
+    return (f'<ol class="chapter-list">{"".join(chapters)}</ol>'
+            '<p class="nav-label resources-label">READING TOOLS</p>'
+            f'<ul class="resource-list">{"".join(resources)}</ul>')
 
 
 def destination(source):
@@ -102,11 +136,7 @@ def build():
         body = re.sub(r'\b(href|src)="([^"]*)"', rewrite_link, body)
         body = body.replace("<table>", '<div class="table-scroll" role="region" aria-label="Comparison table" tabindex="0"><table>')
         body = body.replace("</table>", "</table></div>")
-        nav = []
-        for item, caption in PAGES:
-            current = ' aria-current="page"' if item == name else ""
-            nav.append(f'<li><a href="{relative(destination(item), page)}"{current}>{escape(caption)}</a></li>')
-        nav_html = "".join(nav)
+        nav_html = book_navigation(name, page)
         pagination = []
         for offset, direction, relation in [(-1, "Previous", "prev"), (1, "Next", "next")]:
             if 0 <= index + offset < len(PAGES):
@@ -130,9 +160,9 @@ def build():
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><a href="{relative(Path('contents.html'), page)}">Explore the book <span aria-hidden="true">↗</span></a></header>
-<details class="mobile-nav"><summary>Book navigation</summary><nav aria-label="Book on mobile"><ul>{nav_html}</ul></nav></details>
+<details class="mobile-nav"><summary>Contents</summary><nav aria-label="Book on mobile">{nav_html}</nav></details>
 <div class="layout">
-<aside><p class="nav-label">THE BOOK</p><nav aria-label="Book"><ul>{nav_html}</ul></nav><p class="sidebar-note">Start with curiosity.<br>Check your interpretation.<br>Choose your response.</p></aside>
+<aside class="book-sidebar"><p class="nav-label">THE BOOK</p><p class="sidebar-title">Understanding<br>people</p><nav aria-label="Book chapters">{nav_html}</nav></aside>
 <main id="main" tabindex="-1"><article>
 <header class="chapter-header"><p class="eyebrow">{eyebrow}</p><h1>{escape(title)}</h1></header>
 {contents}<div class="prose">{body}</div>
@@ -140,6 +170,14 @@ def build():
 <nav class="pagination" aria-label="Continue reading">{''.join(pagination)}</nav>
 <footer><span>Understanding people · Draft edition</span><a href="https://github.com/snowch/understanding-people/blob/main/{name}">Page source</a></footer>
 </main></div>
+<script>
+const sidebar = document.querySelector('.book-sidebar');
+const current = sidebar.querySelector('[aria-current="page"]');
+if (current && sidebar.clientHeight) {{
+    const bottom = current.offsetTop + current.offsetHeight;
+    if (bottom > sidebar.clientHeight) sidebar.scrollTop = bottom - sidebar.clientHeight + 24;
+}}
+</script>
 </body></html>
 '''
         output = OUT / page
