@@ -1,112 +1,122 @@
 # Before you explain someone
 
-On Tuesday, Rowan tells you your proposal looks promising. In Thursday's meeting, Rowan says it is not ready. You feel exposed. Before you leave the room, you have an explanation: “Rowan wanted to make me look bad.”
+On Tuesday, Rowan says, “Your idea looks promising.” In Thursday's meeting, Rowan says, “I don't think it's ready yet.”
 
-Perhaps. But you have moved from something Rowan **did** to a reason you think Rowan **did it**.
+You feel embarrassed. You think: “Rowan wanted to make me look bad in front of everyone.”
 
-This chapter asks you to practise one move: **separate what happened from the story you tell about it.**
+You might be right. But so far, **you know what Rowan said. You do not yet know why Rowan said it.**
 
-## What happened? What am I adding?
+Before deciding what to do, try to find out a little more.
 
-Put the two sentences beside each other:
+## What did Rowan actually say?
 
-> **What happened:** “Rowan called the proposal promising on Tuesday and questioned its readiness on Thursday.”
+Compare these two sentences:
+
+> **You heard Rowan say:** “I don't think it's ready yet.”
 >
-> **My story:** “Rowan wanted to embarrass me.”
+> **You think Rowan meant:** “I want to make you look bad.”
 
-The first describes words and actions. The second adds a motive. Calling it a story does not mean it is false. It means it includes something you inferred and may need to check.
+Rowan said the first sentence. You guessed the reason behind it.
 
-“I felt embarrassed” belongs in the account too. You know how the exchange affected you. That feeling does not, by itself, establish what Rowan intended.
+That guess may turn out to be right. For now, keep it separate from the words you heard. Otherwise, you may start responding to an intention Rowan never had.
 
-The distinction gives you room to ask a useful question before deciding how to respond.
+You do not have to pretend you were not hurt. “I felt embarrassed” tells us how the meeting affected you. It does not tell us whether Rowan meant to embarrass you.
 
 <section class="reader-action" markdown="1" aria-labelledby="separate-layers">
 
-### Try this: spot the added story {#separate-layers}
+### Try this: what do you know about the unanswered message? {#separate-layers}
 
-A friend has not answered your message for two days. You think: “They don't value our friendship.”
+Your friend has not replied to your message for two days. You think: “They don't care about me.”
 
-Before opening the answer, say **what happened** and **what you have added** in separate sentences.
+Which part do you know? Which part are you guessing?
 
 <details class="answer-check" markdown="1">
 <summary>Check your answer</summary>
 
-**What happened:** you have not received a reply for two days.
+**You know:** your friend has not replied for two days.
 
-**What you added:** the silence means your friend does not value the friendship.
+**You are guessing:** they have not replied because they do not care about you.
 
-They might be avoiding you. They might also be busy, unwell or unsure how to answer. At this point, the silence alone does not distinguish those accounts.
+They might be avoiding you. They might also be busy, unwell or unsure what to say. You need more information to tell which explanation fits.
 
 </details>
 
 </section>
 
-## Give the story something to compete with
+## Could there be another reason?
 
-Back to Rowan. What else could explain the change?
+Return to Rowan. Here are three possible reasons for what happened:
 
-Perhaps Rowan discovered a budget problem on Wednesday. Perhaps “promising” meant “worth exploring”, while you heard “ready to present”. Perhaps Rowan really did want to distance themselves in public.
+- Rowan found a problem with the budget after speaking to you on Tuesday.
+- Rowan liked the idea but thought it needed more work. You took “promising” to mean “ready”.
+- Rowan wanted to look good in front of the team, even if that made you look bad.
 
-You do not have to make every possibility equally likely. You need another plausible account so your first story has something to be checked against.
+The third reason is still possible. You are not being asked to excuse Rowan. You are checking whether another reason fits what happened.
 
-This matters because an explanation can start defending itself. Once you decide Rowan is against you, a quick reply may look calculated and a slow reply may look dismissive. If opposite behaviours both confirm your story, ask what could weaken it. Research on **confirmation bias** describes this tendency to seek or interpret information in ways that favour an existing belief. [Nickerson, 1998](https://doi.org/10.1037/1089-2680.2.2.175).
+Be careful about how you read the next message. If Rowan replies quickly, do you think, “They had their excuse ready”? If Rowan replies slowly, do you think, “They are avoiding me”? If either reply seems to prove Rowan is against you, you may be giving your first guess too much weight.
 
-## Ask a question that separates the possibilities
+Researchers call this **confirmation bias**: looking for information, or reading it in a way, that supports what you already believe. Nickerson's review describes this across many kinds of reasoning. It does not tell us whether you or Rowan are right in this example. [Nickerson, 1998](https://doi.org/10.1037/1089-2680.2.2.175).
 
-“Why did you undermine me?” puts the story inside the question. Rowan has to dispute your accusation before discussing the proposal.
+## What could you ask Rowan?
 
-Try an opening that starts with the event:
+“Why did you try to embarrass me?” assumes that Rowan meant to do it.
 
-> “On Tuesday I thought you supported the proposal. In the meeting you said it wasn't ready. What concerns should I understand?”
+You could instead ask:
 
-Now the answer can change what you do:
+> “On Tuesday you said the idea looked promising. Today you said it wasn't ready. What needs more work?”
 
-- **“The staffing budget changed on Wednesday.”** Check the new constraint and revise the proposal if needed.
-- **“I meant the idea was worth exploring.”** Clarify what counts as support before presenting it again.
-- **There is no clear explanation, and this keeps happening.** Stop treating private encouragement as a public commitment; ask for decisions to be recorded.
+Then listen to the answer:
 
-A reply is information to assess alongside relevant records and later conduct. Several explanations can also be partly true: Rowan might have a real objection and be worried about public standing.
+- **“We found out yesterday that we cannot afford the extra staff.”** Check the figures. The idea may need to change.
+- **“I liked the idea, but I didn't think it was finished.”** Ask what still needs doing. Next time, check that you both mean the same thing before presenting it.
+- **Rowan gives no clear answer, and this keeps happening.** Ask for clear decisions in writing. Do not rely on private praise as a promise of support in a meeting.
 
-## Include your own part in the story
+You do not have to accept every answer as true. Compare it with relevant messages, documents and what Rowan does next. There may also be more than one reason: Rowan could see a real problem and want to protect their own reputation.
 
-You might have presented encouragement as an endorsement. You might be especially sensitive to a public objection because you wanted the meeting to go well. Those are questions to examine, not reasons to blame yourself for Rowan's conduct.
+## Could you have misunderstood Rowan?
+
+Think back to Tuesday. Did Rowan say the idea was ready, or did you hear more agreement than they intended?
+
+Checking your own understanding is useful. It does not mean that Rowan's behaviour was your fault.
 
 <section class="reader-action" markdown="1" aria-labelledby="check-own-account">
 
-### Try this: turn the example around {#check-own-account}
+### Try this: remember when you changed your mind {#check-own-account}
 
-Remember a time when **you** liked an idea but later raised a concern. What changed? What might someone watching have missed?
+Think of a time when you liked an idea, then found a problem with it. What did you learn between those two moments?
 
-Return to Rowan. Have you left room for comparable explanations, while keeping any evidence of repeated harm in view?
+Could something similar have happened to Rowan? What could you ask to find out?
 
 </section>
 
-## Act on the impact while the motive remains uncertain
+## You can still ask Rowan to behave differently
 
-Suppose you still do not know why Rowan acted that way. You can nevertheless say:
+Even if you never find out why Rowan spoke that way, you can say:
 
-> “If you identify a major issue before a meeting, please raise it with me beforehand.”
+> “If you spot a problem before a meeting, please tell me beforehand so I have time to work on it.”
 
-That request addresses the effect on your work. It does not require a verdict about Rowan's character.
+You are asking for a specific change. You do not need to prove that Rowan wanted to hurt you.
 
-The same applies to the unanswered message. You can check in, decide how long to wait or discuss a recurring communication problem. You do not have to settle what the friendship means from one silence.
+The same applies to the unanswered message. You can send a follow-up, wait, or talk to your friend about how often this happens. One late reply cannot tell you everything about the friendship.
 
-Where asking directly could expose you to retaliation or harm, consider a safer route through the [support page](../support.md). Checking your interpretation does not require you to keep accepting harmful behaviour.
+If asking someone directly could put you at risk, use the [support page](../support.md) to consider a safer way to get help. You do not have to keep accepting harmful behaviour while trying to understand it.
 
-## Why practise this distinction?
+## What does the research say?
 
-Psychologists call explanations of behaviour **attributions**. Gilbert and Malone's review describes **correspondence bias**: drawing conclusions about an enduring disposition from behaviour that circumstances could explain. That gives us a reason to examine the situation before reaching a character judgment; it does not mean character never matters. [Gilbert and Malone, 1995](https://pubmed.ncbi.nlm.nih.gov/7870861/).
+Gilbert and Malone reviewed research on how we explain other people's behaviour. They describe a mistake called **correspondence bias**: deciding that an action shows what someone is like, while overlooking the situation they were in. For example, one blunt comment might lead you to call someone a rude person without considering what else was happening. This does not mean every judgment about character is wrong. [Gilbert and Malone, 1995](https://pubmed.ncbi.nlm.nih.gov/7870861/).
 
-Our practical move is simple: **describe the event, notice the story, then choose a useful check or response.** Your description can be mistaken too, so distinguish remembered wording from a record where one is available.
+For everyday use, ask: **“What did they say or do? Why do I think they did it? How could I check?”**
+
+Your memory can be mistaken too. If a relevant message exists, check the wording rather than relying only on what you remember.
 
 <details class="evidence-detail" markdown="1">
-<summary>A closer look at the evidence and its limits</summary>
+<summary>More about the research</summary>
 
-In two social-judgment experiments, instructions to consider the opposite reduced the studied biases more than instructions to be fair and unbiased. That supports making an alternative explicit; it does not establish that the exercises here resolve relationships or remove bias permanently. [Lord, Lepper and Preston, 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/).
+Lord, Lepper and Preston ran two experiments in which people judged others. Asking participants to consider an opposing explanation reduced the particular errors being studied more than telling them to be fair and unbiased. This gives a reason to try another explanation. It does not prove that the exercises here will solve a disagreement. [Lord, Lepper and Preston, 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/).
 
-A familiar slogan says we explain ourselves through circumstances and others through character. Malle's meta-analysis of 173 studies found no general actor–observer asymmetry across the evidence. The pattern depended on conditions, including whether an event was positive or negative. The invitation to examine your own account does not depend on treating that slogan as a universal law. [Malle, 2006](https://pubmed.ncbi.nlm.nih.gov/17073526/).
+You may have heard that we blame other people's character but blame circumstances for our own actions. Malle combined results from 173 studies and found that this was not a general rule. The results depended on the situation, including whether the event was positive or negative. It is still worth checking your own assumptions without claiming that everyone makes the same mistake. [Malle, 2006](https://pubmed.ncbi.nlm.nih.gov/17073526/).
 
-Research populations matter too. Henrich and colleagues' review challenges generalisations from culturally narrow samples. Ask how this particular team expresses disagreement rather than assuming a motive from someone's nationality. [Henrich, Heine and Norenzayan, 2010](https://pubmed.ncbi.nlm.nih.gov/20550733/).
+Research carried out in one population may not apply everywhere. Henrich and colleagues examined this problem in psychological research. In Rowan's case, ask how people in this team usually disagree. Do not assume you know why Rowan acted that way because of their nationality. [Henrich, Heine and Norenzayan, 2010](https://pubmed.ncbi.nlm.nih.gov/20550733/).
 
 </details>
 
@@ -114,26 +124,26 @@ Research populations matter too. Henrich and colleagues' review challenges gener
 
 ## Key takeaways {#key-takeaways}
 
-- Separate **what happened** from **the story you tell about it**.
-- Give your first story a plausible alternative, including one that examines your own assumptions.
-- Ask something whose answer could change your next step.
-- You can address the impact without proving a motive.
+- Knowing what someone said does not always tell you why they said it.
+- Think of another possible reason, including the possibility that you misunderstood.
+- Ask a question that helps you find out more.
+- You can ask someone to change their behaviour without proving that they meant to hurt you.
 
 </section>
 
 <section class="reader-action" markdown="1" aria-labelledby="choose-response">
 
-### Put it into practice: remember it, then use it {#choose-response}
+### Put it into practice: try this with a recent conversation {#choose-response}
 
-**Look away from the page.** In your own words, explain the difference between what Rowan did and the story about why Rowan did it. Then check your answer against the opening example.
+Think of something someone said that upset or confused you. Write:
 
-Now choose one small incident from your own week and complete:
+- **They said…** Use their words as closely as you can remember them.
+- **I think they said it because…** Write the reason you suspect.
+- **Another reason could be…** Think of one other explanation.
+- **I could ask…** Write a question that would help you understand.
 
-- **What happened was…**
-- **The story I am telling is…**
-- **Another possibility is…**
-- **My next step is…**
+If it is safe and useful to ask, have the conversation. Afterwards, check whether their answer changed your understanding or what you will do next.
 
-Choose a time to revisit what happened after that step. Tomorrow, before rereading, see whether you can still separate the event from your explanation. The [worksheet](../worksheet.md) is there when you want to explore a situation further.
+Tomorrow, try to remember this chapter's main point before looking back at it. Use the [worksheet](../worksheet.md) if you want to think through a situation in more detail.
 
 </section>
