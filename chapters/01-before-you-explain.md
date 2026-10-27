@@ -63,7 +63,7 @@ Be careful about how you read the next message. If Rowan replies quickly, do you
 </dl>
 </section>
 
-Nickerson’s review describes confirmation bias across many kinds of reasoning. It does not tell us whether you or Rowan are right in this example. [Nickerson, 1998](https://doi.org/10.1037/1089-2680.2.2.175).
+Psychologist Raymond Nickerson examined earlier studies of confirmation bias in a paper published in 1998. He described how people can favour information that supports what they already believe. [Read the paper](https://doi.org/10.1037/1089-2680.2.2.175).
 
 ## What could you ask Rowan?
 
