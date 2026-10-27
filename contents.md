@@ -34,6 +34,7 @@ The chapters follow a shared process of understanding people. Family, work, educ
 - [Evidence standards](evidence.md)
 - [A situation worksheet](worksheet.md)
 - [When this book is the wrong tool](support.md)
+- [Glossary](glossary.md)
 - [Sources and further reading](references.md)
 - [About the book and author](about.md)
 

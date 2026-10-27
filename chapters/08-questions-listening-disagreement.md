@@ -14,7 +14,15 @@ A question also needs a purpose. “Tell me everything going on in your life” 
 
 ## Start open, then make the uncertainty specific
 
-An open question invites an account rather than choosing the answer in advance. A focused follow-up establishes detail. Both can help:
+<section class="definition" markdown="1" aria-label="Definition: Open question">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-open-question"><dfn><a href="../glossary.md#open-question">Open question</a></dfn></dt>
+<dd><p>A question that invites someone to explain in their own words, rather than giving a yes-or-no answer.</p><p class="definition-example"><strong>Example:</strong> Imani asks Rosa, “What do you still need to decide about the holiday?”</p></dd>
+</dl>
+</section>
+
+Start by giving the person room to explain. Then use focused follow-up questions to check the details. Both can help:
 
 | Less useful opening | A question that leaves more room |
 | --- | --- |
@@ -48,6 +56,16 @@ A practical implication is to allow an answer to be mixed. Rosa may want to go a
 Avoid using a summary as a disguised rebuttal: “So you want everyone to wait because you didn't plan.” That adds a judgment Rosa did not supply. If you have a concern about the delay, state it separately and own it.
 
 ## Keep memory questions free of unnecessary suggestion
+
+<section class="definition" markdown="1" aria-label="Definition: Leading question">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-leading-question"><dfn><a href="../glossary.md#leading-question">Leading question</a></dfn></dt>
+<dd><p>A question worded in a way that suggests the answer the questioner expects.</p><p class="definition-example"><strong>Example:</strong> “You promised on Tuesday, didn’t you?” suggests both that there was a promise and when it was made.</p></dd>
+</dl>
+</section>
+
+A question can be both open and leading. “Why did you break your promise?” invites an explanation, but it also assumes a promise was broken.
 
 If the friends disagree about an earlier promise, begin with what each remembers. “What do you remember us agreeing?” leaves more room than “You promised on Tuesday, didn't you?” Separate remembered wording from the meaning each person took from it.
 

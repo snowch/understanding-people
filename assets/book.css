@@ -100,3 +100,16 @@ dialog button { padding: 10px 20px; font: inherit; color: var(--paper); backgrou
 .answer-check[open] > summary, .evidence-detail[open] > summary { margin-bottom: 18px; }
 .answer-check > :last-child, .evidence-detail > :last-child { margin-bottom: 0; }
 @media print { .answer-check::details-content, .evidence-detail::details-content { content-visibility: visible; display: block; } .answer-check > summary, .evidence-detail > summary { margin-bottom: 12px; color: black; } }
+/* Definitions have an outline; the filled sage panels remain for actions. */
+.definition { margin: 28px 0; padding: 22px 26px; border: 1px solid var(--line); border-radius: 6px; background: transparent; break-inside: avoid; }
+.definition-label { margin: 0 0 14px; color: var(--muted); font: 650 11px/1.5 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+.definition dl { margin: 0; }
+.definition dt { margin: 24px 0 8px; font: 650 19px/1.4 system-ui, sans-serif; }
+.definition dt:first-child { margin-top: 0; }
+.definition dfn { font-style: normal; }
+.definition dd { margin: 0; }
+.definition dd p { margin: 0 0 12px; }
+.definition dd > :last-child { margin-bottom: 0; }
+.definition .definition-example { color: var(--muted); font-size: .95em; }
+@media (max-width: 480px) { .definition { padding: 18px; } .definition dt { font-size: 18px; } }
+@media print { .definition { border-color: #777; padding: 14px; } .definition dt { font-size: 13pt; } }

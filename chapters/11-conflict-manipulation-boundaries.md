@@ -10,13 +10,29 @@ If the situation includes threats, fear or control over your safety or essential
 
 Conflict can involve incompatible preferences, unclear agreements or actions that harm another person. Not every conflict is abuse, and abuse should not be reduced to a mutual communication problem.
 
-For practical use in this chapter, **manipulation** means influencing through methods that undermine an informed, voluntary choice—for example, concealing important terms or using a misleading account to impose an obligation. This working description directs attention to conduct. It is not a clinical category or a test of someone's personality.
+<section class="definition" markdown="1" aria-label="Definition: Manipulation">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-manipulation"><dfn><a href="../glossary.md#manipulation">Manipulation</a></dfn></dt>
+<dd><p>In this book, influencing someone in a way that makes it harder for them to choose freely with the information they need.</p><p class="definition-example"><strong>Example:</strong> Imagine Martin knowingly tells the family you agreed to organise the gathering, although you agreed only to bring food, to pressure you into taking on the extra work.</p></dd>
+</dl>
+</section>
+
+This is the book’s working description of manipulation. It directs attention to conduct; it is not a clinical category or a test of someone’s personality.
 
 Ask what happened and what options remain. Did Martin acknowledge a correction? Did he pressure you after you declined? Can you refuse without threats or loss of essential support? Those questions are more useful than deciding whether he is “a manipulator” in every part of his life.
 
 A serious threat can require action immediately. You do not need to wait for repetition before treating it seriously. For less clear events, a pattern across occasions may help distinguish an isolated misunderstanding from an arrangement that repeatedly overrides your choices.
 
 ## Use “gaslighting” carefully without minimising harm
+
+<section class="definition" markdown="1" aria-label="Definition: Gaslighting">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-gaslighting"><dfn><a href="../glossary.md#gaslighting">Gaslighting</a></dfn></dt>
+<dd><p>Psychological abuse that undermines someone’s trust in their own memory, perceptions or judgment. One disagreement about a memory is not enough to establish it.</p><p class="definition-example"><strong>Example:</strong> Someone repeatedly denies events, dismisses evidence and tells others that the person challenging them cannot trust their own memory. This pattern warrants concern and support; the example alone is not a test for abuse.</p></dd>
+</dl>
+</section>
 
 Sweet's sociological analysis examines gaslighting as psychological abuse that undermines a person's confidence in their reality, with domestic violence as its strategic case. It connects this process to power and social inequalities, including the use of stereotypes and institutions to discredit a victim. This qualitative and theoretical account illuminates mechanisms; it is not a diagnostic checklist for every disagreement or a prevalence estimate. [Sweet, 2019](https://doi.org/10.1177/0003122419874843).
 
@@ -43,6 +59,14 @@ If writing or storing notes could put you at risk, do not use this exercise as a
 </section>
 
 ## Make a boundary about what you can do
+
+<section class="definition" markdown="1" aria-label="Definition: Boundary">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-boundary"><dfn><a href="../glossary.md#boundary">Boundary</a></dfn></dt>
+<dd><p>A limit on what you will accept or take part in, backed by an action you can take.</p><p class="definition-example"><strong>Example:</strong> “I will bring food, but I will not organise a gathering I did not agree to organise.”</p></dd>
+</dl>
+</section>
 
 A request asks another person to act differently. An agreement sets terms both accept. A boundary states the limit you will act on. All three may be useful:
 

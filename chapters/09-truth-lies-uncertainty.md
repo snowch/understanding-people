@@ -23,6 +23,14 @@ You can notice discomfort and respond to it without deciding what caused it: “
 
 Keep three things separate: the person's manner, the account they give and evidence outside that account.
 
+<section class="definition" markdown="1" aria-label="Definition: Corroboration">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-corroboration"><dfn><a href="../glossary.md#corroboration">Corroboration</a></dfn></dt>
+<dd><p>Additional evidence that supports a claim, especially evidence from an independent source.</p><p class="definition-example"><strong>Example:</strong> A supplier’s order confirmation supports the contractor’s statement that a part was ordered.</p></dd>
+</dl>
+</section>
+
 | Question | What it can establish |
 | --- | --- |
 | What exactly is being claimed? | The event, timing and details that need checking. |

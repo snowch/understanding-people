@@ -4,7 +4,7 @@ A science-informed guide to understanding what drives people—including ourselv
 
 [Read the book](https://snowch.github.io/understanding-people/) · [Contents](contents.md) · [Evidence standards](evidence.md)
 
-This is a complete first editorial draft: an introduction, twelve developed chapters, reading routes, a practical worksheet, an annotated source list, and reading, author and support pages. All chapters include key takeaways and practical exercises. It has not undergone external subject-matter review.
+This is a complete first editorial draft: an introduction, twelve developed chapters, reading routes, a practical worksheet, an annotated source list, a glossary, and reading, author and support pages. All chapters include key takeaways and practical exercises. It has not undergone external subject-matter review.
 
 The book draws on psychology, sociology, anthropology and decision science. Examples span work, friendship, family life, learning, public life and commercial decisions. Investigative interviewing and deception are assessed against evidence, including the limits of claims associated with the FBI.
 
@@ -41,3 +41,5 @@ End each chapter with a “Key takeaways” section containing 3–5 short bulle
 Chapter 1 models a focused teaching sequence: a central distinction, a worked example, a short attempt before revealing an answer, and a closing recall-and-application exercise. Optional answers use `details.answer-check`; supporting research detail uses `details.evidence-detail`. Both use native keyboard-accessible summaries and show their contents in print. Keep citations beside the claims they support, including inside optional evidence notes.
 
 Use direct, everyday English. Prefer concrete questions such as “What did they say?” and “Why do you think they said it?” over abstract shorthand such as “What have you added?” or “Act on the impact”. Explain the idea through an example before naming a technical term. Apply the same standard to headings, exercises and research notes; a short sentence is only helpful if its meaning is clear.
+
+Definitions use an outlined `section.definition` containing a visible Definition label and a semantic definition list (`dl`, `dt`, `dd`). Put each term in `dfn`, link it to `glossary.md#term-id`, and give its chapter definition the ID `definition-term-id`. Include a brief plain-English meaning and a clearly labelled example. Keep research findings, citations and qualifications outside the box in the following text. Related terms may share a box. Add the same meaning and example to the alphabetical glossary, with a link back to the precise chapter definition; update both copies together. Use boxes for terms readers need help with rather than explaining every ordinary word.

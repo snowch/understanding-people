@@ -55,7 +55,15 @@ The third reason is still possible. You are not being asked to excuse Rowan. You
 
 Be careful about how you read the next message. If Rowan replies quickly, do you think, “They had their excuse ready”? If Rowan replies slowly, do you think, “They are avoiding me”? If either reply seems to prove Rowan is against you, you may be giving your first guess too much weight.
 
-Researchers call this **confirmation bias**: looking for information, or reading it in a way, that supports what you already believe. Nickerson's review describes this across many kinds of reasoning. It does not tell us whether you or Rowan are right in this example. [Nickerson, 1998](https://doi.org/10.1037/1089-2680.2.2.175).
+<section class="definition" markdown="1" aria-label="Definition: Confirmation bias">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-confirmation-bias"><dfn><a href="../glossary.md#confirmation-bias">Confirmation bias</a></dfn></dt>
+<dd><p>Looking for information—or understanding it in a way—that supports what you already believe.</p><p class="definition-example"><strong>Example:</strong> You think Rowan dislikes your idea. You notice every criticism but overlook the positive comments.</p></dd>
+</dl>
+</section>
+
+Nickerson’s review describes confirmation bias across many kinds of reasoning. It does not tell us whether you or Rowan are right in this example. [Nickerson, 1998](https://doi.org/10.1037/1089-2680.2.2.175).
 
 ## What could you ask Rowan?
 
@@ -103,7 +111,15 @@ If asking someone directly could put you at risk, use the [support page](../supp
 
 ## What does the research say?
 
-Gilbert and Malone reviewed research on how we explain other people's behaviour. They describe a mistake called **correspondence bias**: deciding that an action shows what someone is like, while overlooking the situation they were in. For example, one blunt comment might lead you to call someone a rude person without considering what else was happening. This does not mean every judgment about character is wrong. [Gilbert and Malone, 1995](https://pubmed.ncbi.nlm.nih.gov/7870861/).
+<section class="definition" markdown="1" aria-label="Definition: Correspondence bias">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-correspondence-bias"><dfn><a href="../glossary.md#correspondence-bias">Correspondence bias</a></dfn></dt>
+<dd><p>Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.</p><p class="definition-example"><strong>Example:</strong> You decide Rowan is an unhelpful person after one critical comment, without checking whether a new budget problem affected the proposal.</p></dd>
+</dl>
+</section>
+
+Gilbert and Malone reviewed research on correspondence bias. Their account gives us a reason to consider someone’s situation before judging their character. It does not mean every judgment about character is wrong. [Gilbert and Malone, 1995](https://pubmed.ncbi.nlm.nih.gov/7870861/).
 
 For everyday use, ask: **“What did they say or do? Why do I think they did it? How could I check?”**
 

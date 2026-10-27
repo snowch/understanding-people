@@ -22,7 +22,17 @@ A motivational speech addresses only some possibilities. It cannot change a bus 
 
 ## What kind of reason is moving you?
 
-Self-determination theory distinguishes enjoyment from acting for an outcome. The latter includes both pressure and personally valued goals, so “intrinsic versus extrinsic” is not simply “good versus bad”. Ryan and Deci review these distinctions in education. [Ryan and Deci, 2020](https://doi.org/10.1016/j.cedpsych.2020.101860).
+<section class="definition" markdown="1" aria-label="Definitions: Intrinsic motivation, Extrinsic motivation">
+<p class="definition-label">Definitions</p>
+<dl>
+<dt id="definition-intrinsic-motivation"><dfn><a href="../glossary.md#intrinsic-motivation">Intrinsic motivation</a></dfn></dt>
+<dd><p>Doing an activity because you enjoy it or find the activity itself interesting.</p><p class="definition-example"><strong>Example:</strong> Leila gardens because she enjoys growing plants.</p></dd>
+<dt id="definition-extrinsic-motivation"><dfn><a href="../glossary.md#extrinsic-motivation">Extrinsic motivation</a></dfn></dt>
+<dd><p>Doing an activity for a result beyond the activity itself. The result may matter to you personally, or you may feel pressure to obtain it.</p><p class="definition-example"><strong>Example:</strong> Leila gardens because she values improving the neighbourhood, even on days when she does not enjoy the work.</p></dd>
+</dl>
+</section>
+
+Self-determination theory distinguishes these reasons for acting. Extrinsic motivation includes both pressure and personally valued goals, so “intrinsic versus extrinsic” is not simply “good versus bad”. Ryan and Deci review these distinctions in education. [Ryan and Deci, 2020](https://doi.org/10.1016/j.cedpsych.2020.101860).
 
 Leila might enjoy growing things, value contributing to her neighbourhood, want companionship and feel guilty about disappointing the organiser. These reasons can coexist. A useful conversation asks which ones matter to her, rather than assigning a hidden motive.
 
@@ -45,7 +55,19 @@ Look for competing reasons rather than a single score for motivation. If you are
 
 ## Does the activity offer choice, confidence and connection?
 
-Ryan and Deci describe three psychological needs within self-determination theory: **autonomy**, experiencing ownership of one's actions; **competence**, feeling capable of acting effectively; and **relatedness**, feeling connected to others. These are features to investigate, not a way to classify Leila. The review's emphasis is education; applying these questions to the garden is our practical extension. [Ryan and Deci, 2020](https://doi.org/10.1016/j.cedpsych.2020.101860).
+<section class="definition" markdown="1" aria-label="Definitions: Autonomy, Competence, Relatedness">
+<p class="definition-label">Definitions</p>
+<dl>
+<dt id="definition-autonomy"><dfn><a href="../glossary.md#autonomy">Autonomy</a></dfn></dt>
+<dd><p>Feeling that an action is your own choice and that you agree with doing it. This can include choosing to accept help.</p><p class="definition-example"><strong>Example:</strong> Leila chooses an occasional gardening session because it fits what she wants to contribute.</p></dd>
+<dt id="definition-competence"><dfn><a href="../glossary.md#competence">Competence</a></dfn></dt>
+<dd><p>In self-determination theory, feeling able to handle a task and make progress.</p><p class="definition-example"><strong>Example:</strong> After someone shows Leila how to plant a seedling, she feels able to do the next one herself.</p></dd>
+<dt id="definition-relatedness"><dfn><a href="../glossary.md#relatedness">Relatedness</a></dfn></dt>
+<dd><p>Feeling connected to other people and cared about by them.</p><p class="definition-example"><strong>Example:</strong> Leila feels welcome when another gardener remembers her name and invites her to work alongside them.</p></dd>
+</dl>
+</section>
+
+Ryan and Deci describe these three psychological needs within self-determination theory. They are features to investigate, not a way to classify Leila. The review’s emphasis is education; applying these questions to the garden is our practical extension. [Ryan and Deci, 2020](https://doi.org/10.1016/j.cedpsych.2020.101860).
 
 Perhaps Leila signed up for a regular slot because she thought that was the only acceptable contribution. Perhaps she worries that everyone else knows more about gardening. Perhaps “just come along” leaves her unsure who will greet her. Asking about these possibilities leads to different responses: a choice of commitments, a clear introductory task or a named person to meet.
 
@@ -83,7 +105,15 @@ The organiser also has goals: sufficient help, fair workloads and less uncertain
 
 Once Leila chooses a workable arrangement, a plan can connect an intention to a particular moment: “If the care visit finishes by ten, I will take the ten-twenty bus and meet Sam at the gate. If it runs late, I will message Sam and use the next agreed date.”
 
-Planning research examines approaches such as specifying when and how to act, including **if–then plans**. Hagger and Luszczynska's review reports support for planning interventions in health behaviour, alongside substantial variation in effects and limitations in study designs and measurement. A plan is worth considering when an action is feasible; the evidence does not make it a universal remedy for structural barriers. [Hagger and Luszczynska, 2014](https://doi.org/10.1111/aphw.12017).
+<section class="definition" markdown="1" aria-label="Definition: If–then plan">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-if-then-plan"><dfn><a href="../glossary.md#if-then-plan">If–then plan</a></dfn></dt>
+<dd><p>A plan that connects a particular situation to an action: if that situation occurs, you will do the planned action.</p><p class="definition-example"><strong>Example:</strong> Leila plans: “If the care visit finishes by ten, I will take the ten-twenty bus.”</p></dd>
+</dl>
+</section>
+
+Hagger and Luszczynska’s review reports support for planning interventions in health behaviour, alongside substantial variation in effects and limitations in study designs and measurement. A plan is worth considering when an action is feasible; the evidence does not make it a universal remedy for structural barriers. [Hagger and Luszczynska, 2014](https://doi.org/10.1111/aphw.12017).
 
 
 

@@ -6,7 +6,17 @@ The contradiction comes partly from treating a label as a rule. Size, familiarit
 
 ## Use traits as dimensions, not compartments
 
-The Big Five is a family of models describing broad personality dimensions. In the BFI-2 measure, these are extraversion, agreeableness, conscientiousness, negative emotionality and open-mindedness, with narrower facets within them. Soto and John's development and validation studies support that particular measurement approach; they do not make a casual impression equivalent to a measured score. [Soto and John, 2017](https://pubmed.ncbi.nlm.nih.gov/27055049/).
+<section class="definition" markdown="1" aria-label="Definitions: Personality trait, Big Five">
+<p class="definition-label">Definitions</p>
+<dl>
+<dt id="definition-personality-trait"><dfn><a href="../glossary.md#personality-trait">Personality trait</a></dfn></dt>
+<dd><p>A tendency in how someone thinks, feels or behaves across occasions. It does not describe everything they do.</p><p class="definition-example"><strong>Example:</strong> Alex often prefers quieter gatherings but sometimes enjoys a large party.</p></dd>
+<dt id="definition-big-five"><dfn><a href="../glossary.md#big-five">Big Five</a></dfn></dt>
+<dd><p>A way of describing personality using five broad dimensions, with people varying along each one. These are dimensions, not five types of person.</p><p class="definition-example"><strong>Example:</strong> Alex can be less outgoing than a friend while being similarly organised. One dimension does not decide the others.</p></dd>
+</dl>
+</section>
+
+In one measure, the BFI-2, the five dimensions are extraversion, agreeableness, conscientiousness, negative emotionality and open-mindedness, with narrower facets within them. Soto and John's development and validation studies support that particular measurement approach; they do not make a casual impression equivalent to a measured score. [Soto and John, 2017](https://pubmed.ncbi.nlm.nih.gov/27055049/).
 
 Think of a dimension as “more or less of a tendency across relevant observations”, rather than membership of a sealed category. A broad score also compresses distinctions: enjoying company, being assertive and feeling energetic need not show up identically in one person's life.
 
@@ -42,7 +52,15 @@ Use the pattern to identify a workable adjustment. Do not turn a short record in
 
 Alex also wants to read in the evening, yet reaches for the phone whenever sitting on the sofa. This may involve a habit rather than a fresh decision that reading is unimportant.
 
-Wood and Rünger's review describes habits as learned responses associated with recurring contexts, developing through repetition and interacting with deliberate goals. Repeating an action does not, on its own, show that the person currently endorses its outcome. [Wood and Rünger, 2016](https://pubmed.ncbi.nlm.nih.gov/26361052/).
+<section class="definition" markdown="1" aria-label="Definition: Habit">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-habit"><dfn><a href="../glossary.md#habit">Habit</a></dfn></dt>
+<dd><p>A learned tendency to respond fairly automatically when a familiar situation occurs.</p><p class="definition-example"><strong>Example:</strong> Alex sits on the sofa and reaches for the phone before deciding how to spend the evening.</p></dd>
+</dl>
+</section>
+
+Wood and Rünger’s review explains how habits develop through repetition and interact with deliberate goals. Repeating an action does not, on its own, show that the person currently endorses its outcome. [Wood and Rünger, 2016](https://pubmed.ncbi.nlm.nih.gov/26361052/).
 
 For our example, inspect the sequence: arrive home, sit down, see the phone, open an app. Then ask what happens on evenings when Alex reads. Perhaps the book is already open on a table, or the phone is charging elsewhere. These observations suggest a practical change to try; they do not prove the mechanism.
 

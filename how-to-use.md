@@ -20,6 +20,8 @@ If you are thinking about someone else, include **your own part in the interacti
 
 ## Know what each element means
 
+Outlined boxes labelled **Definition** explain unfamiliar terms in plain English and give an example. Select the term to find it in the alphabetical [glossary](glossary.md). Each glossary entry links back to its explanation in a chapter.
+
 Research claims have nearby source links and a description of the relevant limits. Possible explanations are presented as possibilities. Suggested conversations and action panels are practical applications unless a passage explicitly describes a tested intervention. See the [evidence standards](evidence.md) for more detail.
 
 All named scenarios are fictional teaching examples. They show how an explanation might develop; they are not case-study evidence that an approach succeeds.

@@ -50,7 +50,15 @@ Suppose a fictional screening rule flags behaviour thought to indicate deliberat
 | Deliberately broke the rule: 10 people | 8 | 2 |
 | Did not deliberately break it: 990 people | 99 | 891 |
 
-There are 107 flagged people, only 8 of whom deliberately broke the rule: about 7.5%. Detecting 80% of actual cases does **not** mean that 80% of flagged people are cases. The starting frequency—often called the **base rate**—and false alarms both matter. These numbers illustrate arithmetic; they describe no real screening tool or population.
+<section class="definition" markdown="1" aria-label="Definition: Base rate">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-base-rate"><dfn><a href="../glossary.md#base-rate">Base rate</a></dfn></dt>
+<dd><p>How common something is in the relevant group before you consider a particular clue or test result.</p><p class="definition-example"><strong>Example:</strong> In Chapter 2’s invented group, 10 of 1,000 people deliberately broke the rule. The base rate is 1%.</p></dd>
+</dl>
+</section>
+
+There are 107 flagged people, only 8 of whom deliberately broke the rule: about 7.5%. Detecting 80% of actual cases does **not** mean that 80% of flagged people are cases. The base rate and false alarms both matter. These numbers illustrate arithmetic; they describe no real screening tool or population.
 
 Gigerenzer and Hoffrage's experiments found that presenting information in frequency formats could improve performance on Bayesian reasoning problems. That supports trying counts such as “8 out of 107” when probabilities become confusing. It does not supply a base rate for suspicious behaviour in your own life. [Gigerenzer and Hoffrage, 1995](https://doi.org/10.1037/0033-295X.102.4.684).
 

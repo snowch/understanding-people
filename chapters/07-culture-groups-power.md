@@ -16,7 +16,17 @@ For the courtyard, ask how this particular association conducts disagreement. Ar
 
 ## Distinguish what people do from what they are expected to do
 
-A **descriptive norm** concerns what is commonly done. A **prescriptive norm** concerns what is considered appropriate. For this book, the distinction is a practical way to investigate expectations: “Most people stay quiet” is different from “People will disapprove if I object.”
+<section class="definition" markdown="1" aria-label="Definitions: Descriptive norm, Prescriptive norm">
+<p class="definition-label">Definitions</p>
+<dl>
+<dt id="definition-descriptive-norm"><dfn><a href="../glossary.md#descriptive-norm">Descriptive norm</a></dfn></dt>
+<dd><p>What people in a group commonly do, or believe others commonly do.</p><p class="definition-example"><strong>Example:</strong> At the residents’ meeting, newcomers usually stay quiet.</p></dd>
+<dt id="definition-prescriptive-norm"><dfn><a href="../glossary.md#prescriptive-norm">Prescriptive norm</a></dfn></dt>
+<dd><p>What people in a group believe others expect or approve of.</p><p class="definition-example"><strong>Example:</strong> A newcomer believes that members will disapprove if they interrupt the chair.</p></dd>
+</dl>
+</section>
+
+For this book, these terms help us ask about two different things: what usually happens in a group and what its members think should happen.
 
 The chair may believe that anyone is welcome to speak because the agenda says so. Members may instead learn the effective rule by watching what happens to someone who challenges a proposal. Examine both the stated arrangement and its operation.
 

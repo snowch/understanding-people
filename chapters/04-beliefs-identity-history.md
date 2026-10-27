@@ -21,7 +21,15 @@ These are alternatives to ask about, not hidden meanings to announce. Dev may si
 
 ## Notice when a conclusion has something to protect
 
-Kunda's review of **motivated reasoning** distinguishes wanting an accurate answer from wanting a particular answer. Desired conclusions can influence how people access and evaluate reasons, within the limits of what they can justify to themselves. The review does not mean that disagreement proves a concealed motive or that people can believe anything they wish. [Kunda, 1990](https://pubmed.ncbi.nlm.nih.gov/2270237/).
+<section class="definition" markdown="1" aria-label="Definition: Motivated reasoning">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-motivated-reasoning"><dfn><a href="../glossary.md#motivated-reasoning">Motivated reasoning</a></dfn></dt>
+<dd><p>Reasoning in which what you want to be true influences how you judge the information.</p><p class="definition-example"><strong>Example:</strong> Maya wants to see herself as a considerate friend, so she quickly dismisses Dev’s complaint that her public offer was embarrassing.</p></dd>
+</dl>
+</section>
+
+Kunda’s review distinguishes wanting an accurate answer from wanting a particular answer. Desired conclusions can influence how people access and evaluate reasons, within the limits of what they can justify to themselves. The review does not mean that disagreement proves a concealed motive or that people can believe anything they wish. [Kunda, 1990](https://pubmed.ncbi.nlm.nih.gov/2270237/).
 
 In this example, Maya wants to see herself as a considerate friend. That could make it harder to hear that her offer felt embarrassing. Dev may value self-reliance and interpret assistance through that concern. Both possibilities deserve examination; neither is established by the exchange.
 
@@ -41,7 +49,15 @@ Look for a consequence such as embarrassment, a changed plan, an apology or givi
 
 Dev might have experienced gifts that later became obligations. He might have no such history. Maya cannot infer a past betrayal, childhood experience or trauma from one refusal.
 
-McAdams and McLean describe **narrative identity** as an evolving account that connects a person's reconstructed past with their imagined future. Their review examines how people make meaning through these stories and identifies unresolved questions about causality and cultural context. A person's account can illuminate what matters to them; it is not a complete or independently verified record of every event. [McAdams and McLean, 2013](https://doi.org/10.1177/0963721413475622).
+<section class="definition" markdown="1" aria-label="Definition: Narrative identity">
+<p class="definition-label">Definition</p>
+<dl>
+<dt id="definition-narrative-identity"><dfn><a href="../glossary.md#narrative-identity">Narrative identity</a></dfn></dt>
+<dd><p>The changing story you tell about your life: how your past, present and hopes for the future fit together.</p><p class="definition-example"><strong>Example:</strong> Dev sees himself as someone who has learned to manage alone and wants to remain independent.</p></dd>
+</dl>
+</section>
+
+McAdams and McLean’s review examines how people make meaning through their life stories and identifies unresolved questions about causality and cultural context. A person’s account can illuminate what matters to them; it is not a complete or independently verified record of every event. [McAdams and McLean, 2013](https://doi.org/10.1177/0963721413475622).
 
 The everyday implication is a question, not an excavation: “Is there something about this kind of offer that you want me to understand?” Dev can answer at the level he chooses. “I prefer to keep money separate from friendships” is enough to guide Maya without requiring him to justify it through intimate history.
 

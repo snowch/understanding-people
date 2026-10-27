@@ -38,7 +38,7 @@ For yourself, check whether your wish to see visible effort is obscuring what wo
 
 ## Incentives and interest do not have one simple relationship
 
-Cerasoli, Nicklin and Ford's meta-analysis examined intrinsic motivation, incentives and performance across school, work and physical domains. Intrinsic motivation was particularly relevant to performance quality, while incentives were stronger predictors of quantity in their joint analyses. The relationship varied with how incentives were tied to performance. This synthesis does not support either “rewards always work” or “rewards always destroy motivation”, and it does not identify the best arrangement for this music group. [Cerasoli and colleagues, 2014](https://pubmed.ncbi.nlm.nih.gov/24491020/).
+Cerasoli, Nicklin and Ford's meta-analysis examined [intrinsic motivation](../glossary.md#intrinsic-motivation), incentives and performance across school, work and physical domains. Intrinsic motivation was particularly relevant to performance quality, while incentives were stronger predictors of quantity in their joint analyses. The relationship varied with how incentives were tied to performance. This synthesis does not support either “rewards always work” or “rewards always destroy motivation”, and it does not identify the best arrangement for this music group. [Cerasoli and colleagues, 2014](https://pubmed.ncbi.nlm.nih.gov/24491020/).
 
 Elena can therefore ask a more concrete question: what might a reward encourage members to do? Paying attention to preparation is different from rewarding the largest number of logged minutes. A public comparison also changes what members disclose to one another; that choice needs agreement, not just an assumption that visibility is motivating.
 

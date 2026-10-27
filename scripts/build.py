@@ -35,6 +35,7 @@ PAGES = [
     ("chapters/12-putting-understanding-to-work.md", "Putting understanding to work"),
     ("worksheet.md", "Situation worksheet"),
     ("support.md", "When to seek other help"),
+    ("glossary.md", "Glossary"),
     ("references.md", "Sources & further reading"),
     ("about.md", "About the book & author"),
 ]

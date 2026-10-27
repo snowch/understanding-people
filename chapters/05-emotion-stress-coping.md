@@ -14,6 +14,16 @@ Taking a feeling seriously does not settle the facts behind it. “I understand 
 
 ## Stress can change what is manageable
 
+<section class="definition" markdown="1" aria-label="Definitions: Working memory, Cognitive flexibility">
+<p class="definition-label">Definitions</p>
+<dl>
+<dt id="definition-working-memory"><dfn><a href="../glossary.md#working-memory">Working memory</a></dfn></dt>
+<dd><p>Holding a small amount of information in mind while using it.</p><p class="definition-example"><strong>Example:</strong> Noor keeps two possible visit dates in mind while checking which one fits her other plans.</p></dd>
+<dt id="definition-cognitive-flexibility"><dfn><a href="../glossary.md#cognitive-flexibility">Cognitive flexibility</a></dfn></dt>
+<dd><p>Being able to switch between ways of thinking or approaches when the task calls for it.</p><p class="definition-example"><strong>Example:</strong> When neither proposed visit date works, Noor considers a shorter visit on a different weekend.</p></dd>
+</dl>
+</section>
+
 Shields, Sazma and Yonelinas's meta-analysis found that acute stress impaired working memory and cognitive flexibility on average, with more complex effects on inhibition and variation across study conditions. These findings concern measured cognitive tasks; they cannot diagnose Noor's state or imply that stress makes everyone incapable of reasoning. [Shields and colleagues, 2016](https://pubmed.ncbi.nlm.nih.gov/27371161/).
 
 The practical possibility is that the same request may be easier at another time or in a simpler form. Noor's brother might ask, “Do you want me to send the two dates so you can reply tomorrow?” That changes the demand without deciding why she struggled.
