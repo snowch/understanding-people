@@ -60,15 +60,7 @@ The outcome you need may be a reliable delivery plan. You can request evidence a
 
 Before deciding how credible the contractor seems, ask what you want to be true. Perhaps you need the repair finished before a family visit and are accepting an unclear reassurance. Or a previous bad experience has left you ready to interpret any hesitation as dishonesty. These possibilities concern your judgment, not evidence about this contractor.
 
-<section class="reader-action" markdown="1" aria-labelledby="same-check">
 
-### Try this: use the same check for a welcome answer {#same-check}
-
-Write the claim you need to verify and the information that would address it. Would you ask for that information if the speaker were familiar, confident, or saying exactly what you hoped to hear?
-
-Choose a proportionate check you could explain without making an accusation—for example, confirming the delivery date from the order record.
-
-</section>
 
 ## Do not turn uncertainty into an accusation
 
@@ -77,3 +69,25 @@ An inconsistency warrants attention, but is not automatically a deliberate lie. 
 You may never settle the motive. Repeated missed commitments can still justify changing arrangements. In personal relationships, repeated harmful behaviour can justify a boundary without a definitive finding about someone's internal state.
 
 The aim is a defensible decision based on relevant information. It is not the ability to read guilt from a face.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Unaided truth–lie judgments were only modestly above chance on average in the reviewed research; that average does not tell you whether a particular person is lying.
+- Nervousness, gaze and movement are unreliable guides to deception.
+- Check the specific claim against relevant evidence, including the provenance and limits of any records.
+- Ask whether you would seek the same evidence for an answer you wanted to hear.
+- An inconsistency is not proof of a lie, but unresolved motives need not prevent a proportionate decision or boundary.
+
+</section>
+
+<section class="reader-action" markdown="1" aria-labelledby="same-check">
+
+### Put it into practice: use the same check for a welcome answer {#same-check}
+
+Write the claim you need to verify and the information that would address it. Would you ask for that information if the speaker were familiar, confident, or saying exactly what you hoped to hear?
+
+Choose a proportionate check you could explain without making an accusation—for example, confirming the delivery date from the order record.
+
+</section>

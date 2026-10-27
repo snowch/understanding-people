@@ -85,15 +85,7 @@ Once Leila chooses a workable arrangement, a plan can connect an intention to a 
 
 Planning research examines approaches such as specifying when and how to act, including **if–then plans**. Hagger and Luszczynska's review reports support for planning interventions in health behaviour, alongside substantial variation in effects and limitations in study designs and measurement. A plan is worth considering when an action is feasible; the evidence does not make it a universal remedy for structural barriers. [Hagger and Luszczynska, 2014](https://doi.org/10.1111/aphw.12017).
 
-<section class="reader-action" markdown="1" aria-labelledby="plan-one-step">
 
-### Put it into practice: agree on one feasible step {#plan-one-step}
-
-For a goal you still choose, write **when you will act, what the first action is, and what you will do if the main obstacle occurs**. Make the fallback a realistic alternative, including postponing or declining.
-
-If you are supporting someone else, agree on any reminder rather than imposing one. Set a time to review whether the arrangement helped, and whose effort it required.
-
-</section>
 
 ## Review what the change actually tells you
 
@@ -104,3 +96,25 @@ Suppose she still does not attend. Ask what happened before increasing the press
 For Leila, understanding herself means replacing “I am unreliable” with a more specific account she can act on. For the organiser, understanding her means seeing both a person with reasons and a setting with constraints. Neither account removes responsibility to communicate. Both make it easier to choose a commitment that can actually be kept.
 
 The same questions travel to studying, exercising, sharing household work and adopting a new process at work: **is the goal chosen, is action feasible, and what happens at the moment of doing it?** The answer determines whether the useful response is explanation, practice, a different arrangement, a plan—or an honest no.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Wanting to do something, having a workable opportunity and following through are different questions.
+- Enjoyment, personal value and pressure can coexist; ask which reasons matter to the person.
+- Look at time, resources, relationships and group arrangements alongside individual motivation.
+- For your own goals, consider what the commitment would displace and whether you still choose it.
+- Make a specific plan once action is feasible, then review what happened without treating one result as proof of a single cause.
+
+</section>
+
+<section class="reader-action" markdown="1" aria-labelledby="plan-one-step">
+
+### Put it into practice: agree on one feasible step {#plan-one-step}
+
+For a goal you still choose, write **when you will act, what the first action is, and what you will do if the main obstacle occurs**. Make the fallback a realistic alternative, including postponing or declining.
+
+If you are supporting someone else, agree on any reminder rather than imposing one. Set a time to review whether the arrangement helped, and whose effort it required.
+
+</section>

@@ -89,6 +89,18 @@ You can address the impact too: “If you identify a major issue before a meetin
 
 Where a conversation could expose you to retaliation or harm, use the [support page](../support.md) to consider a safer route. Understanding and protection can proceed together.
 
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Separate what happened from what you think it means.
+- Consider several explanations, including circumstances and constraints.
+- Check how your own expectations shape your interpretation.
+- You can respond to harmful behaviour without proving someone's motives.
+- Revise your explanation when new evidence appears.
+
+</section>
+
 <section class="reader-action" markdown="1" aria-labelledby="choose-response">
 
 ### Put it into practice: choose a response and a review point {#choose-response}
