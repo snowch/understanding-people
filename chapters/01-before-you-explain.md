@@ -59,7 +59,7 @@ Be careful about how you read the next message. If Rowan replies quickly, do you
 <p class="definition-label">Definition</p>
 <dl>
 <dt id="definition-confirmation-bias"><dfn><a href="../glossary.md#confirmation-bias">Confirmation bias</a></dfn></dt>
-<dd><p>Looking for information—or understanding it in a way—that supports what you already believe.</p><p class="definition-example"><strong>Example:</strong> You think Rowan dislikes your idea. You notice every criticism but overlook the positive comments.</p></dd>
+<dd><p>Looking for information—or understanding it in a way—that supports what you already believe.</p><p class="definition-example"><strong>Example:</strong> You think Rowan dislikes your idea, so you notice every criticism but overlook the positive comments. This is confirmation bias. You may not even realise you are doing it.</p></dd>
 </dl>
 </section>
 

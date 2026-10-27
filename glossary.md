@@ -56,7 +56,7 @@ In self-determination theory, feeling able to handle a task and make progress.
 
 Looking for information—or understanding it in a way—that supports what you already believe.
 
-**Example:** You think Rowan dislikes your idea. You notice every criticism but overlook the positive comments.
+**Example:** You think Rowan dislikes your idea, so you notice every criticism but overlook the positive comments. This is confirmation bias. You may not even realise you are doing it.
 
 [Read in Chapter 1](chapters/01-before-you-explain.md#definition-confirmation-bias).
 
