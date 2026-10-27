@@ -4,6 +4,14 @@ A local music group wants members to practise before rehearsal. Its organiser, E
 
 Elena wants members to play better together. A list of hours tells her how long they say they practised, but not how well they prepared. She needs to decide what improvement she wants before choosing a reward or ranking.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+Before adding a reward, reminder or pressure, ask: **“What improvement do we actually want?”**
+
+</section>
+
 ## Explain what you need and what the other person can choose {#start-with-a-shared-aim-and-an-honest-request}
 
 [Chapter 3](03-needs-motives-goals.md) asked why people want to act and what makes it possible. Here we ask what you can do when you need someone else’s help.
@@ -74,6 +82,45 @@ Return to Elena’s group. Suppose she sends a clear weekly note about what to p
 
 Check more than whether people did what you asked once. Did the work improve? Can they keep up the commitment? Who had to do extra work? Check your part too: did you give clear instructions and provide the help you promised?
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** A walking group rewards the person who logs the most kilometres. One member walks despite pain, while a newcomer feels that short walks do not count. The organiser’s aim was regular, enjoyable participation.
+
+**1. How could the measure improve while the real aim gets worse?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+Logged kilometres could rise while enjoyment, manageable participation or safety declines. Counting distance does not by itself show that the group is meeting its aim. [Revisit the explanation](#define-success).
+
+</details>
+
+**2. What could the organiser ask before choosing a new reward?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+“What would make regular walks workable and enjoyable for you?” could reveal different needs. Explain any requirements honestly and let people decline. More pressure cannot remove every practical difficulty. [Revisit the explanation](#diagnose-the-obstacle-before-increasing-the-pressure).
+
+</details>
+
+**3. What would show whether an agreed change helped?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+Check the intended result and the costs: whether members could participate comfortably, whether they wanted to continue and who did extra work. Research about rewards does not guarantee one arrangement will suit this group. [Revisit the explanation](#review-cooperation-from-both-sides).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -86,12 +133,16 @@ Check more than whether people did what you asked once. Did the work improve? Ca
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="agree-experiment">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="agree-experiment">
 
-### Put it into practice: agree on one workable change {#agree-experiment}
+### Put it into practice this week: check what your measure is encouraging {#agree-experiment}
 
-For something you and another person want to improve, agree on **what you want to happen**, **one difficulty to address**, **what each of you will do**, and **when you will check whether it helped**.
+Choose a goal you track, or an activity you help organise. This week ask **“What improvement do we actually want?”** Write what you count and how the count could rise without helping that goal.
 
-State what is optional and what is required. At the review, ask whether the change helped and whether either side needs to revise or end the commitment.
+Choose a better check or agree a small change with those affected. Note whether it helped, what effort it required and whether people still wanted to take part.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-10 | Check what your measure is encouraging -->
 
 </section>

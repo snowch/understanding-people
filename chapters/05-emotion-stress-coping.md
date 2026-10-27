@@ -4,6 +4,29 @@ At the end of a difficult day, Noor's brother sends a message asking when they c
 
 We know about Noor’s difficult day because this is a fictional example. Her brother does not yet know. In a real conversation, he would need to ask rather than assume that stress explained her reply. He can also tell her that her reply upset him.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When a conversation becomes difficult, ask: **“Would a different time or a smaller request help?”**
+
+</section>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+### Before reading on: recall Chapter 3 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **You mean to call a relative but keep missing the time when they are free. What should you ask before calling yourself uncaring?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+Ask whether you still want to call and what makes doing it difficult. A clash of schedules is different from a lack of interest. Look for a workable time. [Revisit the explanation](03-needs-motives-goals.md#wanting-choosing-and-doing-are-different-questions).
+
+</details>
+
+</section>
+
 ## What did Noor do, and how might she be feeling? {#separate-feeling-expression-and-action}
 
 Her brother read Noor’s short reply as sharp. He may guess that she is angry. If he then concludes that she does not care about the family, he has made another guess. The tone of her reply does not establish either explanation.
@@ -79,6 +102,45 @@ If the visit is still difficult to discuss the next day, timing may not explain 
 
 When thinking about your own response, ask both “What was making this difficult for me?” and “How did I treat the other person?” You may need support and also need to apologise or change something.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** After a noisy journey home, Amir gives a short answer when a housemate asks him to choose between six holiday options. The housemate decides Amir is angry with them.
+
+**1. What can the housemate tell from the short answer?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+They know Amir gave a short answer. They do not yet know whether he is angry, tired, distracted or unwilling to discuss the holiday. The difficult journey suggests a possibility, not a diagnosis of his feelings. [Revisit the explanation](#separate-feeling-expression-and-action).
+
+</details>
+
+**2. What change could they offer, and how could they tell whether it helped?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+They could ask whether Amir would prefer two options or a conversation tomorrow. Afterwards, check whether choosing became easier and whether the holiday question was resolved. A calmer mood alone does not settle the decision. [Revisit the explanation](#stress-can-change-what-is-manageable).
+
+</details>
+
+**3. If Amir explains that he was stressed, does that mean hurtful words no longer matter?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+No. Stress can help explain a response without excusing it. He can explain what was difficult and also acknowledge how he treated his housemate. [Revisit the explanation](#review-the-effect-including-your-contribution).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -91,12 +153,16 @@ When thinking about your own response, ask both “What was making this difficul
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="choose-adjustment">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="choose-adjustment">
 
-### Put it into practice: try a different time or way to talk {#choose-adjustment}
+### Put it into practice this week: change one conversation’s timing or demands {#choose-adjustment}
 
-Choose a conversation you can safely revisit. Agree on one change: **talk later, discuss fewer things, write down the options, or take a break and agree when to return**.
+In an ordinary, safe conversation this week, notice when you are asking for several decisions at once. Ask **“Would a different time or a smaller request help?”** Agree on one change.
 
-Afterwards, ask whether talking became easier and whether you made progress on the problem. Feeling calmer is helpful, but you may still need to decide what to do.
+If you pause, agree when to return. Afterwards, note whether talking became easier and whether you made progress on the actual problem. Include how you treated the other person.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-05 | Change one conversation’s timing or demands -->
 
 </section>

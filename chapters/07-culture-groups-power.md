@@ -6,6 +6,29 @@ One tenant, Salma, wanted to ask about children playing there. She did not know 
 
 Before judging someone’s silence, ask what makes speaking easy or risky in that group.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When someone stays quiet or does not join in, ask: **“What makes taking part easy or risky here?”**
+
+</section>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+### Before reading on: recall Chapter 4 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **You think you run welcoming meetings. A newcomer says they felt excluded. What might make that feedback hard to hear?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+You may want to protect your view of yourself as welcoming. Ask what happened and consider the answer even if it is uncomfortable. [Revisit the explanation](04-beliefs-identity-history.md#notice-when-a-conclusion-has-something-to-protect).
+
+</details>
+
+</section>
+
 ## Learn the group’s customs without assuming everyone is the same {#culture-supplies-meanings-not-a-script-for-each-person}
 
 Culture includes shared customs and ideas: what counts as polite, who speaks first, what people owe one another and which explanations seem reasonable. Families, workplaces and neighbourhoods can have their own customs, as can wider societies.
@@ -82,6 +105,45 @@ A tenant asks about play hours in advance. The chair includes the question and p
 
 Think about your own position. Would disagreeing put your home, job or an important relationship at risk? If not, the meeting may feel easier to you than to someone who faces those risks. Ask about the consequences instead of assuming everyone feels equally free to speak.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** At a school planning meeting, a teacher invites everyone to comment. Several new parents stay quiet. They were not sent the agenda, and one worries that criticism might affect how their child is treated.
+
+**1. What are two possible reasons for silence besides lack of interest?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+Some parents may lack the information needed to comment. Another may fear consequences. The example gives reasons to ask about information and risk before judging interest or confidence. [Revisit the explanation](#map-power-through-practical-questions).
+
+</details>
+
+**2. What is the difference between “new parents usually stay quiet” and “new parents are expected to stay quiet”?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+The first describes what commonly happens: a descriptive norm. The second describes an expectation: a prescriptive norm. What people do and what they think others approve of need not be the same. [Revisit the explanation](#distinguish-what-people-do-from-what-they-are-expected-to-do).
+
+</details>
+
+**3. What could the organiser change, and what should they avoid promising?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+Send the agenda in advance and ask how parents would prefer to contribute. Do not promise confidentiality or freedom from consequences unless those protections really exist. Check who can use the new arrangement and who still finds it risky. [Revisit the explanation](#improve-one-arrangement-then-check-whose-voice-it-reaches).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -94,12 +156,16 @@ Think about your own position. Would disagreeing put your home, job or an import
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="map-participation">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="map-participation">
 
-### Put it into practice: make it easier for someone to take part {#map-participation}
+### Put it into practice this week: notice an unwritten rule {#map-participation}
 
-Choose a group you help organise. Look for one difficulty: **unclear rules, an inconvenient meeting time, missing information or a risk of being punished for disagreeing**.
+Choose a group you already belong to. Once this week, ask **“What makes taking part easy or risky here?”** Notice what newcomers are told, what regular members do and what happens when someone disagrees.
 
-Ask the people affected what would help, without pressuring them to disclose anything. Make one change you can deliver, then check whether it helped and whether anyone still faces the same difficulty.
+If you can change an arrangement, ask what would help and try one change. Otherwise, note a question you would want answered. Do not pressure anyone to disclose a concern or speak publicly.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-07 | Notice an unwritten rule -->
 
 </section>

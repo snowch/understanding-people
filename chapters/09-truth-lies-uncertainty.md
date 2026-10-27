@@ -4,6 +4,29 @@ A contractor says a replacement part was ordered on Monday. When you ask for an 
 
 The delay matters, but looking away does not tell you why it happened. Start with what you need to find out: was the part ordered, when was it ordered, and when is it expected to arrive?
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When an answer matters to a decision, ask: **“What would help me check that?”**
+
+</section>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+### Before reading on: recall Chapter 2 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **A delivery service’s warning system flags 12 parcels. Only 3 are actually late. Does a warning usually mean a parcel is late in this invented example?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+No. Only 3 of 12 flagged parcels are late; 9 are false alarms. Look at how often a warning is wrong before treating it as proof. [Revisit the explanation](02-what-counts-as-knowing.md#count-the-ordinary-cases-as-well-as-the-striking-ones).
+
+</details>
+
+</section>
+
 ## What lie-detection research can tell us
 
 In a 2006 paper, Bond and DePaulo combined findings from 206 research reports involving 24,483 people making truth-or-lie judgments. Participants judged statements without the independent records an investigation might provide. On average, they were right about **54 times out of 100**. They were better at recognising truths than lies:
@@ -76,6 +99,45 @@ You may never know why the contractor missed a commitment. If it keeps happening
 
 The useful result is a decision you can explain using the available information—for example, asking for a confirmed delivery date or choosing another supplier.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** A seller says a used bicycle was serviced last week. They speak confidently but have not shown you a service record. You want the bicycle for a trip tomorrow.
+
+**1. What does the seller’s confidence establish?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+It tells you how confidently they speak, not whether the bicycle was serviced. Nervousness would not prove a lie either. Focus on the specific claim you need to check. [Revisit the explanation](#what-lie-detection-research-can-tell-us).
+
+</details>
+
+**2. What could you check, and what would that evidence still leave unanswered?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+Ask for a dated record that identifies the bicycle and the work done. Check where it came from. Such a record could support the service claim without proving every part is safe or every other statement is true. [Revisit the explanation](#evaluate-the-account).
+
+</details>
+
+**3. How might your trip affect your judgment, and must you prove a lie before declining?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+Wanting a bicycle tomorrow could make you accept reassurance too readily. You can decide there is not enough information to buy, without accusing the seller of lying. [Revisit the explanation](#include-your-own-stake-in-the-answer).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -88,12 +150,16 @@ The useful result is a decision you can explain using the available information�
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="same-check">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="same-check">
 
-### Put it into practice: check an answer you want to believe {#same-check}
+### Put it into practice this week: check a claim you want to believe {#same-check}
 
-Choose a statement from your own life that matters to a decision. Write what would help you check it. Would you ask for the same information if the speaker were someone you liked, or if the answer were exactly what you hoped to hear?
+Choose one ordinary claim this week that matters to a decision. Ask **“What would help me check that?”** Seek one relevant fact, such as a delivery confirmation or the written terms of an offer.
 
-Choose a useful check that fits the decision, such as asking for an order confirmation. Explain why you need it without making an accusation.
+Note what the information supports and what it leaves unanswered. Would you have asked for the same evidence if you disliked the answer? Avoid private surveillance or collecting unnecessary personal information.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-09 | Check a claim you want to believe -->
 
 </section>

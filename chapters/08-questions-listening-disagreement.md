@@ -4,6 +4,14 @@ Two friends are organising a shared holiday. Imani wants to book early; Rosa kee
 
 That answer changes the problem. It also shows the limit of imagining someone else's perspective: Imani had imagined Rosa choosing between destinations, while Rosa was deciding whether she could go at all.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+After someone explains a concern, pause before replying. **“Have I understood you correctly?”**
+
+</section>
+
 ## Ask the person instead of only imagining their answer {#get-information-instead-of-refining-a-guess}
 
 In a 2018 paper, Eyal, Steffel and Epley reported experiments testing whether imagining another person’s point of view helped people understand them accurately. Across 25 experiments, that instruction did not consistently improve accuracy. In a final experiment, talking to the person did help. This does not mean every answer will be complete or truthful; it shows the value of obtaining information you did not already have. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/29620401/).
@@ -89,6 +97,45 @@ If asking questions could lead to threats or harm, you do not have to continue. 
 
 Review your contribution afterwards. Did you learn something new, or merely secure agreement? Did you let the answer change your plan? Those questions are useful checks on whether your questions helped you understand.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** Tess wants her brother to help clear a storage room. He says, “Not this weekend.” Tess thinks he is avoiding the work. He later explains that he cannot lift heavy boxes while his wrist heals.
+
+**1. What could Tess ask before deciding he is avoiding the work?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+“What makes this weekend difficult?” leaves room for an explanation. “Why are you leaving all the work to me?” already assumes what his refusal means. He can decide how much personal information to share. [Revisit the explanation](#start-open-then-make-the-uncertainty-specific).
+
+</details>
+
+**2. How could Tess check that she understood without adding a new assumption?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+“Your wrist makes lifting difficult. Have I understood that correctly?” checks his answer. “So you’ll definitely help next weekend” adds a promise he has not made. [Revisit the explanation](#listen-for-correction-not-just-your-turn-to-speak).
+
+</details>
+
+**3. Tess remembers an earlier promise. What could she ask, and when should she stop asking?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+“What do you remember us agreeing?” avoids suggesting the answer. They can check a relevant message. Once he has explained what he can do and given an answer, repeated questions to force agreement become pressure. [Revisit the explanation](#keep-memory-questions-free-of-unnecessary-suggestion).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -101,12 +148,16 @@ Review your contribution afterwards. Did you learn something new, or merely secu
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="listen-check">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="listen-check">
 
-### Put it into practice: ask, listen and repeat what you understood {#listen-check}
+### Put it into practice this week: check one answer before giving yours {#listen-check}
 
-Choose an ordinary conversation where the other person is willing to talk. Ask an open question and let them finish. Say **“What I understand is…”** and let them correct you before you explain your view.
+In one ordinary conversation this week, let the other person finish. Say **“What I understand is…”** and then ask **“Have I understood you correctly?”**
 
-Write one thing you learned. Does it change what you will do next? You can understand each other better and still disagree.
+Let them correct you before explaining your view. Note what you learned and whether it changed your response. If they decline to discuss something, respect that answer.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-08 | Check one answer before giving yours -->
 
 </section>

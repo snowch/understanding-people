@@ -130,6 +130,33 @@ def check_links():
     return len(documents)
 
 
+def practice_notes(match):
+    """Expand a stable exercise marker into accessible, printable note fields."""
+    note_id, title = match.groups()
+    fields = [
+        ("event", "What happened?"),
+        ("thought", "What did I think it meant?"),
+        ("action", "What did I notice, ask or try?"),
+        ("review", "What did I learn, and what would I do differently next time?"),
+    ]
+    inputs = []
+    for key, label in fields:
+        field_id = f"{note_id}-{key}"
+        inputs.append(f'<div class="notes-field"><label for="{field_id}">{label}</label>'
+                      f'<textarea id="{field_id}" name="{key}" rows="3" maxlength="12000" '
+                      'autocomplete="off" spellcheck="false"></textarea>'
+                      '<div class="notes-print-value" aria-hidden="true"></div></div>')
+    return f'''<details class="practice-notes" data-notes-id="{note_id}" data-notes-title="{escape(title, quote=True)}">
+<summary>My practice notes: {escape(title)}</summary>
+<p class="notes-help">Notes save automatically in this browser on this device; they are not sent to the book’s author or synced to other devices. Anyone using this browser may be able to read them. Avoid names and sensitive details. Download a copy to keep: clearing browser data can remove saved notes.</p>
+<noscript><p>Automatic saving and downloading need JavaScript. You can copy your notes elsewhere or print this page for handwriting. Typing here without JavaScript will not save your notes.</p></noscript>
+<div class="notes-field"><label for="{note_id}-date">Date to return to these notes (optional)</label><input id="{note_id}-date" name="date" type="date"><div class="notes-print-value" aria-hidden="true"></div></div>
+{''.join(inputs)}
+<div class="notes-controls" hidden><button type="button" data-notes-download>Download these notes</button><button type="button" data-notes-delete>Delete these notes</button></div>
+<p class="notes-status" role="status" aria-live="polite"></p>
+</details>'''
+
+
 def build():
     sources = {}
     for name, label in PAGES:
@@ -150,6 +177,7 @@ def build():
         converter = markdown.Markdown(extensions=["tables", "fenced_code", "toc", "sane_lists", "md_in_html", "attr_list"],
                                       extension_configs={"toc": {"toc_depth": "2-3"}})
         body = converter.convert(text)
+        body = re.sub(r'<!-- practice-notes: ([a-z0-9-]+) \| ([^\n]+?) -->', practice_notes, body)
         body = re.sub(r'\b(href|src)="([^"]*)"', rewrite_link, body)
         body = body.replace("<table>", '<div class="table-scroll" role="region" aria-label="Comparison table" tabindex="0"><table>')
         body = body.replace("</table>", "</table></div>")
@@ -163,6 +191,8 @@ def build():
         home = relative(Path("index.html"), page)
         eyebrow = "A SCIENCE-INFORMED GUIDE" if name == "book.md" else "UNDERSTANDING PEOPLE · DRAFT EDITION"
         description = f"{title}. A science-informed guide to what drives people and how to respond."
+        notes_script = (f'<script defer src="{relative(Path("assets/practice.js"), page)}"></script>'
+                        if 'class="practice-notes"' in body else '')
         html = f'''<!doctype html>
 <html lang="en-GB">
 <head>
@@ -177,6 +207,7 @@ def build():
 <link rel="manifest" href="{relative(Path('manifest.webmanifest'), page)}">
 <link rel="stylesheet" href="{relative(Path('assets/book.css'), page)}?v={css_hash}">
 <script defer src="{relative(Path('assets/install.js'), page)}"></script>
+{notes_script}
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>

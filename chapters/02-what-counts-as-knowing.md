@@ -6,6 +6,14 @@ The pattern might be real, but it does not tell her why people attend. People wi
 
 Before using a pattern to judge someone, ask what it actually tells you.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When a pattern makes you want to change a rule, ask: **“What else could explain this pattern?”**
+
+</section>
+
 ## Are you asking what happened, what will happen, or why? {#separate-description-prediction-and-explanation}
 
 These questions look similar but ask for different things:
@@ -80,6 +88,45 @@ Two people can agree about the facts and still disagree about what is fair. One 
 
 Use the amount of checking that fits the decision. Trying a different booking reminder is reversible and inexpensive. Publicly accusing someone of dishonesty carries much greater consequences. Where safety is at stake, seeking protection need not wait for certainty about motive; see [Chapter 11](11-conflict-manipulation-boundaries.md).
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** A café owner notices that customers who use a loyalty card spend more. She says, “Giving everyone a card will make everyone spend more.”
+
+**1. What does the owner know, and what has she not established?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+She has noticed a link between card use and spending. She has not shown that the card causes extra spending. People who already visit often might be more likely to get a card. [Revisit the explanation](#separate-description-prediction-and-explanation).
+
+</details>
+
+**2. What could she check before making the claim?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+She could check whether card users were already spending more before getting their cards. That would help assess one explanation, though it would not settle every possible cause. A useful check could change her conclusion. [Revisit the explanation](#let-confidence-move-without-swinging-between-certainties).
+
+</details>
+
+**3. Here is a separate invented example. A warning flags 20 bookings: 2 really contain an error and 18 do not. If a booking is flagged, is it probably wrong?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+No. In these invented numbers, only 2 of the 20 flagged bookings contain an error: 10%. Count false alarms as well as correct warnings. This says nothing about a real booking system. [Revisit the explanation](#count-the-ordinary-cases-as-well-as-the-striking-ones).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -92,12 +139,16 @@ Use the amount of checking that fits the decision. Trying a different booking re
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="make-claim-checkable">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="make-claim-checkable">
 
-### Put it into practice: decide what you need to find out {#make-claim-checkable}
+### Put it into practice this week: check a pattern before explaining it {#make-claim-checkable}
 
-Choose a situation from your own life. Complete: **“I know…”**, **“I think the reason is…”**, **“I would change my mind if…”**, and **“I need to decide whether…”**
+Once this week, notice a claim that one thing makes another happen. Ask **“What else could explain this pattern?”** Write what was actually observed, another possible reason and one fact you could check.
 
-Choose one useful way to find out more, such as asking a question or checking a message. Decide how the answer could change what you do.
+Choose an ordinary decision, such as whether a reminder helps you arrive on time. You do not need to run an experiment on other people.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-02 | Check a pattern before explaining it -->
 
 </section>

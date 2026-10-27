@@ -6,6 +6,29 @@ You can start with what you know: you agreed to bring food, and Martin is tellin
 
 If the situation includes threats, fear or control over your safety or essential resources, begin with the [support page](../support.md). The conversations below assume it is reasonably safe to disagree.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When someone pressures you to accept something harmful or unwanted, ask: **“What can I safely do next?”**
+
+</section>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+### Before reading on: recall Chapter 8 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **Someone says they do not want to join your project. You keep asking why, hoping their answer will change. What should you notice?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+Your questions may have become pressure. If they understand the choice and have declined, you need to decide what to do with their answer. [Revisit the explanation](08-questions-listening-disagreement.md#know-when-to-stop-asking).
+
+</details>
+
+</section>
+
 ## Start with what the person did {#describe-the-conduct-before-deciding-what-to-call-it}
 
 People can disagree because they want different things or understood an agreement differently. They can also hurt, threaten or control each other. Abuse requires attention to the harmful behaviour; it should not be treated as a problem that both people can fix by communicating better.
@@ -98,6 +121,45 @@ Check how you react when someone says no to you. Do you accept the answer, or ke
 
 Understanding what happened should help you decide what needs to change. It should not keep you in harm’s way while you search for a perfect explanation.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** A friend repeatedly borrows your tools without asking. When you object, they call you selfish. You want the borrowing to stop but do not know why they keep doing it.
+
+**1. Do you need to establish a diagnosis or hidden motive before responding?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+No. You can describe the borrowing and decide what you will allow. Calling you selfish does not oblige you to lend tools. You do not need a label for the person to address what they do. [Revisit the explanation](#describe-the-conduct-before-deciding-what-to-call-it).
+
+</details>
+
+**2. Assuming it is safe to disagree, what limit could you act on yourself?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+“I won’t lend my tools without agreeing first, and I will keep them somewhere only I can access.” This states what you will do. “You must become more considerate” asks for change but is not an action you control. [Revisit the explanation](#make-a-boundary-about-what-you-can-do).
+
+</details>
+
+**3. Now change the situation: the person threatens you and controls your housing. Should you use the same conversation plan?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+No. Confronting them or changing access could increase the risk. Seek suitable support and a safer next step. Being unable to enforce a limit does not make you responsible for their threats or abuse. [Revisit the explanation](../support.md).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -110,12 +172,16 @@ Understanding what happened should help you decide what needs to change. It shou
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="choose-safe-limit">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="choose-safe-limit">
 
-### Put it into practice: choose a step you can safely take {#choose-safe-limit}
+### Put it into practice this week: choose a step you can safely take {#choose-safe-limit}
 
-If it is safe to disagree, write **what the person did**, **what you will ask for or stop agreeing to**, and **what you will do if it happens again**. Choose an action you can carry out yourself.
+Choose an ordinary situation where it is safe to disagree. Ask **“What can I safely do next?”** State what happened, what you will ask for or stop agreeing to, and an action you can carry out.
 
-If fear, monitoring, threats or dependency make that unsafe, choose a support step instead. You do not need to announce a boundary, confront the person or collect further evidence before asking for help.
+If there is fear, monitoring, threats or dependence, choose a support step instead. Do not keep notes if discovery could put you at risk. You do not need to confront someone to complete this exercise.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-11 | Choose a step you can safely take -->
 
 </section>

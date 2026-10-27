@@ -8,6 +8,14 @@ You might be right. But so far, **you know what Rowan said. You do not yet know 
 
 Before deciding what to do, try to find out a little more.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When you feel sure why someone acted as they did, pause. **“What do I know, and what am I guessing?”**
+
+</section>
+
 ## What did Rowan actually say?
 
 Compare these two sentences:
@@ -73,13 +81,31 @@ You could instead ask:
 
 > “On Tuesday you said the idea looked promising. Today you said it wasn't ready. What needs more work?”
 
-Then listen to the answer:
+Then listen to the answer. If you are still unsure, ask yourself: **“What would help me check that?”** You do not need to memorise a different tactic for every possible reply.
 
-- **“We found out yesterday that we cannot afford the extra staff.”** Check the figures. The idea may need to change.
-- **“I liked the idea, but I didn't think it was finished.”** Ask what still needs doing. Next time, check that you both mean the same thing before presenting it.
-- **Rowan gives no clear answer, and this keeps happening.** Ask for clear decisions in writing. Do not rely on private praise as a promise of support in a meeting.
+| Rowan’s answer | A question that helps you check it |
+| --- | --- |
+| “We cannot afford the extra staff.” | “Can we look at the figures?” |
+| “I liked the idea, but it wasn’t finished.” | “What still needs doing?” |
 
-You do not have to accept every answer as true. Compare it with relevant messages, documents and what Rowan does next. There may also be more than one reason: Rowan could see a real problem and want to protect their own reputation.
+Both questions ask for something specific. The figures might show a budget problem. A list of unfinished work might show that you understood “promising” differently. Compare the answer with the relevant information before deciding what to do.
+
+<section class="reader-action" markdown="1" aria-labelledby="check-an-answer">
+
+### Try this with Rowan: ask for something specific {#check-an-answer}
+
+Imagine Rowan instead says, “The timing is wrong.” **What could you ask to understand that answer?** Try saying a question before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Compare your question</summary>
+
+You could ask, “Which deadline or other commitment makes the timing difficult?” A useful question lets Rowan explain a specific problem. “Why are you making excuses?” assumes the answer is dishonest before checking it.
+
+</details>
+
+</section>
+
+There can be more than one reason for a response. Rowan could see a real problem and also want to protect their reputation. You may learn enough to improve the proposal without knowing every motive.
 
 ## Could you have misunderstood Rowan?
 
@@ -104,6 +130,8 @@ Even if you never find out why Rowan spoke that way, you can say:
 > “If you spot a problem before a meeting, please tell me beforehand so I have time to work on it.”
 
 You are asking for a specific change. You do not need to prove that Rowan wanted to hurt you.
+
+If Rowan repeatedly gives no clear answer, change what you rely on: ask for clear decisions in writing. Private praise is not a promise of support in a meeting. This is about managing a repeated problem; you do not need to keep asking the same question indefinitely.
 
 The same applies to the unanswered message. You can send a follow-up, wait, or talk to your friend about how often this happens. One late reply cannot tell you everything about the friendship.
 
@@ -136,6 +164,54 @@ Research carried out in one population may not apply everywhere. In their 2010 p
 
 </details>
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** You suggest a day out. Your sister replies, “That sounds expensive.” You think, “She never wants to spend time with me.”
+
+**1. What do you know, and what are you guessing?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+You know she said it sounds expensive. You are guessing that she does not want to spend time with you. A useful answer keeps her words separate from the reason you suspect. [Revisit the explanation](#what-did-rowan-actually-say).
+
+</details>
+
+**2. What is another possible reason for her reply?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+She might be worried about the cost or unsure what is included. She might also dislike this particular outing. You do not need a reassuring answer; you need another explanation that could fit. [Revisit the explanation](#could-there-be-another-reason).
+
+</details>
+
+**3. What could you ask to find out more?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+“Which cost worries you?” or “What would you need to know about the price?” would let her explain. “Why don’t you want to see me?” assumes the motive you are trying to check. [Revisit the explanation](#what-could-you-ask-rowan).
+
+</details>
+
+**4. In a different situation, someone repeatedly treats you badly. Must you discover their motive before setting a limit? Why?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 4</summary>
+
+No. You can respond to what they do and how it affects you without proving why they do it. If disagreeing could put you at risk, seek support rather than using a question to test them. [Revisit the explanation](#you-can-still-ask-rowan-to-behave-differently).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -147,19 +223,32 @@ Research carried out in one population may not apply everywhere. In their 2010 p
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="choose-response">
+Choose **one** of the two exercises below for this week. Start by noticing your own thinking, rather than labelling someone else.
 
-### Put it into practice: try this with a recent conversation {#choose-response}
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="choose-response">
 
-Think of something someone said that upset or confused you. Write:
+### Put it into practice this week: notice confirmation bias {#choose-response}
 
-- **They said…** Use their words as closely as you can remember them.
-- **I think they said it because…** Write the reason you suspect.
-- **Another reason could be…** Think of one other explanation.
-- **I could ask…** Write a question that would help you understand.
+Once this week, when you feel sure why someone acted as they did, ask: **“Am I noticing only the things that support my explanation?”** Look for something you may have overlooked. It might support your explanation, weaken it or leave you unsure.
 
-If it is safe and useful to ask, have the conversation. Afterwards, check whether their answer changed your understanding or what you will do next.
+In your notes, describe what happened, what you thought it meant, and what information you noticed or overlooked. Noticing a possible bias does not prove your first conclusion was wrong.
 
-Tomorrow, try to remember this chapter's main point before looking back at it. Use the [worksheet](../worksheet.md) if you want to think through a situation in more detail.
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-01-confirmation | Notice confirmation bias -->
+
+</section>
+
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="week-correspondence">
+
+### Put it into practice this week: notice correspondence bias {#week-correspondence}
+
+Once this week, notice a judgment such as “They’re lazy” or “They’re rude”. Ask **“What was happening around them that might help explain what they did?”**
+
+In your notes, describe what the person actually did, what you decided that said about them, which circumstances might matter and what you could ask or check. You are looking for a possible explanation, not making an excuse for harm.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-01-correspondence | Notice correspondence bias -->
 
 </section>

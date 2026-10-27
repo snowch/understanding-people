@@ -6,6 +6,29 @@ The organiser sees two empty spaces on the rota. Leila sees another promise she 
 
 Before trying to encourage Leila, ask what is making attendance difficult. Does she want to come? Does she have enough time? Can she get there? Does she know she would be welcome if she arrived late?
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When you or someone else wants to act but keeps missing it, ask: **“What is making it hard to do?”**
+
+</section>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+### Before reading on: recall Chapter 1 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **A friend declines dinner. You think, “They don’t like me.” What do you know, and what are you guessing?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+You know they declined. Their reason is still uncertain. You could ask rather than treating your guess as a fact. [Revisit the explanation](01-before-you-explain.md#what-did-rowan-actually-say).
+
+</details>
+
+</section>
+
 ## Wanting to do something does not make it happen {#wanting-choosing-and-doing-are-different-questions}
 
 In a 2006 paper, Webb and Sheeran combined results from 47 experiments that changed how strongly people intended to act. On average, behaviour changed less than intentions did. Wanting something more strongly did not lead to an equally large change in what people did. That helps explain why we should look beyond Leila’s wish to attend, but it does not tell us what stopped her. [Read the research summary](https://pubmed.ncbi.nlm.nih.gov/16536643/).
@@ -125,6 +148,45 @@ Leila can replace “I am unreliable” with a clearer description: “I cannot 
 
 You can use these questions in other situations, such as studying, exercising or sharing housework: **Do I want to do this? Can it fit my life? What do I need to do when the time comes?** The answers may point towards more practice, a different arrangement, a clearer plan or a decision to decline.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** Jules wants to join a library book club but misses two meetings. You think, “If reading mattered, Jules would make time.” You later learn the meeting starts before Jules finishes work.
+
+**1. What explanation did the work schedule make you reconsider?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+Missing meetings does not by itself show a lack of interest. The schedule makes attendance difficult. Interest and opportunity are different questions; you still need to ask what Jules wants. [Revisit the explanation](#wanting-choosing-and-doing-are-different-questions).
+
+</details>
+
+**2. What could you ask instead of trying to make Jules feel more motivated?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+“Do you still want to join? Would a different time make it possible?” checks both interest and a practical difficulty. A useful question leaves Jules free to decline. [Revisit the explanation](#who-gets-a-workable-opportunity).
+
+</details>
+
+**3. Jules chooses a later meeting. What would a useful plan include, and what would one successful visit tell you?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+The plan could name when to leave, how to get there and what to do if work runs late. One visit shows it was possible on that occasion. It does not prove every difficulty is solved or that a habit has formed. [Revisit the explanation](#make-the-next-step-specificafter-it-becomes-feasible).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -137,12 +199,16 @@ You can use these questions in other situations, such as studying, exercising or
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="plan-one-step">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="plan-one-step">
 
-### Put it into practice: agree on one step you can take {#plan-one-step}
+### Put it into practice this week: find one difficulty you can address {#plan-one-step}
 
-Choose a goal you still want to pursue. Write **when you will act, what you will do first, and what you will do if your main difficulty gets in the way**. Your backup plan can include postponing or declining.
+Choose something you want to do but keep postponing. Once this week, ask **“What is making it hard to do?”** Pick one difficulty you can address, such as an unclear first step or an inconvenient time.
 
-If you are supporting someone else, agree on any reminder rather than imposing one. Set a time to review whether the arrangement helped, and whose effort it required.
+Try one change. Write what happened and whether you still want to pursue the goal. If someone else is involved, agree on the change with them.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-03 | Find one difficulty you can address -->
 
 </section>

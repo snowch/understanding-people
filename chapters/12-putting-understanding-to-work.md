@@ -6,6 +6,29 @@ They do not need a complete explanation of one another to improve the kitchen. T
 
 This chapter brings the book’s questions together. Use the ones that help you decide what to do. You do not need to apply every idea to every conversation.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When you have several possible explanations but still need to act, ask: **“What useful step can I take with what I know?”**
+
+</section>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+### Before reading on: recall Chapter 9 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **An organiser confidently promises a refund. It matters to your next booking. What could you check?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+Ask for the written refund terms or confirmation of the refund and check what they actually cover. Confidence alone does not establish what will happen. [Revisit the explanation](09-truth-lies-uncertainty.md#evaluate-the-account).
+
+</details>
+
+</section>
+
 ## What needs to change? {#begin-with-the-decision-then-describe-the-event}
 
 Asha starts by asking, “Why are they so inconsiderate?” She could instead ask, “How can we keep enough space clear for me to make breakfast?” That tells the housemates what she needs without first judging why they left dishes out.
@@ -81,6 +104,45 @@ Return to the housemates after a month. The arrangement may need revision becaus
 
 Apply the same care to yourself. If your plan fails, ask what made it difficult and what you chose to do. If it succeeds, notice who helped and what made it possible. Avoid explaining your own behaviour with a single flattering or harsh label.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** Two friends share a market stall. One thinks “ready by nine” means arriving at nine; the other expects the display finished by nine. Each thinks the other is inconsiderate.
+
+**1. What should they clarify before explaining each other’s character?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+Ask what each understood “ready” to mean and what setup requires. The same phrase may have led to different plans. They do not need a complete account of each other’s motives to clarify the agreement. [Revisit the explanation](#bring-in-a-lens-when-it-produces-a-different-question).
+
+</details>
+
+**2. What small change could they agree, and what would they check later?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+Agree when each person arrives, which setup tasks each does and when the stall must be ready. After trying it, check whether opening was on time and the work was manageable and fair. The plan needs both people’s agreement. [Revisit the explanation](#make-the-review-small-and-informative).
+
+</details>
+
+**3. If the new arrangement works, must they keep investigating who was originally at fault?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+Not necessarily. They can stop when more information would not change the decision. A useful result does not prove the original motive, and improvement does not require a final verdict about character. [Revisit the explanation](#decide-when-to-stop-analysing).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -93,12 +155,16 @@ Apply the same care to yourself. If your plan fails, ask what made it difficult 
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="complete-cycle">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="complete-cycle">
 
-### Put it into practice: try the steps with one situation {#complete-cycle}
+### Put it into practice this week: use the steps with one situation {#complete-cycle}
 
-Choose a situation from your own life and use the [worksheet](../worksheet.md). Write **what happened**, **why you think it happened**, **another possible reason**, **what you could ask or check**, **what you will do**, and **when you will see whether it helped**.
+Choose one manageable situation this week. Ask **“What useful step can I take with what I know?”** Use the [worksheet](../worksheet.md) to separate what happened from why you think it happened, choose a question or check, and agree a next step.
 
-When that time comes, note what changed, what you still do not know and what you will do next. You might change your explanation, agree on a better arrangement, accept a difference or set a limit.
+Set a time to review it. Record what changed, what remains uncertain and whether to continue, adjust or stop. You do not need to use every idea in the book.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-12 | Use the steps with one situation -->
 
 </section>

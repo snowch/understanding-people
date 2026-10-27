@@ -4,6 +4,14 @@ In a group chat, Maya offers to pay for her friend Dev's train ticket to a reuni
 
 Maya means to offer help. Dev hears criticism. To understand the disagreement, they need to find out what accepting the money would mean to each of them.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When admitting a mistake feels uncomfortable, ask: **“What do I want to be true?”**
+
+</section>
+
 ## What does Dev think accepting the money would mean? {#find-the-belief-underneath-the-reaction}
 
 A **belief** is something you think is true: “If I accept, she will expect a favour.” A **value** is something that matters to you, such as independence or generosity. Your **identity** includes how you see yourself: “I am the person others can rely on.” Dev could be worried about any of these things.
@@ -81,6 +89,45 @@ Here is another setting: a discussion about public policy. “What evidence supp
 
 Back in Maya and Dev’s friendship, a private invitation and an affordable plan may be enough. Maya does not need to explain Dev’s whole personality. Nor should “That is just who I am” excuse repeated hurtful behaviour; the person still needs to address what they do.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** You correct a friend’s pronunciation in front of others. They say it embarrassed them. You think, “I was helping. They are being oversensitive.”
+
+**1. How might what you want to believe affect your response?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+Wanting to see yourself as helpful could make you dismiss your friend’s complaint. That is a possible example of motivated reasoning. It does not mean every correction was unkind or every complaint is accurate. [Revisit the explanation](#notice-when-a-conclusion-has-something-to-protect).
+
+</details>
+
+**2. What could you ask without inventing a story about their past?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+“What about that bothered you?” lets them explain. Assuming they were criticised as a child invents a history you do not know. They can choose how much to share. [Revisit the explanation](#personal-history-matters-but-it-is-not-yours-to-invent).
+
+</details>
+
+**3. Can you change what you do even if you still believe the correction was accurate?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+Yes. You can acknowledge the embarrassment and ask whether they want corrections, and how. Whether a pronunciation was accurate and whether a public correction was welcome are different questions. [Revisit the explanation](#translate-meaning-without-surrendering-facts).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -93,12 +140,16 @@ Back in Maya and Dev’s friendship, a private invitation and an affordable plan
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="check-meaning">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="check-meaning">
 
-### Put it into practice: ask what the other person heard {#check-meaning}
+### Put it into practice this week: notice an answer you want to defend {#check-meaning}
 
-Choose a recent conversation of your own. Write **what you meant**, **what the other person said they understood**, and **what you still need to ask**. If they are willing to discuss it, ask: “What about that mattered most to you?”
+Once this week, notice a moment when being wrong would mean apologising, changing a plan or admitting a mistake. Ask **“What do I want to be true?”**
 
-Repeat what you understood and let them correct you. Offer one specific change you can make, even if you still disagree about something else.
+Write the conclusion you want, one piece of information that deserves a fair hearing, and what you decide after considering it. You may keep your view; the task is to examine how you reached it.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-04 | Notice an answer you want to defend -->
 
 </section>

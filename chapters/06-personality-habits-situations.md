@@ -4,6 +4,14 @@
 
 Alex uses “introvert” to describe a preference for quieter social settings. A crowded party and a familiar repair club differ in size, noise and purpose. Liking one and avoiding the other does not necessarily conflict with that preference.
 
+<section class="remember-cue" markdown="1" aria-labelledby="remember-this">
+
+## One habit to practise {#remember-this}
+
+When you describe yourself or someone else with a fixed label, ask: **“When does this happen, and when does it not?”**
+
+</section>
+
 ## A personality label cannot predict everything someone will do {#use-traits-as-dimensions-not-compartments}
 
 <section class="definition" markdown="1" aria-label="Definitions: Personality trait, Big Five">
@@ -84,6 +92,45 @@ Here is a separate example. A housemate repeatedly leaves the front door unlocke
 
 For yourself, a personality description can help you choose useful support. It need not decide what you are allowed to try. If large groups are tiring, you might practise a new skill in a smaller group and see how that goes.
 
+<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
+
+## Can you use it? {#can-you-use-it}
+
+Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
+
+**A new fictional situation:** Lee says, “I am hopelessly disorganised.” Lee misses appointments sent through several apps but usually attends those entered in one calendar.
+
+**1. How could Lee replace the label with a more useful description?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 1</summary>
+
+“I often miss appointments when their details are spread across apps.” This names when the difficulty happens and leaves room for occasions when Lee manages well. It is more useful than treating every action as proof of a fixed character. [Revisit the explanation](#look-for-both-consistency-and-variation).
+
+</details>
+
+**2. What small change could Lee choose to try?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 2</summary>
+
+Lee could put appointments into one calendar and check it at an agreed point in the day. The change should fit Lee’s needs. A few better days would show it helped then, not prove a permanent personality change. [Revisit the explanation](#change-the-arrangement-then-observe).
+
+</details>
+
+**3. Here is a separate example: a housemate repeatedly leaves a door unlocked. Does calling it a habit solve the problem?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer to question 3</summary>
+
+No. It may help explain the action, but the household still needs a reliable way to secure the door. Agree a practical change and check whether it works, while considering everyone’s access and safety. [Revisit the explanation](#make-room-for-responsibility-without-making-it-a-character-verdict).
+
+</details>
+
+If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
+
+</section>
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -96,12 +143,16 @@ For yourself, a personality description can help you choose useful support. It n
 
 </section>
 
-<section class="reader-action" markdown="1" aria-labelledby="test-arrangement">
+<section class="reader-action weekly-practice" markdown="1" aria-labelledby="test-arrangement">
 
-### Put it into practice: try a small change to a routine {#test-arrangement}
+### Put it into practice this week: replace one label with a pattern {#test-arrangement}
 
-Choose something you want to do more easily, such as reading in the evening. Note **where you usually are**, **what happens just before you start or get distracted**, and **one thing you could change**.
+Once this week, notice a label you use about yourself, such as “forgetful” or “bad at meeting people”. Ask **“When does this happen, and when does it not?”**
 
-Try the change a few times. Did it help? Did it cause a different problem? Use what happened to decide whether to keep it.
+Write one example and one exception. Choose a small change to your own routine or surroundings and try it. Record whether it helped, rather than treating the result as a personality test.
+
+In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+
+<!-- practice-notes: week-06 | Replace one label with a pattern -->
 
 </section>

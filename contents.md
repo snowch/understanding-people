@@ -50,4 +50,4 @@ The chapters follow a shared process of understanding people. Family, work, educ
 | When should I set a limit? | [Conflict, manipulation and boundaries](chapters/11-conflict-manipulation-boundaries.md) | [Support](support.md); [worksheet](worksheet.md#choose-a-response) |
 | How do I bring the ideas together? | [Putting understanding to work](chapters/12-putting-understanding-to-work.md) | [Situation worksheet](worksheet.md) |
 
-Each chapter pairs a recognisable situation with multiple explanations, relevant research and an example response. Key takeaways recap the main ideas before a closing practice panel. The text distinguishes what the evidence supports from practical judgment.
+Each chapter pairs a recognisable situation with multiple explanations, relevant research and an example response. A “Can you use it?” check lets you try a new situation before reading the key takeaways. Weekly exercises offer a small task to try and optional notes saved in your browser. Later chapters also bring back earlier lessons for another attempt. The text distinguishes what the evidence supports from practical judgment.
