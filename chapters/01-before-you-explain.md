@@ -24,9 +24,9 @@ You do not have to pretend you were not hurt. “I felt embarrassed” tells us 
 
 <section class="reader-action" markdown="1" aria-labelledby="separate-layers">
 
-### Try this: what do you know about the unanswered message? {#separate-layers}
+### Try this with a different example: a friend hasn't replied {#separate-layers}
 
-Your friend has not replied to your message for two days. You think: “They don't care about me.”
+Leave Rowan's meeting for a moment. Imagine this separate situation: your friend has not replied to your message for two days. You think: “They don't care about me.”
 
 Which part do you know? Which part are you guessing?
 
@@ -45,7 +45,7 @@ They might be avoiding you. They might also be busy, unwell or unsure what to sa
 
 ## Could there be another reason?
 
-Return to Rowan. Here are three possible reasons for what happened:
+Now return to Rowan and the meeting. Here are three possible reasons why Rowan said your idea wasn't ready:
 
 - Rowan found a problem with the budget after speaking to you on Tuesday.
 - Rowan liked the idea but thought it needed more work. You took “promising” to mean “ready”.
