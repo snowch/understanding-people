@@ -8,7 +8,7 @@ You keep postponing something you care about. A friend seems distant. A colleagu
 
 The aim is to help you form better explanations and choose useful responses: a clearer question, a more workable plan, an offer of support, a negotiated change or a boundary.
 
-> **Draft web edition** · Three sample chapters are available. The [contents](contents.md) distinguish them from the chapters still being developed.
+> **Complete first draft** · All twelve chapters are available in this web edition. Follow the [contents and reading routes](contents.md) or start with your current question.
 
 ## Start with a question
 
@@ -42,7 +42,7 @@ Keep that example in mind as you read. The green action panels offer small ways 
 
 In the [motivation chapter](chapters/03-needs-motives-goals.md), someone repeatedly misses a community activity they wanted to join. Personal interest is only part of the explanation. The chapter also examines belonging, caring responsibilities, how the activity is organised and the gap between a plan and a workable next step.
 
-Psychology, sociology and decision research contribute different questions to that example. The wider book will also develop cultural and anthropological perspectives, personality, emotion and power. Each chapter will establish its own evidence base as it is written; the contents describe the intended scope, not a completed survey of every field.
+Psychology, sociology and decision research contribute different questions to that example. Other chapters examine [beliefs and identity](chapters/04-beliefs-identity-history.md), [emotion](chapters/05-emotion-stress-coping.md), [personality and habits](chapters/06-personality-habits-situations.md), and [culture and power](chapters/07-culture-groups-power.md), including cross-cultural and anthropological research. The final section turns these perspectives into decisions about [cooperation](chapters/10-motivation-influence-cooperation.md), [boundaries](chapters/11-conflict-manipulation-boundaries.md) and [everyday action](chapters/12-putting-understanding-to-work.md).
 
 ## Read with a purpose
 

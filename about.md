@@ -21,6 +21,6 @@ These are points of orientation, not comprehensive reviews or claims that either
 
 The book’s explanations should be judged against their sources. Traceable references, accurate explanations, explicit limitations and corrections are central to the project. The [evidence standards](evidence.md) describe that commitment.
 
-The current edition contains three draft sample chapters and a twelve-chapter plan. It has not yet undergone external subject-matter review. No publication date or final word count is promised; chapters will be developed with their supporting research and worked examples.
+The current edition is a complete first draft of twelve chapters, with supporting research, worked examples, exercises and takeaways. It has not yet undergone external subject-matter review. Future revisions will refine the explanations and source coverage in response to evidence and specific feedback.
 
 Read the [sources](references.md), inspect the [repository](https://github.com/snowch/understanding-people), or use its [issues page](https://github.com/snowch/understanding-people/issues) to suggest a specific correction. Please avoid posting private details about identifiable people.

@@ -34,6 +34,6 @@ Likewise, an alternative explanation does not have to be a reassuring one. The t
 
 ## Read the current edition as a draft
 
-Three chapters are available: [interpreting behaviour](chapters/01-before-you-explain.md), [motivation](chapters/03-needs-motives-goals.md) and [credibility](chapters/09-truth-lies-uncertainty.md). The remaining chapters are marked Planned. This edition has not undergone external subject-matter review, and its source list is selective rather than a systematic review of all relevant research.
+All [twelve chapters](contents.md) are available as a complete first draft. Each closes with **Key takeaways**, followed by a practical exercise. This edition has not undergone external subject-matter review, and its source list is selective rather than a systematic review of all relevant research.
 
 The most useful feedback identifies a passage: what claim seems unsupported, what explanation needs clarification, or what question the example leaves unanswered. Sources and revision history are available through the page-source links.

@@ -22,8 +22,17 @@ PAGES = [
     ("how-to-use.md", "How to use this book"),
     ("evidence.md", "How we use evidence"),
     ("chapters/01-before-you-explain.md", "Before you explain someone"),
-    ("chapters/03-needs-motives-goals.md", "Needs, motives & competing goals"),
-    ("chapters/09-truth-lies-uncertainty.md", "Truth, lies & uncertainty"),
+    ("chapters/02-what-counts-as-knowing.md", "What counts as knowing?"),
+    ("chapters/03-needs-motives-goals.md", "Needs, motives and competing goals"),
+    ("chapters/04-beliefs-identity-history.md", "Beliefs, identity and personal history"),
+    ("chapters/05-emotion-stress-coping.md", "Emotion, stress and coping"),
+    ("chapters/06-personality-habits-situations.md", "Personality, habits and situations"),
+    ("chapters/07-culture-groups-power.md", "Culture, groups and power"),
+    ("chapters/08-questions-listening-disagreement.md", "Questions, listening and disagreement"),
+    ("chapters/09-truth-lies-uncertainty.md", "Truth, lies and uncertainty"),
+    ("chapters/10-motivation-influence-cooperation.md", "Motivation, influence and cooperation"),
+    ("chapters/11-conflict-manipulation-boundaries.md", "Conflict, manipulation and boundaries"),
+    ("chapters/12-putting-understanding-to-work.md", "Putting understanding to work"),
     ("worksheet.md", "Situation worksheet"),
     ("support.md", "When to seek other help"),
     ("references.md", "Sources & further reading"),
@@ -31,17 +40,17 @@ PAGES = [
 ]
 CHAPTERS = [
     ("Before you explain someone", "chapters/01-before-you-explain.md"),
-    ("What counts as knowing?", None),
+    ("What counts as knowing?", "chapters/02-what-counts-as-knowing.md"),
     ("Needs, motives and competing goals", "chapters/03-needs-motives-goals.md"),
-    ("Beliefs, identity and personal history", None),
-    ("Emotion, stress and coping", None),
-    ("Personality, habits and situations", None),
-    ("Culture, groups and power", None),
-    ("Questions, listening and disagreement", None),
+    ("Beliefs, identity and personal history", "chapters/04-beliefs-identity-history.md"),
+    ("Emotion, stress and coping", "chapters/05-emotion-stress-coping.md"),
+    ("Personality, habits and situations", "chapters/06-personality-habits-situations.md"),
+    ("Culture, groups and power", "chapters/07-culture-groups-power.md"),
+    ("Questions, listening and disagreement", "chapters/08-questions-listening-disagreement.md"),
     ("Truth, lies and uncertainty", "chapters/09-truth-lies-uncertainty.md"),
-    ("Motivation, influence and cooperation", None),
-    ("Conflict, manipulation and boundaries", None),
-    ("Putting understanding to work", None),
+    ("Motivation, influence and cooperation", "chapters/10-motivation-influence-cooperation.md"),
+    ("Conflict, manipulation and boundaries", "chapters/11-conflict-manipulation-boundaries.md"),
+    ("Putting understanding to work", "chapters/12-putting-understanding-to-work.md"),
 ]
 
 
@@ -151,7 +160,7 @@ def build():
                 pagination.append(f'<a rel="{relation}" href="{relative(destination(item), page)}"><small>{direction}</small>{escape(caption)}</a>')
         contents = f'<details class="on-page"><summary>On this page</summary>{converter.toc}</details>' if converter.toc_tokens else ""
         home = relative(Path("index.html"), page)
-        eyebrow = "A SCIENCE-INFORMED GUIDE" if name == "book.md" else "UNDERSTANDING PEOPLE · INITIAL DRAFT"
+        eyebrow = "A SCIENCE-INFORMED GUIDE" if name == "book.md" else "UNDERSTANDING PEOPLE · DRAFT EDITION"
         description = f"{title}. A science-informed guide to what drives people and how to respond."
         html = f'''<!doctype html>
 <html lang="en-GB">
