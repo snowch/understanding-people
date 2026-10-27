@@ -34,7 +34,7 @@ This process applies inward too. When you miss a commitment, ask what made it di
 
 Choose one low-stakes moment from this week. Write two sentences: **“What happened was…”** and **“My explanation is…”** Can you state the first without assuming the second?
 
-Keep that example in mind as you read. The blue action panels offer small ways to apply each idea.
+Keep that example in mind as you read. The green action panels offer small ways to apply each idea.
 
 </section>
 

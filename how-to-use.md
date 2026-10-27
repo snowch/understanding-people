@@ -4,7 +4,7 @@ Read with a situation in mind, including one involving your own behaviour. The a
 
 ## Follow the explanation, then try it
 
-The main text develops an idea through research and worked examples. Blue panels headed **Try this** or **Put it into practice** turn that discussion into a small task. Their wording and checklist icon identify them in print and for readers who do not distinguish colours.
+The main text develops an idea through research and worked examples. Green panels headed **Try this** or **Put it into practice** turn that discussion into a small task. Their wording and checklist icon identify them in print and for readers who do not distinguish colours.
 
 You can read straight through without doing every exercise. When a question fits your situation, pause and use it. Avoid turning ordinary interactions into a running assessment of everyone around you.
 

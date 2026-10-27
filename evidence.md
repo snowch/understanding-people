@@ -10,7 +10,7 @@ Science-informed means that explanations should be accountable to evidence, incl
 | Interpretation | An explicit possibility rather than a verdict about a person | Public disagreement might reflect a concern about how the group will react. |
 | Practical suggestion | A reason to try it, without implying it has been validated as an intervention | Ask what changed between the private conversation and the meeting. |
 
-The [reading guide](how-to-use.md) explains the status of the framework, exercises and fictional examples. Blue action panels identify practical suggestions; their styling is not an evidence grade.
+The [reading guide](how-to-use.md) explains the status of the framework, exercises and fictional examples. Green action panels identify practical suggestions; their styling is not an evidence grade.
 
 ## Match the method to the question
 
