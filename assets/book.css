@@ -33,6 +33,12 @@ h2 { font-size: 29px; font-weight: 400; line-height: 1.25; letter-spacing: -.015
 h3 { font-size: 23px; }
 p { margin: 0 0 1.2em; }
 .prose { max-width: 70ch; overflow-wrap: anywhere; }
+.chapter-video { margin: 0 0 12px; }
+.chapter-video video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: var(--wash); border: 1px solid var(--line); border-radius: 6px; }
+.chapter-video figcaption, .video-links { color: var(--muted); font: 14px/1.6 system-ui, sans-serif; }
+.chapter-video figcaption { margin-top: 10px; }
+.video-links { margin-bottom: 30px; }
+@media print { .chapter-video video { display: none; } }
 .prose > p:first-child { font-size: 21px; color: var(--muted); }
 .prose li { margin: .6em 0; }
 .prose ul, .prose ol { padding-left: 1.4em; }

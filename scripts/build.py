@@ -105,7 +105,7 @@ class Document(HTMLParser):
             if attrs["id"] in self.ids:
                 raise ValueError(f"Duplicate ID: {attrs['id']}")
             self.ids.add(attrs["id"])
-        for key in ("href", "src"):
+        for key in ("href", "src", "poster"):
             if attrs.get(key):
                 self.links.append(attrs[key])
 
@@ -257,7 +257,10 @@ if (current && sidebar.clientHeight) {{
         digest.update((OUT / name).read_bytes())
     worker = (ROOT / "scripts/service-worker.js").read_text()
     digest.update(worker.encode())
-    worker = worker.replace("__VERSION__", digest.hexdigest()[:16]).replace("__FILES__", json.dumps(["./", *files]))
+    # Videos stream on demand. Excluding them also lets browser range requests
+    # bypass the worker rather than receiving a cached whole-file response.
+    offline_files = [name for name in files if not name.lower().endswith(".mp4")]
+    worker = worker.replace("__VERSION__", digest.hexdigest()[:16]).replace("__FILES__", json.dumps(["./", *offline_files]))
     (OUT / "sw.js").write_text(worker, encoding="utf-8")
     print(f"Built {check_links()} pages; all local links and anchors resolve.")
 

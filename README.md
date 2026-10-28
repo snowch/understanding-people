@@ -26,6 +26,8 @@ The header's install icon opens the native browser prompt when available, with m
 
 App icons are checked in. To regenerate them from `assets/app-icon.svg`, install Playwright and Chromium, then run `python3 scripts/generate_icons.py`. Normal builds do not need Playwright. The footer uses the same notice as Digital Design: © 2026 Christopher Snow.
 
+Chapter 1 includes the approved illustrated video (5:22), with a poster, English WebVTT captions and a transcript in `assets/media/chapter-01/`. The build copies these assets and validates their page links, including the poster. MP4 files stream on demand and are excluded from automatic offline caching; the chapter text, poster, captions and transcript remain available offline. Keep the visible fictional-example caption beneath the player when updating the embed.
+
 With a local server running, `python3 scripts/verify_install.py http://localhost:8000/` checks installation event handling, fallback instructions, responsive layout, app metadata and offline reading. The browser test simulates the native install events; it does not perform an operating-system installation.
 
 `.github/workflows/pages.yml` validates pull requests and publishes pushes to `main` through GitHub Actions. GitHub Pages must use **GitHub Actions** as its source.

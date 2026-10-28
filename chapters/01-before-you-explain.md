@@ -1,5 +1,15 @@
 # Why we misinterpret people
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-01/poster.png" aria-label="Why we misinterpret people: Chapter 1 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-01/why-we-misinterpret-people.mp4" type="video/mp4">
+<track src="../assets/media/chapter-01/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-01/why-we-misinterpret-people.mp4">Download the Chapter 1 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-01/transcript.txt">Read the video transcript</a> · 5 minutes 22 seconds</p>
+
 On Tuesday, Rowan says, “Your idea looks promising.” In Thursday's meeting, Rowan says, “I don't think it's ready yet.”
 
 You feel embarrassed. You think: “Rowan wanted to make me look bad in front of everyone.”
