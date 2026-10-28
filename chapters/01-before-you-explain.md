@@ -26,6 +26,8 @@ When you feel sure why someone acted as they did, pause. **“What do I know, an
 
 </section>
 
+<span id="separate-layers"></span>
+
 ## What did Rowan actually say?
 
 Compare these two sentences:
@@ -40,30 +42,9 @@ That guess may turn out to be right. For now, keep it separate from the words yo
 
 You do not have to pretend you were not hurt. “I felt embarrassed” tells us how the meeting affected you. It does not tell us whether Rowan meant to embarrass you.
 
-<section class="reader-action" markdown="1" aria-labelledby="separate-layers">
-
-### Try this with a different example: a friend hasn't replied {#separate-layers}
-
-Leave Rowan's meeting for a moment. Imagine this separate situation: your friend has not replied to your message for two days. You think: “They don't care about me.”
-
-Which part do you know? Which part are you guessing?
-
-<details class="answer-check" markdown="1">
-<summary>Check your answer</summary>
-
-**You know:** your friend has not replied for two days.
-
-**You are guessing:** they have not replied because they do not care about you.
-
-They might be avoiding you. They might also be busy, unwell or unsure what to say. You need more information to tell which explanation fits.
-
-</details>
-
-</section>
-
 ## Could there be another reason?
 
-Now return to Rowan and the meeting. Here are three possible reasons why Rowan said your idea wasn't ready:
+Here are three possible reasons why Rowan said your idea wasn't ready:
 
 - Rowan found a problem with the budget after speaking to you on Tuesday.
 - Rowan liked the idea but thought it needed more work. You took “promising” to mean “ready”.
@@ -83,6 +64,8 @@ Be careful about how you read the next message. If Rowan replies quickly, do you
 
 Psychologist Raymond Nickerson examined earlier studies of confirmation bias in a paper published in 1998. He described how people can favour information that supports what they already believe. [Read the paper](https://doi.org/10.1037/1089-2680.2.2.175).
 
+<span id="check-an-answer"></span>
+
 ## What could you ask Rowan?
 
 “Why did you try to embarrass me?” assumes that Rowan meant to do it.
@@ -100,38 +83,15 @@ Then listen to the answer. If you are still unsure, ask yourself: **“What woul
 
 Both questions ask for something specific. The figures might show a budget problem. A list of unfinished work might show that you understood “promising” differently. Compare the answer with the relevant information before deciding what to do.
 
-<section class="reader-action" markdown="1" aria-labelledby="check-an-answer">
-
-### Try this with Rowan: ask for something specific {#check-an-answer}
-
-Imagine Rowan instead says, “The timing is wrong.” **What could you ask to understand that answer?** Try saying a question before opening the example.
-
-<details class="answer-check" markdown="1">
-<summary>Compare your question</summary>
-
-You could ask, “Which deadline or other commitment makes the timing difficult?” A useful question lets Rowan explain a specific problem. “Why are you making excuses?” assumes the answer is dishonest before checking it.
-
-</details>
-
-</section>
-
 There can be more than one reason for a response. Rowan could see a real problem and also want to protect their reputation. You may learn enough to improve the proposal without knowing every motive.
+
+<span id="check-own-account"></span>
 
 ## Could you have misunderstood Rowan?
 
 Think back to Tuesday. Did Rowan say the idea was ready, or did you hear more agreement than they intended?
 
 Checking your own understanding is useful. It does not mean that Rowan's behaviour was your fault.
-
-<section class="reader-action" markdown="1" aria-labelledby="check-own-account">
-
-### Try this: remember when you changed your mind {#check-own-account}
-
-Think of a time when you liked an idea, then found a problem with it. What did you learn between those two moments?
-
-Could something similar have happened to Rowan? What could you ask to find out?
-
-</section>
 
 ## You can still ask Rowan to behave differently
 
@@ -143,7 +103,7 @@ You are asking for a specific change. You do not need to prove that Rowan wanted
 
 If Rowan repeatedly gives no clear answer, change what you rely on: ask for clear decisions in writing. Private praise is not a promise of support in a meeting. This is about managing a repeated problem; you do not need to keep asking the same question indefinitely.
 
-The same applies to the unanswered message. You can send a follow-up, wait, or talk to your friend about how often this happens. One late reply cannot tell you everything about the friendship.
+If a friend has not replied to a message, you can send a follow-up, wait, or talk about how often this happens. One late reply cannot tell you everything about the friendship.
 
 If asking someone directly could put you at risk, use the [support page](../support.md) to consider a safer way to get help. You do not have to keep accepting harmful behaviour while trying to understand it.
 
@@ -170,54 +130,6 @@ Research carried out in one population may not apply everywhere. In their 2010 p
 
 </details>
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** You suggest a day out. Your sister replies, “That sounds expensive.” You think, “She never wants to spend time with me.”
-
-**1. What do you know, and what are you guessing?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-You know she said it sounds expensive. You are guessing that she does not want to spend time with you. A useful answer keeps her words separate from the reason you suspect. [Revisit the explanation](#what-did-rowan-actually-say).
-
-</details>
-
-**2. What is another possible reason for her reply?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-She might be worried about the cost or unsure what is included. She might also dislike this particular outing. You do not need a reassuring answer; you need another explanation that could fit. [Revisit the explanation](#could-there-be-another-reason).
-
-</details>
-
-**3. What could you ask to find out more?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-“Which cost worries you?” or “What would you need to know about the price?” would let her explain. “Why don’t you want to see me?” assumes the motive you are trying to check. [Revisit the explanation](#what-could-you-ask-rowan).
-
-</details>
-
-**4. In a different situation, someone repeatedly treats you badly. Must you discover their motive before setting a limit? Why?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 4</summary>
-
-No. You can respond to what they do and how it affects you without proving why they do it. If disagreeing could put you at risk, seek support rather than using a question to test them. [Revisit the explanation](#you-can-still-ask-rowan-to-behave-differently).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -229,54 +141,79 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
+
 ## Put it into practice {#put-it-into-practice}
 
-Start with the three-question exercise below. **That is enough for this week.** If you want to practise noticing a particular bias too, choose one of the optional focuses afterwards.
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-<section class="reader-action" markdown="1" aria-labelledby="practise-three-questions">
+### Recall {#can-you-use-it}
 
-### Start here: try the three questions {#practise-three-questions}
+Without looking back, what three questions could you ask before deciding why someone acted?
 
-Now use a recent situation from **your own life**—something someone said or did that puzzled or upset you. Write a short answer to each question:
+<details class="answer-check" markdown="1">
+<summary>Show the three questions</summary>
 
-1. **What did they say or do?** Describe their words or actions without guessing their reason. If you have a relevant message, check the wording rather than relying only on your memory.
-2. **Why do I think they did it?** Write the reason you suspect and what led you to that explanation. Keep it separate from what you actually saw or heard.
-3. **How could I check?** Write one question you could ask or one piece of information you could look at. Choose something that could change your mind, not just confirm your first guess.
+1. What did they say or do?
+2. Why do I think they did it?
+3. How could I check?
 
-If it is safe and useful, make that check. Afterwards, note what you learned and whether it changes what you will do next. You may still be unsure why the person acted as they did.
+</details>
 
-Next time you catch yourself guessing someone's reason, use the same three questions. In a week, return to your notes and ask what you would do differently. You can choose a return date below; the book does not send reminders.
+### Try it {#try-it}
 
-<!-- practice-notes: chapter-01-three-questions | Try the three questions -->
+**A new fictional situation:** You suggest a day out. Your sister replies, “That sounds expensive.” You think, “She never wants to spend time with me.”
+
+What do you know? What are you guessing? What could you ask or check? Say or write your answers before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+**You know** she said it sounds expensive. **You are guessing** she does not want to spend time with you. She might be worried about the cost or dislike this particular outing.
+
+**You could ask:** “Which cost worries you?” That lets her explain without assuming her motive. Compare her answer with what you learn; one reply cannot settle everything about your relationship.
+
+</details>
 
 </section>
 
-**Optional: choose one focus for the week.** Use the same situation or another ordinary moment. Notice your own thinking, rather than labelling someone else. You can add to your main exercise notes; the separate notes below are there if you want them.
+### Use it this week {#practise-three-questions}
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="choose-response">
+When you catch yourself guessing why someone acted, choose one ordinary situation from your own life and answer the three questions. If it is safe and useful, make that check. Afterwards, note what you learned and what you will do next—even if you are still unsure of the person's motive.
 
-### Optional focus this week: notice confirmation bias {#choose-response}
+That is enough for this week. The notes below are optional.
 
-Once this week, when you feel sure why someone acted as they did, ask: **“Am I noticing only the things that support my explanation?”** Look for something you may have overlooked. It might support your explanation, weaken it or leave you unsure.
+<!-- practice-notes: chapter-01-three-questions | Try the three questions -->
 
-In your notes, describe what happened, what you thought it meant, and what information you noticed or overlooked. Noticing a possible bias does not prove your first conclusion was wrong.
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+If you want another focus, choose one below. Look at your own thinking; noticing a possible bias does not prove your conclusion is wrong.
+
+<section class="weekly-practice" markdown="1" aria-labelledby="choose-response">
+
+#### Notice confirmation bias {#choose-response}
+
+You think someone dislikes your idea. You notice each criticism but overlook their positive comments. **What information are you leaving out?**
+
+Once this week, look for something you may have overlooked in a situation of your own. Note whether it supports your explanation, weakens it or leaves you unsure.
 
 <!-- practice-notes: week-01-confirmation | Notice confirmation bias -->
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="week-correspondence">
+<section class="weekly-practice" markdown="1" aria-labelledby="week-correspondence">
 
-### Optional focus this week: notice correspondence bias {#week-correspondence}
+#### Notice correspondence bias {#week-correspondence}
 
-Once this week, notice a judgment such as “They’re lazy” or “They’re rude”. Ask **“What was happening around them that might help explain what they did?”**
+You decide someone is rude after one short reply. **What circumstances might help explain it, and how could you check?**
 
-In your notes, describe what the person actually did, what you decided that said about them, which circumstances might matter and what you could ask or check. You are looking for a possible explanation, not making an excuse for harm.
-
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Once this week, notice a judgment like this in your own thinking. Separate what the person did from what you decided it said about them. Considering circumstances does not mean accepting harm.
 
 <!-- practice-notes: week-01-correspondence | Notice correspondence bias -->
+
+</section>
+
+</details>
 
 </section>
