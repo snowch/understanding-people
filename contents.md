@@ -28,6 +28,10 @@ The chapters follow a shared process of understanding people. Family, work, educ
 11. <span id="chapter-11"></span>**[Conflict, manipulation and boundaries](chapters/11-conflict-manipulation-boundaries.md)** — Recognise repeated harm, understand gaslighting and controlling behaviour, and set limits without needing to diagnose anyone.
 12. <span id="chapter-12"></span>**[Putting understanding to work](chapters/12-putting-understanding-to-work.md)** — Bring the book's questions together, try a small change you can undo, and recognise when more analysis will not help.
 
+## Conclusion
+
+[What to take with you](conclusion.md) — Revisit the main lessons, try one fresh situation, and choose a question to use during the week.
+
 ## Supporting pages
 
 - [How to use this book](how-to-use.md)

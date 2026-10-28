@@ -33,6 +33,7 @@ PAGES = [
     ("chapters/10-motivation-influence-cooperation.md", "Motivation, influence and cooperation"),
     ("chapters/11-conflict-manipulation-boundaries.md", "Conflict, manipulation and boundaries"),
     ("chapters/12-putting-understanding-to-work.md", "Putting understanding to work"),
+    ("conclusion.md", "Conclusion · What to take with you"),
     ("worksheet.md", "Situation worksheet"),
     ("support.md", "When to seek other help"),
     ("glossary.md", "Glossary"),
@@ -68,8 +69,9 @@ def book_navigation(source, page):
     for number, (caption, item) in enumerate(CHAPTERS, 1):
         chapters.append(entry(item or "contents.md", caption, f"{number:02}",
                               "" if item else f"#chapter-{number:02}", planned=item is None))
+    chapters.append(entry("conclusion.md", "Conclusion", "—"))
     resources = [entry(item, caption) for item, caption in PAGES
-                 if item != "book.md" and not item.startswith("chapters/")]
+                 if item not in {"book.md", "conclusion.md"} and not item.startswith("chapters/")]
     return (f'<ol class="chapter-list">{"".join(chapters)}</ol>'
             '<p class="nav-label resources-label">READING TOOLS</p>'
             f'<ul class="resource-list">{"".join(resources)}</ul>')

@@ -28,6 +28,8 @@ Then use **Use it this week** to apply the idea once in your own life. That is e
 
 These are self-checks, not scored tests or proof that you will remember later. Return a week later and try the recall question and scenario again before opening the answers. You do not need to track everyone around you or complete every exercise.
 
+When you finish, the [conclusion](conclusion.md) brings together the main lessons and offers one fresh situation to try. Return to it when you want a short refresher and a link to the chapter you need.
+
 ### Keep notes if they help
 
 Open **My practice notes** beneath an exercise. You can choose a date to return, record what happened and describe what you learned. With JavaScript available, notes save automatically in this browser on this device. The book does not send notes to the author, sync them between devices or send reminders.

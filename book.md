@@ -1,5 +1,15 @@
 # Understanding people
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="assets/media/introduction/poster.png" aria-label="Start here: Understanding people course overview" aria-describedby="overview-video-caption">
+<source src="assets/media/introduction/overview.mp4" type="video/mp4">
+<track src="assets/media/introduction/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="assets/media/introduction/overview.mp4">Download the course overview video</a>.</p>
+</video>
+<figcaption id="overview-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="assets/media/introduction/transcript.txt">Read the overview transcript</a> · 1 minute 40 seconds</p>
+
 <p class="book-tagline">What drives us.<br>What we can know.<br>How to respond.</p>
 
 You keep postponing something you care about. A friend seems distant. A colleague agrees with you, then acts differently. Before deciding what these moments mean, it helps to ask what else could explain them—and what would let you check.
@@ -47,3 +57,5 @@ Psychology, sociology and decision research contribute different questions to th
 ## Read with a purpose
 
 Start with [How to use this book](how-to-use.md), then follow the chapters or choose the question that matters now. [How we use evidence](evidence.md) explains the distinction between research, interpretations and suggestions. [About the book](about.md) introduces its author, purpose and relationship to neighbouring books.
+
+When you finish, return to [What to take with you](conclusion.md) for the main lessons, a fresh situation to try and a question to use during the week.
