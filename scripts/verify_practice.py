@@ -28,18 +28,17 @@ with sync_playwright() as pw:
     for _, source in CHAPTERS:
         page.goto(urljoin(base, destination(source).as_posix()))
         assert page.locator('.remember-cue').count() == 1
-        compact = source == CHAPTERS[0][1]
-        check = page.locator('.practice-check' if compact else '.chapter-check')
+        check = page.locator('.practice-check')
         questions = check.locator('.answer-check')
-        if compact:
-            assert questions.count() == 2
-            assert page.locator('.compact-practice').count() == 1
-            assert page.locator('details.more-practice[open]').count() == 0
-            assert page.locator('.practice-notes[open]').count() == 0
-            assert page.locator('#key-takeaways').evaluate("e => !!(e.compareDocumentPosition(document.querySelector('#put-it-into-practice')) & Node.DOCUMENT_POSITION_FOLLOWING)")
-        else:
-            assert 3 <= questions.count() <= 4
-            assert page.locator('#can-you-use-it').evaluate("e => !!(e.compareDocumentPosition(document.querySelector('#key-takeaways')) & Node.DOCUMENT_POSITION_FOLLOWING)")
+        assert questions.count() == 2
+        assert page.locator('.compact-practice').count() == 1
+        assert page.locator('details.more-practice[open]').count() == 0
+        assert page.locator('.practice-notes[open]').count() == 0
+        assert page.locator('#key-takeaways').evaluate("e => !!(e.compareDocumentPosition(document.querySelector('#put-it-into-practice')) & Node.DOCUMENT_POSITION_FOLLOWING)")
+        assert page.locator('video[controls][playsinline][preload="metadata"]').count() == 1
+        assert page.locator('video track[kind="captions"][srclang="en"]').count() == 1
+        assert page.locator('#chapter-video-caption').inner_text() == 'The examples in this video are fictional.'
+        assert page.locator('.recall-practice').count() == page.locator('.more-practice .recall-practice').count()
         question_count += questions.count()
         recall_count += page.locator('.recall-practice').count()
         note_count += page.locator('.practice-notes').count()
@@ -49,10 +48,10 @@ with sync_playwright() as pw:
             page.set_viewport_size({'width': width, 'height': 950})
             page.locator('.practice-notes').first.evaluate('e => e.open = true')
             assert page.evaluate('document.documentElement.scrollWidth <= innerWidth'), (source, width)
-        for panel in page.locator('.reader-action, .chapter-check, .practice-check, .recall-practice, .remember-cue').all():
+        for panel in page.locator('.reader-action, .deeper-practice, .chapter-check, .practice-check, .recall-practice, .remember-cue').all():
             label = panel.get_attribute('aria-labelledby')
             assert panel.locator(f'[id="{label}"]').count() == 1
-    assert (question_count, recall_count, note_count) == (35, 6, 14)
+    assert (question_count, recall_count, note_count) == (24, 6, 14)
     page.goto(first)
     reveal_more(page)
     three = page.locator('[data-notes-id="chapter-01-three-questions"]')
@@ -179,4 +178,4 @@ with sync_playwright() as pw:
     assert on.get_by_label('What happened?', exact=True).input_value() == 'Written offline.'
     assert not errors, errors
     browser.close()
-print('Passed: 12 chapter checks (35 answer reveals), 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')
+print('Passed: 12 compact chapter checks (24 answer reveals) and captioned videos, 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')

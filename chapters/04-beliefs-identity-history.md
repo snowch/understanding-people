@@ -1,5 +1,15 @@
 # Beliefs, identity and personal history
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-04/poster.png" aria-label="Beliefs, identity and personal history: Chapter 4 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-04/explanation.mp4" type="video/mp4">
+<track src="../assets/media/chapter-04/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-04/explanation.mp4">Download the Chapter 4 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-04/transcript.txt">Read the video transcript</a> · 3 minutes 23 seconds</p>
+
 In a group chat, Maya offers to pay for her friend Dev's train ticket to a reunion. She means, “I want you there.” Dev hears, “You cannot manage your own life.” He declines sharply. Maya is hurt: she thought she was being generous.
 
 Maya means to offer help. Dev hears criticism. To understand the disagreement, they need to find out what accepting the money would mean to each of them.
@@ -43,16 +53,6 @@ In this example, Maya wants to see herself as a considerate friend. That could m
 
 Because Maya made the offer in a group chat, other friends saw it. If Dev says it embarrassed him, she may have to admit that the public offer embarrassed him. If Dev wants to attend but cannot afford the trip, he might find that difficult to say. Either admission could be uncomfortable. That is a reason to ask what matters to them, rather than assuming you already know.
 
-<section class="reader-action" markdown="1" aria-labelledby="name-stake">
-
-### Try this: why would it be hard to admit you were wrong? {#name-stake}
-
-Choose a disagreement from your own life and finish: **“If my explanation is wrong, I might have to accept…”**
-
-Would you need to apologise, change a plan or admit that you hurt someone? Ask whether wanting to avoid that has made you dismiss information you should consider.
-
-</section>
-
 ## Ask about someone’s past rather than guessing it {#personal-history-matters-but-it-is-not-yours-to-invent}
 
 Dev might have experienced gifts that later became obligations. He might have no such history. Maya cannot infer a past betrayal, childhood experience or trauma from one refusal.
@@ -89,45 +89,6 @@ Here is another setting: a discussion about public policy. “What evidence supp
 
 Back in Maya and Dev’s friendship, a private invitation and an affordable plan may be enough. Maya does not need to explain Dev’s whole personality. Nor should “That is just who I am” excuse repeated hurtful behaviour; the person still needs to address what they do.
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** You correct a friend’s pronunciation in front of others. They say it embarrassed them. You think, “I was helping. They are being oversensitive.”
-
-**1. How might what you want to believe affect your response?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-Wanting to see yourself as helpful could make you dismiss your friend’s complaint. That is a possible example of motivated reasoning. It does not mean every correction was unkind or every complaint is accurate. [Revisit the explanation](#notice-when-a-conclusion-has-something-to-protect).
-
-</details>
-
-**2. What could you ask without inventing a story about their past?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-“What about that bothered you?” lets them explain. Assuming they were criticised as a child invents a history you do not know. They can choose how much to share. [Revisit the explanation](#personal-history-matters-but-it-is-not-yours-to-invent).
-
-</details>
-
-**3. Can you change what you do even if you still believe the correction was accurate?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-Yes. You can acknowledge the embarrassment and ask whether they want corrections, and how. Whether a pronunciation was accurate and whether a public correction was welcome are different questions. [Revisit the explanation](#translate-meaning-without-surrendering-facts).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -140,16 +101,57 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="check-meaning">
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
 
-### Put it into practice this week: notice an answer you want to defend {#check-meaning}
+## Put it into practice {#put-it-into-practice}
 
-Once this week, notice a moment when being wrong would mean apologising, changing a plan or admitting a mistake. Ask **“What do I want to be true?”**
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-Write the conclusion you want, one piece of information that deserves a fair hearing, and what you decide after considering it. You may keep your view; the task is to examine how you reached it.
+### Recall {#can-you-use-it}
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Without looking back, what question helps when you feel a need to defend your view?
+
+<details class="answer-check" markdown="1">
+<summary>Show the question to remember</summary>
+
+**“What do I want to be true?”** Your wording can differ; keep the same idea.
+
+</details>
+
+### Try it {#try-it}
+
+**A new fictional situation:** You correct a friend’s pronunciation in front of others. They say it embarrassed them. You think, “I was helping. They are being oversensitive.”
+
+What might you want to believe about yourself? What could you ask, and what could you change? Say or write your answer before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+Wanting to see yourself as helpful could make you dismiss the complaint. Ask what bothered your friend without inventing a story about their past. You can ask whether and how they want corrections, even if the pronunciation advice was accurate.
+
+</details>
+
+</section>
+
+### Use it this week {#check-meaning}
+
+Notice a moment when being wrong would mean apologising or changing a plan. Name the conclusion you want and give one piece of contrary information a fair hearing. Record what you decide afterwards.
 
 <!-- practice-notes: week-04 | Notice an answer you want to defend -->
+
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
+
+<section class="deeper-practice" markdown="1" aria-labelledby="name-stake">
+
+#### Why would it be hard to admit you were wrong? {#name-stake}
+
+Choose a disagreement from your own life and finish: **“If my explanation is wrong, I might have to accept…”**
+
+Would you need to apologise, change a plan or admit that you hurt someone? Ask whether wanting to avoid that has made you dismiss information you should consider.
+
+</section>
+
+</details>
 
 </section>

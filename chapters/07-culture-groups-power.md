@@ -1,5 +1,15 @@
 # Culture, groups and power
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-07/poster.png" aria-label="Culture, groups and power: Chapter 7 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-07/explanation.mp4" type="video/mp4">
+<track src="../assets/media/chapter-07/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-07/explanation.mp4">Download the Chapter 7 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-07/transcript.txt">Read the video transcript</a> · 3 minutes 40 seconds</p>
+
 A residents' association holds a meeting about a shared courtyard. Longstanding owners speak freely. Several tenants listen without contributing. Afterwards, the chair says, “They don't seem interested.”
 
 One tenant, Salma, wanted to ask about children playing there. She did not know whether tenants could vote. Another had to leave for work. A third worried that criticising the arrangements might reach the landlord. Silence has several possible explanations before we even consider anyone's personality.
@@ -11,21 +21,6 @@ Before judging someone’s silence, ask what makes speaking easy or risky in tha
 ## One habit to practise {#remember-this}
 
 When someone stays quiet or does not join in, ask: **“What makes taking part easy or risky here?”**
-
-</section>
-
-<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
-
-### Before reading on: recall Chapter 4 {#recall-earlier}
-
-This is a separate example. Before looking back, answer aloud or in your own notes: **You think you run welcoming meetings. A newcomer says they felt excluded. What might make that feedback hard to hear?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer</summary>
-
-You may want to protect your view of yourself as welcoming. Ask what happened and consider the answer even if it is uncomfortable. [Revisit the explanation](04-beliefs-identity-history.md#notice-when-a-conclusion-has-something-to-protect).
-
-</details>
 
 </section>
 
@@ -54,16 +49,6 @@ For this book, these terms help us ask about two different things: what usually 
 The chair may say anyone is welcome to speak. But members also notice how the chair responds to criticism. If a newcomer is mocked for asking a question, others may learn to stay quiet. Compare the stated rule with what happens in practice.
 
 Ask who gets a different response. Is a professional newcomer listened to more closely than a longstanding tenant? Can everyone disagree without being interrupted or losing access to information? These details show who has more influence.
-
-<section class="reader-action" markdown="1" aria-labelledby="notice-unwritten-rule">
-
-### Try this: notice an unwritten rule {#notice-unwritten-rule}
-
-Choose a group you know. Describe **what newcomers are told**, **what regular members actually do**, and **what happens when someone behaves differently**.
-
-What do you already know about the group that a newcomer would have to work out? How could you explain it before they make a mistake?
-
-</section>
 
 ## Knowing how an organisation works can give you an advantage {#institutions-can-reward-familiar-ways-of-participating}
 
@@ -105,45 +90,6 @@ A tenant asks about play hours in advance. The chair includes the question and p
 
 Think about your own position. Would disagreeing put your home, job or an important relationship at risk? If not, the meeting may feel easier to you than to someone who faces those risks. Ask about the consequences instead of assuming everyone feels equally free to speak.
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** At a school planning meeting, a teacher invites everyone to comment. Several new parents stay quiet. They were not sent the agenda, and one worries that criticism might affect how their child is treated.
-
-**1. What are two possible reasons for silence besides lack of interest?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-Some parents may lack the information needed to comment. Another may fear consequences. The example gives reasons to ask about information and risk before judging interest or confidence. [Revisit the explanation](#map-power-through-practical-questions).
-
-</details>
-
-**2. What is the difference between “new parents usually stay quiet” and “new parents are expected to stay quiet”?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-The first describes what commonly happens: a descriptive norm. The second describes an expectation: a prescriptive norm. What people do and what they think others approve of need not be the same. [Revisit the explanation](#distinguish-what-people-do-from-what-they-are-expected-to-do).
-
-</details>
-
-**3. What could the organiser change, and what should they avoid promising?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-Send the agenda in advance and ask how parents would prefer to contribute. Do not promise confidentiality or freedom from consequences unless those protections really exist. Check who can use the new arrangement and who still finds it risky. [Revisit the explanation](#improve-one-arrangement-then-check-whose-voice-it-reaches).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -156,16 +102,83 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="map-participation">
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
 
-### Put it into practice this week: notice an unwritten rule {#map-participation}
+## Put it into practice {#put-it-into-practice}
 
-Choose a group you already belong to. Once this week, ask **“What makes taking part easy or risky here?”** Notice what newcomers are told, what regular members do and what happens when someone disagrees.
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-If you can change an arrangement, ask what would help and try one change. Otherwise, note a question you would want answered. Do not pressure anyone to disclose a concern or speak publicly.
+### Recall {#can-you-use-it}
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Without looking back, what should you ask before interpreting silence as lack of interest?
+
+<details class="answer-check" markdown="1">
+<summary>Show the question to remember</summary>
+
+**“What makes taking part easy or risky here?”** Your wording can differ; keep the same idea.
+
+</details>
+
+### Try it {#try-it}
+
+**A new fictional situation:** At a school planning meeting, a teacher invites everyone to comment. Several new parents stay quiet. They were not sent the agenda, and one worries that criticism might affect how their child is treated.
+
+What might explain the parents’ silence? What could the organiser change without making promises they cannot keep? Say or write your answer before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+Missing information and fear of consequences can both matter. Send the agenda ahead and ask how parents would prefer to contribute. Do not promise confidentiality or freedom from consequences unless those protections exist. Check who still finds taking part difficult.
+
+</details>
+
+</section>
+
+### Use it this week {#map-participation}
+
+In a group you belong to, notice what newcomers are told, what regular members do and what happens when someone disagrees. Ask what would help and try one feasible change, or note a question to raise. Do not pressure anyone to disclose a concern.
 
 <!-- practice-notes: week-07 | Notice an unwritten rule -->
+
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
+
+#### Another question
+
+**Returning to the practice situation above: what is the difference between “new parents usually stay quiet” and “new parents are expected to stay quiet”?**
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+The first describes what commonly happens: a descriptive norm. The second describes an expectation: a prescriptive norm. What people do and what they think others approve of need not be the same. [Revisit the explanation](#distinguish-what-people-do-from-what-they-are-expected-to-do).
+
+</details>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+#### Recall Chapter 4 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **You think you run welcoming meetings. A newcomer says they felt excluded. What might make that feedback hard to hear?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+You may want to protect your view of yourself as welcoming. Ask what happened and consider the answer even if it is uncomfortable. [Revisit the explanation](04-beliefs-identity-history.md#notice-when-a-conclusion-has-something-to-protect).
+
+</details>
+
+</section>
+
+<section class="deeper-practice" markdown="1" aria-labelledby="notice-unwritten-rule">
+
+#### Notice an unwritten rule {#notice-unwritten-rule}
+
+Choose a group you know. Describe **what newcomers are told**, **what regular members actually do**, and **what happens when someone behaves differently**.
+
+What do you already know about the group that a newcomer would have to work out? How could you explain it before they make a mistake?
+
+</section>
+
+</details>
 
 </section>

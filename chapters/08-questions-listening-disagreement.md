@@ -1,5 +1,15 @@
 # Questions, listening and disagreement
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-08/poster.png" aria-label="Questions, listening and disagreement: Chapter 8 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-08/explanation.mp4" type="video/mp4">
+<track src="../assets/media/chapter-08/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-08/explanation.mp4">Download the Chapter 8 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-08/transcript.txt">Read the video transcript</a> · 3 minutes 31 seconds</p>
+
 Two friends are organising a shared holiday. Imani wants to book early; Rosa keeps saying she needs more time. Imani prepares a speech about indecision. Before delivering it, she asks, “What do you still need to decide?” Rosa replies, “Whether I can afford the total once food and transport are included.”
 
 That answer changes the problem. It also shows the limit of imagining someone else's perspective: Imani had imagined Rosa choosing between destinations, while Rosa was deciding whether she could go at all.
@@ -42,16 +52,6 @@ Start by giving the person room to explain. Then use focused follow-up questions
 These are suggested questions. They will not help much if the person is punished for an answer you dislike. Let the answer affect the decision, including the possibility that they will decline.
 
 Once Rosa identifies cost, Imani can ask whether a total budget would help. Rosa need not disclose her income or debts. “I can spend this amount” provides what the plan requires without opening her finances to inspection.
-
-<section class="reader-action" markdown="1" aria-labelledby="remove-answer">
-
-### Try this: ask without suggesting the answer {#remove-answer}
-
-Choose a question you want to ask someone in your own life. Does it already assume what they meant? For example, “Why did you ignore me?” assumes deliberate ignoring. “Did you see my message?” checks something you do not yet know.
-
-Rewrite your question so it allows an answer you did not expect. Be ready to hear “No” or “I would rather not discuss that.”
-
-</section>
 
 ## Check that you understood their answer {#listen-for-correction-not-just-your-turn-to-speak}
 
@@ -97,45 +97,6 @@ If asking questions could lead to threats or harm, you do not have to continue. 
 
 Review your contribution afterwards. Did you learn something new, or merely secure agreement? Did you let the answer change your plan? Those questions are useful checks on whether your questions helped you understand.
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** Tess wants her brother to help clear a storage room. He says, “Not this weekend.” Tess thinks he is avoiding the work. He later explains that he cannot lift heavy boxes while his wrist heals.
-
-**1. What could Tess ask before deciding he is avoiding the work?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-“What makes this weekend difficult?” leaves room for an explanation. “Why are you leaving all the work to me?” already assumes what his refusal means. He can decide how much personal information to share. [Revisit the explanation](#start-open-then-make-the-uncertainty-specific).
-
-</details>
-
-**2. How could Tess check that she understood without adding a new assumption?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-“Your wrist makes lifting difficult. Have I understood that correctly?” checks his answer. “So you’ll definitely help next weekend” adds a promise he has not made. [Revisit the explanation](#listen-for-correction-not-just-your-turn-to-speak).
-
-</details>
-
-**3. Tess remembers an earlier promise. What could she ask, and when should she stop asking?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-“What do you remember us agreeing?” avoids suggesting the answer. They can check a relevant message. Once he has explained what he can do and given an answer, repeated questions to force agreement become pressure. [Revisit the explanation](#keep-memory-questions-free-of-unnecessary-suggestion).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -148,16 +109,68 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="listen-check">
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
 
-### Put it into practice this week: check one answer before giving yours {#listen-check}
+## Put it into practice {#put-it-into-practice}
 
-In one ordinary conversation this week, let the other person finish. Say **“What I understand is…”** and then ask **“Have I understood you correctly?”**
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-Let them correct you before explaining your view. Note what you learned and whether it changed your response. If they decline to discuss something, respect that answer.
+### Recall {#can-you-use-it}
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Without looking back, what should you do after someone explains a concern, before giving your answer?
+
+<details class="answer-check" markdown="1">
+<summary>Show the question to remember</summary>
+
+**“Have I understood you correctly?”** Your wording can differ; keep the same idea.
+
+</details>
+
+### Try it {#try-it}
+
+**A new fictional situation:** Tess wants her brother to help clear a storage room. He says, “Not this weekend.” Tess thinks he is avoiding the work. He later explains that he cannot lift heavy boxes while his wrist heals.
+
+What could Tess ask without assuming a motive? How could she check her understanding of the reply? Say or write your answer before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+“What makes this weekend difficult?” leaves room to explain. After hearing about the wrist, Tess could say, “Your wrist makes lifting difficult. Have I understood that correctly?” She should not turn that answer into a promise to help next weekend.
+
+</details>
+
+</section>
+
+### Use it this week {#listen-check}
+
+Let someone finish in one ordinary conversation. Summarise what you understood and invite correction before giving your view. Note what you learned and whether it changed your response. Respect a decision not to discuss something.
 
 <!-- practice-notes: week-08 | Check one answer before giving yours -->
+
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
+
+#### Another question
+
+**Returning to the practice situation above: Tess remembers an earlier promise. What could she ask, and when should she stop asking?**
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+“What do you remember us agreeing?” avoids suggesting the answer. They can check a relevant message. Once he has explained what he can do and given an answer, repeated questions to force agreement become pressure. [Revisit the explanation](#keep-memory-questions-free-of-unnecessary-suggestion).
+
+</details>
+
+<section class="deeper-practice" markdown="1" aria-labelledby="remove-answer">
+
+#### Ask without suggesting the answer {#remove-answer}
+
+Choose a question you want to ask someone in your own life. Does it already assume what they meant? For example, “Why did you ignore me?” assumes deliberate ignoring. “Did you see my message?” checks something you do not yet know.
+
+Rewrite your question so it allows an answer you did not expect. Be ready to hear “No” or “I would rather not discuss that.”
+
+</section>
+
+</details>
 
 </section>

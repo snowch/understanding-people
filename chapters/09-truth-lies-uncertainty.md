@@ -1,5 +1,15 @@
 # Truth, lies and uncertainty
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-09/poster.png" aria-label="Truth, lies and uncertainty: Chapter 9 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-09/explanation.mp4" type="video/mp4">
+<track src="../assets/media/chapter-09/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-09/explanation.mp4">Download the Chapter 9 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-09/transcript.txt">Read the video transcript</a> · 3 minutes 38 seconds</p>
+
 A contractor says a replacement part was ordered on Monday. When you ask for an update, they hesitate and look away. You suspect they are lying.
 
 The delay matters, but looking away does not tell you why it happened. Start with what you need to find out: was the part ordered, when was it ordered, and when is it expected to arrive?
@@ -9,21 +19,6 @@ The delay matters, but looking away does not tell you why it happened. Start wit
 ## One habit to practise {#remember-this}
 
 When an answer matters to a decision, ask: **“What would help me check that?”**
-
-</section>
-
-<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
-
-### Before reading on: recall Chapter 2 {#recall-earlier}
-
-This is a separate example. Before looking back, answer aloud or in your own notes: **A delivery service’s warning system flags 12 parcels. Only 3 are actually late. Does a warning usually mean a parcel is late in this invented example?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer</summary>
-
-No. Only 3 of 12 flagged parcels are late; 9 are false alarms. Look at how often a warning is wrong before treating it as proof. [Revisit the explanation](02-what-counts-as-knowing.md#count-the-ordinary-cases-as-well-as-the-striking-ones).
-
-</details>
 
 </section>
 
@@ -71,20 +66,6 @@ The report is a reason to examine particular interviewing methods. It does not p
 
 Ask what the method was shown to improve. Did people talk more, provide more facts, give more accurate facts, or confess more often? Those are different results. More conversation or more confessions does not necessarily mean more truth.
 
-<section class="reader-action" markdown="1" aria-labelledby="check-account">
-
-### Try this with the contractor example: check the order {#check-account}
-
-Imagine you are speaking to the contractor. Use these questions to find out about the order. They are suggested wording for this everyday example, not a tested interrogation method:
-
-1. **Ask what happened.** “Can you talk me through what happened with the order?”
-2. **Ask for a detail you do not know.** “What confirmation did you receive?”
-3. **Check your understanding.** “You submitted the request on Monday, but the supplier hasn't confirmed it—is that right?”
-4. **Ask for a record that supports the answer.** “Please forward the confirmation when it arrives.”
-5. **Agree on a decision.** “If we have no confirmed delivery date by Friday, let's discuss another option.”
-
-</section>
-
 The outcome you need may be a reliable delivery plan. You can request evidence and set a deadline without winning an argument about the contractor's honesty.
 
 ## What do you want to believe? {#include-your-own-stake-in-the-answer}
@@ -99,45 +80,6 @@ You may never know why the contractor missed a commitment. If it keeps happening
 
 The useful result is a decision you can explain using the available information—for example, asking for a confirmed delivery date or choosing another supplier.
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** A seller says a used bicycle was serviced last week. They speak confidently but have not shown you a service record. You want the bicycle for a trip tomorrow.
-
-**1. What does the seller’s confidence establish?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-It tells you how confidently they speak, not whether the bicycle was serviced. Nervousness would not prove a lie either. Focus on the specific claim you need to check. [Revisit the explanation](#what-lie-detection-research-can-tell-us).
-
-</details>
-
-**2. What could you check, and what would that evidence still leave unanswered?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-Ask for a dated record that identifies the bicycle and the work done. Check where it came from. Such a record could support the service claim without proving every part is safe or every other statement is true. [Revisit the explanation](#evaluate-the-account).
-
-</details>
-
-**3. How might your trip affect your judgment, and must you prove a lie before declining?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-Wanting a bicycle tomorrow could make you accept reassurance too readily. You can decide there is not enough information to buy, without accusing the seller of lying. [Revisit the explanation](#include-your-own-stake-in-the-answer).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -150,16 +92,76 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="same-check">
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
 
-### Put it into practice this week: check a claim you want to believe {#same-check}
+## Put it into practice {#put-it-into-practice}
 
-Choose one ordinary claim this week that matters to a decision. Ask **“What would help me check that?”** Seek one relevant fact, such as a delivery confirmation or the written terms of an offer.
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-Note what the information supports and what it leaves unanswered. Would you have asked for the same evidence if you disliked the answer? Avoid private surveillance or collecting unnecessary personal information.
+### Recall {#can-you-use-it}
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Without looking back, what question is more useful than judging someone’s confidence or eye contact?
+
+<details class="answer-check" markdown="1">
+<summary>Show the question to remember</summary>
+
+**“What would help me check that?”** Your wording can differ; keep the same idea.
+
+</details>
+
+### Try it {#try-it}
+
+**A new fictional situation:** A seller says a used bicycle was serviced last week. They speak confidently but have not shown you a service record. You want the bicycle for a trip tomorrow.
+
+What could you check about the bicycle? What would that evidence leave uncertain, and how might your trip affect your judgment? Say or write your answer before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+Ask for a dated service record identifying the bicycle and work done, and check its source. It may support the service claim without proving the bicycle is safe in every respect. Wanting it for tomorrow could make reassurance appealing. You can decline without proving a lie.
+
+</details>
+
+</section>
+
+### Use it this week {#same-check}
+
+Check one ordinary claim that matters to a decision. Note what the evidence supports and what remains uncertain. Ask whether you would seek the same evidence for an answer you disliked. Avoid surveillance or unnecessary personal information.
 
 <!-- practice-notes: week-09 | Check a claim you want to believe -->
+
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+#### Recall Chapter 2 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **A delivery service’s warning system flags 12 parcels. Only 3 are actually late. Does a warning usually mean a parcel is late in this invented example?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+No. Only 3 of 12 flagged parcels are late; 9 are false alarms. Look at how often a warning is wrong before treating it as proof. [Revisit the explanation](02-what-counts-as-knowing.md#count-the-ordinary-cases-as-well-as-the-striking-ones).
+
+</details>
+
+</section>
+
+<section class="deeper-practice" markdown="1" aria-labelledby="check-account">
+
+#### Try this with the contractor example: check the order {#check-account}
+
+Imagine you are speaking to the contractor. Use these questions to find out about the order. They are suggested wording for this everyday example, not a tested interrogation method:
+
+1. **Ask what happened.** “Can you talk me through what happened with the order?”
+2. **Ask for a detail you do not know.** “What confirmation did you receive?”
+3. **Check your understanding.** “You submitted the request on Monday, but the supplier hasn't confirmed it—is that right?”
+4. **Ask for a record that supports the answer.** “Please forward the confirmation when it arrives.”
+5. **Agree on a decision.** “If we have no confirmed delivery date by Friday, let's discuss another option.”
+
+</section>
+
+</details>
 
 </section>

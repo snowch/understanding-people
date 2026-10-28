@@ -1,5 +1,15 @@
 # What counts as knowing?
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-02/poster.png" aria-label="What counts as knowing?: Chapter 2 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-02/explanation.mp4" type="video/mp4">
+<track src="../assets/media/chapter-02/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-02/explanation.mp4">Download the Chapter 2 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-02/transcript.txt">Read the video transcript</a> · 3 minutes 38 seconds</p>
+
 A neighbourhood organiser notices that people who reply quickly in the group chat are more likely to turn up for events. She proposes a rule: anyone who has not replied within a day loses their place. “Fast replies show commitment,” she says.
 
 The pattern might be real, but it does not tell her why people attend. People with predictable working hours might find both replying and attending easier. Regular participants might check the chat because they already feel involved. Requiring faster replies could exclude people who cannot check their phones at work.
@@ -38,16 +48,6 @@ The organiser sees messages from people who joined the chat. She does not see re
 The records may be incomplete too. An absent tick beside a name might mean that someone did not attend, did not sign in or was never added to the record. Check what the tick means before judging the person.
 
 Now consider a separate example: a customer has not bought from you. Do you know that they rejected the offer, or only that your system has no completed purchase? They might be waiting for approval, comparing options or having trouble paying. Asking what is holding up the purchase could help more than calling them indecisive.
-
-<section class="reader-action" markdown="1" aria-labelledby="audit-evidence">
-
-### Try this: check a fact you are relying on {#audit-evidence}
-
-Choose a statement you believe about someone in your own life. Write **how you know it**, **what you saw or heard**, and **what you still do not know**.
-
-Be specific about who and when. Instead of “Everyone ignores my messages”, try “Three people did not reply to my invitation last week.” Does the more precise description change what you think?
-
-</section>
 
 ## How often does the warning point to the wrong person? {#count-the-ordinary-cases-as-well-as-the-striking-ones}
 
@@ -88,45 +88,6 @@ Two people can agree about the facts and still disagree about what is fair. One 
 
 Use the amount of checking that fits the decision. Trying a different booking reminder is reversible and inexpensive. Publicly accusing someone of dishonesty carries much greater consequences. Where safety is at stake, seeking protection need not wait for certainty about motive; see [Chapter 11](11-conflict-manipulation-boundaries.md).
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** A café owner notices that customers who use a loyalty card spend more. She says, “Giving everyone a card will make everyone spend more.”
-
-**1. What does the owner know, and what has she not established?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-She has noticed a link between card use and spending. She has not shown that the card causes extra spending. People who already visit often might be more likely to get a card. [Revisit the explanation](#separate-description-prediction-and-explanation).
-
-</details>
-
-**2. What could she check before making the claim?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-She could check whether card users were already spending more before getting their cards. That would help assess one explanation, though it would not settle every possible cause. A useful check could change her conclusion. [Revisit the explanation](#let-confidence-move-without-swinging-between-certainties).
-
-</details>
-
-**3. Here is a separate invented example. A warning flags 20 bookings: 2 really contain an error and 18 do not. If a booking is flagged, is it probably wrong?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-No. In these invented numbers, only 2 of the 20 flagged bookings contain an error: 10%. Count false alarms as well as correct warnings. This says nothing about a real booking system. [Revisit the explanation](#count-the-ordinary-cases-as-well-as-the-striking-ones).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -139,16 +100,68 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="make-claim-checkable">
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
 
-### Put it into practice this week: check a pattern before explaining it {#make-claim-checkable}
+## Put it into practice {#put-it-into-practice}
 
-Once this week, notice a claim that one thing makes another happen. Ask **“What else could explain this pattern?”** Write what was actually observed, another possible reason and one fact you could check.
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-Choose an ordinary decision, such as whether a reminder helps you arrive on time. You do not need to run an experiment on other people.
+### Recall {#can-you-use-it}
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Without looking back, what should you ask when you notice that two things happen together?
+
+<details class="answer-check" markdown="1">
+<summary>Show the question to remember</summary>
+
+**“What else could explain this pattern?”** Your wording can differ; keep the same idea.
+
+</details>
+
+### Try it {#try-it}
+
+**A new fictional situation:** A café owner notices that customers who use a loyalty card spend more. She says, “Giving everyone a card will make everyone spend more.”
+
+What does the owner know? What else could explain the pattern, and what could she check? Say or write your answer before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+She has observed a link, not established that the card causes spending. Regular customers may be more likely to get a card. Checking their spending before they got one would help assess that possibility without settling every possible cause.
+
+</details>
+
+</section>
+
+### Use it this week {#make-claim-checkable}
+
+Notice one claim that something causes a change. Ask what else could explain the pattern, then check one relevant fact. Afterwards, note whether it changed your view. Choose an ordinary decision, not an experiment imposed on someone else.
 
 <!-- practice-notes: week-02 | Check a pattern before explaining it -->
+
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
+
+#### Another question
+
+**Here is a separate invented example. A warning flags 20 bookings: 2 really contain an error and 18 do not. If a booking is flagged, is it probably wrong?**
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+No. In these invented numbers, only 2 of the 20 flagged bookings contain an error: 10%. Count false alarms as well as correct warnings. This says nothing about a real booking system. [Revisit the explanation](#count-the-ordinary-cases-as-well-as-the-striking-ones).
+
+</details>
+
+<section class="deeper-practice" markdown="1" aria-labelledby="audit-evidence">
+
+#### Check a fact you are relying on {#audit-evidence}
+
+Choose a statement you believe about someone in your own life. Write **how you know it**, **what you saw or heard**, and **what you still do not know**.
+
+Be specific about who and when. Instead of “Everyone ignores my messages”, try “Three people did not reply to my invitation last week.” Does the more precise description change what you think?
+
+</section>
+
+</details>
 
 </section>

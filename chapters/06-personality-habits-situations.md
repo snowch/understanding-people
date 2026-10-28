@@ -1,5 +1,15 @@
 # Personality, habits and situations
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-06/poster.png" aria-label="Personality, habits and situations: Chapter 6 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-06/explanation.mp4" type="video/mp4">
+<track src="../assets/media/chapter-06/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-06/explanation.mp4">Download the Chapter 6 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-06/transcript.txt">Read the video transcript</a> · 3 minutes 26 seconds</p>
+
 “I am just an introvert,” says Alex, declining a crowded birthday party. The next afternoon, Alex spends hours talking at a small repair club. A friend sees a contradiction: surely an introvert would dislike both.
 
 Alex uses “introvert” to describe a preference for quieter social settings. A crowded party and a familiar repair club differ in size, noise and purpose. Liking one and avoiding the other does not necessarily conflict with that preference.
@@ -48,16 +58,6 @@ Here are three separate examples of making a description more specific:
 
 A more precise description does not automatically make conduct acceptable. The last example could involve an ordinary budgeting agreement or harmful control. Context helps distinguish them; a trait label alone does not.
 
-<section class="reader-action" markdown="1" aria-labelledby="replace-label">
-
-### Try this: describe when the behaviour happens {#replace-label}
-
-Think of a label you use about yourself, such as “I am disorganised.” Replace it with a specific description: **“I often miss appointments when the time changes at short notice.”** Then remember a time when this did not happen. What was different?
-
-Choose a change that might help, such as putting changed appointments into one calendar. A few examples do not amount to a personality test.
-
-</section>
-
 ## Could the action be a habit? {#ask-whether-repetition-is-being-mistaken-for-intention}
 
 Now consider a different part of Alex’s life. Alex wants to read in the evening but often picks up the phone on sitting down. That could be a habit, rather than a new decision each evening that reading does not matter.
@@ -92,45 +92,6 @@ Here is a separate example. A housemate repeatedly leaves the front door unlocke
 
 For yourself, a personality description can help you choose useful support. It need not decide what you are allowed to try. If large groups are tiring, you might practise a new skill in a smaller group and see how that goes.
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** Lee says, “I am hopelessly disorganised.” Lee misses appointments sent through several apps but usually attends those entered in one calendar.
-
-**1. How could Lee replace the label with a more useful description?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-“I often miss appointments when their details are spread across apps.” This names when the difficulty happens and leaves room for occasions when Lee manages well. It is more useful than treating every action as proof of a fixed character. [Revisit the explanation](#look-for-both-consistency-and-variation).
-
-</details>
-
-**2. What small change could Lee choose to try?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-Lee could put appointments into one calendar and check it at an agreed point in the day. The change should fit Lee’s needs. A few better days would show it helped then, not prove a permanent personality change. [Revisit the explanation](#change-the-arrangement-then-observe).
-
-</details>
-
-**3. Here is a separate example: a housemate repeatedly leaves a door unlocked. Does calling it a habit solve the problem?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-No. It may help explain the action, but the household still needs a reliable way to secure the door. Agree a practical change and check whether it works, while considering everyone’s access and safety. [Revisit the explanation](#make-room-for-responsibility-without-making-it-a-character-verdict).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -143,16 +104,68 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="test-arrangement">
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
 
-### Put it into practice this week: replace one label with a pattern {#test-arrangement}
+## Put it into practice {#put-it-into-practice}
 
-Once this week, notice a label you use about yourself, such as “forgetful” or “bad at meeting people”. Ask **“When does this happen, and when does it not?”**
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-Write one example and one exception. Choose a small change to your own routine or surroundings and try it. Record whether it helped, rather than treating the result as a personality test.
+### Recall {#can-you-use-it}
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Without looking back, what should you ask before deciding that someone is “just disorganised”?
+
+<details class="answer-check" markdown="1">
+<summary>Show the question to remember</summary>
+
+**“When does this happen, and when does it not?”** Your wording can differ; keep the same idea.
+
+</details>
+
+### Try it {#try-it}
+
+**A new fictional situation:** Lee says, “I am hopelessly disorganised.” Lee misses appointments sent through several apps but usually attends those entered in one calendar.
+
+How could Lee describe the pattern more precisely? What small change could Lee choose to try? Say or write your answer before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+“I often miss appointments when their details are spread across apps” leaves room for occasions when Lee manages well. Lee could choose one calendar and a regular time to check it. Better days would show that arrangement helped then, not prove a permanent personality change.
+
+</details>
+
+</section>
+
+### Use it this week {#test-arrangement}
+
+Notice one label you use about yourself. Write an example and an exception, then try one small change to your routine or surroundings. Record what helped without treating the result as a personality test.
 
 <!-- practice-notes: week-06 | Replace one label with a pattern -->
+
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
+
+#### Another question
+
+**Here is a separate example: a housemate repeatedly leaves a door unlocked. Does calling it a habit solve the problem?**
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+No. It may help explain the action, but the household still needs a reliable way to secure the door. Agree a practical change and check whether it works, while considering everyone’s access and safety. [Revisit the explanation](#make-room-for-responsibility-without-making-it-a-character-verdict).
+
+</details>
+
+<section class="deeper-practice" markdown="1" aria-labelledby="replace-label">
+
+#### Describe when the behaviour happens {#replace-label}
+
+Think of a label you use about yourself, such as “I am disorganised.” Replace it with a specific description: **“I often miss appointments when the time changes at short notice.”** Then remember a time when this did not happen. What was different?
+
+Choose a change that might help, such as putting changed appointments into one calendar. A few examples do not amount to a personality test.
+
+</section>
+
+</details>
 
 </section>

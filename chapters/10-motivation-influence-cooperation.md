@@ -1,5 +1,15 @@
 # Motivation, influence and cooperation
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-10/poster.png" aria-label="Motivation, influence and cooperation: Chapter 10 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-10/explanation.mp4" type="video/mp4">
+<track src="../assets/media/chapter-10/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-10/explanation.mp4">Download the Chapter 10 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-10/transcript.txt">Read the video transcript</a> · 3 minutes 52 seconds</p>
+
 A local music group wants members to practise before rehearsal. Its organiser, Elena, proposes a public list ranking members by the hours they say they practise. One member likes the idea. Another has little time but practises efficiently. A third worries that reporting fewer hours will make them look unserious.
 
 Elena wants members to play better together. A list of hours tells her how long they say they practised, but not how well they prepared. She needs to decide what improvement she wants before choosing a reward or ranking.
@@ -33,16 +43,6 @@ Elena asks members what makes preparation difficult. One does not know which bar
 | The person no longer wants to take part | Discuss doing less, a different role or leaving the activity. |
 
 These are possible responses to the music-group example. More than one difficulty may be present. A reward cannot correct the wrong sheet music, and a detailed plan cannot create time already needed for care or paid work.
-
-<section class="reader-action" markdown="1" aria-labelledby="define-success">
-
-### Try this: are you measuring the improvement you want? {#define-success}
-
-Think of a goal of your own or a group you help. Write **what you want to improve** and **what you plan to count**. Could the count go up without the result improving? Elena’s members could log more hours without playing the passage better.
-
-Ask whether you want proof that people are trying, or information about what actually helps. Discuss the measure with the people who will be judged by it.
-
-</section>
 
 ## Rewards can help in some ways and not others {#incentives-and-interest-do-not-have-one-simple-relationship}
 
@@ -82,45 +82,6 @@ Return to Elena’s group. Suppose she sends a clear weekly note about what to p
 
 Check more than whether people did what you asked once. Did the work improve? Can they keep up the commitment? Who had to do extra work? Check your part too: did you give clear instructions and provide the help you promised?
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** A walking group rewards the person who logs the most kilometres. One member walks despite pain, while a newcomer feels that short walks do not count. The organiser’s aim was regular, enjoyable participation.
-
-**1. How could the measure improve while the real aim gets worse?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-Logged kilometres could rise while enjoyment, manageable participation or safety declines. Counting distance does not by itself show that the group is meeting its aim. [Revisit the explanation](#define-success).
-
-</details>
-
-**2. What could the organiser ask before choosing a new reward?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-“What would make regular walks workable and enjoyable for you?” could reveal different needs. Explain any requirements honestly and let people decline. More pressure cannot remove every practical difficulty. [Revisit the explanation](#diagnose-the-obstacle-before-increasing-the-pressure).
-
-</details>
-
-**3. What would show whether an agreed change helped?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-Check the intended result and the costs: whether members could participate comfortably, whether they wanted to continue and who did extra work. Research about rewards does not guarantee one arrangement will suit this group. [Revisit the explanation](#review-cooperation-from-both-sides).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -133,16 +94,57 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="agree-experiment">
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
 
-### Put it into practice this week: check what your measure is encouraging {#agree-experiment}
+## Put it into practice {#put-it-into-practice}
 
-Choose a goal you track, or an activity you help organise. This week ask **“What improvement do we actually want?”** Write what you count and how the count could rise without helping that goal.
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-Choose a better check or agree a small change with those affected. Note whether it helped, what effort it required and whether people still wanted to take part.
+### Recall {#can-you-use-it}
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Without looking back, what should you ask before adding a reward, reminder or pressure?
+
+<details class="answer-check" markdown="1">
+<summary>Show the question to remember</summary>
+
+**“What improvement do we actually want?”** Your wording can differ; keep the same idea.
+
+</details>
+
+### Try it {#try-it}
+
+**A new fictional situation:** A walking group rewards the person who logs the most kilometres. One member walks despite pain, while a newcomer feels that short walks do not count. The organiser’s aim was regular, enjoyable participation.
+
+How could logged kilometres increase while the group’s aim gets worse? What should the organiser ask or review? Say or write your answer before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+Distance could rise while enjoyment, manageable participation or safety declines. Ask what would make regular walks workable and enjoyable. Agree a change and check those outcomes, including costs to members, rather than simply replacing one ranking with another.
+
+</details>
+
+</section>
+
+### Use it this week {#agree-experiment}
+
+Choose a goal you track. Write the improvement you want and how your count could rise without helping it. Agree a better check or small change with those affected, then review the benefit, effort and willingness to continue.
 
 <!-- practice-notes: week-10 | Check what your measure is encouraging -->
+
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
+
+<section class="deeper-practice" markdown="1" aria-labelledby="define-success">
+
+#### Are you measuring the improvement you want? {#define-success}
+
+Think of a goal of your own or a group you help. Write **what you want to improve** and **what you plan to count**. Could the count go up without the result improving? Elena’s members could log more hours without playing the passage better.
+
+Ask whether you want proof that people are trying, or information about what actually helps. Discuss the measure with the people who will be judged by it.
+
+</section>
+
+</details>
 
 </section>

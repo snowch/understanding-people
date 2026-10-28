@@ -1,0 +1,43 @@
+What counts as knowing?
+
+https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html
+
+The examples in this video are fictional.
+Synthetic narration: en-GB-SoniaNeural.
+
+0:00 — Do fast replies mean commitment?
+A neighbourhood organiser notices that people who reply quickly in the group chat are more likely to attend events. She proposes removing anyone who has not replied within a day. Fast replies show commitment, she says. But a pattern in the records does not yet explain why people attend, or what a faster deadline would change.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#separate-description-prediction-and-explanation
+
+0:21 — A clue is not a cause
+People with predictable working hours might find both replying and attending easier. Regular participants might check the chat because they already feel involved. Making everyone reply faster would not necessarily make attendance easier. The new rule might simply exclude people who cannot check their phones at work. These are possible explanations to investigate, not findings about every resident.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#separate-description-prediction-and-explanation
+
+0:47 — Four different questions
+Keep four questions separate. What happened asks for a clear record. What is likely next time asks whether a pattern also predicts later events, including its mistakes. Why did it happen asks which explanation fits. What should we do also involves consequences and fairness. The same attendance list cannot answer all four questions by itself.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#separate-description-prediction-and-explanation
+
+1:11 — Check who is missing
+The organiser sees people who joined the chat. She misses residents who never received an invitation, could not use the platform, or left after an unwelcoming visit. Even a blank attendance box is ambiguous. Was the person absent, or did nobody record their arrival? Before judging someone, check what the record means and whose experience it leaves out.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#ask-what-is-missing-from-the-record
+
+1:35 — Count the false alarms
+Now consider a separate invented screening example. Of one thousand people, ten deliberately broke a rule. A warning correctly flags eight of those ten, but also wrongly flags ninety-nine other people. That leaves one hundred and seven warnings, with only eight actual cases among them. Finding most cases does not mean that most warnings are correct.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#count-the-ordinary-cases-as-well-as-the-striking-ones
+
+1:59 — The starting numbers matter
+A base rate is how common something is in the relevant group before you consider a particular clue or test result. In that invented group, it is ten out of one thousand. The numbers demonstrate arithmetic, not a real screening tool. If the starting rate is unknown, say so. Do not invent a precise probability about a person, or dismiss specific evidence of harm.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#count-the-ordinary-cases-as-well-as-the-striking-ones
+
+2:24 — Update without a new certainty
+Return to the organiser. She learns that several slow responders work shifts and attend when given more time to book. That weakens her first explanation. It does not establish one reason for everyone. She can change the deadline and explain what information she needs, while recognising that an unanswered message does not measure how much someone cares.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#let-confidence-move-without-swinging-between-certainties
+
+2:47 — Evidence and fairness
+Julia Rohrer’s paper on investigating causes explains why things can happen together without one causing the other, and why causal conclusions depend on assumptions. For the organiser, that means checking alternatives before changing the rule. She may still need a booking deadline. Evidence can clarify the costs of different choices, but the group must also decide what is fair.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#evidence-informs-a-decision-it-does-not-choose-your-values
+
+3:12 — One question to remember
+When a pattern makes you want to change a rule, ask: What else could explain this pattern? Name what was actually observed, another possible explanation, and one fact you could check. Use more care when a mistaken judgment could cause serious harm. Then try the short practice section below the video with a different situation.
+Chapter explanation: https://snowch.github.io/understanding-people/chapters/02-what-counts-as-knowing.html#remember-this
+

@@ -4,7 +4,9 @@ Read with a situation in mind, including one involving your own behaviour. The a
 
 ## Follow the explanation, then try it
 
-Each chapter starts with **One habit to practise**: a question to remember and a moment when it could help. The text then explains the idea through research and examples. Green panels headed **Try this** or **Put it into practice** give you a small task. Their wording and checklist icon identify them in print and for readers who do not distinguish colours.
+Start with the chapter’s illustrated explanation video or read the worked example. The video has English captions and a transcript; the text gives fuller explanations and research links. **One habit to practise** gives you a question to remember and a moment when it could help.
+
+After the **Key takeaways**, a green **Put it into practice** panel offers one short sequence: recall the question, try a new situation, then choose one action for the week. Its wording and checklist icon also identify it without colour.
 
 You can read straight through without doing every exercise. When a question fits your situation, pause and use it. Avoid turning ordinary interactions into a running assessment of everyone around you.
 
@@ -20,11 +22,11 @@ If someone else is involved, include what you said or did and how that might hav
 
 ## Check what you can use, then try it during the week
 
-Before reading the key takeaways, try the chapter’s **Can you use it?** questions. Each uses a new fictional situation. Say or write your answer before opening **Compare your answer**. You do not need to copy the wording; look at whether you separated facts from guesses, asked a useful question or recognised a limit. Each explanation links back to the passage if you get stuck.
+In **Recall**, try remembering the chapter’s question without looking back. In **Try it**, say or write your answer to the new fictional situation before opening the example answer. Your wording can differ; compare the reasoning and any important limits.
 
-These are self-checks, not scored tests or proof that you will remember later. Some later chapters bring back an earlier idea in a new situation. Try answering before looking back. You can also return a week later and attempt the end-of-chapter check again without opening the answers.
+Then use **Use it this week** to apply the idea once in your own life. That is enough. Open **More practice** if you want a deeper exercise or another attempt at an earlier lesson. In Chapter 1, the extra confirmation-bias and correspondence-bias exercises are optional.
 
-Use **Try this** panels during a chapter for a short rehearsal. The **Put it into practice** tasks are grouped at the end, after the self-check and key takeaways, so you can apply the lesson to your own life. In Chapter 1, start with the three questions. That is enough; noticing confirmation bias or correspondence bias is an optional focus for the week. You do not need to track everyone around you or complete every exercise.
+These are self-checks, not scored tests or proof that you will remember later. Return a week later and try the recall question and scenario again before opening the answers. You do not need to track everyone around you or complete every exercise.
 
 ### Keep notes if they help
 
@@ -52,6 +54,6 @@ Likewise, an alternative explanation does not have to be a reassuring one. Consi
 
 ## Read the current edition as a draft
 
-All [twelve chapters](contents.md) are available as a complete first draft. Each ends with a **Can you use it?** check, **Key takeaways**, and practice to try during the week. This edition has not undergone external subject-matter review, and its source list is selective rather than a systematic review of all relevant research.
+All [twelve chapters](contents.md) are available as a complete first draft. Each has one explanation video, **Key takeaways**, compact practice and optional deeper exercises. This edition has not undergone external subject-matter review, and its source list is selective rather than a systematic review of all relevant research.
 
 The most useful feedback identifies a passage: what claim seems unsupported, what explanation needs clarification, or what question the example leaves unanswered. Sources and revision history are available through the page-source links.

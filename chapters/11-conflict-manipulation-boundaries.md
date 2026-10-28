@@ -1,5 +1,15 @@
 # Conflict, manipulation and boundaries
 
+<figure class="chapter-video">
+<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-11/poster.png" aria-label="Conflict, manipulation and boundaries: Chapter 11 video" aria-describedby="chapter-video-caption">
+<source src="../assets/media/chapter-11/explanation.mp4" type="video/mp4">
+<track src="../assets/media/chapter-11/captions.vtt" kind="captions" srclang="en" label="English">
+<p><a href="../assets/media/chapter-11/explanation.mp4">Download the Chapter 11 video</a>.</p>
+</video>
+<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
+</figure>
+<p class="video-links"><a href="../assets/media/chapter-11/transcript.txt">Read the video transcript</a> · 3 minutes 46 seconds</p>
+
 A relative, Martin, volunteers you to organise a family gathering. You had agreed only to bring food. When you object, he says you are remembering it wrong, then tells others that you are unreliable. You wonder whether this is a misunderstanding, manipulation or gaslighting.
 
 You can start with what you know: you agreed to bring food, and Martin is telling people you agreed to organise. You can correct that claim and decide what work you will accept, even if you do not know why he said it.
@@ -11,21 +21,6 @@ If the situation includes threats, fear or control over your safety or essential
 ## One habit to practise {#remember-this}
 
 When someone pressures you to accept something harmful or unwanted, ask: **“What can I safely do next?”**
-
-</section>
-
-<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
-
-### Before reading on: recall Chapter 8 {#recall-earlier}
-
-This is a separate example. Before looking back, answer aloud or in your own notes: **Someone says they do not want to join your project. You keep asking why, hoping their answer will change. What should you notice?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer</summary>
-
-Your questions may have become pressure. If they understand the choice and have declined, you need to decide what to do with their answer. [Revisit the explanation](08-questions-listening-disagreement.md#know-when-to-stop-asking).
-
-</details>
 
 </section>
 
@@ -71,16 +66,6 @@ You do not need a perfect record before asking for help. If someone monitors you
 
 Guidance from the UK National Health Service (NHS) identifies controlling access to money, isolating someone, monitoring communications and threats among signs that can occur in domestic abuse. Abuse can be nonphysical. Its support services are UK-specific; readers elsewhere should use suitable local services. [NHS guidance](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/).
 
-<section class="reader-action" markdown="1" aria-labelledby="name-impact">
-
-### Try this: describe what happened and how it affected you {#name-impact}
-
-Choose a situation of your own that is safe to think about. Describe **what the person did**, **how it affected you**, and **what you need now**. For example, you may need a false claim corrected or a task reassigned. You do not need a label for the person.
-
-If writing or storing notes could put you at risk, do not use this exercise as a reason to do so. Consider a trusted person or specialist support using a safer means of contact.
-
-</section>
-
 ## Say what you will and will not agree to {#make-a-boundary-about-what-you-can-do}
 
 <section class="definition" markdown="1" aria-label="Definition: Boundary">
@@ -121,45 +106,6 @@ Check how you react when someone says no to you. Do you accept the answer, or ke
 
 Understanding what happened should help you decide what needs to change. It should not keep you in harm’s way while you search for a perfect explanation.
 
-<section class="chapter-check" markdown="1" aria-labelledby="can-you-use-it">
-
-## Can you use it? {#can-you-use-it}
-
-Try these before reading the takeaways—about two minutes. Say or write your answer before opening each explanation. Your wording can differ; compare how you reasoned, not whether you used the same words.
-
-**A new fictional situation:** A friend repeatedly borrows your tools without asking. When you object, they call you selfish. You want the borrowing to stop but do not know why they keep doing it.
-
-**1. Do you need to establish a diagnosis or hidden motive before responding?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 1</summary>
-
-No. You can describe the borrowing and decide what you will allow. Calling you selfish does not oblige you to lend tools. You do not need a label for the person to address what they do. [Revisit the explanation](#describe-the-conduct-before-deciding-what-to-call-it).
-
-</details>
-
-**2. Assuming it is safe to disagree, what limit could you act on yourself?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 2</summary>
-
-“I won’t lend my tools without agreeing first, and I will keep them somewhere only I can access.” This states what you will do. “You must become more considerate” asks for change but is not an action you control. [Revisit the explanation](#make-a-boundary-about-what-you-can-do).
-
-</details>
-
-**3. Now change the situation: the person threatens you and controls your housing. Should you use the same conversation plan?**
-
-<details class="answer-check" markdown="1">
-<summary>Compare your answer to question 3</summary>
-
-No. Confronting them or changing access could increase the risk. Seek suitable support and a safer next step. Being unable to enforce a limit does not make you responsible for their threats or abuse. [Revisit the explanation](../support.md).
-
-</details>
-
-If one answer surprised you, revisit that explanation and try the question again before opening the answer. This checks what you can use now; try recalling it again later.
-
-</section>
-
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
@@ -172,16 +118,72 @@ If one answer surprised you, revisit that explanation and try the question again
 
 </section>
 
-<section class="reader-action weekly-practice" markdown="1" aria-labelledby="choose-safe-limit">
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="put-it-into-practice">
 
-### Put it into practice this week: choose a step you can safely take {#choose-safe-limit}
+## Put it into practice {#put-it-into-practice}
 
-Choose an ordinary situation where it is safe to disagree. Ask **“What can I safely do next?”** State what happened, what you will ask for or stop agreeing to, and an action you can carry out.
+<section class="practice-check" markdown="1" aria-labelledby="can-you-use-it">
 
-If there is fear, monitoring, threats or dependence, choose a support step instead. Do not keep notes if discovery could put you at risk. You do not need to confront someone to complete this exercise.
+### Recall {#can-you-use-it}
 
-In a week, return to your notes. **What would you do differently next time?** Choose a date or set your own reminder; the book does not send notifications.
+Without looking back, what should you ask before responding to unwanted pressure?
+
+<details class="answer-check" markdown="1">
+<summary>Show the question to remember</summary>
+
+**“What can I safely do next?”** Your wording can differ; keep the same idea.
+
+</details>
+
+### Try it {#try-it}
+
+**A new fictional situation:** A friend repeatedly borrows your tools without asking. When you object, they call you selfish. You want the borrowing to stop but do not know why they keep doing it.
+
+If it is safe to disagree, what limit could you act on? How would threats or dependence change the next step? Say or write your answer before opening the example.
+
+<details class="answer-check" markdown="1">
+<summary>Show an example answer</summary>
+
+You can stop lending without prior agreement and choose where to keep your tools, without proving a motive. If the person threatens you or controls your housing, confrontation or changing access could increase risk. Seek suitable support and a safer next step instead.
+
+</details>
+
+</section>
+
+### Use it this week {#choose-safe-limit}
+
+Choose an ordinary situation where disagreement is safe. Describe what happened and an action you can take. If there is fear, monitoring, threats or dependence, choose a support step instead. Do not store notes if discovery could put you at risk.
 
 <!-- practice-notes: week-11 | Choose a step you can safely take -->
+
+<details class="answer-check more-practice" markdown="1">
+<summary>More practice</summary>
+
+<section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
+
+#### Recall Chapter 8 {#recall-earlier}
+
+This is a separate example. Before looking back, answer aloud or in your own notes: **Someone says they do not want to join your project. You keep asking why, hoping their answer will change. What should you notice?**
+
+<details class="answer-check" markdown="1">
+<summary>Compare your answer</summary>
+
+Your questions may have become pressure. If they understand the choice and have declined, you need to decide what to do with their answer. [Revisit the explanation](08-questions-listening-disagreement.md#know-when-to-stop-asking).
+
+</details>
+
+</section>
+
+<section class="deeper-practice" markdown="1" aria-labelledby="name-impact">
+
+#### Describe what happened and how it affected you {#name-impact}
+
+Choose a situation of your own that is safe to think about. Describe **what the person did**, **how it affected you**, and **what you need now**. For example, you may need a false claim corrected or a task reassigned. You do not need a label for the person.
+
+If writing or storing notes could put you at risk, do not use this exercise as a reason to do so. Consider a trusted person or specialist support using a safer means of contact.
+
+</section>
+
+</details>
 
 </section>
