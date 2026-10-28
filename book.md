@@ -14,7 +14,7 @@ The aim is to help you form better explanations and choose useful responses: a c
 
 | What brought you here? | Start reading |
 | --- | --- |
-| Am I misreading this person? | [Before you explain someone](chapters/01-before-you-explain.md) |
+| Am I misreading this person? | [Why we misinterpret people](chapters/01-before-you-explain.md) |
 | Why do I want to do something but never get started? | [Needs, motives and competing goals](chapters/03-needs-motives-goals.md) |
 | Can I trust what someone says? | [Truth, lies and uncertainty](chapters/09-truth-lies-uncertainty.md) |
 | What should I do about a particular situation? | [Work through a situation](worksheet.md) |

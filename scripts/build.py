@@ -21,7 +21,7 @@ PAGES = [
     ("contents.md", "Contents & reading routes"),
     ("how-to-use.md", "How to use this book"),
     ("evidence.md", "How we use evidence"),
-    ("chapters/01-before-you-explain.md", "Before you explain someone"),
+    ("chapters/01-before-you-explain.md", "Why we misinterpret people"),
     ("chapters/02-what-counts-as-knowing.md", "What counts as knowing?"),
     ("chapters/03-needs-motives-goals.md", "Needs, motives and competing goals"),
     ("chapters/04-beliefs-identity-history.md", "Beliefs, identity and personal history"),
@@ -40,7 +40,7 @@ PAGES = [
     ("about.md", "About the book & author"),
 ]
 CHAPTERS = [
-    ("Before you explain someone", "chapters/01-before-you-explain.md"),
+    ("Why we misinterpret people", "chapters/01-before-you-explain.md"),
     ("What counts as knowing?", "chapters/02-what-counts-as-knowing.md"),
     ("Needs, motives and competing goals", "chapters/03-needs-motives-goals.md"),
     ("Beliefs, identity and personal history", "chapters/04-beliefs-identity-history.md"),

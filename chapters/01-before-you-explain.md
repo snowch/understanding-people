@@ -1,4 +1,4 @@
-# Before you explain someone
+# Why we misinterpret people
 
 On Tuesday, Rowan says, “Your idea looks promising.” In Thursday's meeting, Rowan says, “I don't think it's ready yet.”
 

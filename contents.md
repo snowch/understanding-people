@@ -6,7 +6,7 @@ The chapters follow a shared process of understanding people. Family, work, educ
 
 ## Part I · Seeing clearly
 
-1. <span id="chapter-01"></span>**[Before you explain someone](chapters/01-before-you-explain.md)** — Separate what you saw or heard from why you think it happened, and check other possible explanations.
+1. <span id="chapter-01"></span>**[Why we misinterpret people](chapters/01-before-you-explain.md)** — Separate what you saw or heard from why you think it happened, and check other possible explanations.
 2. <span id="chapter-02"></span>**[What counts as knowing?](chapters/02-what-counts-as-knowing.md)** — Decide what a study, a number or an observation can tell you—and what would change your mind.
 
 ## Part II · What shapes behaviour?
@@ -42,7 +42,7 @@ The chapters follow a shared process of understanding people. Family, work, educ
 
 | Your question | Start here | Read alongside it |
 | --- | --- | --- |
-| Am I drawing a conclusion too quickly? | [Before you explain someone](chapters/01-before-you-explain.md) | [What counts as knowing?](chapters/02-what-counts-as-knowing.md) |
+| Am I drawing a conclusion too quickly? | [Why we misinterpret people](chapters/01-before-you-explain.md) | [What counts as knowing?](chapters/02-what-counts-as-knowing.md) |
 | Why am I—or someone else—avoiding this? | [Needs, motives and competing goals](chapters/03-needs-motives-goals.md) | [Emotion and coping](chapters/05-emotion-stress-coping.md); [habits and situations](chapters/06-personality-habits-situations.md) |
 | Why do we see the same event differently? | [Beliefs, identity and personal history](chapters/04-beliefs-identity-history.md) | [Culture, groups and power](chapters/07-culture-groups-power.md) |
 | How can I understand their answer better? | [Questions, listening and disagreement](chapters/08-questions-listening-disagreement.md) | [Truth, lies and uncertainty](chapters/09-truth-lies-uncertainty.md) |
