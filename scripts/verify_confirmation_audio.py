@@ -15,9 +15,10 @@ with sync_playwright() as pw:
  p.emulate_media(color_scheme='dark');p.screenshot(path='/tmp/reference-audio-links-dark.png');p.emulate_media(color_scheme='light')
  p.get_by_role('link',name='Detailed explanation ·').click()
  expect(p.locator('audio')).to_have_attribute('preload','none');assert not media
- assert p.locator('.audio-chapters button:visible').count()==len(d['segments'])==8
+ expect(p.locator('.audio-chapters button:visible')).to_have_count(len(d['segments']))
+ assert len(d['segments'])==8
  # A cold start at a later section must actually seek, rather than play from zero.
- start=m['timeline'][2]['start'];p.locator('[data-audio-seek]').nth(2).click();p.wait_for_function('(start)=>{const a=document.querySelector("audio");return !a.paused&&a.currentTime>=start&&a.currentTime<start+5}',arg=start)
+ start=m['timeline'][2]['start'];p.locator('[data-audio-seek]').nth(2).click();p.wait_for_function('(start)=>{const a=document.querySelector("audio");return a.readyState>=2&&!a.paused&&a.currentTime>start+.1&&a.currentTime<start+5}',arg=start)
  p.locator('audio').evaluate('e=>e.pause()');assert abs(p.locator('audio').evaluate('e=>e.duration')-m['duration'])<.2
  p.locator('[data-audio-speed]').select_option('1.25');assert p.locator('audio').evaluate('e=>e.playbackRate')==1.25
  p.locator('[data-audio-seek]').first.click();p.wait_for_function('document.querySelector("audio").currentTime<5');p.locator('audio').evaluate('e=>e.pause()')
