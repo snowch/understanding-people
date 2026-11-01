@@ -14,7 +14,6 @@ import shutil
 
 import markdown
 from build_reference import render as render_reference
-from build_audio_page import render as render_audio_page
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site"
@@ -37,7 +36,7 @@ PAGES = [
     ("chapters/12-putting-understanding-to-work.md", "Putting understanding to work"),
     ("conclusion.md", "Conclusion · What to take with you"),
     ("reference/declining-help.md", "Reference · Declining help"),
-    ("audio/chapter-01.md", "Audio · Chapter 1"),
+    ("audio/chapter-01.md", "Chapter 1 media update"),
     ("worksheet.md", "Situation worksheet"),
     ("support.md", "When to seek other help"),
     ("glossary.md", "Glossary"),
@@ -75,7 +74,7 @@ def book_navigation(source, page):
                               "" if item else f"#chapter-{number:02}", planned=item is None))
     chapters.append(entry("conclusion.md", "Conclusion", "—"))
     resources = [entry(item, caption) for item, caption in PAGES
-                 if item not in {"book.md", "conclusion.md"} and not item.startswith("chapters/")]
+                 if item not in {"book.md", "conclusion.md", "audio/chapter-01.md"} and not item.startswith("chapters/")]
     return (f'<ol class="chapter-list">{"".join(chapters)}</ol>'
             '<p class="nav-label resources-label">READING TOOLS</p>'
             f'<ul class="resource-list">{"".join(resources)}</ul>')
@@ -179,7 +178,6 @@ def practice_notes(match):
 
 def build():
     render_reference()
-    render_audio_page()
     sources = {}
     for name, label in PAGES:
         text = (ROOT / name).read_text(encoding="utf-8")
@@ -190,10 +188,13 @@ def build():
     if OUT.exists():
         shutil.rmtree(OUT)
     shutil.copytree(ROOT / "assets", OUT / "assets")
+    # Chapter 1 media is paused while its text is revised; retain sources in Git.
+    for retired in ("media/chapter-01", "media/audio/chapter-01"):
+        shutil.rmtree(OUT / "assets" / retired, ignore_errors=True)
     shutil.copyfile(ROOT / "manifest.webmanifest", OUT / "manifest.webmanifest")
     css_hash = hashlib.sha256((ROOT / "assets/book.css").read_bytes()).hexdigest()[:12]
 
-    for index, (name, label) in enumerate(PAGES):
+    for name, label in PAGES:
         title, text = sources[name]
         page = destination(name)
         converter = markdown.Markdown(extensions=["tables", "fenced_code", "toc", "sane_lists", "md_in_html", "attr_list"],
@@ -205,9 +206,11 @@ def build():
         body = body.replace("</table>", "</table></div>")
         nav_html = book_navigation(name, page)
         pagination = []
+        reading_pages = [entry for entry in PAGES if entry[0] != "audio/chapter-01.md"]
+        reading_index = next((i for i, entry in enumerate(reading_pages) if entry[0] == name), None)
         for offset, direction, relation in [(-1, "Previous", "prev"), (1, "Next", "next")]:
-            if 0 <= index + offset < len(PAGES):
-                item, caption = PAGES[index + offset]
+            if reading_index is not None and 0 <= reading_index + offset < len(reading_pages):
+                item, caption = reading_pages[reading_index + offset]
                 pagination.append(f'<a rel="{relation}" href="{relative(destination(item), page)}"><small>{direction}</small>{escape(caption)}</a>')
         contents = f'<details class="on-page"><summary>On this page</summary>{converter.toc}</details>' if converter.toc_tokens else ""
         home = relative(Path("index.html"), page)
@@ -229,7 +232,6 @@ def build():
 <link rel="manifest" href="{relative(Path('manifest.webmanifest'), page)}">
 <link rel="stylesheet" href="{relative(Path('assets/book.css'), page)}?v={css_hash}">
 <script defer src="{relative(Path('assets/install.js'), page)}"></script>
-<script defer src="{relative(Path('assets/audio.js'), page)}"></script>
 {notes_script}
 </head>
 <body>

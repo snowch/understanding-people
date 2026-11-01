@@ -195,7 +195,7 @@ This is a separate example. Before looking back, answer aloud or in your own not
 <details class="answer-check" markdown="1">
 <summary>Compare your answer</summary>
 
-You know they declined. Their reason is still uncertain. You could ask rather than treating your guess as a fact. [Revisit the explanation](01-before-you-explain.md#what-did-rowan-actually-say).
+You know they declined. Their reason is still uncertain. You could ask rather than treating your guess as a fact. [Revisit the explanation](01-before-you-explain.md#observation-and-interpretation).
 
 </details>
 

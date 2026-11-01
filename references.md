@@ -10,7 +10,7 @@ Examines earlier research on why people can mistake behaviour in one situation f
 
 **Nickerson, R. S. (1998).** Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology, 2*(2), 175–220. [Publisher record](https://doi.org/10.1037/1089-2680.2.2.175).
 
-Examines earlier studies of how people seek or interpret information in ways that support what they already believe. Supports the explanation of confirmation bias; the Rowan scenario illustrates the idea and is not a finding from the paper.
+Examines earlier studies of how people seek or interpret information in ways that support what they already believe. Supports the explanation of confirmation bias; the workplace example illustrates the idea and is not a finding from the paper.
 
 **Lord, C. G., Lepper, M. R., & Preston, E. (1984).** Considering the opposite: A corrective strategy for social judgment. *Journal of Personality and Social Psychology, 47*(6), 1231–1243. [Research record](https://pubmed.ncbi.nlm.nih.gov/6527215/). DOI: 10.1037/0022-3514.47.6.1231.
 

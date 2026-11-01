@@ -78,7 +78,7 @@ Now return to the neighbourhood organiser. She learns that several slow responde
 
 You can change your mind a little without adopting a new certainty. The organiser could say, “I no longer think reply speed is a good way to judge commitment.” In the same situation, a resident might say, “I know my place was cancelled. I do not know whether anyone meant to exclude me.”
 
-Ask what would make you reconsider your explanation. If every possible answer seems to prove you right, you may be overlooking information that challenges your view. [Chapter 1](01-before-you-explain.md) explains confirmation bias with Rowan’s example.
+Ask what would make you reconsider your explanation. If every possible answer seems to prove you right, you may be overlooking information that challenges your view. [Chapter 1](01-before-you-explain.md) explains confirmation bias with a short workplace example.
 
 ## You still have to decide what is fair {#evidence-informs-a-decision-it-does-not-choose-your-values}
 

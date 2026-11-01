@@ -60,6 +60,6 @@ Start with [How to use this book](how-to-use.md), then follow the chapters or ch
 
 When you finish, return to [What to take with you](conclusion.md) for the main lessons, a fresh situation to try and a question to use during the week.
 
-## Read, listen, then try
+## Read, then try
 
-Start with the [Chapter 1 audio edition and refresher](audio/chapter-01.md), or follow [Declining help](reference/declining-help.md) from explanation to practice. The reference entry connects the book with the private app preview and also includes practice notes you can use here.
+Start with [Why we misinterpret people](chapters/01-before-you-explain.md), or follow [Declining help](reference/declining-help.md) from explanation to practice. The reference entry connects the book with the private app preview and also includes practice notes you can use here.

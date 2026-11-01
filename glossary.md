@@ -56,7 +56,7 @@ In self-determination theory, feeling able to handle a task and make progress.
 
 Looking for information—or understanding it in a way—that supports what you already believe.
 
-**Example:** You think Rowan dislikes your idea, so you notice every criticism but overlook the positive comments. This is confirmation bias. You may not even realise you are doing it.
+**Example:** You think a colleague dislikes your ideas. You notice each criticism but overlook their positive comments, making your belief seem better supported. You may not realise you are doing it.
 
 [Read in Chapter 1](chapters/01-before-you-explain.md#definition-confirmation-bias).
 
@@ -64,7 +64,7 @@ Looking for information—or understanding it in a way—that supports what you 
 
 Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.
 
-**Example:** You decide Rowan is an unhelpful person after one critical comment, without checking whether a new budget problem affected the proposal. You have treated the comment as proof of Rowan’s character while overlooking a possible reason for it.
+**Example:** A colleague gives a short reply. You decide they are rude without considering that they are facing an urgent deadline. You have judged their character while overlooking a possible situational explanation.
 
 [Read in Chapter 1](chapters/01-before-you-explain.md#definition-correspondence-bias).
 

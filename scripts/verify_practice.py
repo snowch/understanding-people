@@ -35,9 +35,12 @@ with sync_playwright() as pw:
         assert page.locator('details.more-practice[open]').count() == 0
         assert page.locator('.practice-notes[open]').count() == 0
         assert page.locator('#key-takeaways').evaluate("e => !!(e.compareDocumentPosition(document.querySelector('#put-it-into-practice')) & Node.DOCUMENT_POSITION_FOLLOWING)")
-        assert page.locator('video[controls][playsinline][preload="metadata"]').count() == 1
-        assert page.locator('video track[kind="captions"][srclang="en"]').count() == 1
-        assert page.locator('#chapter-video-caption').inner_text() == 'The examples in this video are fictional.'
+        if source == CHAPTERS[0][1]:
+            assert page.locator('video,audio').count() == 0
+        else:
+            assert page.locator('video[controls][playsinline][preload="metadata"]').count() == 1
+            assert page.locator('video track[kind="captions"][srclang="en"]').count() == 1
+            assert page.locator('#chapter-video-caption').inner_text() == 'The examples in this video are fictional.'
         assert page.locator('.recall-practice').count() == page.locator('.more-practice .recall-practice').count()
         question_count += questions.count()
         recall_count += page.locator('.recall-practice').count()
@@ -178,4 +181,4 @@ with sync_playwright() as pw:
     assert on.get_by_label('What happened?', exact=True).input_value() == 'Written offline.'
     assert not errors, errors
     browser.close()
-print('Passed: 12 compact chapter checks (24 answer reveals) and captioned videos, 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')
+print('Passed: 12 compact chapter checks (24 answer reveals) and 11 captioned videos, 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')

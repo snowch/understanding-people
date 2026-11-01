@@ -1,154 +1,101 @@
 # Why we misinterpret people
 
-<figure class="chapter-video">
-<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-01/poster.png" aria-label="Why we misinterpret people: Chapter 1 video" aria-describedby="chapter-video-caption">
-<source src="../assets/media/chapter-01/why-we-misinterpret-people.mp4" type="video/mp4">
-<track src="../assets/media/chapter-01/captions.vtt" kind="captions" srclang="en" label="English">
-<p><a href="../assets/media/chapter-01/why-we-misinterpret-people.mp4">Download the Chapter 1 video</a>.</p>
-</video>
-<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
-</figure>
-<p class="video-links"><a href="../assets/media/chapter-01/transcript.txt">Read the video transcript</a> · 5 minutes 22 seconds</p>
+We see what someone does, then try to explain why. Mistakes happen when we treat a guess as a fact, overlook conflicting information, or judge the person without considering their circumstances.
 
-<section class="audio-edition" aria-labelledby="chapter-audio-title">
-<h2 id="chapter-audio-title">Listen to this chapter</h2>
-<p class="audio-note">Audio edition · synthetic narration · fictional examples. A short refresher is also available.</p>
-<audio id="chapter-audio" controls preload="none" aria-label="Chapter 1 audio edition"><source src="../assets/media/audio/chapter-01/full.mp3" type="audio/mpeg"></audio>
-<div class="audio-links"><a href="../audio/chapter-01.md">Transcript &amp; short refresher</a><a href="../assets/media/audio/chapter-01/full.mp3" download>Download MP3</a><select hidden data-audio-speed="chapter-audio" aria-label="Chapter audio playback speed"><option value="0.75">0.75× speed</option><option value="1" selected>1× speed</option><option value="1.25">1.25× speed</option><option value="1.5">1.5× speed</option><option value="2">2× speed</option></select></div>
-</section>
-
-On Tuesday, Rowan says, “Your idea looks promising.” In Thursday's meeting, Rowan says, “I don't think it's ready yet.”
-
-You feel embarrassed. You think: “Rowan wanted to make me look bad in front of everyone.”
-
-You might be right. But so far, **you know what Rowan said. You do not yet know why Rowan said it.**
-
-Before deciding what to do, try to find out a little more.
+This chapter explains those mistakes and how to check them. The short examples below are fictional.
 
 <section class="remember-cue" markdown="1" aria-labelledby="remember-this">
 
 ## One habit to practise {#remember-this}
 
-When you feel sure why someone acted as they did, pause. **“What do I know, and what am I guessing?”**
+When you feel sure why someone acted, ask: **“What do I know, and what am I guessing?”**
 
 </section>
 
 <span id="separate-layers"></span>
+<span id="what-did-rowan-actually-say"></span>
 
-## What did Rowan actually say?
+## Observation and interpretation
 
-Compare these two sentences:
+An **observation** describes what you saw or heard. An **interpretation** is the meaning or explanation you give it.
 
-> **You heard Rowan say:** “I don't think it's ready yet.”
->
-> **You think Rowan meant:** “I want to make you look bad.”
+**Example:** “My friend hasn't replied for two days” describes what happened. “They don't care about me” is an interpretation.
 
-Rowan said the first sentence. You guessed the reason behind it.
+**Use it:** Write the action and your explanation separately. This makes the explanation easier to question.
 
-That guess may turn out to be right. For now, keep it separate from the words you heard. Otherwise, you may start responding to an intention Rowan never had.
+**Limit:** An interpretation can be right. Separating it from the observation means you can check it. Your feelings matter too: feeling hurt describes your experience, but does not establish the other person's intention.
 
-You do not have to pretend you were not hurt. “I felt embarrassed” tells us how the meeting affected you. It does not tell us whether Rowan meant to embarrass you.
-
-## Could there be another reason?
-
-Here are three possible reasons why Rowan said your idea wasn't ready:
-
-- Rowan found a problem with the budget after speaking to you on Tuesday.
-- Rowan liked the idea but thought it needed more work. You took “promising” to mean “ready”.
-- Rowan wanted to look good in front of the team, even if that made you look bad.
-
-The third reason is still possible. You are not being asked to excuse Rowan. You are checking whether another reason fits what happened.
-
-Be careful about how you read the next message. If Rowan replies quickly, do you think, “They had their excuse ready”? If Rowan replies slowly, do you think, “They are avoiding me”? If either reply seems to prove Rowan is against you, you may be giving your first guess too much weight.
+## Confirmation bias
 
 <section class="definition" markdown="1" aria-label="Definition: Confirmation bias">
 <p class="definition-label">Definition</p>
 <dl>
 <dt id="definition-confirmation-bias"><dfn><a href="../glossary.md#confirmation-bias">Confirmation bias</a></dfn></dt>
-<dd><p>Looking for information—or understanding it in a way—that supports what you already believe.</p><p class="definition-example"><strong>Example:</strong> You think Rowan dislikes your idea, so you notice every criticism but overlook the positive comments. This is confirmation bias. You may not even realise you are doing it.</p></dd>
+<dd><p>Looking for information—or understanding it in a way—that supports what you already believe.</p><p class="definition-example"><strong>Example:</strong> You think a colleague dislikes your ideas. You notice each criticism but overlook their positive comments, making your belief seem better supported. You may not realise you are doing it.</p></dd>
 </dl>
 </section>
 
-Psychologist Raymond Nickerson examined earlier studies of confirmation bias in a paper published in 1998. He described how people can favour information that supports what they already believe. [Read the paper](https://doi.org/10.1037/1089-2680.2.2.175).
+**Use it:** Ask, “What have I noticed that doesn't fit my explanation?” Look for an actual exception, rather than inventing a reassuring possibility.
 
-<span id="check-an-answer"></span>
+**Limit:** Noticing this bias does not prove your conclusion is wrong. It gives you a reason to examine the information you used.
 
-## What could you ask Rowan?
+**Evidence:** Psychologist Raymond Nickerson's [1998 review](https://doi.org/10.1037/1089-2680.2.2.175) examined this pattern across earlier studies of reasoning. It cannot decide whether a particular colleague dislikes your ideas.
 
-“Why did you try to embarrass me?” assumes that Rowan meant to do it.
-
-You could instead ask:
-
-> “On Tuesday you said the idea looked promising. Today you said it wasn't ready. What needs more work?”
-
-Then listen to the answer. If you are still unsure, ask yourself: **“What would help me check that?”** You do not need to memorise a different tactic for every possible reply.
-
-| Rowan’s answer | A question that helps you check it |
-| --- | --- |
-| “We cannot afford the extra staff.” | “Can we look at the figures?” |
-| “I liked the idea, but it wasn’t finished.” | “What still needs doing?” |
-
-Both questions ask for something specific. The figures might show a budget problem. A list of unfinished work might show that you understood “promising” differently. Compare the answer with the relevant information before deciding what to do.
-
-There can be more than one reason for a response. Rowan could see a real problem and also want to protect their reputation. You may learn enough to improve the proposal without knowing every motive.
-
-<span id="check-own-account"></span>
-
-## Could you have misunderstood Rowan?
-
-Think back to Tuesday. Did Rowan say the idea was ready, or did you hear more agreement than they intended?
-
-Checking your own understanding is useful. It does not mean that Rowan's behaviour was your fault.
-
-## You can still ask Rowan to behave differently
-
-Even if you never find out why Rowan spoke that way, you can say:
-
-> “If you spot a problem before a meeting, please tell me beforehand so I have time to work on it.”
-
-You are asking for a specific change. You do not need to prove that Rowan wanted to hurt you.
-
-If Rowan repeatedly gives no clear answer, change what you rely on: ask for clear decisions in writing. Private praise is not a promise of support in a meeting. This is about managing a repeated problem; you do not need to keep asking the same question indefinitely.
-
-If a friend has not replied to a message, you can send a follow-up, wait, or talk about how often this happens. One late reply cannot tell you everything about the friendship.
-
-If asking someone directly could put you at risk, use the [support page](../support.md) to consider a safer way to get help. You do not have to keep accepting harmful behaviour while trying to understand it.
-
-## What does the research say?
+## Correspondence bias
 
 <section class="definition" markdown="1" aria-label="Definition: Correspondence bias">
 <p class="definition-label">Definition</p>
 <dl>
 <dt id="definition-correspondence-bias"><dfn><a href="../glossary.md#correspondence-bias">Correspondence bias</a></dfn></dt>
-<dd><p>Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.</p><p class="definition-example"><strong>Example:</strong> You decide Rowan is an unhelpful person after one critical comment, without checking whether a new budget problem affected the proposal. You have treated the comment as proof of Rowan’s character while overlooking a possible reason for it.</p></dd>
+<dd><p>Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.</p><p class="definition-example"><strong>Example:</strong> A colleague gives a short reply. You decide they are rude without considering that they are facing an urgent deadline. You have judged their character while overlooking a possible situational explanation.</p></dd>
 </dl>
 </section>
 
-In a 1995 paper, Gilbert and Malone examined earlier research on why people judge someone’s character without giving enough weight to their situation. This gives us a reason to ask what was happening around Rowan before deciding what Rowan is like. It does not mean every judgment about character is wrong. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/7870861/).
+**Use it:** Ask, “Does this happen across situations, or mainly under particular conditions?” Compare ordinary occasions and exceptions.
+
+**Limit:** Circumstances do not explain everything or excuse harmful behaviour. A repeated pattern still matters.
+
+**Evidence:** Gilbert and Malone's [1995 review](https://pubmed.ncbi.nlm.nih.gov/7870861/) examined research on this bias. Confirmation bias concerns how you handle information; correspondence bias concerns how you explain behaviour.
+
+<span id="check-an-answer"></span>
+<span id="check-own-account"></span>
+
+## Check competing explanations
+
+Consider a different explanation, including a misunderstanding of your own. Then look for information that could distinguish the possibilities.
+
+**Example:** A client delays a purchase. You suspect they are losing interest; they say the budget is awaiting approval. Asking when the decision is expected and comparing that answer with later events is more useful than treating the delay itself as proof of either explanation.
+
+**Use it:** Ask a specific question that lets the person explain, rather than assuming the motive: “What still needs deciding?”
+
+**Limit:** An answer is information to assess, not automatic proof. Several reasons may apply. You may learn enough to act without settling every motive.
+
+## Respond while some things remain uncertain
+
+You can make a request or set a limit based on what happened and how it affects you.
+
+**Example:** “If the conversation turns into insults, I will end the call.” You do not need to establish why the person insults you before setting that limit.
+
+**Use it:** Choose an action within your control, then review what happens. If asking directly could expose you to harm, consider [a safer source of support](../support.md).
 
 <details class="evidence-detail" markdown="1">
-<summary>More about the research</summary>
+<summary>More evidence and its limits</summary>
 
-In a study published in 1984, Lord, Lepper and Preston ran two experiments in which people judged others. Asking participants to consider an opposing explanation reduced the particular errors being studied more than telling them to be fair and unbiased. This gives a reason to try another explanation. It does not prove that the exercises here will solve a disagreement. [Read about the experiments](https://pubmed.ncbi.nlm.nih.gov/6527215/).
+In [two experiments published in 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/), Lord, Lepper and Preston found that considering an opposing explanation reduced the particular judgment errors studied. This supports checking alternatives; it does not validate every exercise in this book.
 
-You may have heard that we blame other people's character but blame circumstances for our own actions. In a 2006 paper, Bertram Malle combined results from 173 studies and found that this was not a general rule. The results depended on the situation, including whether the event was positive or negative. It is still worth checking your own assumptions without claiming that everyone makes the same mistake. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/17073526/).
+Malle's [2006 analysis of 173 studies](https://pubmed.ncbi.nlm.nih.gov/17073526/) did not support a general rule that we explain others through character and ourselves through circumstances. Results depended on the situation.
 
-Research carried out in one population may not apply everywhere. In their 2010 paper *The weirdest people in the world?*, Henrich, Heine and Norenzayan compared research findings across populations and questioned claims based mainly on participants from wealthy Western societies. In Rowan's case, ask how people in this team usually disagree. Do not assume you know why Rowan acted that way because of their nationality. [Read about the paper](https://pubmed.ncbi.nlm.nih.gov/20550733/).
+Henrich, Heine and Norenzayan's [2010 review](https://pubmed.ncbi.nlm.nih.gov/20550733/) questioned generalisations based mainly on wealthy Western populations. Consider local expectations without assuming someone's nationality explains their actions.
 
 </details>
-
-## Follow one example into practice
-
-[Declining help](../reference/declining-help.md) follows a fictional offer from an initial guess through a conversation and a review. It connects these foundations with an observation–action–review journey in the app, or with notes you can keep in the book.
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
 
-- Knowing what someone said does not always tell you why they said it.
-- Think of another possible reason, including the possibility that you misunderstood.
-- Ask a question that helps you find out more.
-- You can ask someone to change their behaviour without proving that they meant to hurt you.
+- Keep what happened separate from your explanation.
+- Look for conflicting information and relevant circumstances.
+- Check what you can, then choose a response you can review.
 
 </section>
 
@@ -160,7 +107,7 @@ Research carried out in one population may not apply everywhere. In their 2010 p
 
 ### Recall {#can-you-use-it}
 
-Without looking back, what three questions could you ask before deciding why someone acted?
+What three questions would help you check an explanation?
 
 <details class="answer-check" markdown="1">
 <summary>Show the three questions</summary>
@@ -173,16 +120,14 @@ Without looking back, what three questions could you ask before deciding why som
 
 ### Try it {#try-it}
 
-**A new fictional situation:** You suggest a day out. Your sister replies, “That sounds expensive.” You think, “She never wants to spend time with me.”
+**A separate fictional example:** Your sister says your suggested outing sounds expensive. You think, “She never wants to spend time with me.”
 
-What do you know? What are you guessing? What could you ask or check? Say or write your answers before opening the example.
+What is known, what is guessed, and what would help you check? Answer before opening the example.
 
 <details class="answer-check" markdown="1">
 <summary>Show an example answer</summary>
 
-**You know** she said it sounds expensive. **You are guessing** she does not want to spend time with you. She might be worried about the cost or dislike this particular outing.
-
-**You could ask:** “Which cost worries you?” That lets her explain without assuming her motive. Compare her answer with what you learn; one reply cannot settle everything about your relationship.
+You know she raised the cost. You are guessing she wants to avoid you. Ask which cost concerns her; compare occasions when she accepted an invitation. Her answer and those exceptions may change your explanation, without settling everything about the relationship.
 
 </details>
 
@@ -190,40 +135,22 @@ What do you know? What are you guessing? What could you ask or check? Say or wri
 
 ### Use it this week {#practise-three-questions}
 
-When you catch yourself guessing why someone acted, choose one ordinary situation from your own life and answer the three questions. If it is safe and useful, make that check. Afterwards, note what you learned and what you will do next—even if you are still unsure of the person's motive.
-
-That is enough for this week. The notes below are optional.
+Use the three questions on one ordinary situation. Make a useful, safe check. Afterwards, note what changed in your explanation and what you will do next.
 
 <!-- practice-notes: chapter-01-three-questions | Try the three questions -->
 
+For a longer worked example, see [Declining help](../reference/declining-help.md).
+
 <details class="answer-check more-practice" markdown="1">
-<summary>More practice</summary>
+<summary>Earlier practice notes</summary>
 
-If you want another focus, choose one below. Look at your own thinking; noticing a possible bias does not prove your conclusion is wrong.
+Your previous notes remain available here.
 
-<section class="weekly-practice" markdown="1" aria-labelledby="choose-response">
-
-#### Notice confirmation bias {#choose-response}
-
-You think someone dislikes your idea. You notice each criticism but overlook their positive comments. **What information are you leaving out?**
-
-Once this week, look for something you may have overlooked in a situation of your own. Note whether it supports your explanation, weakens it or leaves you unsure.
-
+<span id="choose-response"></span>
 <!-- practice-notes: week-01-confirmation | Notice confirmation bias -->
 
-</section>
-
-<section class="weekly-practice" markdown="1" aria-labelledby="week-correspondence">
-
-#### Notice correspondence bias {#week-correspondence}
-
-You decide someone is rude after one short reply. **What circumstances might help explain it, and how could you check?**
-
-Once this week, notice a judgment like this in your own thinking. Separate what the person did from what you decided it said about them. Considering circumstances does not mean accepting harm.
-
+<span id="week-correspondence"></span>
 <!-- practice-notes: week-01-correspondence | Notice correspondence bias -->
-
-</section>
 
 </details>
 
