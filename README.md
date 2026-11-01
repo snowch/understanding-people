@@ -70,3 +70,9 @@ The [declining-help reference](reference/declining-help.md) is the first develop
 Chapter 1 media is paused. Its previous video and audio assets remain in Git for possible future revision, but the build excludes both `assets/media/chapter-01/` and `assets/media/audio/chapter-01/` from Pages. The old audio-page URL is a short notice linking to the revised text and is excluded from navigation. The normal build no longer calls the audio transcript generator. Production scripts and narration sources are archived context, not the current chapter edition.
 
 `python scripts/verify_chapter_one.py http://localhost:8000/` checks the revised text, media removal, glossary consistency and mobile/desktop layout. `scripts/verify_audio_pilot.py` is the historical audio-production check; it is not a check of the currently published edition. Earlier practice-note IDs remain available in a collapsed panel so the rewrite does not hide existing notes.
+
+## Deeper bias references
+
+`reference/biases.json` is the canonical content for the confirmation-bias and correspondence-bias entries. The build renders both pages through `scripts/build_bias_references.py`; do not hand-edit their generated Markdown. Chapter 1 and the glossary link to them. Each entry explains mechanisms, recognition, limits and possible change, with source links and local practice notes. The app uses a checked-in offline snapshot refreshed with its `tools/sync_bias_references.py`. Public pages link to the private download and explain the access and local-file limitations.
+
+With the book served, run `python scripts/verify_bias_references.py http://localhost:8000/` to check navigation, saved notes and responsive layouts. Sources were checked against publisher, PubMed and institutional research records on 2026-11-01; these classic studies support the stated claims, not a claim of exhaustive literature review or validation of our exercises.

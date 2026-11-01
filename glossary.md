@@ -58,7 +58,7 @@ Looking for information—or understanding it in a way—that supports what you 
 
 **Example:** You think a colleague dislikes your ideas. You notice each criticism but overlook their positive comments, making your belief seem better supported. You may not realise you are doing it.
 
-[Read in Chapter 1](chapters/01-before-you-explain.md#definition-confirmation-bias).
+[Read in Chapter 1](chapters/01-before-you-explain.md#definition-confirmation-bias) · [Explore causes, recognition and practice](reference/confirmation-bias.md).
 
 ## Correspondence bias {#correspondence-bias}
 
@@ -66,7 +66,7 @@ Deciding that someone’s behaviour shows what they are like as a person, while 
 
 **Example:** A colleague gives a short reply. You decide they are rude without considering that they are facing an urgent deadline. You have judged their character while overlooking a possible situational explanation.
 
-[Read in Chapter 1](chapters/01-before-you-explain.md#definition-correspondence-bias).
+[Read in Chapter 1](chapters/01-before-you-explain.md#definition-correspondence-bias) · [Explore causes, recognition and practice](reference/correspondence-bias.md).
 
 ## Corroboration {#corroboration}
 

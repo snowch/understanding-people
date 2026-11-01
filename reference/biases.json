@@ -1,0 +1,253 @@
+{
+  "sources": {
+    "nickerson": {
+      "title": "Nickerson (1998). Confirmation bias: A ubiquitous phenomenon in many guises.",
+      "url": "https://doi.org/10.1037/1089-2680.2.2.175",
+      "scope": "A review of earlier research on selective seeking and interpretation of evidence, not a test of an individual’s reasoning."
+    },
+    "klayman": {
+      "title": "Klayman & Ha (1987). Confirmation, disconfirmation, and information in hypothesis testing.",
+      "url": "https://doi.org/10.1037/0033-295X.94.2.211",
+      "scope": "A theoretical analysis of hypothesis-testing strategies: looking where a prediction should hold can be informative, but is not always a fair test."
+    },
+    "kunda": {
+      "title": "Kunda (1990). The case for motivated reasoning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2270237/",
+      "scope": "Reviews how goals can influence reasoning; wanting a conclusion and expecting it are related but different processes."
+    },
+    "gilbert": {
+      "title": "Gilbert & Malone (1995). The correspondence bias.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7870861/",
+      "scope": "A review describing several routes to underweighting circumstances when judging a person. It does not establish that every character judgment is mistaken."
+    },
+    "lord": {
+      "title": "Lord, Lepper & Preston (1984). Considering the opposite: A corrective strategy for social judgment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6527215/",
+      "scope": "Two experiments supporting consideration of alternatives for the judgment errors studied, not validation of this worksheet."
+    },
+    "morewedge": {
+      "title": "Morewedge et al. (2015). Debiasing decisions: Improved decision making with a single training intervention.",
+      "url": "https://openaccess.city.ac.uk/id/eprint/12324/",
+      "scope": "Two longitudinal experiments with games and instructional videos; gains on tested judgment problems persisted at least two months. This does not establish lasting improvement in family or workplace relationships from reading this entry."
+    },
+    "malle": {
+      "title": "Malle (2006). The actor–observer asymmetry in attribution: A (surprising) meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17073526/",
+      "scope": "A synthesis of 173 studies that challenges a blanket rule about explaining our own behaviour through situations and others’ through personality."
+    }
+  },
+  "entries": [
+    {
+      "id": "confirmation",
+      "slug": "confirmation-bias",
+      "title": "Confirmation bias",
+      "summary": "Looking for or interpreting information in ways that favour what you already believe. The problem is how you check the belief—not simply whether you have one.",
+      "cue": "Before collecting another example that fits, decide what would count against your explanation.",
+      "question": "What information would weaken my explanation, and am I judging it by the same standard as information that supports it?",
+      "answerHint": "Write your belief, a relevant supporting observation and an exception or missing comparison. An honest “I have not checked yet” is useful.",
+      "actionHint": "Choose a fair check in advance: the same time period, comparable occasions and the same standard for favourable and unfavourable evidence.",
+      "sections": [
+        {
+          "id": "meaning",
+          "title": "What it looks like",
+          "paragraphs": [
+            "Suppose you believe a friend only contacts you when they need a favour. You remember two requests but overlook a message asking how you are. This fictional example illustrates selective attention to evidence. It does not settle whether the friendship is one-sided.",
+            "Confirmation bias can affect what you search for, what you notice and how you explain conflicting information. It can support a flattering belief too: “My team always agrees with me.” Confidence or disagreement alone does not identify it."
+          ],
+          "sources": [
+            "nickerson"
+          ]
+        },
+        {
+          "id": "why",
+          "title": "Why does it happen?",
+          "paragraphs": [
+            "There is no single cause. One route is testing only where your prediction seems likely to hold: if you suspect someone is selfish, you look for selfish acts. Klayman and Ha explain why this way of testing can sometimes be useful. It becomes misleading when the same evidence would also fit another explanation and you never make that comparison.",
+            "Another route is wanting a particular answer. Accepting a mistake might threaten your pride, a valued relationship or a group commitment. Kunda’s review describes how desired conclusions can influence which arguments people accept. You can also favour an explanation you dislike, simply because you already expect it.",
+            "These are research-based explanations of how biased reasoning can arise, not a way to know why you or another person overlooked a particular fact."
+          ],
+          "sources": [
+            "klayman",
+            "kunda"
+          ]
+        },
+        {
+          "id": "recognise",
+          "title": "How can I recognise it?",
+          "paragraphs": [
+            "Inspect the checking process. These prompts can reveal an uneven test; they are not a score or proof of bias."
+          ],
+          "sources": [],
+          "comparisons": [
+            [
+              "I only collect examples that fit.",
+              "Choose a defined period, such as the last month. Include ordinary contact and exceptions, not just memorable requests."
+            ],
+            [
+              "I explain away every exception.",
+              "Before looking again, write what would genuinely change your view. Does each new exception face a new rule?"
+            ],
+            [
+              "I demand stronger evidence for the answer I dislike.",
+              "Would you accept the same quality of evidence if it supported your preferred conclusion?"
+            ],
+            [
+              "I ask a question that assumes the answer.",
+              "Replace “Why do you only call for favours?” with “Could we make time to catch up when neither of us needs anything?” Then observe what happens."
+            ]
+          ]
+        },
+        {
+          "id": "limits",
+          "title": "What is not enough to identify it?",
+          "paragraphs": [
+            "Finding several supporting examples is not automatically biased. Strong evidence may favour one explanation. Nor does one friendly message cancel repeated requests or mistreatment. The useful question is whether you gave relevant contrary information a fair hearing.",
+            "With someone else, discuss the missing evidence rather than declaring, “You have confirmation bias.” Try, “Which observation would lead either of us to reconsider?” Refusing to agree with you is not itself evidence of a bias."
+          ],
+          "sources": []
+        },
+        {
+          "id": "change",
+          "title": "Can it change?",
+          "paragraphs": [
+            "People can improve some judgment habits. Lord and colleagues found that considering an opposing explanation reduced the errors studied in two experiments. Morewedge and colleagues found improvements after structured training, including on confirmation-bias tasks, with effects still present at least two months later. That supports practice, not a promise that knowing the definition removes the bias.",
+            "Try a repeatable routine: state your explanation, choose a plausible alternative, decide what would distinguish them, and record what you learn. Judge progress by whether you notice relevant exceptions and revise claims when warranted. Always changing your mind would be another poor rule.",
+            "The routine below is an editorial application of the research. Its effect on your own relationships needs to be judged from what happens."
+          ],
+          "sources": [
+            "lord",
+            "morewedge"
+          ]
+        },
+        {
+          "id": "distinguish",
+          "title": "How is this different from correspondence bias?",
+          "paragraphs": [
+            "Confirmation bias concerns how you handle evidence. Correspondence bias concerns explaining an action too readily through someone’s character. Both can occur together: “They are selfish” may be an overconfident character judgment, followed by selective collection of supporting examples."
+          ],
+          "sources": []
+        }
+      ],
+      "practice": {
+        "title": "Give one belief a fair test",
+        "steps": [
+          "Choose one modest claim about yourself or another person. Record what actually happened separately from the claim.",
+          "Choose a relevant comparison and a check you can make without snooping or provoking someone. Write what would strengthen and weaken the claim before checking.",
+          "After checking, keep, narrow or change your explanation. Note whether this helped you ask a clearer question or collaborate more fairly. A result that supports the original concern is allowed."
+        ],
+        "fields": [
+          "What happened, and what explanation am I considering?",
+          "What supports it? What conflicts with it or has not been checked?",
+          "What fair check will I make, and when will I return?",
+          "What did I learn? What will I keep, narrow or change in my explanation and response?"
+        ]
+      },
+      "related": "correspondence-bias"
+    },
+    {
+      "id": "correspondence",
+      "slug": "correspondence-bias",
+      "title": "Correspondence bias",
+      "summary": "Treating someone’s behaviour as evidence of their character while giving too little weight to the circumstances. A character explanation may be possible without being established.",
+      "cue": "Before deciding “that is what they are like”, compare what happens under different conditions.",
+      "question": "What makes me think this reflects character rather than these circumstances? What comparable occasion would help me tell?",
+      "answerHint": "Name the character judgment, the circumstances you actually know, and an occasion or constraint you still need to check. Do not invent an excuse.",
+      "actionHint": "Make one useful comparison or clarify a practical constraint, then choose a response that addresses the behaviour even if its cause stays uncertain.",
+      "sections": [
+        {
+          "id": "meaning",
+          "title": "What it looks like",
+          "paragraphs": [
+            "A colleague gives a short reply and you decide they are rude. They may be; they might also be dealing with an urgent deadline. In this fictional example, the bias would be giving the character judgment more weight than the available information supports.",
+            "It can concern positive judgments too. Someone answers every question correctly, but they wrote the questions and chose a subject they know. Inferring broad brilliance without considering that advantage repeats the same kind of mistake."
+          ],
+          "sources": []
+        },
+        {
+          "id": "why",
+          "title": "Why does it happen?",
+          "paragraphs": [
+            "Gilbert and Malone’s review describes several routes. You may not know about a constraint. You may know about it but underestimate how strongly it shapes behaviour. Your expectations may colour what you think you saw. Or an early character judgment may remain even after circumstances become known.",
+            "For example, knowing that someone is under pressure does not mean you have allowed enough for its effect. Revising an initial judgment takes attention; a hurried observer may stop at the first explanation. These are possible mechanisms, not one universal account of every judgment."
+          ],
+          "sources": [
+            "gilbert"
+          ]
+        },
+        {
+          "id": "recognise",
+          "title": "How can I recognise it?",
+          "paragraphs": [
+            "Look for the jump from a specific action to a broad description of the person. Then compare what the description predicts with what you actually know."
+          ],
+          "sources": [],
+          "comparisons": [
+            [
+              "“They are lazy” after a missed task.",
+              "Was the task clear, feasible and agreed? Compare similar tasks with enough time and resources."
+            ],
+            [
+              "“They are unfriendly” after silence.",
+              "Does this happen in small, familiar groups as well as public meetings? Check what differs; a difference alone does not tell you why."
+            ],
+            [
+              "“They are naturally helpful” after a polite service encounter.",
+              "How much does the role require this response? A good interaction need not reveal behaviour outside that role."
+            ],
+            [
+              "“Anyone else would have managed.”",
+              "What evidence supports that comparison? Do others actually have the same information, choices, skills and constraints?"
+            ]
+          ]
+        },
+        {
+          "id": "limits",
+          "title": "How much can a comparison tell me?",
+          "paragraphs": [
+            "The same person behaving differently in different conditions weakens an “always like this” claim. It does not prove which condition caused the difference. Repetition also deserves attention, but repetition in one setting may reflect a repeated constraint as well as a tendency.",
+            "Do not replace “bad person” with an equally confident invented excuse. A deadline matters if it is known or worth checking, not just because it is a comforting possibility. You can request a change or set a boundary while the explanation remains uncertain.",
+            "Do not assume you always excuse yourself and blame others. Malle’s analysis found that this proposed actor–observer pattern was not a general rule across studies. Correspondence bias is a more specific question about underweighting circumstances."
+          ],
+          "sources": [
+            "malle"
+          ]
+        },
+        {
+          "id": "change",
+          "title": "Can it change?",
+          "paragraphs": [
+            "Aim to make your explanation more specific and better checked. Replace “They are unreliable” with “They missed two agreed deadlines on this project.” Name what you know about the conditions. Ask what a character explanation and a practical constraint would each predict next.",
+            "Morewedge and colleagues’ training study included fundamental attribution error, a related label for underweighting situational influences. Training improved tested judgments, with effects still found at least two months later. It does not show that reading a page permanently changes how someone treats family or colleagues.",
+            "Our practical suggestion is to build a pause into important judgments: describe the action, check constraints, compare an occasion and review. If the behaviour continues despite a workable agreement, address that pattern. Understanding a constraint does not make the impact disappear."
+          ],
+          "sources": [
+            "morewedge"
+          ]
+        },
+        {
+          "id": "distinguish",
+          "title": "How is this different from confirmation bias?",
+          "paragraphs": [
+            "Correspondence bias is about the explanation: “This behaviour shows what sort of person they are.” Confirmation bias is about how you handle evidence for that explanation. You could do either without the other, or make a character judgment and then overlook everything that challenges it."
+          ],
+          "sources": []
+        }
+      ],
+      "practice": {
+        "title": "Check one character judgment",
+        "steps": [
+          "Choose an ordinary event where you thought “They are…” or “I am…”. Write the actual action and keep the character label separate.",
+          "Identify one known circumstance and one useful comparison. Ask about a constraint or clarify an agreement where appropriate. You do not need to settle the person’s character.",
+          "Review what happened next. Was your description more accurate? Did your request become more specific or workable? Record what remains uncertain and what response is still needed."
+        ],
+        "fields": [
+          "What did they or I do? What character judgment did I add?",
+          "Which circumstances are known? What comparison or missing fact matters?",
+          "What will I check or try, and when will I review it?",
+          "What changed in my explanation and response? What remains uncertain?"
+        ]
+      },
+      "related": "confirmation-bias"
+    }
+  ]
+}

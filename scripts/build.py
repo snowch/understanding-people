@@ -14,6 +14,7 @@ import shutil
 
 import markdown
 from build_reference import render as render_reference
+from build_bias_references import render as render_bias_references, content as bias_content
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site"
@@ -36,6 +37,8 @@ PAGES = [
     ("chapters/12-putting-understanding-to-work.md", "Putting understanding to work"),
     ("conclusion.md", "Conclusion · What to take with you"),
     ("reference/declining-help.md", "Reference · Declining help"),
+    ("reference/confirmation-bias.md", "Reference · Confirmation bias"),
+    ("reference/correspondence-bias.md", "Reference · Correspondence bias"),
     ("audio/chapter-01.md", "Chapter 1 media update"),
     ("worksheet.md", "Situation worksheet"),
     ("support.md", "When to seek other help"),
@@ -158,6 +161,9 @@ def practice_notes(match):
             ("action", "What will I try, what would improve, and when will I review it?"),
             ("review", "What happened? What changed in understanding or collaboration? What will I keep or change?"),
         ]
+    for entry in bias_content()["entries"]:
+        if note_id == entry["slug"] + "-practice":
+            fields = list(zip(("event", "thought", "action", "review"), entry["practice"]["fields"]))
     inputs = []
     for key, label in fields:
         field_id = f"{note_id}-{key}"
@@ -178,6 +184,7 @@ def practice_notes(match):
 
 def build():
     render_reference()
+    render_bias_references()
     sources = {}
     for name, label in PAGES:
         text = (ROOT / name).read_text(encoding="utf-8")

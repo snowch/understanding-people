@@ -185,3 +185,16 @@ Combines twin studies across many traits. It supports genetic contributions to v
 ## Keeping the evidence accountable
 
 The list includes influential earlier work and later research; it does not cover every relevant study. Future revisions should check new research, studies in everyday settings, researchers’ attempts to repeat findings, and corrections or challenges to earlier claims. Including a source does not prove that the book’s whole method or every exercise works. Suggest a specific correction through the [repository](https://github.com/snowch/understanding-people/issues).
+## Further evidence for the bias reference entries
+
+**Klayman, J., & Ha, Y.-w. (1987).** Confirmation, disconfirmation, and information in hypothesis testing. *Psychological Review, 94*(2), 211–228. [Publisher record](https://doi.org/10.1037/0033-295X.94.2.211).
+
+Explains why testing where a prediction should hold can be useful; this is not equivalent to always favouring a conclusion. Used to distinguish a testing strategy from biased treatment of evidence.
+
+**Kunda, Z. (1990).** The case for motivated reasoning. *Psychological Bulletin, 108*(3), 480–498. [Research record](https://pubmed.ncbi.nlm.nih.gov/2270237/).
+
+Reviews how desired conclusions can affect reasoning. Supports one possible route to bias, not an inference about a particular person's motives.
+
+**Morewedge, C. K., Yoon, H., Scopelliti, I., Symborski, C. W., Korris, J. H., & Kassam, K. S. (2015).** Debiasing decisions: Improved decision making with a single training intervention. *Policy Insights from the Behavioral and Brain Sciences, 2*(1), 129–140. [Open research record](https://openaccess.city.ac.uk/id/eprint/12324/).
+
+Two longitudinal experiments support improvement on tested judgment tasks after structured training. They do not validate this book's exercises or establish improvement in personal relationships from reading them.

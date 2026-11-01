@@ -55,3 +55,8 @@ The chapters follow a shared process of understanding people. Family, work, educ
 | How do I bring the ideas together? | [Putting understanding to work](chapters/12-putting-understanding-to-work.md) | [Situation worksheet](worksheet.md) |
 
 Each chapter has an illustrated explanation video and a worked example with relevant research. After the key takeaways, one compact practice section asks you to recall the main question, try a fresh situation and apply it once during the week. “More practice” offers optional deeper exercises and selected earlier-chapter recalls. Notes are optional and save in your browser. The text distinguishes what the evidence supports from practical judgment.
+
+## Go deeper into a concept
+
+- [Confirmation bias](reference/confirmation-bias.md): why it happens, how to check your reasoning, and a saved practice route.
+- [Correspondence bias](reference/correspondence-bias.md): character judgments, circumstances and comparisons that help.

@@ -41,6 +41,8 @@ An **observation** describes what you saw or heard. An **interpretation** is the
 
 **Evidence:** Psychologist Raymond Nickerson's [1998 review](https://doi.org/10.1037/1089-2680.2.2.175) examined this pattern across earlier studies of reasoning. It cannot decide whether a particular colleague dislikes your ideas.
 
+**Go deeper:** [Why confirmation bias happens, how to recognise it, and how to practise checking it](../reference/confirmation-bias.md). Includes a saved practice route in the app.
+
 ## Correspondence bias
 
 <section class="definition" markdown="1" aria-label="Definition: Correspondence bias">
@@ -56,6 +58,8 @@ An **observation** describes what you saw or heard. An **interpretation** is the
 **Limit:** Circumstances do not explain everything or excuse harmful behaviour. A repeated pattern still matters.
 
 **Evidence:** Gilbert and Malone's [1995 review](https://pubmed.ncbi.nlm.nih.gov/7870861/) examined research on this bias. Confirmation bias concerns how you handle information; correspondence bias concerns how you explain behaviour.
+
+**Go deeper:** [Why we overlook circumstances, how to check a character judgment, and what can change](../reference/correspondence-bias.md). Includes a saved practice route in the app.
 
 <span id="check-an-answer"></span>
 <span id="check-own-account"></span>
