@@ -13,6 +13,7 @@ import re
 import shutil
 
 import markdown
+from build_confirmation_audio import render as render_confirmation_audio
 from build_listening_page import render as render_listening_page
 from build_reference import render as render_reference
 from build_bias_references import render as render_bias_references, content as bias_content
@@ -40,6 +41,7 @@ PAGES = [
     ("reference/declining-help.md", "Reference · Declining help"),
     ("reference/confirmation-bias.md", "Reference · Confirmation bias"),
     ("reference/correspondence-bias.md", "Reference · Correspondence bias"),
+    ("audio/confirmation-bias-explained.md", "Listen · Confirmation bias explained"),
     ("audio/confirmation-bias-exercise.md", "Listen · Confirmation bias"),
     ("audio/chapter-01.md", "Chapter 1 media update"),
     ("worksheet.md", "Situation worksheet"),
@@ -191,6 +193,7 @@ def build():
     render_reference()
     render_bias_references()
     render_listening_page()
+    render_confirmation_audio()
     sources = {}
     for name, label in PAGES:
         text = (ROOT / name).read_text(encoding="utf-8")

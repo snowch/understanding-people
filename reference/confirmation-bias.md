@@ -6,6 +6,18 @@ Looking for or interpreting information in ways that favour what you already bel
 
 Examples are fictional. The comparisons and practice steps are editorial suggestions, not a test that identifies bias in a person.
 
+<section class="reference-listenings" markdown="1" aria-labelledby="listen">
+
+## Listen {#listen}
+
+[Detailed explanation · 10:30](../audio/confirmation-bias-explained.html) — Why it happens, how to recognise it in your reasoning, and how to give a belief a fair test.
+
+[Listening exercise · 3:50](../audio/confirmation-bias-exercise.html) — Hear a short fictional message, compare supporting and challenging details, then listen again. Includes saved-answer fields.
+
+Both recordings include a transcript and an MP3 download.
+
+</section>
+
 ## What it looks like {#meaning}
 
 Suppose you believe a friend only contacts you when they need a favour. You remember two requests but overlook a message asking how you are. This fictional example illustrates selective attention to evidence. It does not settle whether the friendship is one-sided.
@@ -55,10 +67,6 @@ The routine below is an editorial application of the research. Its effect on you
 
 Confirmation bias concerns how you handle evidence. Correspondence bias concerns explaining an action too readily through someone’s character. Both can occur together: “They are selfish” may be an overconfident character judgment, followed by selective collection of supporting examples.
 
-## Try it by listening
-
-[Listen, compare and replay: a short confirmation-bias exercise](../audio/confirmation-bias-exercise.md). Hear a fictional message, write what supports and challenges your first impression, then listen again. Includes a transcript and notes that save in this browser.
-
 [Read the other bias](correspondence-bias.md) · [Return to Chapter 1](../chapters/01-before-you-explain.md).
 
 <section class="reader-action" markdown="1" aria-labelledby="practice">
@@ -75,7 +83,7 @@ Confirmation bias concerns how you handle evidence. Correspondence bias concerns
 
 ## Continue in the app
 
-[Get the private app download](https://github.com/snowch/understanding-people-app/releases/tag/v0.14.0) (repository access required). Open version 0.12.0 or later, choose **Start → Explore the whole map**, search for **Confirmation bias**, then select **Read the full entry → Work through my example**. You can also reach the entry through the map’s text list.
+[Get the private app download](https://github.com/snowch/understanding-people-app/releases/tag/v0.16.0) (repository access required). Open version 0.12.0 or later, choose **Start → Explore the whole map**, search for **Confirmation bias**, then select **Read the full entry → Work through my example**. You can also reach the entry through the map’s text list.
 
 Record an observation, your answer and one check to try. Save it in **My situations**, then choose **What happened when I tried?** to record the outcome and how your explanation changed.
 

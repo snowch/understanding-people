@@ -9,7 +9,7 @@ assert 180<m['duration']<240
 subprocess.run(['ffmpeg','-v','error','-i',str(ROOT/'assets/media/audio/confirmation-bias-exercise/exercise.mp3'),'-f','null','-'],check=True)
 with sync_playwright() as pw:
  b=pw.chromium.launch();p=b.new_page();errors=[];p.on('pageerror',lambda e:errors.append(str(e)))
- p.goto(base+'reference/confirmation-bias.html');p.get_by_role("link",name="Listen, compare and replay:").click()
+ p.goto(base+'reference/confirmation-bias.html');p.get_by_role("link",name="Listening exercise ·").click()
  expect(p.locator('audio')).to_have_attribute('preload','none');expect(p.locator('audio')).to_have_attribute('controls','')
  assert p.locator('[data-notes-id="confirmation-listening"] textarea').count()==4
  audio=p.locator('audio');audio.evaluate('e=>e.load()');p.wait_for_function('document.querySelector("audio").readyState>=1')

@@ -2,7 +2,7 @@
 
 A guided listening exercise: hear a message, record what you noticed, then listen again. Practise checking a belief without forcing a favourable interpretation.
 
-[Read the confirmation-bias reference](../reference/confirmation-bias.md).
+[Read the confirmation-bias reference](../reference/confirmation-bias.md) · [Listen to the detailed explanation](confirmation-bias-explained.md).
 
 <section class="audio-edition" aria-label="Guided listening exercise">
 <p class="audio-note">3:50 · Fictional example · Synthetic narration</p>
@@ -66,7 +66,7 @@ The useful habit is not forcing a positive interpretation. It is giving informat
 
 Choose one belief about an ordinary interaction. Write a specific observation that supports it and one that could challenge it. If either is unknown, leave it unknown. Decide on one fair check, then return to what actually happened.
 
-In the [private app, version 0.14.0 or later](https://github.com/snowch/understanding-people-app/releases/tag/v0.14.0), open **Confirmation bias → Read the full entry → Try the listening exercise**. Save the four answers in My situations, then choose a next step. The transcript works offline in the app; the recording opens on this website. Book and app notes are separate.
+In the [private app, version 0.16.0 or later](https://github.com/snowch/understanding-people-app/releases/tag/v0.16.0), open **Confirmation bias → Read the full entry → Save exercise answers in the app**. Save the four answers in My situations, then choose a next step. The transcript works offline in the app; the recording opens on this website. Book and app notes are separate.
 
 ## What this exercise can tell you
 

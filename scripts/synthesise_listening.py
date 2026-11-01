@@ -2,18 +2,37 @@
 Only the authored script is sent to speech synthesis. Cache stays outside the repo.
 The replay reuses exactly the same message segment.
 """
-import asyncio, hashlib, json, os, subprocess
+import asyncio, hashlib, json, os, subprocess, sys
 from pathlib import Path
 import edge_tts
 ROOT=Path(__file__).resolve().parents[1]
-SOURCE=ROOT/'audio/confirmation-bias-exercise.json'
-OUT=ROOT/'assets/media/audio/confirmation-bias-exercise'
+SLUG=sys.argv[1] if len(sys.argv)>1 else 'confirmation-bias-exercise'
+if SLUG not in ('confirmation-bias-exercise','confirmation-bias-explained'):raise SystemExit('Unknown audio edition')
+SOURCE=ROOT/f'audio/{SLUG}.json'
+OUT=ROOT/f'assets/media/audio/{SLUG}'
 CACHE=Path(os.environ.get('LISTENING_AUDIO_CACHE','/workspace/listening-audio-cache'))
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def duration(p):return float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',str(p)],text=True).strip())
 def norm(s):return ''.join(c.lower() for c in s if c.isalnum())
+async def cache_speech(s,d,semaphore):
+ voice=s.get('voice',d['voice']);text=s['text'];key=hashlib.sha256((voice+d['rate']+text).encode()).hexdigest();mp3=CACHE/(key+'.mp3');meta=CACHE/(key+'.json')
+ if mp3.exists() and meta.exists():
+  assert norm(''.join(json.loads(meta.read_text())['words']))==norm(text)
+  return
+ async with semaphore:
+  words=[];temporary=CACHE/(key+'.pending.mp3')
+  with temporary.open('wb') as f:
+   async for item in edge_tts.Communicate(text,voice=voice,rate=d['rate'],boundary='WordBoundary',proxy=os.environ.get('HTTPS_PROXY')).stream():
+    if item['type']=='audio':f.write(item['data'])
+    elif item['type']=='WordBoundary':words.append(item['text'])
+  assert norm(''.join(words))==norm(text),(s['id'],'word boundary mismatch')
+  temporary.replace(mp3)
+  meta.write_text(json.dumps({'text':text,'words':words}))
+  print('Rendered',s['id'],flush=True)
 async def main():
- d=json.loads(SOURCE.read_text());CACHE.mkdir(exist_ok=True);OUT.mkdir(parents=True,exist_ok=True)
+ source_raw=SOURCE.read_bytes();source_hash=hashlib.sha256(source_raw).hexdigest();d=json.loads(source_raw);CACHE.mkdir(exist_ok=True);OUT.mkdir(parents=True,exist_ok=True)
+ semaphore=asyncio.Semaphore(3)
+ await asyncio.gather(*(cache_speech(s,d,semaphore) for s in d['segments'] if 'text' in s))
  paths={};timeline=[];transcript=[];elapsed=0
  for s in d['segments']:
   if 'repeat' in s:
@@ -24,25 +43,17 @@ async def main():
    transcript.append(f"[Pause: {s['pause']} seconds. Pause the player for longer if needed.]")
   else:
    voice=s.get('voice',d['voice']);text=s['text'];key=hashlib.sha256((voice+d['rate']+text).encode()).hexdigest();mp3=CACHE/(key+'.mp3');meta=CACHE/(key+'.json');path=CACHE/(key+'.wav')
-   if not mp3.exists() or not meta.exists():
-    words=[]
-    with mp3.open('wb') as f:
-     async for item in edge_tts.Communicate(text,voice=voice,rate=d['rate'],boundary='WordBoundary',proxy=os.environ.get('HTTPS_PROXY')).stream():
-      if item['type']=='audio':f.write(item['data'])
-      elif item['type']=='WordBoundary':words.append(item['text'])
-    assert norm(''.join(words))==norm(text),(s['id'],'word boundary mismatch')
-    meta.write_text(json.dumps({'text':text,'words':words}))
    assert norm(''.join(json.loads(meta.read_text())['words']))==norm(text)
    subprocess.run(['ffmpeg','-loglevel','error','-y','-i',str(mp3),'-ar','24000','-ac','1',str(path)],check=True)
-   transcript.append(('Alex: ' if s['id']=='message' else 'Narrator: ')+text)
+   transcript.append((s['title']+'\n\n' if s.get('title') else '')+('Alex: ' if s['id']=='message' else 'Narrator: ')+text)
   paths[s['id']]=path;seconds=duration(path)
   timeline.append({'id':s['id'],'start':round(elapsed,3),'duration':seconds,'segment_sha256':sha(path)})
   elapsed+=seconds;print(s['id'],round(seconds,1),flush=True)
- listing=CACHE/'concat.txt';listing.write_text(''.join("file '"+str(paths[s['id']])+"'\n" for s in d['segments']))
- audio=OUT/'exercise.mp3'
+ listing=CACHE/(SLUG+'-concat.txt');listing.write_text(''.join("file '"+str(paths[s['id']])+"'\n" for s in d['segments']))
+ audio=OUT/d.get('filename','exercise.mp3')
  subprocess.run(['ffmpeg','-loglevel','error','-y','-f','concat','-safe','0','-i',str(listing),'-af','loudnorm=I=-16:TP=-1.5:LRA=11','-ar','24000','-ac','1','-b:a','96k','-metadata','title='+d['title'],'-metadata','artist=Understanding people','-metadata','copyright=© 2026 Christopher Snow',str(audio)],check=True)
- (OUT/'transcript.txt').write_text(d['title']+'\nFictional example · Synthetic narration\n\n'+'\n\n'.join(transcript)+'\n')
- manifest={'source_sha256':sha(SOURCE),'audio_sha256':sha(audio),'duration':duration(audio),'timeline':timeline}
- (ROOT/'audio/confirmation-bias-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+ (OUT/'transcript.txt').write_text(d['title']+('\nFictional examples' if SLUG=='confirmation-bias-explained' else '\nFictional example')+' · Synthetic narration\n\n'+'\n\n'.join(transcript)+'\n')
+ manifest={'source_sha256':source_hash,'audio_sha256':sha(audio),'duration':duration(audio),'timeline':timeline}
+ (ROOT/('audio/confirmation-bias-manifest.json' if SLUG=='confirmation-bias-exercise' else f'audio/{SLUG}-manifest.json')).write_text(json.dumps(manifest,indent=2)+'\n')
  print('Finished',manifest['duration'],flush=True)
 if __name__=='__main__':asyncio.run(main())

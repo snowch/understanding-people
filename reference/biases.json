@@ -142,7 +142,21 @@
           "What did I learn? What will I keep, narrow or change in my explanation and response?"
         ]
       },
-      "related": "correspondence-bias"
+      "related": "correspondence-bias",
+      "listenings": [
+        {
+          "title": "Detailed explanation",
+          "path": "audio/confirmation-bias-explained.html",
+          "duration": "10:30",
+          "description": "Why it happens, how to recognise it in your reasoning, and how to give a belief a fair test."
+        },
+        {
+          "title": "Listening exercise",
+          "path": "audio/confirmation-bias-exercise.html",
+          "duration": "3:50",
+          "description": "Hear a short fictional message, compare supporting and challenging details, then listen again. Includes saved-answer fields."
+        }
+      ]
     },
     {
       "id": "correspondence",

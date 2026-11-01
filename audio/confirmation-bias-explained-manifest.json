@@ -1,0 +1,55 @@
+{
+  "source_sha256": "7bc4ed235a19b9e8e24375fb419a8921f732a443b73c97c7da3b3a8b39025301",
+  "audio_sha256": "fe9d040c1d51773fd7bc5cac4c40f59c60c7c2cd8c830798183f1c128e73d5e9",
+  "duration": 630.096,
+  "timeline": [
+    {
+      "id": "meaning",
+      "start": 0,
+      "duration": 63.984,
+      "segment_sha256": "5249b6e2da534dfff7304c2e9eaa3c06b3b7fb53e0522b7af1f36e04bc1eab79"
+    },
+    {
+      "id": "stages",
+      "start": 63.984,
+      "duration": 77.88,
+      "segment_sha256": "a4fc1f08a9eb9104eba1ef189e3f838191e17c67bb63e626c41a687e43146139"
+    },
+    {
+      "id": "why",
+      "start": 141.864,
+      "duration": 106.872,
+      "segment_sha256": "c2caa6bfbcf7f2aa6fa3ec4c860ca9e3c5ba7bf88a05cee2cc1ffb911f76866b"
+    },
+    {
+      "id": "recognise",
+      "start": 248.736,
+      "duration": 65.64,
+      "segment_sha256": "88ce71f34819c6f4cec34ba9db6074dde595121546606d7c236c592041c64f14"
+    },
+    {
+      "id": "test",
+      "start": 314.376,
+      "duration": 104.688,
+      "segment_sha256": "15d8ba1b2b9db018a24e406d6070cfe4411a9355458f52cafb9a83a826fb171c"
+    },
+    {
+      "id": "change",
+      "start": 419.064,
+      "duration": 66.384,
+      "segment_sha256": "a9cdd6bde78c573592e5ff847e515ed23d731005cb30be53f737388ba6830a13"
+    },
+    {
+      "id": "together",
+      "start": 485.448,
+      "duration": 80.952,
+      "segment_sha256": "7dd8191e2533b3808276d932ad598197c00f7643c9a6ebc384c9d16c4bfd446f"
+    },
+    {
+      "id": "remember",
+      "start": 566.4,
+      "duration": 63.648,
+      "segment_sha256": "e882a5519ef4633136ffb9df89f2d9fda2f741e96e6dca94792b77ed5615cf1c"
+    }
+  ]
+}

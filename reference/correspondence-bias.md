@@ -71,7 +71,7 @@ Correspondence bias is about the explanation: “This behaviour shows what sort 
 
 ## Continue in the app
 
-[Get the private app download](https://github.com/snowch/understanding-people-app/releases/tag/v0.14.0) (repository access required). Open version 0.12.0 or later, choose **Start → Explore the whole map**, search for **Correspondence bias**, then select **Read the full entry → Work through my example**. You can also reach the entry through the map’s text list.
+[Get the private app download](https://github.com/snowch/understanding-people-app/releases/tag/v0.16.0) (repository access required). Open version 0.12.0 or later, choose **Start → Explore the whole map**, search for **Correspondence bias**, then select **Read the full entry → Work through my example**. You can also reach the entry through the map’s text list.
 
 Record an observation, your answer and one check to try. Save it in **My situations**, then choose **What happened when I tried?** to record the outcome and how your explanation changed.
 
