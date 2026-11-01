@@ -24,7 +24,7 @@ with sync_playwright() as pw:
         notes.locator('textarea[name="thought"]').fill(note)
         p.reload();notes.locator('summary').click()
         assert notes.locator('textarea[name="thought"]').input_value()==note
-        assert p.get_by_role('link',name='Get the private app download').get_attribute('href').endswith('/releases/tag/v0.12.0')
+        assert p.get_by_role('link',name='Get the private app download').get_attribute('href').endswith('/releases/tag/v0.14.0')
         expect(p.locator('main')).to_contain_text('Book notes and app notes are separate')
         p.locator('#practice').scroll_into_view_if_needed();p.screenshot(path=f'/tmp/book-{d["id"]}-practice.png')
     assert not errors,errors
