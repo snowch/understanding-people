@@ -1,0 +1,61 @@
+{
+  "source_sha256": "08244d7df6ce05955fe6502823bd7ce6dbe1eff5c6aa12e324ddd6fb508f3fc0",
+  "audio_sha256": "a56da301b5e87fa03dfb40b07c8b74a71d68200c7b36bff0be09fa78552ea42f",
+  "duration": 229.944,
+  "timeline": [
+    {
+      "id": "intro",
+      "start": 0,
+      "duration": 37.032,
+      "segment_sha256": "17a660cb6dc98484c4d6205d629cbf94f43a3d075e2e148f29c3f3d7c210028f"
+    },
+    {
+      "id": "message",
+      "start": 37.032,
+      "duration": 28.392,
+      "segment_sha256": "fd9c7b959715b948e3f4209b924cd3630d9f47b3a37ef269d2216df44b6871b3"
+    },
+    {
+      "id": "first-check",
+      "start": 65.424,
+      "duration": 22.152,
+      "segment_sha256": "b6cd5a34bcaf07026cffbe7e4a7e0edecb708fa377f2ca6549ba851b402c61fe"
+    },
+    {
+      "id": "pause-one",
+      "start": 87.576,
+      "duration": 15.0,
+      "segment_sha256": "18121ccf325c0b26c50d914b021ede4a448a63e286f4b7db0fed1ac88a0af279"
+    },
+    {
+      "id": "replay-intro",
+      "start": 102.576,
+      "duration": 7.608,
+      "segment_sha256": "0a82662002d2c4a25abd502c367601eb851ad1b1147205eada9ab2578b4f4811"
+    },
+    {
+      "id": "replay",
+      "start": 110.184,
+      "duration": 28.392,
+      "segment_sha256": "fd9c7b959715b948e3f4209b924cd3630d9f47b3a37ef269d2216df44b6871b3"
+    },
+    {
+      "id": "second-check",
+      "start": 138.576,
+      "duration": 9.336,
+      "segment_sha256": "048c1070939fc349cca68300472ff324d845648437103b8b0395a8cf102de9c2"
+    },
+    {
+      "id": "pause-two",
+      "start": 147.912,
+      "duration": 15.0,
+      "segment_sha256": "18121ccf325c0b26c50d914b021ede4a448a63e286f4b7db0fed1ac88a0af279"
+    },
+    {
+      "id": "review",
+      "start": 162.912,
+      "duration": 66.984,
+      "segment_sha256": "e2d930138d653ba0bee295ca47b72a3f84a92249db2b4e58ab5d6dfdcfb8c16b"
+    }
+  ]
+}

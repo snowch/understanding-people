@@ -76,3 +76,9 @@ Chapter 1 media is paused. Its previous video and audio assets remain in Git for
 `reference/biases.json` is the canonical content for the confirmation-bias and correspondence-bias entries. The build renders both pages through `scripts/build_bias_references.py`; do not hand-edit their generated Markdown. Chapter 1 and the glossary link to them. Each entry explains mechanisms, recognition, limits and possible change, with source links and local practice notes. The app uses a checked-in offline snapshot refreshed with its `tools/sync_bias_references.py`. Public pages link to the private download and explain the access and local-file limitations.
 
 With the book served, run `python scripts/verify_bias_references.py http://localhost:8000/` to check navigation, saved notes and responsive layouts. Sources were checked against publisher, PubMed and institutional research records on 2026-11-01; these classic studies support the stated claims, not a claim of exhaustive literature review or validation of our exercises.
+
+## Optional listening exercise
+
+The confirmation-bias reference links to a 3:50 listen–compare–replay exercise, with two voices, writing pauses, an accessible transcript and local answer fields. `audio/confirmation-bias-exercise.json` is the authored source. `scripts/synthesise_listening.py` generates the final MP3 and manifest; `scripts/build_listening_page.py` generates the page and rejects stale source/audio hashes. The repeated message uses the identical audio segment. See `audio/BUILD-NOTES.md` for production and automated review details.
+
+Run `python scripts/verify_listening.py BASE_URL` against a server supporting byte ranges (as GitHub Pages does) to check playback, replay seeking and saved answers. Core page reading and notes work offline; download the MP3 explicitly for offline listening. Chapter 1’s old media stays removed.

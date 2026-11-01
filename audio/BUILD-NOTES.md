@@ -9,3 +9,11 @@ Provider word-boundary text matched the source text, ignoring punctuation and ca
 Both final MP3s decode successfully. Browser checks exercised actual metadata, play/pause and speed changes under the `/understanding-people/` path; transcripts and downloads resolve. Phone and desktop screenshots were reviewed. Assets load on demand and are excluded from service-worker precaching; the MP3 download links support explicit offline listening. `manifest.json` records source and audio SHA256 hashes, durations and word counts; the Pages build verifies them before rendering the transcript page.
 
 The declining-help reference is the first book/app pilot, not a full-depth revision of the book. Its authored JSON is independent of this audio script; shared concepts should be reviewed together when either changes.
+
+## Confirmation-bias listening exercise (current)
+
+The optional exercise is separate from the removed Chapter 1 media. Source: `confirmation-bias-exercise.json`; build with `python scripts/synthesise_listening.py` (edge-tts + FFmpeg), then `python scripts/build.py`. The final MP3 is 3:50, 504 spoken words including the replay, with two 15-second writing pauses. Sonia narrates; Ryan voices the fictional message. The second message reuses the identical PCM segment. The manifest records this identity, source/audio hashes and segment start times. The page generator refuses stale source/audio pairs. The app snapshots the same source for offline reading and saved answers.
+
+Provider word-boundary text matched every source passage. An independent faster-whisper base.en CPU/int8 pass covered the final file, both messages, the pauses and the concluding question. Recognised wording matched the script apart from spelling/punctuation and minor short-word differences (such as “in/and” and “a/for”). This is automated transcription review, not a human listening review or evidence of teaching effectiveness. FFmpeg verified decoding. Browser verification covers playback, seeking, persistence and phone/desktop layout. MP3 remains outside the service-worker precache and loads only on request. Download it for offline audio; the app does not bundle it.
+
+Historical Chapter 1 assets above remain excluded from the published site. The new exercise is linked from the confirmation-bias reference, not embedded in Chapter 1.

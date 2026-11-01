@@ -13,6 +13,7 @@ import re
 import shutil
 
 import markdown
+from build_listening_page import render as render_listening_page
 from build_reference import render as render_reference
 from build_bias_references import render as render_bias_references, content as bias_content
 
@@ -39,6 +40,7 @@ PAGES = [
     ("reference/declining-help.md", "Reference · Declining help"),
     ("reference/confirmation-bias.md", "Reference · Confirmation bias"),
     ("reference/correspondence-bias.md", "Reference · Correspondence bias"),
+    ("audio/confirmation-bias-exercise.md", "Listen · Confirmation bias"),
     ("audio/chapter-01.md", "Chapter 1 media update"),
     ("worksheet.md", "Situation worksheet"),
     ("support.md", "When to seek other help"),
@@ -164,6 +166,9 @@ def practice_notes(match):
     for entry in bias_content()["entries"]:
         if note_id == entry["slug"] + "-practice":
             fields = list(zip(("event", "thought", "action", "review"), entry["practice"]["fields"]))
+    if note_id == "confirmation-listening":
+        listening = json.loads((ROOT / "audio/confirmation-bias-exercise.json").read_text())
+        fields = list(zip(("event", "thought", "action", "review"), listening["fields"]))
     inputs = []
     for key, label in fields:
         field_id = f"{note_id}-{key}"
@@ -171,7 +176,7 @@ def practice_notes(match):
                       f'<textarea id="{field_id}" name="{key}" rows="3" maxlength="12000" '
                       'autocomplete="off" spellcheck="false"></textarea>'
                       '<div class="notes-print-value" aria-hidden="true"></div></div>')
-    return f'''<details class="practice-notes" data-notes-id="{note_id}" data-notes-title="{escape(title, quote=True)}">
+    return f'''<details {"open" if note_id == "confirmation-listening" else ""} class="practice-notes" data-notes-id="{note_id}" data-notes-title="{escape(title, quote=True)}">
 <summary>My practice notes: {escape(title)}</summary>
 <p class="notes-help">Notes save automatically in this browser on this device; they are not sent to the book’s author or synced to other devices. Anyone using this browser may be able to read them. Avoid names and sensitive details. Download a copy to keep: clearing browser data can remove saved notes.</p>
 <noscript><p>Automatic saving and downloading need JavaScript. You can copy your notes elsewhere or print this page for handwriting. Typing here without JavaScript will not save your notes.</p></noscript>
@@ -185,6 +190,7 @@ def practice_notes(match):
 def build():
     render_reference()
     render_bias_references()
+    render_listening_page()
     sources = {}
     for name, label in PAGES:
         text = (ROOT / name).read_text(encoding="utf-8")

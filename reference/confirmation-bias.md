@@ -55,6 +55,10 @@ The routine below is an editorial application of the research. Its effect on you
 
 Confirmation bias concerns how you handle evidence. Correspondence bias concerns explaining an action too readily through someone’s character. Both can occur together: “They are selfish” may be an overconfident character judgment, followed by selective collection of supporting examples.
 
+## Try it by listening
+
+[Listen, compare and replay: a short confirmation-bias exercise](../audio/confirmation-bias-exercise.md). Hear a fictional message, write what supports and challenges your first impression, then listen again. Includes a transcript and notes that save in this browser.
+
 [Read the other bias](correspondence-bias.md) · [Return to Chapter 1](../chapters/01-before-you-explain.md).
 
 <section class="reader-action" markdown="1" aria-labelledby="practice">
