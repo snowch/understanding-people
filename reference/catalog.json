@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "id": "thinking-and-interpretation",
+      "title": "Thinking & interpretation",
+      "description": "How we form explanations, check beliefs and judge other people.",
+      "entries": [
+        {"source": "reference/confirmation-bias.md", "title": "Confirmation bias", "summary": "Why we favour evidence that fits a belief, how to notice it, and how to check fairly.", "keywords": "beliefs evidence assumptions selective attention motivated reasoning", "biasSlug": "confirmation-bias"},
+        {"source": "reference/correspondence-bias.md", "title": "Correspondence bias", "summary": "Why we explain behaviour through character and overlook the situation.", "keywords": "attribution personality character situation fundamental attribution error", "biasSlug": "correspondence-bias"}
+      ]
+    },
+    {
+      "id": "behaviour-and-relationships",
+      "title": "Behaviour & relationships",
+      "description": "Start with what someone does, then compare what could explain it and how to respond.",
+      "entries": [
+        {"source": "reference/declining-help.md", "title": "Declining help", "summary": "Compare reasons for turning down help, change the offer and review what happens.", "keywords": "refusing help independence autonomy competence family support"}
+      ]
+    }
+  ]
+}

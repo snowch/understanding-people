@@ -2,6 +2,12 @@
 
 Read with a situation in mind, including one involving your own behaviour. The aim is to leave with a better question or a more considered action, rather than a label for a person.
 
+## Find your way around
+
+Use **The book** for the chapters in order. Use the [Reference library](reference/index.md) to look up a particular idea or behaviour; each entry brings together its explanation, practice and available recordings. [Practice](practice/index.md) helps you choose an exercise. **About & sources** contains the evidence standards, sources and information about the author.
+
+On a phone, open **Browse the book & library** above the page. The breadcrumb above each title shows where you are; recordings also have a link back to their reference entry.
+
 ## Follow the explanation, then try it
 
 Start with the chapter’s illustrated explanation video or read the worked example. The video has English captions and a transcript; the text gives fuller explanations and research links. **One habit to practise** gives you a question to remember and a moment when it could help.

@@ -34,6 +34,9 @@ The chapters follow a shared process of understanding people. Family, work, educ
 
 ## Supporting pages
 
+- [Reference library: browse or search by topic](reference/index.md)
+- [Practice: choose an exercise](practice/index.md)
+
 - [How to use this book](how-to-use.md)
 - [Evidence standards](evidence.md)
 - [A situation worksheet](worksheet.md)

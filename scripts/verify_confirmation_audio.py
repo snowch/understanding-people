@@ -13,7 +13,7 @@ with sync_playwright() as pw:
   p.set_viewport_size({'width':width,'height':950});assert p.evaluate('document.documentElement.scrollWidth<=innerWidth')
   p.locator('#listen').scroll_into_view_if_needed();p.screenshot(path=f'/tmp/reference-audio-links-{width}.png')
  p.emulate_media(color_scheme='dark');p.screenshot(path='/tmp/reference-audio-links-dark.png');p.emulate_media(color_scheme='light')
- p.get_by_role('link',name='Detailed explanation ·').click()
+ p.locator('main').get_by_role('link',name='Detailed explanation ·').click()
  expect(p.locator('audio')).to_have_attribute('preload','none');assert not media
  expect(p.locator('.audio-chapters button:visible')).to_have_count(len(d['segments']))
  assert len(d['segments'])==8

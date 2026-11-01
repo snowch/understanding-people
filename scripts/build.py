@@ -13,6 +13,7 @@ import re
 import shutil
 
 import markdown
+from book_navigation import ENTRIES, navigation, breadcrumbs, pagination as context_pagination, render_library
 from build_confirmation_audio import render as render_confirmation_audio
 from build_listening_page import render as render_listening_page
 from build_reference import render as render_reference
@@ -38,11 +39,10 @@ PAGES = [
     ("chapters/11-conflict-manipulation-boundaries.md", "Conflict, manipulation and boundaries"),
     ("chapters/12-putting-understanding-to-work.md", "Putting understanding to work"),
     ("conclusion.md", "Conclusion · What to take with you"),
-    ("reference/declining-help.md", "Reference · Declining help"),
-    ("reference/confirmation-bias.md", "Reference · Confirmation bias"),
-    ("reference/correspondence-bias.md", "Reference · Correspondence bias"),
-    ("audio/confirmation-bias-explained.md", "Listen · Confirmation bias explained"),
-    ("audio/confirmation-bias-exercise.md", "Listen · Confirmation bias"),
+    ("reference/index.md", "Reference library"),
+    *[(e["source"], e["title"]) for e in ENTRIES],
+    *[(a["source"], a["title"]) for e in ENTRIES for a in e["recordings"]],
+    ("practice/index.md", "Practice"),
     ("audio/chapter-01.md", "Chapter 1 media update"),
     ("worksheet.md", "Situation worksheet"),
     ("support.md", "When to seek other help"),
@@ -67,24 +67,7 @@ CHAPTERS = [
 
 
 def book_navigation(source, page):
-    def entry(item, caption, number="", fragment="", planned=False):
-        current = ' aria-current="page"' if item == source and not fragment else ""
-        href = relative(destination(item), page) + fragment
-        status = '<small class="nav-status">Planned</small>' if planned else ""
-        return (f'<li><a href="{escape(href)}"{current}>'
-                f'<span class="nav-number">{number}</span>'
-                f'<span class="nav-title">{escape(caption)}{status}</span></a></li>')
-
-    chapters = [entry("book.md", "Introduction", "—")]
-    for number, (caption, item) in enumerate(CHAPTERS, 1):
-        chapters.append(entry(item or "contents.md", caption, f"{number:02}",
-                              "" if item else f"#chapter-{number:02}", planned=item is None))
-    chapters.append(entry("conclusion.md", "Conclusion", "—"))
-    resources = [entry(item, caption) for item, caption in PAGES
-                 if item not in {"book.md", "conclusion.md", "audio/chapter-01.md"} and not item.startswith("chapters/")]
-    return (f'<ol class="chapter-list">{"".join(chapters)}</ol>'
-            '<p class="nav-label resources-label">READING TOOLS</p>'
-            f'<ul class="resource-list">{"".join(resources)}</ul>')
+    return navigation(source, page, CHAPTERS)
 
 
 def destination(source):
@@ -194,6 +177,7 @@ def build():
     render_bias_references()
     render_listening_page()
     render_confirmation_audio()
+    render_library()
     sources = {}
     for name, label in PAGES:
         text = (ROOT / name).read_text(encoding="utf-8")
@@ -221,13 +205,8 @@ def build():
         body = body.replace("<table>", '<div class="table-scroll" role="region" aria-label="Comparison table" tabindex="0"><table>')
         body = body.replace("</table>", "</table></div>")
         nav_html = book_navigation(name, page)
-        pagination = []
-        reading_pages = [entry for entry in PAGES if entry[0] != "audio/chapter-01.md"]
-        reading_index = next((i for i, entry in enumerate(reading_pages) if entry[0] == name), None)
-        for offset, direction, relation in [(-1, "Previous", "prev"), (1, "Next", "next")]:
-            if reading_index is not None and 0 <= reading_index + offset < len(reading_pages):
-                item, caption = reading_pages[reading_index + offset]
-                pagination.append(f'<a rel="{relation}" href="{relative(destination(item), page)}"><small>{direction}</small>{escape(caption)}</a>')
+        pagination_html = context_pagination(name, page, CHAPTERS)
+        breadcrumb_html = breadcrumbs(name, page, title)
         contents = f'<details class="on-page"><summary>On this page</summary>{converter.toc}</details>' if converter.toc_tokens else ""
         home = relative(Path("index.html"), page)
         eyebrow = "A SCIENCE-INFORMED GUIDE" if name == "book.md" else "UNDERSTANDING PEOPLE · DRAFT EDITION"
@@ -260,14 +239,14 @@ def build():
 <p>If your browser has no install option, you can bookmark the book and read it here.</p>
 <form method="dialog"><button type="submit">Close</button></form>
 </dialog>
-<details class="mobile-nav"><summary>Contents</summary><nav aria-label="Book on mobile">{nav_html}</nav></details>
+<details class="mobile-nav"><summary>Browse the book & library</summary><nav aria-label="Book on mobile">{nav_html}</nav></details>
 <div class="layout">
-<aside class="book-sidebar"><p class="nav-label">THE BOOK</p><p class="sidebar-title">Understanding<br>people</p><nav aria-label="Book chapters">{nav_html}</nav></aside>
-<main id="main" tabindex="-1"><article>
+<aside class="book-sidebar"><p class="nav-label">READ & EXPLORE</p><p class="sidebar-title">Understanding<br>people</p><nav aria-label="Book navigation">{nav_html}</nav></aside>
+<main id="main" tabindex="-1">{breadcrumb_html}<article>
 <header class="chapter-header"><p class="eyebrow">{eyebrow}</p><h1>{escape(title)}</h1></header>
 {contents}<div class="prose">{body}</div>
 </article>
-<nav class="pagination" aria-label="Continue reading">{''.join(pagination)}</nav>
+<nav class="pagination" aria-label="Continue reading">{pagination_html}</nav>
 <footer><div><span>Understanding people · Draft edition</span><p class="copyright">© 2026 Christopher Snow</p></div><a href="https://github.com/snowch/understanding-people/blob/main/{name}">Page source</a></footer>
 </main></div>
 <script>
