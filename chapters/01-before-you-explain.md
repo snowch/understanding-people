@@ -10,6 +10,13 @@
 </figure>
 <p class="video-links"><a href="../assets/media/chapter-01/transcript.txt">Read the video transcript</a> · 5 minutes 22 seconds</p>
 
+<section class="audio-edition" aria-labelledby="chapter-audio-title">
+<h2 id="chapter-audio-title">Listen to this chapter</h2>
+<p class="audio-note">Audio edition · synthetic narration · fictional examples. A short refresher is also available.</p>
+<audio id="chapter-audio" controls preload="none" aria-label="Chapter 1 audio edition"><source src="../assets/media/audio/chapter-01/full.mp3" type="audio/mpeg"></audio>
+<div class="audio-links"><a href="../audio/chapter-01.md">Transcript &amp; short refresher</a><a href="../assets/media/audio/chapter-01/full.mp3" download>Download MP3</a><select hidden data-audio-speed="chapter-audio" aria-label="Chapter audio playback speed"><option value="0.75">0.75× speed</option><option value="1" selected>1× speed</option><option value="1.25">1.25× speed</option><option value="1.5">1.5× speed</option><option value="2">2× speed</option></select></div>
+</section>
+
 On Tuesday, Rowan says, “Your idea looks promising.” In Thursday's meeting, Rowan says, “I don't think it's ready yet.”
 
 You feel embarrassed. You think: “Rowan wanted to make me look bad in front of everyone.”
@@ -129,6 +136,10 @@ You may have heard that we blame other people's character but blame circumstance
 Research carried out in one population may not apply everywhere. In their 2010 paper *The weirdest people in the world?*, Henrich, Heine and Norenzayan compared research findings across populations and questioned claims based mainly on participants from wealthy Western societies. In Rowan's case, ask how people in this team usually disagree. Do not assume you know why Rowan acted that way because of their nationality. [Read about the paper](https://pubmed.ncbi.nlm.nih.gov/20550733/).
 
 </details>
+
+## Follow one example into practice
+
+[Declining help](../reference/declining-help.md) follows a fictional offer from an initial guess through a conversation and a review. It connects these foundations with an observation–action–review journey in the app, or with notes you can keep in the book.
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 

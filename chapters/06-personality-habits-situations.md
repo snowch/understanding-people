@@ -92,6 +92,10 @@ Here is a separate example. A housemate repeatedly leaves the front door unlocke
 
 For yourself, a personality description can help you choose useful support. It need not decide what you are allowed to try. If large groups are tiring, you might practise a new skill in a smaller group and see how that goes.
 
+## Follow one example into practice
+
+[Declining help](../reference/declining-help.md) follows a fictional offer from an initial guess through a conversation and a review. It connects these foundations with an observation–action–review journey in the app, or with notes you can keep in the book.
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}

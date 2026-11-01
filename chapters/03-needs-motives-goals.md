@@ -118,6 +118,10 @@ Leila can replace “I am unreliable” with a clearer description: “I cannot 
 
 You can use these questions in other situations, such as studying, exercising or sharing housework: **Do I want to do this? Can it fit my life? What do I need to do when the time comes?** The answers may point towards more practice, a different arrangement, a clearer plan or a decision to decline.
 
+## Follow one example into practice
+
+[Declining help](../reference/declining-help.md) follows a fictional offer from an initial guess through a conversation and a review. It connects these foundations with an observation–action–review journey in the app, or with notes you can keep in the book.
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}

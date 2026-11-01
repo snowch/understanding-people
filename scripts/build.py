@@ -13,6 +13,8 @@ import re
 import shutil
 
 import markdown
+from build_reference import render as render_reference
+from build_audio_page import render as render_audio_page
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site"
@@ -34,6 +36,8 @@ PAGES = [
     ("chapters/11-conflict-manipulation-boundaries.md", "Conflict, manipulation and boundaries"),
     ("chapters/12-putting-understanding-to-work.md", "Putting understanding to work"),
     ("conclusion.md", "Conclusion · What to take with you"),
+    ("reference/declining-help.md", "Reference · Declining help"),
+    ("audio/chapter-01.md", "Audio · Chapter 1"),
     ("worksheet.md", "Situation worksheet"),
     ("support.md", "When to seek other help"),
     ("glossary.md", "Glossary"),
@@ -148,6 +152,13 @@ def practice_notes(match):
             ("action", "How could I check?"),
             ("review", "After checking: what did I learn, and what will I do next?"),
         ]
+    if note_id == "declining-help-pilot":
+        fields = [
+            ("event", "What was offered and said? Include who kept the decisions."),
+            ("thought", "What do I think it means? What exception or alternative could change that?"),
+            ("action", "What will I try, what would improve, and when will I review it?"),
+            ("review", "What happened? What changed in understanding or collaboration? What will I keep or change?"),
+        ]
     inputs = []
     for key, label in fields:
         field_id = f"{note_id}-{key}"
@@ -167,6 +178,8 @@ def practice_notes(match):
 
 
 def build():
+    render_reference()
+    render_audio_page()
     sources = {}
     for name, label in PAGES:
         text = (ROOT / name).read_text(encoding="utf-8")
@@ -216,6 +229,7 @@ def build():
 <link rel="manifest" href="{relative(Path('manifest.webmanifest'), page)}">
 <link rel="stylesheet" href="{relative(Path('assets/book.css'), page)}?v={css_hash}">
 <script defer src="{relative(Path('assets/install.js'), page)}"></script>
+<script defer src="{relative(Path('assets/audio.js'), page)}"></script>
 {notes_script}
 </head>
 <body>
@@ -259,9 +273,9 @@ if (current && sidebar.clientHeight) {{
         digest.update((OUT / name).read_bytes())
     worker = (ROOT / "scripts/service-worker.js").read_text()
     digest.update(worker.encode())
-    # Videos stream on demand. Excluding them also lets browser range requests
+    # Audio and video stream on demand. Excluding them also lets browser range requests
     # bypass the worker rather than receiving a cached whole-file response.
-    offline_files = [name for name in files if not name.lower().endswith(".mp4")]
+    offline_files = [name for name in files if not name.lower().endswith((".mp4", ".mp3"))]
     worker = worker.replace("__VERSION__", digest.hexdigest()[:16]).replace("__FILES__", json.dumps(["./", *offline_files]))
     (OUT / "sw.js").write_text(worker, encoding="utf-8")
     print(f"Built {check_links()} pages; all local links and anchors resolve.")

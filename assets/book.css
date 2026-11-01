@@ -160,3 +160,5 @@ dialog button { padding: 10px 20px; font: inherit; color: var(--paper); backgrou
   .notes-ready .notes-print-value { display: block; white-space: pre-wrap; overflow-wrap: anywhere; min-height: 28mm; border-bottom: 1px solid #aaa; padding: 8px 0; }
   .notes-ready .notes-field:first-of-type .notes-print-value { min-height: 10mm; }
 }
+
+.audio-edition{padding:1.3rem 1.5rem;border:1px solid #bbcbb8;border-radius:12px;background:#edf2e9;margin:1.5rem 0;color:var(--ink,#273f36)}.audio-edition h2,.audio-edition h3{margin-top:0}.audio-edition audio{display:block;width:100%;margin:1rem 0}.audio-edition .audio-links{font:0.9rem/1.7 system-ui,sans-serif;display:flex;gap:1rem;flex-wrap:wrap}.audio-edition select{font:inherit;padding:.35rem;border:1px solid #b7c6b0;border-radius:6px;background:#fffef9;color:#273f36}.audio-edition .audio-note{font:0.9rem/1.6 system-ui,sans-serif}@media(prefers-color-scheme:dark){.audio-edition{background:#253c32;color:#e3e9df;border-color:#6e876b}}

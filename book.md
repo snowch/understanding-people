@@ -59,3 +59,7 @@ Psychology, sociology and decision research contribute different questions to th
 Start with [How to use this book](how-to-use.md), then follow the chapters or choose the question that matters now. [How we use evidence](evidence.md) explains the distinction between research, interpretations and suggestions. [About the book](about.md) introduces its author, purpose and relationship to neighbouring books.
 
 When you finish, return to [What to take with you](conclusion.md) for the main lessons, a fresh situation to try and a question to use during the week.
+
+## Read, listen, then try
+
+Start with the [Chapter 1 audio edition and refresher](audio/chapter-01.md), or follow [Declining help](reference/declining-help.md) from explanation to practice. The reference entry connects the book with the private app preview and also includes practice notes you can use here.

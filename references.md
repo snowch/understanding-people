@@ -172,6 +172,16 @@ Uses accounts of domestic violence to examine how gaslighting can exploit power 
 
 These books help explain the project's positioning on the [about page](about.md). They are not used as substitutes for the research cited in the chapters.
 
+## Declining-help reference pilot
+
+**Ryan, R. M., & Deci, E. L. (2000).** Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [Research record](https://doi.org/10.1037/0003-066X.55.1.68).
+
+A review of autonomy, competence and relatedness. The [declining-help entry](reference/declining-help.md) uses this framework to form questions; the review cannot identify the reason for a particular refusal.
+
+**Polderman, T. J. C., et al. (2015).** Meta-analysis of the heritability of human traits based on fifty years of twin studies. *Nature Genetics, 47*, 702–709. [Research record](https://doi.org/10.1038/ng.3285).
+
+Combines twin studies across many traits. It supports genetic contributions to variation in studied populations, not an inherited label for a family's refusals or the cause of a particular action.
+
 ## Keeping the evidence accountable
 
 The list includes influential earlier work and later research; it does not cover every relevant study. Future revisions should check new research, studies in everyday settings, researchers’ attempts to repeat findings, and corrections or challenges to earlier claims. Including a source does not prove that the book’s whole method or every exercise works. Suggest a specific correction through the [repository](https://github.com/snowch/understanding-people/issues).

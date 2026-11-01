@@ -97,6 +97,10 @@ If asking questions could lead to threats or harm, you do not have to continue. 
 
 Review your contribution afterwards. Did you learn something new, or merely secure agreement? Did you let the answer change your plan? Those questions are useful checks on whether your questions helped you understand.
 
+## Follow one example into practice
+
+[Declining help](../reference/declining-help.md) follows a fictional offer from an initial guess through a conversation and a review. It connects these foundations with an observation–action–review journey in the app, or with notes you can keep in the book.
+
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}

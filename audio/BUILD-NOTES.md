@@ -1,0 +1,11 @@
+# Chapter 1 audio pilot
+
+Published material: a 1,491-word audio adaptation (9 minutes 16 seconds) and a 199-word refresher (1 minute 20 seconds). The narration is authored in `chapter-01.json`; it is not an unedited reading of page navigation, tables or exercises. The full audio uses the Rowan example, explains both biases, describes the research and its limits, introduces the sister scenario explicitly as a different situation, and ends with recall and practice. The refresher uses a separate fictional declining-help example.
+
+Synthetic voice: Edge `en-GB-SoniaNeural`, rate `-2%`, via `edge-tts` 7.3.1 and the configured HTTPS proxy. Render units are complete passages. FFmpeg concatenates them and applies loudnorm with targets −16 LUFS, −1.5 dBTP, LRA 11, then encodes mono 24 kHz MP3 at 96 kbit/s. Cache/intermediate files stay outside the repository. Only authored narration was sent for speech generation.
+
+Provider word-boundary text matched the source text, ignoring punctuation and case, for every generated passage. An independent faster-whisper `base.en` CPU/int8 recognition pass checked the final MP3s. The full audio's token sequence match was 98.6%; the refresher's was 100%. This is a transcription comparison, not a measure of educational quality or proof of perfect pronunciation. Inspected full-audio differences included numerals versus spelled-out numbers, US/UK spelling, Rowan versus Rown, and a few short-word discrepancies. Research names in the optional evidence passage were simplified to study descriptions, with full attribution retained in the linked sources. No human listening review is claimed.
+
+Both final MP3s decode successfully. Browser checks exercised actual metadata, play/pause and speed changes under the `/understanding-people/` path; transcripts and downloads resolve. Phone and desktop screenshots were reviewed. Assets load on demand and are excluded from service-worker precaching; the MP3 download links support explicit offline listening. `manifest.json` records source and audio SHA256 hashes, durations and word counts; the Pages build verifies them before rendering the transcript page.
+
+The declining-help reference is the first book/app pilot, not a full-depth revision of the book. Its authored JSON is independent of this audio script; shared concepts should be reviewed together when either changes.

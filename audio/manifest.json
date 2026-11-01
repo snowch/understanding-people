@@ -1,0 +1,19 @@
+{
+  "source_sha256": "502763a83e5b10493d853b9a7cb7bef7365d0e9d57772b1347349639d0f943c0",
+  "voice": "en-GB-SoniaNeural",
+  "rate": "-2%",
+  "editions": {
+    "full": {
+      "seconds": 556.416,
+      "label": "9 min 16 sec",
+      "sha256": "50aa8552bb1b328fc92e3da9af75a8b82ce1e638016dfe5c4b861d107074b048",
+      "words": 1491
+    },
+    "refresher": {
+      "seconds": 80.04,
+      "label": "1 min 20 sec",
+      "sha256": "9625128294e1aef4815f7b9a98707a2ffb80be98132d23cc6fc653ecbab88009",
+      "words": 199
+    }
+  }
+}
