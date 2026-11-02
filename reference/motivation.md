@@ -1,41 +1,79 @@
 # Motivation
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Motivation concerns processes that direct and sustain action. Enjoying an activity, valuing its outcome, avoiding punishment and seeking approval are different reasons to act. People can hold several reasons at once. Understanding those reasons helps, but action also depends on skills, opportunity, resources and competing demands.
 
-Explore what someone wants, what competes with it and what makes action possible.
+> **Remember:** Ask what matters and what makes action possible.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Wanting an outcome does not guarantee the time, skill or opportunity to pursue it.
+## How it may arise
 
-## What the full entry will cover
+An apparently simple request can conflict with another goal. Studying may compete with sleep; buying may compete with preserving savings; helping may compete with privacy or time. These examples are possibilities to examine, not a universal hierarchy of motives. Motivation can also change as a person learns more about a task or its costs.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What matters here, and what makes the next step difficult?
+Richard Ryan and Edward Deci reviewed self-determination theory and evidence concerning autonomy, competence and relatedness in motivation and well-being. The framework suggests distinctions to investigate. It cannot identify the cause of a particular action or refusal. [Ryan & Deci (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.](https://pubmed.ncbi.nlm.nih.gov/11392867/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Susan Michie and colleagues reviewed behaviour-change frameworks and proposed COM-B: capability, opportunity and motivation as interacting conditions for behaviour. They examined its use in tobacco-control and obesity policy. It is a framework for analysing and designing change, not a diagnostic test or proof that one identified barrier caused an action. [Michie, van Stralen & West (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions.](https://pubmed.ncbi.nlm.nih.gov/21513547/)
 
-## Read the foundations now
+Joshua Howard and colleagues combined studies of student motivation and outcomes. Different forms of motivation showed different associations with learning and well-being. Many associations are not causal; applying the findings outside education requires care. [Howard and colleagues (2021). Student Motivation and Associated Outcomes: A Meta-Analysis From Self-Determination Theory.](https://pubmed.ncbi.nlm.nih.gov/33593153/)
 
-- [Chapter 3 — Needs, motives and competing goals](../chapters/03-needs-motives-goals.md)
-- [Chapter 10 — Motivation, influence and cooperation](../chapters/10-motivation-influence-cooperation.md)
+Christopher Cerasoli and colleagues combined research on motivation, incentives and performance. Intrinsic motivation and incentives both mattered, with differences between quality and quantity. Rewards are neither universally helpful nor universally harmful; performance findings cannot identify one person’s values. [Cerasoli, Nicklin & Ford (2014). Intrinsic motivation and extrinsic incentives jointly predict performance: a 40-year meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/24491020/)
+
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+Not acting does not establish not caring. A willing person may lack a feasible route, and a competent person may not value the proposed outcome. Rewards can increase some forms of output without making the activity personally meaningful. Equally, wanting an outcome does not mean that every obstacle is external or that a commitment has no responsibility attached.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Ask what the person wants from the outcome, what the next action requires and what else is competing. Distinguish an actual agreement from an enthusiastic conversation. Compare tasks they start readily with the one that stalls. Notice whether you are trying to understand their priorities or simply make them share yours.
+
+## How to respond
+
+Explain the purpose of a request and invite an honest account of barriers. Choose a response that fits: instruction for a skill gap, resources for an access problem, a smaller plan for overload, or a different agreement when priorities conflict. Use incentives transparently; avoid treating pressure or dependency as evidence of genuine commitment.
+
+**A brief fictional example:** Fictional example: A son says he wants to pass an exam but avoids revising. A short conversation reveals he cannot tell which topics he understands. Starting with a few practice questions may expose the next learning task more usefully than another speech about his future.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Needs, motives and competing goals](../chapters/03-needs-motives-goals.md)
+- [Motivation, influence and cooperation](../chapters/10-motivation-influence-cooperation.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Competing goals](competing.md): Wanting several things can make a decision difficult even when each goal makes sense.
 - [Having a say](autonomy.md): Having a say is one useful question in examining motivation, not the answer in every case.
 - [Feeling capable](competence.md): Whether a task feels achievable may be relevant to participation.
 - [Belonging](belonging.md): Connection to other people may be one part of what matters.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Candidate source from the app: [Ryan & Deci (2000)](https://doi.org/10.1037/0003-066X.55.1.68). Its relevance, claims and limitations need checking for this full book entry. This link does not mean the stub has received an evidence review.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Reasons for acting can coexist and change.
+- Valuing an outcome does not guarantee the conditions for action.
+- Match support to the actual barrier.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Choose one stalled action and separate its value, requirements and competing demands.
+2. Ask or test one specific barrier and change one feasible condition.
+3. Review what the person did and learned, rather than whether they sounded motivated.
+
+<!-- practice-notes: reference-motivation | Motivation -->
+
+</section>

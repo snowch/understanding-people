@@ -1,44 +1,80 @@
 # New changes in behaviour or functioning
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+A new change in behaviour or functioning should be considered in relation to the person’s earlier pattern and current circumstances. Changes in concentration, sleep, communication, self-care or usual activities can have practical, emotional, physical-health or medication-related explanations. A change is not automatically a newly revealed personality trait.
 
-A substantial change from someone’s usual behaviour can call for a health conversation rather than a personality explanation.
+> **Remember:** A new change needs a new question.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
 This material provides general information and has not received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
 
-For help with your circumstances, see [When to seek other help](../support.md).
+See [When to seek other help](../support.md) for support routes and their limits.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Tiredness, illness, pain, medicines, substances or other changes may matter. You cannot choose the cause from the behaviour alone.
+## How it may arise
 
-## What the full entry will cover
+Illness, pain, sensory changes, stress, substance effects and other factors can affect how a person manages ordinary demands. These are possibilities for appropriate assessment, not a list to diagnose from. Someone may also be responding to a real life change or an inaccessible arrangement. Several influences can coexist.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** When did the change start, how quickly, and what ordinary activities are now difficult?
+NHS guidance treats sudden new confusion as requiring urgent medical assessment because several medical causes are possible. It is UK guidance; use the appropriate urgent medical service where you are rather than trying to infer a psychological motive. [NHS: Sudden confusion](https://www.nhs.uk/conditions/confusion/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+NIMH public guidance recommends considering distress, persistence and interference with usual activities when seeking help. US service information may not apply elsewhere; support should be adapted to local options and urgency. [NIMH: Caring for your mental health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health)
 
-## Read the foundations now
+NIMH public guidance distinguishes passing low feelings from depression that can significantly affect thinking, sleep, eating, work and other daily activities. Only assessment can establish the explanation of a particular change; quietness or withdrawal alone is insufficient. [NIMH: Depression](https://www.nimh.nih.gov/health/topics/depression)
 
-- [Chapter 7 — Culture, groups and power](../chapters/07-culture-groups-power.md)
-- [Chapter 4 — Beliefs, identity and personal history](../chapters/04-beliefs-identity-history.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+A longstanding preference differs from a sudden departure from usual behaviour. Gradual difficulties and acute changes may require different responses. Sudden new confusion can be medically urgent. Do not assume it is normal ageing, a character problem or something to resolve through a communication exercise.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Note what changed, when it began, how it affects daily life and what else changed around the same time. Use the person’s own account where possible. Relevant information may include recent illness, medication changes or loss of sleep, but avoid collecting unnecessary private details. Describe observations rather than proposing a confident medical explanation.
+
+## How to respond
+
+For a concerning persistent change, encourage or arrange an appropriate health conversation with consent and within your role. A clinician can assess causes and advise on care; do not stop prescribed treatment or change medicines on the basis of this book. For sudden confusion or another serious acute change, use an appropriate urgent medical service. Practical help can begin while the explanation is being assessed.
+
+**A brief fictional example:** Fictional example: A normally reliable relative becomes confused about familiar routes over a short period. Recording the change and seeking medical advice is more appropriate than assuming stubbornness or collecting evidence for a personality label.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Culture, groups and power](../chapters/07-culture-groups-power.md)
+- [Beliefs, identity and personal history](../chapters/04-beliefs-identity-history.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Later life: change without age stereotypes](later-life.md): New changes need a different response from a longstanding preference.
 - [Stress & overload](stress.md): Overload can be relevant without settling the cause.
 - [Getting support without needing a label](getting-support.md): The kind and urgency of support matter more than finding a label.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Candidate source from the app: [NHS: Sudden confusion (delirium)](https://www.nhs.uk/conditions/confusion/). Its relevance, claims and limitations need checking for this full book entry. This link does not mean the stub has received an evidence review.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Compare change with the person’s own baseline.
+- Several health and situational explanations may be possible.
+- Sudden confusion needs urgent medical attention.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Describe a change, its timing and effects without assigning a cause.
+2. Choose the appropriate health or urgent-care route rather than a behavioural experiment.
+3. Review whether assessment and practical support were accessed, and update the account with professional advice.
+
+<!-- practice-notes: reference-health-change | New changes in behaviour or functioning -->
+
+</section>

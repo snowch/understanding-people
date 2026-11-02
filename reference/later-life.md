@@ -1,40 +1,76 @@
 # Later life: change without age stereotypes
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Later life can involve changes in work, health, relationships, resources and priorities, but age alone does not explain behaviour. People of similar age can differ greatly in abilities, interests and support needs. A change should be compared with the person’s own earlier functioning and current circumstances.
 
-Age alone does not tell you someone’s competence, openness, motives or preferred amount of help.
+> **Remember:** Ask about this person, not an age stereotype.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-A preference for a familiar route is different from losing the ability to manage. Equally, a new difficulty should not be dismissed as ordinary ageing.
+## How it may arise
 
-## What the full entry will cover
+Retirement, bereavement, caregiving and access to transport or technology may alter what is possible. A person may also choose to invest time differently without losing ability. Some theories emphasise perceived time horizons, which can change at any age. These accounts suggest questions, not a rule that older people all become cautious, dependent or socially withdrawn.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What has actually changed from this person’s usual abilities or preferences, and what remains working well?
+Laura Carstensen and colleagues developed socioemotional selectivity theory, reviewing how perceived time horizons can shape social goals in younger and older people. It is a theory with reviewed evidence, not a rule that age determines what an individual wants. [Carstensen LL, Isaacowitz DM, Charles ST. (1999). Taking time seriously. A theory of socioemotional selectivity.](https://pubmed.ncbi.nlm.nih.gov/10199217/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Hu and colleagues reviewed quantitative observational studies of ageism and health. Age-related stereotypes, discrimination and self-perceptions were associated with several health outcomes. The studies were observational and measures varied; the review does not establish the cause of a particular person’s difficulty. [Hu RX, Luo M, Zhang A, Li LW. (2021). Associations of Ageism and Health: A Systematic Review of Quantitative Observational Studies.](https://pubmed.ncbi.nlm.nih.gov/33317402/)
 
-## Read the foundations now
+NHS guidance treats sudden new confusion as requiring urgent medical assessment because several medical causes are possible. It is UK guidance; use the appropriate urgent medical service where you are rather than trying to infer a psychological motive. [NHS: Sudden confusion](https://www.nhs.uk/conditions/confusion/)
 
-- [Chapter 7 — Culture, groups and power](../chapters/07-culture-groups-power.md)
-- [Chapter 4 — Beliefs, identity and personal history](../chapters/04-beliefs-identity-history.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+An unfamiliar digital task is different from cognitive impairment. Preferring an established method is different from being unable to learn. Low mood, pain, hearing or vision difficulties, medication effects and other health issues may need assessment when there is a change. Sudden confusion requires urgent medical attention rather than being dismissed as normal ageing.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Ask what changed, when, and what matters to the person. Compare access and performance under suitable conditions. Include their own account before relying on relatives’ interpretations. Notice whether help takes away decisions unnecessarily, or whether your concern about appearing disrespectful prevents you from raising a genuine health difficulty.
+
+## How to respond
+
+Offer specific support and appropriate access while preserving choice. Clarify which decisions remain the person’s and which practical responsibilities are shared. For persistent or marked changes, arrange suitable advice or assessment with the person involved as appropriate. Avoid both automatic takeover and ignoring a need in the name of independence.
+
+**A brief fictional example:** Fictional example: A father stops using an online booking system after its text becomes smaller. Checking the display and offering an accessible route addresses a possible barrier. It would be premature to conclude that age has made him incapable of organising appointments.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Culture, groups and power](../chapters/07-culture-groups-power.md)
+- [Beliefs, identity and personal history](../chapters/04-beliefs-identity-history.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Declining help](declining-help.md): Help may need to preserve a preferred way of doing things.
 - [New changes in behaviour or functioning](health-change.md): New changes need a different response from a longstanding preference.
 - [Trying to retain a role](maintainrole.md): A task can also carry identity and involvement.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Candidate source from the app: [Baltes (1987): Theoretical propositions of life-span developmental psychology](https://doi.org/10.1037/0012-1649.23.5.611). Its relevance, claims and limitations need checking for this full book entry. This link does not mean the stub has received an evidence review.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Age is context, not a complete explanation.
+- Compare change with the person’s own baseline and access conditions.
+- Support choice while responding appropriately to health changes.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Describe one changed activity and possible practical barriers, using the person’s account.
+2. Try a wanted accessibility change or seek appropriate health advice.
+3. Review functioning and decision ownership; use urgent care for sudden confusion.
+
+<!-- practice-notes: reference-later-life | Later life: change without age stereotypes -->
+
+</section>

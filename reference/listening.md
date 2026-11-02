@@ -1,42 +1,76 @@
 # Listening and checking understanding
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Listening involves attending to another person’s account, making room for it and checking what you understood. It is an active contribution to information and connection, not simply waiting silently or agreeing. It can be particularly useful when your first explanation of the problem differs from the speaker’s.
 
-Giving someone room to speak, then checking whether you understood what matters to them.
+> **Remember:** Check understanding before solving the problem.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Repeating words is not enough if you ignore a correction or use the response to steer them to a predetermined answer.
+## How it may arise
 
-## What the full entry will cover
+Attention can be pulled toward preparing a reply, defending yourself, identifying a solution or comparing the story with your own. Those responses may be understandable while limiting what you hear. A person may need acknowledgment before advice, or may want practical action rather than a long discussion. Ask rather than assume.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What would they correct in my account of their concern?
+Guy Itzchakov and colleagues manipulated listening quality in four laboratory experiments. Attentive, nonjudgmental listening reduced speakers’ social anxiety and helped them recognise mixed attitudes in the studied tasks. The experiments do not show that listening guarantees agreement or repairs a harmful relationship. [Itzchakov, Kluger & Castro (2017). I Am Aware of My Inconsistencies but Can Tolerate Them: The Effect of High Quality Listening on Speakers' Attitude Ambivalence.](https://pubmed.ncbi.nlm.nih.gov/27856728/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Tal Eyal and colleagues tested interpersonal predictions across a series of experiments. Imagining another person’s perspective did not consistently improve accuracy; a final experiment found that obtaining information through conversation helped. Conversation does not guarantee honesty, complete understanding or safety. These were specific prediction tasks, not tests of every relationship. [Eyal, Steffel & Epley (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective.](https://pubmed.ncbi.nlm.nih.gov/29620401/)
 
-## Read the foundations now
+## What else could explain it? {#a-distinction-to-keep-in-mind}
 
-- [Chapter 1 — Why we misinterpret people](../chapters/01-before-you-explain.md)
-- [Chapter 8 — Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
-- [Chapter 11 — Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
+Listening is not a guarantee of accuracy, honesty or agreement. A speaker can be mistaken, omit information or want something you cannot provide. Silence can reflect disengagement as well as attention. You can listen carefully and still set a limit, ask for evidence or decide that a conversation is unsafe or unproductive.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Notice whether you can state the main concern without adding your preferred explanation. Ask a relevant open question and check key terms. Pay attention to interruptions, pace, privacy and access needs. Include what you do not yet understand and distinguish the person’s report from independently established facts.
+
+## How to respond
+
+Agree what kind of conversation is wanted: listening, ideas, a decision or help with a task. Use brief clarification and summaries rather than interrogation. Ask before giving advice and explain honestly if you lack time or knowledge. If you are being insulted or threatened, you do not have to continue listening as a test of empathy.
+
+**A brief fictional example:** Fictional example: A friend describes a difficult day. You begin planning solutions, then ask whether they want ideas or someone to hear them. They say they need help composing one message. Checking the purpose changes your contribution without assuming that talking alone was the goal.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Why we misinterpret people](../chapters/01-before-you-explain.md)
+- [Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
+- [Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Make a clear request](clearrequest.md): Checking understanding can help reveal what a request means to each person.
 - [Repeated criticism](criticism.md): Where it is useful and safe, ask which specific concern sits behind the comment.
 - [Repair after a misunderstanding](repairing.md): Listening may clarify what needs repairing, without guaranteeing reconciliation.
 - [Language, accent & communication context](language-context.md): Checking meaning is more reliable than judging delivery.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Sources have not been selected for this book entry. Relevant reviews, competing evidence and limits need checking before the explanation is developed.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Listening supplies attention and better questions, not automatic agreement.
+- Clarify whether the person wants understanding, ideas or action.
+- Your time, access needs and safety remain relevant.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. In one ordinary conversation, notice when you start preparing a solution or defence.
+2. Ask one useful clarification and check what contribution the person wants.
+3. Review what you learned that you would otherwise have missed.
+
+<!-- practice-notes: reference-listening | Listening and checking understanding -->
+
+</section>

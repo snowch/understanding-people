@@ -1,0 +1,867 @@
+{
+  "entries": [
+    {
+      "id": "adolescence",
+      "cue": "Separate growing agency from a specific difficulty.",
+      "meaning": "Adolescence involves development alongside changing relationships, responsibilities and opportunities for choice. Wanting more privacy, peer contact or a say in decisions can be ordinary parts of this period. A developmental description should help adults ask better questions, not become a complete explanation for everything a young person does.",
+      "arise": "Learning, sleep, social expectations, stress and practical experience can all affect a task. A young person may be capable in a familiar setting and need support in a new one. Adults may also be changing the responsibilities they expect without making the new arrangement explicit. Avoid treating a broad brain-development account as proof of an individual’s motives or incapacity.",
+      "alternatives": "A difficulty may concern teaching, workload, exclusion, health, accessibility or a genuinely unwanted goal. Disagreement is not automatically rebellion, and willingness to comply does not establish that the arrangement is understood. A marked change in mood, functioning or safety requires attention beyond a general statement about teenagers.",
+      "notice": "Ask what the young person wants, what the task requires and which decisions they can reasonably own. Compare performance under clearer instructions or different conditions. Include sleep and competing demands without using them as automatic excuses. Notice whether you interpret a similar action more harshly because of age.",
+      "respond": "Offer appropriate choices within clearly explained responsibilities and safety constraints. Agree a manageable next step, specific support and a review point. Let feedback change the arrangement instead of turning every missed task into a debate about maturity. If difficulties are persistent or impairing, seek suitable educational or health support with the young person involved as appropriate.",
+      "example": "Fictional example: A son repeatedly puts off studying. Asking him to show one difficult question may reveal an unclear topic, while a discussion of time may reveal an impossible timetable. Neither possibility is resolved by saying his brain is not finished developing.",
+      "takeaways": [
+        "Development provides context, not a verdict about an individual.",
+        "Privacy and agency can coexist with appropriate responsibilities.",
+        "Specific support questions are more useful than age-based blame."
+      ],
+      "practice": [
+        "Choose one task and ask what is difficult from the young person’s perspective.",
+        "Agree an appropriate choice, support or small change in conditions.",
+        "Review learning and responsibility together; seek support for marked or persistent difficulties."
+      ],
+      "sources": [
+        "nimh-adolescence",
+        "sdt",
+        "comb"
+      ],
+      "related": [
+        {
+          "node": "autonomy",
+          "relationship": "consider alongside",
+          "why": "Choice and responsibility can be negotiated together."
+        },
+        {
+          "node": "belonging",
+          "relationship": "consider alongside",
+          "why": "Peers can change what a task means."
+        },
+        {
+          "node": "capacity",
+          "relationship": "consider alongside",
+          "why": "Sleep, time and skills affect what is feasible."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "child-development",
+      "cue": "Match the expectation to the skill and setting.",
+      "meaning": "Children develop abilities in communication, movement, play, learning and responding to others. Expectations should reflect both the child’s current skills and the conditions of a task. A behaviour that frustrates an adult does not, by itself, show deliberate defiance, a stable personality trait or a developmental condition.",
+      "arise": "A child may not understand the instruction, remember several steps, manage the sensory demands or know what to do instead. They may also want choice, need rest or disagree. These are possibilities to investigate through the child’s behaviour, communication and available guidance. Development varies, but variation is not a reason to ignore concerns or lost skills.",
+      "alternatives": "Inability, uncertainty and unwillingness are different questions, and can coexist. An adult’s successful demonstration does not mean a child can reproduce the task independently in another setting. Milestone information is a starting resource rather than a home diagnosis. One missed task does not establish a delay, while recurring concerns deserve discussion.",
+      "notice": "Identify the exact action expected, how it was explained and what the child can currently do. Compare a shorter instruction, demonstration, quieter setting or different time where appropriate. Seek the child’s view in a suitable way. Include examples of successful participation instead of documenting only difficult moments.",
+      "respond": "Provide a clear, manageable instruction and an appropriate alternative action. Offer support without shaming or turning the task into a test of affection. For developmental concerns or loss of skills, consult an appropriate clinician or service; do not wait for a theory about the child’s personality. Educational and care arrangements should fit the child’s actual needs and local responsibilities.",
+      "example": "Fictional example: A child does not clear a table after “Tidy up everything.” Naming one action—putting cups on the tray—and demonstrating it clarifies the expectation. The response supplies information about this task; it does not settle every explanation for earlier difficulties.",
+      "takeaways": [
+        "Check skills and task conditions before inferring intent.",
+        "Developmental resources support inquiry, not self-diagnosis.",
+        "Concerns and lost skills deserve timely professional discussion."
+      ],
+      "practice": [
+        "Describe one task and the skill it requires, including how it was explained.",
+        "Try an appropriate clarification or support, or arrange advice if development is a concern.",
+        "Review what the child could do and what support is still needed, including successes."
+      ],
+      "sources": [
+        "cdc-development",
+        "comb",
+        "sdt"
+      ],
+      "related": [
+        {
+          "node": "capacity",
+          "relationship": "consider alongside",
+          "why": "A request can exceed current skills or available support."
+        },
+        {
+          "node": "clearrequest",
+          "relationship": "consider alongside",
+          "why": "Clarity includes making a request understandable to this child."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Developmental concerns deserve an appropriate assessment."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "familynorms",
+      "cue": "Ask which family rule is being assumed.",
+      "meaning": "Family expectations are shared or contested ideas about roles, duties, manners, privacy, closeness and decision-making. They may be spoken directly or learned through routine. People can carry different versions of a family rule, and a rule that once fitted a household may no longer fit adult children, new partners or changing care needs.",
+      "arise": "Practices can be learned by watching what is praised, criticised or simply expected. Wider circumstances such as work, money, culture and institutional access can shape them too. Similar behaviour across generations may have several influences; resemblance alone cannot identify a genetic trait or prove a particular conditioning history.",
+      "alternatives": "A habit, an explicit agreement, a personal preference and a necessary care responsibility are different from an inherited family entitlement. “We have always done it” describes continuity, not whether the current arrangement is fair or voluntary. A family’s practice should not be assumed from its nationality, religion or social class.",
+      "notice": "Ask what each person believes is expected, who benefits, who does the work and what happens if someone declines. Compare exceptions and changes across time. Notice whether your own interpretation of respect requires agreement or access that another person has not accepted. Keep each relative’s reasons separate rather than constructing a single family personality.",
+      "respond": "Make one implicit expectation explicit and discuss a workable current arrangement. Acknowledge what the tradition means without treating it as an automatic decision rule. Where responsibilities are shared, agree ownership and resources. Where refusal brings threats or restrictions, use appropriate support rather than assuming a polite conversation will remove the risk.",
+      "example": "Fictional example: A mother expects every Sunday to be a family visit; her adult child thinks visits are arranged individually. Clarifying the expectation and agreeing a sustainable rhythm addresses the conflict more directly than deciding one person is uncaring.",
+      "takeaways": [
+        "Family rules may be implicit, contested and changeable.",
+        "Shared behaviour does not establish a single inherited cause.",
+        "Tradition and current consent are different questions."
+      ],
+      "practice": [
+        "Name one family expectation and how each person appears to understand it.",
+        "Clarify or renegotiate one practical part where appropriate.",
+        "Review whether responsibilities and freedom to choose became clearer, including exceptions."
+      ],
+      "sources": [
+        "anthropology",
+        "culture",
+        "heritability"
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "relationship": "context to examine",
+          "why": "Advice that seems ordinary to one person may feel intrusive to another."
+        },
+        {
+          "node": "thirdparty",
+          "relationship": "context to examine",
+          "why": "Families may differ in who is normally involved in decisions."
+        },
+        {
+          "node": "learned",
+          "relationship": "context to examine",
+          "why": "Past family expectations are one possible source of a learned response."
+        },
+        {
+          "node": "maintainrole",
+          "relationship": "context to examine",
+          "why": "Check what responsibilities were expected and whether they have been renegotiated."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "context",
+      "cue": "Ask what the setting makes possible or costly.",
+      "meaning": "Culture and power are parts of the setting in which people interpret and respond to each other. Culture concerns learned meanings and practices; power concerns unequal ability to affect resources, choices or consequences. Both can influence an interaction without determining exactly what any individual thinks.",
+      "arise": "A person’s silence may occur in a workplace where disagreement affects shifts, a family where elders decide, or a setting where language and access differ. Those conditions can shape what action is feasible. Your own position may make constraints easy to miss, especially if the same rules rarely impose a cost on you.",
+      "alternatives": "A cultural explanation should not replace the individual’s account. Nor does a formal hierarchy mean that every disagreement is coercion. Practical expertise, role responsibilities and genuine safety constraints need distinguishing from arbitrary control. An apparently shared agreement can also conceal a very unequal ability to refuse.",
+      "notice": "Identify who decides, who supplies resources, who can disagree and what the consequences may be. Ask how the situation is understood by those affected. Compare formal rules with everyday practice. Include less visible barriers such as language, time, transport, caregiving and access to information.",
+      "respond": "Adjust the process where you have influence: provide information, make decision criteria explicit, allow suitable ways to contribute and protect a legitimate route for concerns. If you hold power, do not make others responsible for reassuring you that it is harmless. If your choices are constrained, consider advice or support appropriate to the setting rather than treating every difficulty as a communication failure.",
+      "example": "Fictional example: A junior worker agrees to an extra shift in front of the manager who assigns their hours. The answer may be sincere, pressured or both. A private, genuinely penalty-free route to discuss capacity gives better information than assuming the public yes expressed full preference.",
+      "takeaways": [
+        "Meaning and available choices depend partly on context.",
+        "Group labels do not reveal individual beliefs.",
+        "Examine the real consequences of disagreement."
+      ],
+      "practice": [
+        "Describe one interaction and who controlled the relevant choices or resources.",
+        "Identify one process change or support route that could make an honest answer more possible.",
+        "Review participation and practical consequences rather than only the words people used."
+      ],
+      "sources": [
+        "culture",
+        "anthropology",
+        "fairness"
+      ],
+      "related": [
+        {
+          "node": "familynorms",
+          "relationship": "explore through",
+          "why": "Family expectations are one context in which roles and decisions take shape."
+        },
+        {
+          "node": "power",
+          "relationship": "explore through",
+          "why": "Unequal consequences of refusal can change how an agreement should be understood."
+        },
+        {
+          "node": "audience",
+          "relationship": "explore through",
+          "why": "Compare behaviour across settings without assuming the audience caused every difference."
+        },
+        {
+          "node": "correspondence",
+          "relationship": "context to examine",
+          "why": "Roles, expectations and available choices may affect what a person can do."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "cultural-meanings",
+      "cue": "Ask about meaning instead of assigning a national script.",
+      "meaning": "Culture includes learned ways of making sense of relationships, duties, communication and everyday life. A gesture, silence or refusal can carry different meanings across settings. These differences are worth exploring, but people also vary within communities and participate in several overlapping social worlds.",
+      "arise": "Family practices, language, education, work, religion, migration and personal experience can all shape meaning. Research using a narrow population may not travel unchanged to another. That is a reason to ask about applicability, not a reason to assume that everyone from a country is independent, collective, direct or deferential.",
+      "alternatives": "An unfamiliar action can concern personality, circumstances or a simple misunderstanding rather than culture. Culture should not be used to excuse harm, deny choice or treat someone as a spokesperson for a group. A person may value a tradition, revise it or disagree with others in the same family.",
+      "notice": "Ask what the action or arrangement means to the person and what they expected would happen. Check specific words and practices rather than relying on a broad label. Compare whether each side recognises the same obligation or intention. Notice when you treat your own familiar practice as neutral and the other person’s as cultural.",
+      "respond": "Explain your understanding, invite theirs and negotiate the practical issue where possible. Use interpretation or accessible information when needed; do not make someone defend an entire culture before you address a concrete concern. Shared decisions can respect different meanings while making consent, responsibilities and limits explicit.",
+      "example": "Fictional example: One person treats declining a first offer of food as politeness; another hears it as a final refusal. Asking directly and kindly about preferences resolves the immediate uncertainty more usefully than deciding that either person is dishonest or disrespectful.",
+      "takeaways": [
+        "Cultural meanings vary within as well as between groups.",
+        "Your own expectations are situated too.",
+        "Clarify the particular meaning and negotiate the practical arrangement."
+      ],
+      "practice": [
+        "Choose one interaction in which you may have assumed a shared meaning.",
+        "Ask or explain what the specific action meant, avoiding a group stereotype.",
+        "Review whether the difference was cultural, situational or still uncertain, and what arrangement helps."
+      ],
+      "sources": [
+        "culture",
+        "weird",
+        "anthropology"
+      ],
+      "related": [
+        {
+          "node": "familynorms",
+          "relationship": "consider alongside",
+          "why": "Family expectations are one setting for learned meanings."
+        },
+        {
+          "node": "power",
+          "relationship": "consider alongside",
+          "why": "Shared customs can coexist with unequal freedom to refuse."
+        },
+        {
+          "node": "language-context",
+          "relationship": "consider alongside",
+          "why": "Words and ways of speaking may carry different meanings."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "life-transitions",
+      "cue": "Update the arrangement as well as the expectations.",
+      "meaning": "Life transitions change roles, routines, resources or relationships. Examples include moving home, starting work, retirement, separation, parenthood and changes in care needs. A person’s behaviour during a transition may reflect a changing situation rather than a newly revealed fixed character.",
+      "arise": "A transition can remove familiar cues and support while adding new decisions and work. It can also affect identity, belonging and a sense of competence. People may adapt at different rates or want different forms of involvement. Those possibilities should be explored rather than used as a complete explanation for every difficult response.",
+      "alternatives": "Adjustment, grief, practical overload, a health change and an ongoing relationship problem can coexist. A transition does not make all harmful conduct temporary or acceptable. It can also be positive without being easy. Avoid imposing a standard timetable for feeling settled or assuming that the same event means the same thing to everyone.",
+      "notice": "Ask what changed in actual tasks, decision rights, money, support and daily rhythm. Compare expectations before and after the transition. Identify responsibilities that became unowned or continued by default. Notice whether your interpretation overlooks the person’s earlier baseline or the work they are now doing.",
+      "respond": "Renegotiate one concrete arrangement rather than asking everyone to return to the old normal. Preserve useful support, clarify new responsibilities and plan a review after some experience. Make room for mixed feelings without requiring them to resolve before practical help begins. Seek suitable support when distress or functional difficulties persist or a health change is marked.",
+      "example": "Fictional example: After retirement, one partner starts reorganising the household. They may want a meaningful contribution, while the other experiences unwanted control. Discussing which tasks and decisions will be shared addresses the new arrangement without assuming either motive is settled.",
+      "takeaways": [
+        "Role changes alter conditions as well as feelings.",
+        "A transition can be welcome and demanding at once.",
+        "Explicitly renegotiate work, choice and support."
+      ],
+      "practice": [
+        "List one transition and the responsibilities or resources that changed.",
+        "Agree one updated arrangement and a realistic review point.",
+        "Review workload, choice and adjustment, including whether further support is needed."
+      ],
+      "sources": [
+        "sdt",
+        "habit",
+        "flexibility",
+        "states"
+      ],
+      "related": [
+        {
+          "node": "maintainrole",
+          "relationship": "consider alongside",
+          "why": "A familiar role may need renegotiating."
+        },
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "Changed circumstances can make an old agreement unworkable."
+        },
+        {
+          "node": "history",
+          "relationship": "consider alongside",
+          "why": "Compare before and after without erasing earlier patterns."
+        },
+        {
+          "node": "grief",
+          "relationship": "consider alongside",
+          "why": "Loss can alter roles and daily arrangements."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "capacity",
+      "cue": "A plan needs resources, not just goodwill.",
+      "meaning": "Capacity concerns what someone can realistically take on under current conditions. Time, money, health, information, tools, access and existing responsibilities all matter. Capacity is not the same as willingness, and a person’s earlier performance does not guarantee the same capacity today.",
+      "arise": "Overcommitment can arise when each request is considered separately, coordination work is invisible or saying no is costly. A task may also require resources the requester assumes are available. These possibilities need checking. Someone can have more capacity for one activity than another because the demands differ, rather than because they are pretending to be busy.",
+      "alternatives": "A stated capacity limit may be accurate, incomplete or a polite way to decline. That uncertainty does not mean you can demand intrusive proof. Distinguish a skill gap, a temporary overload and a different priority. In shared work, the practical consequence of an unmet responsibility still needs addressing even when the reason is reasonable.",
+      "notice": "Ask what the task requires, what else is already committed and which dependencies or access barriers exist. Include planning, travel, caregiving and recovery rather than counting only visible task time. Compare an easier occasion or a narrower version of the request. Notice whether someone else has become the automatic backup.",
+      "respond": "Adjust scope, timing, resources or ownership and make trade-offs explicit. Encourage an early warning when a commitment becomes unrealistic. If you are at capacity, state what you can offer and what must move or stop. A practical capacity conversation should not become a competition over who is most exhausted or most deserving.",
+      "example": "Fictional example: A friend can meet locally for twenty minutes but cannot manage a distant evening event while caregiving. Those answers are compatible. Changing the form of contact may preserve the relationship without requiring them to justify every hour of their day.",
+      "takeaways": [
+        "Willingness and present capacity are different.",
+        "Count invisible work and real access barriers.",
+        "A limit should lead to a practical trade-off or alternative arrangement."
+      ],
+      "practice": [
+        "Choose one commitment and list its actual requirements and competing responsibilities.",
+        "Reduce scope, move timing or clarify ownership where appropriate.",
+        "Review whether the change made the arrangement feasible without silently transferring the burden."
+      ],
+      "sources": [
+        "comb",
+        "intentions",
+        "fairness"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "distinguish from",
+          "why": "Willingness and practical ability are different questions."
+        },
+        {
+          "node": "followthrough",
+          "relationship": "possible explanation",
+          "why": "Time, transport, skills or resources might prevent the action."
+        },
+        {
+          "node": "stress",
+          "relationship": "connects with",
+          "why": "Demands and available resources are useful context for a change in behaviour."
+        },
+        {
+          "node": "conscientiousness",
+          "relationship": "context to examine",
+          "why": "Practical barriers can affect follow-through even for a usually dependable person."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "later-life",
+      "cue": "Ask about this person, not an age stereotype.",
+      "meaning": "Later life can involve changes in work, health, relationships, resources and priorities, but age alone does not explain behaviour. People of similar age can differ greatly in abilities, interests and support needs. A change should be compared with the person’s own earlier functioning and current circumstances.",
+      "arise": "Retirement, bereavement, caregiving and access to transport or technology may alter what is possible. A person may also choose to invest time differently without losing ability. Some theories emphasise perceived time horizons, which can change at any age. These accounts suggest questions, not a rule that older people all become cautious, dependent or socially withdrawn.",
+      "alternatives": "An unfamiliar digital task is different from cognitive impairment. Preferring an established method is different from being unable to learn. Low mood, pain, hearing or vision difficulties, medication effects and other health issues may need assessment when there is a change. Sudden confusion requires urgent medical attention rather than being dismissed as normal ageing.",
+      "notice": "Ask what changed, when, and what matters to the person. Compare access and performance under suitable conditions. Include their own account before relying on relatives’ interpretations. Notice whether help takes away decisions unnecessarily, or whether your concern about appearing disrespectful prevents you from raising a genuine health difficulty.",
+      "respond": "Offer specific support and appropriate access while preserving choice. Clarify which decisions remain the person’s and which practical responsibilities are shared. For persistent or marked changes, arrange suitable advice or assessment with the person involved as appropriate. Avoid both automatic takeover and ignoring a need in the name of independence.",
+      "example": "Fictional example: A father stops using an online booking system after its text becomes smaller. Checking the display and offering an accessible route addresses a possible barrier. It would be premature to conclude that age has made him incapable of organising appointments.",
+      "takeaways": [
+        "Age is context, not a complete explanation.",
+        "Compare change with the person’s own baseline and access conditions.",
+        "Support choice while responding appropriately to health changes."
+      ],
+      "practice": [
+        "Describe one changed activity and possible practical barriers, using the person’s account.",
+        "Try a wanted accessibility change or seek appropriate health advice.",
+        "Review functioning and decision ownership; use urgent care for sudden confusion."
+      ],
+      "sources": [
+        "time-horizons",
+        "ageism",
+        "nhs-confusion"
+      ],
+      "related": [
+        {
+          "node": "refusehelp",
+          "relationship": "consider alongside",
+          "why": "Help may need to preserve a preferred way of doing things."
+        },
+        {
+          "node": "health-change",
+          "relationship": "consider alongside",
+          "why": "New changes need a different response from a longstanding preference."
+        },
+        {
+          "node": "maintainrole",
+          "relationship": "consider alongside",
+          "why": "A task can also carry identity and involvement."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "language-context",
+      "cue": "Check meaning without judging the speaker’s worth.",
+      "meaning": "Language, accent and communication setting affect how a message is expressed and understood. Someone may be fluent in everyday conversation but need more time for unfamiliar technical language or emotionally difficult topics. A communication difference does not establish intelligence, honesty, motivation or the quality of an idea.",
+      "arise": "Fast turn-taking, idioms, jargon, background noise, hearing demands and unequal familiarity with a language can all create misunderstandings. Status can affect whether someone feels able to ask for clarification. The listener also contributes: assuming an unfamiliar accent means uncertainty may change how patiently they listen or how seriously they take the message.",
+      "alternatives": "A communication barrier is different from substantive disagreement. Repeating an explanation more loudly may not resolve an unclear term. A short answer may reflect processing, privacy, preference or time rather than rejection. Do not assume one national or linguistic group communicates in a single way.",
+      "notice": "Ask what a key phrase means in this situation and check your own understanding. Compare spoken and written versions where appropriate. Notice whether interruptions, technical vocabulary or public correction make participation harder. For important decisions, check that the person has access to suitable information and, when needed, competent interpretation rather than relying on a child or an inappropriate intermediary.",
+      "respond": "Use clear wording, one issue at a time and enough time for an answer. Explain necessary technical terms without condescension. Offer an accessible medium and invite correction: “Have I understood that correctly?” In legal, medical or other high-stakes settings, use appropriate professional communication support and local procedures.",
+      "example": "Fictional example: A client says “That should be fine,” and you hear a firm commitment. Clarifying whether approval is final reveals that they still need a colleague’s decision. The useful correction concerns the phrase and process, not a judgment about their accent or culture.",
+      "takeaways": [
+        "Fluency and familiarity depend on the task and setting.",
+        "Listeners and formats contribute to understanding.",
+        "Clarify key meaning before treating wording as a commitment."
+      ],
+      "practice": [
+        "Identify one phrase or format that may have been interpreted differently.",
+        "Ask for a clarification or offer a suitable written or interpreted route.",
+        "Review shared understanding and access, including whether a real disagreement remains."
+      ],
+      "sources": [
+        "eyal",
+        "culture",
+        "weird"
+      ],
+      "related": [
+        {
+          "node": "cultural-meanings",
+          "relationship": "consider alongside",
+          "why": "Words and ways of speaking may carry different meanings."
+        },
+        {
+          "node": "listening",
+          "relationship": "consider alongside",
+          "why": "Checking meaning is more reliable than judging delivery."
+        },
+        {
+          "node": "capacity",
+          "relationship": "consider alongside",
+          "why": "Different formats can make participation easier."
+        },
+        {
+          "node": "deception",
+          "relationship": "consider alongside",
+          "why": "Speech style is not a dependable lie test."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "neurodiversity",
+      "cue": "Investigate the fit between people and the setting.",
+      "meaning": "Neurodiversity concerns variation in how people experience, process and respond to the world. Neurodivergent is an umbrella term used in different ways, often including autism and ADHD. It is not one diagnosis, personality type or fixed list of needs. Ask about the individual rather than inferring needs from the umbrella label.",
+      "arise": "An interaction can become difficult when sensory conditions, timing, ambiguity or communication expectations do not fit the people involved. The mismatch is not necessarily located in one person alone. A preference for direct wording or preparation time may be useful information about access, not evidence of unwillingness or a lack of care.",
+      "alternatives": "Silence, interruption, missed cues and a need for routine can have many explanations. They do not identify a diagnosis, and the same diagnosis does not imply identical abilities or preferences. Neurodivergence and a health difficulty can coexist. Harmful conduct still needs addressing, while accommodations should not depend on proving a moral excuse.",
+      "notice": "Ask what is difficult in the actual task: noise, pace, unclear roles, a changing plan or another condition. Compare settings in which communication works better. Use the person’s own account and avoid requiring unnecessary diagnostic disclosure. Notice which expectations are essential to the task and which are simply familiar to you.",
+      "respond": "Agree a concrete adjustment where possible: clear written decisions, advance information, a quieter setting, breaks or another medium. Review its usefulness with the person rather than treating a label as a complete accommodation plan. A professional or relevant service can help with assessment and support when needed; the book does not supply a diagnostic route from behaviour examples.",
+      "example": "Fictional example: A colleague appears disengaged during noisy brainstorming but contributes clearly when questions arrive in advance. Testing preparation time and a quieter format examines the interaction conditions. It does not establish autism or explain every earlier disagreement.",
+      "takeaways": [
+        "Neurodiversity is broader than a single diagnosis.",
+        "Communication can depend on the fit between people and conditions.",
+        "Ask about specific access needs and review adjustments."
+      ],
+      "practice": [
+        "Name one task difficulty and the conditions in which it appears.",
+        "Agree one wanted adjustment without demanding unnecessary personal disclosure.",
+        "Review access, contribution and the person’s feedback rather than conformity to one communication style."
+      ],
+      "sources": [
+        "autistic-communication",
+        "comb",
+        "eyal"
+      ],
+      "related": [
+        {
+          "node": "capacity",
+          "relationship": "consider alongside",
+          "why": "Accessible formats may reduce a mismatch."
+        },
+        {
+          "node": "listening",
+          "relationship": "consider alongside",
+          "why": "Understanding should be checked in both directions."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Support and assessment should respond to the person’s needs and wishes."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "power",
+      "cue": "Look at the real cost of saying no.",
+      "meaning": "Unequal power means that people differ in their ability to affect resources, decisions or consequences. It can arise through employment, money, housing, information, social standing, care arrangements or authority. Power is not identical to confidence or status: a quiet person may control crucial resources, while a forceful speaker may have few actual options.",
+      "arise": "A person’s response depends partly on what disagreement could cost. Agreement in front of an authority figure may not reveal full preference. Someone with power may see a request as optional while the recipient expects a penalty for refusal. Good intentions do not remove that difference, and formal permission to complain does not establish that doing so is safe.",
+      "alternatives": "Legitimate responsibilities and necessary rules can coexist with unequal power. Not every hierarchical decision is abuse. The questions are how authority is used, whether restrictions are relevant and proportionate, and what avenues for challenge exist. Conversely, an informal family arrangement can be controlling without a formal title.",
+      "notice": "Identify who controls the needed resource, whose account is believed and what happens after a disagreement. Compare the written policy with actual practice. Ask whether alternatives are realistic, not merely imaginable. Include your own position and whether someone might be protecting themselves while giving the answer you prefer.",
+      "respond": "If you hold power, make relevant constraints and decision criteria explicit, reduce avoidable penalties for honest answers and provide a genuine concern route. If your options are constrained, seek advice suited to the setting rather than assuming better wording will remove the imbalance. Where threats or coercion are involved, use appropriate support and avoid testing the limits by provoking a response.",
+      "example": "Fictional example: A family member who controls transport insists that an adult attend a gathering. The adult’s eventual yes needs interpreting in light of available options. Asking whether they agreed does not by itself show that attendance was freely chosen.",
+      "takeaways": [
+        "Power concerns resources and consequences, not just manner.",
+        "A yes can reflect constrained options.",
+        "Assess how authority is exercised and challenged."
+      ],
+      "practice": [
+        "Describe one decision, the relevant resource and the cost of refusal.",
+        "Identify a process improvement or support route within your actual options.",
+        "Review whether choice and fair challenge became more possible, including any adverse consequences."
+      ],
+      "sources": [
+        "power",
+        "fairness",
+        "coercion-guidance"
+      ],
+      "related": [
+        {
+          "node": "thirdparty",
+          "relationship": "context to examine",
+          "why": "Who the third person is and what authority they hold can matter."
+        },
+        {
+          "node": "interrupt",
+          "relationship": "context to examine",
+          "why": "Check who can interrupt whom without consequences."
+        },
+        {
+          "node": "avoidconflict",
+          "relationship": "context to examine",
+          "why": "A refusal may carry costs that are easy for an observer to overlook."
+        },
+        {
+          "node": "context",
+          "relationship": "explore through",
+          "why": "Unequal consequences of refusal can change how an agreement should be understood."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "structural-barriers",
+      "cue": "Change the barrier before blaming the person.",
+      "meaning": "Structural barriers are features of rules, institutions or environments that make participation or access harder for some people. They can concern eligibility, transport, cost, scheduling, language, disability access or discrimination. They differ from a person’s willingness, though several influences can operate together.",
+      "arise": "A system can appear neutral while assuming resources not everyone has. An application process may require time, internet access and documents; a meeting may exclude people with care responsibilities. Social connections and familiarity with institutions can also affect how easily someone gets heard. These conditions can be overlooked by people for whom they are routinely available.",
+      "alternatives": "A barrier should be specified rather than invoked as a complete explanation for every outcome. Individual skill, preference and action still matter. At the same time, one person succeeding does not show that everyone had equal access. Legal discrimination is a particular question with jurisdiction-specific rules, not a synonym for all inconvenience or unfairness.",
+      "notice": "Ask which step prevents access, what resources it assumes and whether the same requirement affects people differently. Compare the formal rule with the practical route through it. Seek accounts from those affected rather than guessing needs. Notice whether your proposed solution simply asks people to work around a barrier at their own expense.",
+      "respond": "Where you have influence, remove an unnecessary requirement, offer an accessible alternative or explain an essential rule and its review route. Allocate ownership of the change instead of leaving it as a sympathetic observation. For rights or discrimination concerns, obtain appropriate local advice; do not rely on a general reference entry to decide the legal question.",
+      "example": "Fictional example: A team calls evening training optional but requires it for advancement. Staff with care responsibilities have fewer realistic opportunities. Providing equivalent paid-time access addresses the arrangement more directly than assuming lower ambition.",
+      "takeaways": [
+        "Access conditions can differ even under the same formal rule.",
+        "Specify the step and resource creating the barrier.",
+        "A practical remedy may require changing the process."
+      ],
+      "practice": [
+        "Identify one participation problem and the specific requirement that creates difficulty.",
+        "Ask affected people about a feasible alternative or seek relevant advice.",
+        "Review actual access and outcomes after the change, not only whether a policy was announced."
+      ],
+      "sources": [
+        "anthropology",
+        "comb",
+        "eeoc-harassment"
+      ],
+      "related": [
+        {
+          "node": "power",
+          "relationship": "consider alongside",
+          "why": "Rules and authority shape the cost of refusing or objecting."
+        },
+        {
+          "node": "capacity",
+          "relationship": "consider alongside",
+          "why": "Practical opportunity differs from willingness."
+        },
+        {
+          "node": "fairness",
+          "relationship": "consider alongside",
+          "why": "Fair treatment may require changing an arrangement, not identical demands."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "audience",
+      "cue": "Compare the setting without assuming a performance.",
+      "meaning": "Who else is present can change what people say, notice or feel able to do. Public and private exchanges may differ because of role expectations, privacy, recognition, fear of consequences or the need to coordinate with others. A difference is useful evidence about context, but does not by itself prove insincerity.",
+      "arise": "An audience may make a comment feel like public criticism or a request feel harder to refuse. A person may also learn new information during the group discussion. You can contribute to the problem by presenting private encouragement as a public commitment that was never agreed.",
+      "alternatives": "A public–private difference can reflect deception or a strategic choice, but it can also reflect uncertainty, changed circumstances or different meanings of support. Consistency is not automatically truth, and inconsistency is not automatically bad faith. Compare the actual questions, information and commitments in each setting.",
+      "notice": "Write what was said in each context, who was present and what changed between them. Ask about the specific difference rather than beginning with a character accusation. Notice decision authority and the consequences of disagreement. Include whether your own wording or expectations changed when others were watching.",
+      "respond": "Before a consequential meeting, clarify what each person is prepared to support publicly and what concerns remain. Use a private or written route for sensitive information where appropriate. If repeated public undermining affects you, address the conduct and agree how decisions will be recorded. Do not seek a confession of an inner strategy as a prerequisite for protecting your work.",
+      "example": "Fictional example: A colleague praises an idea privately but raises concerns at the meeting. Asking which part they supported and what changed separates encouragement, readiness and public recommendation. The answer can then be checked against the discussion and later actions.",
+      "takeaways": [
+        "Audience can alter both freedom and meaning.",
+        "A contextual difference does not settle motive.",
+        "Clarify public commitments before relying on private encouragement."
+      ],
+      "practice": [
+        "Compare one public and private exchange, including information and wording.",
+        "Ask a specific clarification or agree how a future commitment will be recorded.",
+        "Review whether the distinction explained the difference and whether the arrangement became more dependable."
+      ],
+      "sources": [
+        "status",
+        "power",
+        "eyal"
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "relationship": "context to examine",
+          "why": "Compare public and private interactions without assuming a motive for the difference."
+        },
+        {
+          "node": "interrupt",
+          "relationship": "context to examine",
+          "why": "Check whether the pattern changes with the group or setting."
+        },
+        {
+          "node": "context",
+          "relationship": "explore through",
+          "why": "Compare behaviour across settings without assuming the audience caused every difference."
+        },
+        {
+          "node": "extraversion",
+          "relationship": "context to examine",
+          "why": "A broad tendency does not determine behaviour in every group."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "history",
+      "cue": "Use history as evidence, not a permanent verdict.",
+      "meaning": "Relationship history includes earlier agreements, responses, repairs, harms and ordinary experiences between people. It can help explain current expectations, but it should not become a single story that every new event must confirm. The same action may mean something different after a dependable pattern than after repeated broken promises.",
+      "arise": "People learn what seems safe or worthwhile in a relationship. A person may hesitate because earlier help carried conditions, or trust a request because earlier commitments were kept. Memory is also selective and can be affected by later information. Neither fact means that earlier harm should be forgotten or that every remembered detail is exact.",
+      "alternatives": "A current concern may fit a recurring pattern, reflect changed conditions or be a genuinely new problem. One good occasion does not erase repeated harm, while one familiar-looking action does not establish that nothing has changed. Explanations about childhood or other relationships should not be invented to fill gaps in this relationship’s record.",
+      "notice": "Compare specific occasions, including ordinary interactions, exceptions, attempted repairs and later follow-through. Mark what you witnessed, what someone reported and what is uncertain. Ask whether the conditions and responsibilities were comparable. Notice whether you treat every positive event as an exception while treating every negative one as the person’s true nature—or do the reverse.",
+      "respond": "Use relevant history to set proportionate expectations and safeguards. Trust can be specific: you may rely on someone for one task while declining another arrangement. Discuss a current need without demanding that the past be declared irrelevant. Where harm or coercion is ongoing, support and protection may matter more than another attempt to reinterpret the relationship.",
+      "example": "Fictional example: A friend who previously missed several repayments offers to borrow again. You can decline or agree different terms based on that history without assigning a personality disorder. A later kind act need not decide the separate question of financial reliability.",
+      "takeaways": [
+        "History can inform expectations without explaining every new event.",
+        "Include repair, exceptions and comparable conditions.",
+        "Trust and safeguards can be specific to an arrangement."
+      ],
+      "practice": [
+        "Compare two relevant occasions and note similarities, differences and source certainty.",
+        "Choose a current request, safeguard or limit based on the actual pattern.",
+        "Review new information without erasing earlier events or forcing them into one permanent story."
+      ],
+      "sources": [
+        "memory",
+        "habit",
+        "eyal"
+      ],
+      "related": [
+        {
+          "node": "refusehelp",
+          "relationship": "context to examine",
+          "why": "Previous help may have come with unwanted conditions. This is something to ask about, not invent."
+        },
+        {
+          "node": "learned",
+          "relationship": "information to seek",
+          "why": "The person’s actual account of past experiences matters more than an invented backstory."
+        },
+        {
+          "node": "repairing",
+          "relationship": "context to examine",
+          "why": "A repair sits within a history; one conversation does not settle it."
+        },
+        {
+          "node": "life-transitions",
+          "relationship": "consider alongside",
+          "why": "Compare before and after without erasing earlier patterns."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "health-change",
+      "cue": "A new change needs a new question.",
+      "meaning": "A new change in behaviour or functioning should be considered in relation to the person’s earlier pattern and current circumstances. Changes in concentration, sleep, communication, self-care or usual activities can have practical, emotional, physical-health or medication-related explanations. A change is not automatically a newly revealed personality trait.",
+      "arise": "Illness, pain, sensory changes, stress, substance effects and other factors can affect how a person manages ordinary demands. These are possibilities for appropriate assessment, not a list to diagnose from. Someone may also be responding to a real life change or an inaccessible arrangement. Several influences can coexist.",
+      "alternatives": "A longstanding preference differs from a sudden departure from usual behaviour. Gradual difficulties and acute changes may require different responses. Sudden new confusion can be medically urgent. Do not assume it is normal ageing, a character problem or something to resolve through a communication exercise.",
+      "notice": "Note what changed, when it began, how it affects daily life and what else changed around the same time. Use the person’s own account where possible. Relevant information may include recent illness, medication changes or loss of sleep, but avoid collecting unnecessary private details. Describe observations rather than proposing a confident medical explanation.",
+      "respond": "For a concerning persistent change, encourage or arrange an appropriate health conversation with consent and within your role. A clinician can assess causes and advise on care; do not stop prescribed treatment or change medicines on the basis of this book. For sudden confusion or another serious acute change, use an appropriate urgent medical service. Practical help can begin while the explanation is being assessed.",
+      "example": "Fictional example: A normally reliable relative becomes confused about familiar routes over a short period. Recording the change and seeking medical advice is more appropriate than assuming stubbornness or collecting evidence for a personality label.",
+      "takeaways": [
+        "Compare change with the person’s own baseline.",
+        "Several health and situational explanations may be possible.",
+        "Sudden confusion needs urgent medical attention."
+      ],
+      "practice": [
+        "Describe a change, its timing and effects without assigning a cause.",
+        "Choose the appropriate health or urgent-care route rather than a behavioural experiment.",
+        "Review whether assessment and practical support were accessed, and update the account with professional advice."
+      ],
+      "sources": [
+        "nhs-confusion",
+        "nimh-support",
+        "nimh-depression"
+      ],
+      "related": [
+        {
+          "node": "later-life",
+          "relationship": "consider alongside",
+          "why": "New changes need a different response from a longstanding preference."
+        },
+        {
+          "node": "stress",
+          "relationship": "consider alongside",
+          "why": "Overload can be relevant without settling the cause."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "The kind and urgency of support matter more than finding a label."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "low-mood",
+      "cue": "Ask about impact, not just visible sadness.",
+      "meaning": "Low mood can involve sadness, reduced interest, low energy or difficulty managing ordinary activities. It may follow a difficult event or occur without an obvious explanation. Depression is a clinical condition, and an observer cannot establish it from quietness, a missed invitation or one difficult week.",
+      "arise": "Health, sleep, stress, loss, circumstances and several other influences may affect mood and functioning. A person might withdraw because contact feels demanding, because they need rest or because they want another kind of support. Those possibilities should be explored through their account rather than interpreted automatically as rejection.",
+      "alternatives": "Grief, fatigue, physical illness, medication effects, anxiety and a simple wish for solitude can resemble parts of low mood. These are not exhaustive alternatives. A person can also be distressed while appearing cheerful or continuing work. Lack of visible sadness does not settle the question, and a diagnosis would not explain every relationship difficulty.",
+      "notice": "Ask gently what has changed and what is hard, allowing an answer or a refusal to discuss. Focus on duration, daily functioning and the kind of support wanted rather than evaluating whether feelings are justified. If concerned about your own mood, record a concise account that could help a professional conversation. Do not require a complete causal story before seeking help.",
+      "respond": "Offer a specific, manageable form of contact or practical help and avoid making the person responsible for reassuring you. Encourage appropriate health support when difficulties persist, worsen or interfere with life. Immediate safety concerns require suitable urgent help. You can care about the person while being clear about your own responsibilities and limits.",
+      "example": "Fictional example: A friend declines several outings after a difficult period. Asking whether a short walk or a delivered meal would help gives a concrete option. It does not diagnose depression or require the friend to attend an event to prove they value you.",
+      "takeaways": [
+        "Visible mood alone cannot establish or exclude a condition.",
+        "Functioning and the person’s experience matter.",
+        "Offer specific support without demanding a complete explanation."
+      ],
+      "practice": [
+        "Describe a change or difficulty and its practical impact, distinguishing observation from interpretation.",
+        "Offer wanted help or identify an appropriate health-support question.",
+        "Review whether support reached the need and whether further or urgent help is required."
+      ],
+      "sources": [
+        "nimh-depression",
+        "nimh-support",
+        "nhs-grief"
+      ],
+      "related": [
+        {
+          "node": "withdraw",
+          "relationship": "consider alongside",
+          "why": "Reduced contact is an observation with several possible explanations."
+        },
+        {
+          "node": "grief",
+          "relationship": "consider alongside",
+          "why": "Loss can matter without following a fixed timetable."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Support can begin before there is a diagnosis."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "anxiety-patterns",
+      "cue": "Ask what the worry and checking are doing.",
+      "meaning": "Worry, avoidance and reassurance-seeking can be responses to uncertainty or anticipated harm. They can be useful in some circumstances and costly in others. An anxiety disorder is a clinical question involving a broader pattern and impact; a particular worried question or cautious choice does not establish one.",
+      "arise": "Checking can provide relevant information or briefly reduce discomfort without resolving the uncertainty. Avoidance can protect against a real hazard or restrict activities the person wants. The function and context matter. A response that helps immediately may have different longer-term effects, but that cannot be decided from frequency alone.",
+      "alternatives": "A person may face an unreliable arrangement, an actual threat, unclear instructions or a health difficulty. Repeated questions can also reflect a memory or communication problem. Do not label a reasonable concern anxiety to end a discussion. Nor should a person’s anxiety be taken as proof that danger is present.",
+      "notice": "Clarify the feared outcome, what is known and whether another check could change a decision. Compare how long reassurance helps and what happens afterward. Ask which wanted activities are becoming difficult. Include the other person’s account and avoid running tests that deliberately increase fear or remove necessary safeguards.",
+      "respond": "For an ordinary uncertainty, agree a clear fact, a practical next step and a review point. Offer support without promising certainty you cannot provide. Persistent distress or interference with life warrants appropriate professional assessment. Do not improvise exposure treatment or abruptly refuse all reassurance as a method you found online; support should fit the person and any agreed care plan.",
+      "example": "Fictional example: Someone asks repeatedly whether a meeting went badly. Clarifying one actual concern may help more than repeating “Everyone liked you.” If the same fear returns and is consuming the day, a support conversation may be more useful than another vote on their performance.",
+      "takeaways": [
+        "Worry and caution are not automatically disorders.",
+        "Checking can inform a decision or repeat a relief cycle.",
+        "Persistent impairment needs appropriate support, not a home treatment experiment."
+      ],
+      "practice": [
+        "Identify one worry, what information is missing and how checking affects it over time.",
+        "Choose a bounded clarification or an appropriate support route.",
+        "Review functioning and useful information gained, rather than requiring all anxiety to disappear."
+      ],
+      "sources": [
+        "nimh-anxiety",
+        "uncertainty-review",
+        "avoidance-review"
+      ],
+      "related": [
+        {
+          "node": "uncertainty",
+          "relationship": "consider alongside",
+          "why": "Some unknowns can be clarified; others cannot be eliminated."
+        },
+        {
+          "node": "reassurance",
+          "relationship": "consider alongside",
+          "why": "Repeated reassurance may have several functions."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Persistent impairment warrants support beyond a practice prompt."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "trauma-context",
+      "cue": "Respond to present needs without inventing a past.",
+      "meaning": "Trauma-related responses can follow exposure to serious threat or harm, but experiences and recovery vary. Reminders may affect distress, attention, trust or a sense of safety. A behaviour alone cannot establish a trauma history, and exposure to a traumatic event does not mean that a person has post-traumatic stress disorder.",
+      "arise": "A current situation may resemble an earlier danger, or the current danger may still be real. The person may not want to disclose what happened. An observer should not turn a plausible story about prior conditioning into a factual explanation. Multiple factors, including present relationships and practical resources, can affect the response.",
+      "alternatives": "Stress, anxiety, grief, sensory overload, physical health and other circumstances can produce overlapping difficulties. PTSD requires professional assessment of a broader pattern and impact. A trauma explanation does not excuse harmful conduct, and a lack of disclosure does not justify dismissing distress or requiring a person to recount an experience.",
+      "notice": "Ask what would make the present interaction more manageable and what choices the person wants. Notice whether a particular setting, unpredictability or loss of control matters, without treating the pattern as proof of its origin. If seeking support yourself, describe what is happening now and its effects; you need not have a complete account before asking for help.",
+      "respond": "Offer clear information, appropriate choice and a way to pause or decline. Do not surprise someone with a supposed trigger to test or cure a response. Professional support can assess persistent difficulties and discuss treatment. If the concern is ongoing threat or abuse, address present safety and support rather than focusing only on changing the person’s reaction.",
+      "example": "Fictional example: A friend asks not to be touched unexpectedly. Respecting that request does not require discovering whether it relates to trauma, sensory needs or a simple preference. The useful action is clear even while the origin remains private.",
+      "takeaways": [
+        "A response does not reveal a trauma history by itself.",
+        "Present safety and privacy matter alongside possible past influences.",
+        "Do not conduct trigger tests or improvised treatment."
+      ],
+      "practice": [
+        "Describe a present difficulty or request without constructing a history.",
+        "Agree a wanted adjustment or identify suitable professional support.",
+        "Review whether choice and functioning improved, and whether current danger requires further help."
+      ],
+      "sources": [
+        "nimh-trauma",
+        "flexibility",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "history",
+          "relationship": "consider alongside",
+          "why": "Known and guessed history must remain separate."
+        },
+        {
+          "node": "security",
+          "relationship": "consider alongside",
+          "why": "Current safety needs checking, not assuming."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Trauma assessment and treatment require appropriate expertise."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "grief",
+      "cue": "Make room for variation without ignoring a need.",
+      "meaning": "Grief is a response to loss. It can follow a death, the end of a relationship, a change in health, a lost role or another meaningful loss. People may experience sadness, anger, numbness, relief or mixed feelings, sometimes at unexpected times. There is no compulsory emotional sequence that everyone must display.",
+      "arise": "A loss can change practical routines, responsibilities, social contact and the future someone expected. A person may want company on one day and privacy on another. Anniversaries or ordinary reminders can carry meaning. These possibilities help frame a question; they should not become a timetable imposed on someone’s recovery.",
+      "alternatives": "Grief and depression can overlap, and persistent or severe difficulties may need assessment. A moment of enjoyment does not prove a person is no longer grieving, and a quiet response does not reveal a lack of love. Harmful conduct still has effects even when it occurs during loss. The other people affected may need support too.",
+      "notice": "Ask what is hardest now and whether the person wants listening, practical help, contact or space. Notice daily functioning and changes over time without evaluating them against a required stage. Compare the help you are offering with what is actually needed, including work that has become unowned after the loss.",
+      "respond": "Offer a specific manageable contribution and allow an honest answer. Remember that needs may change after initial attention fades. Avoid requiring positive meaning, closure or a particular form of expression. If distress or functioning is persistently difficult, encourage suitable support; immediate safety concerns require appropriate urgent help. You can support grief without being the person’s only resource.",
+      "example": "Fictional example: A bereaved friend laughs during lunch and cries later while sorting paperwork. The two responses are compatible. Helping with one administrative task may be more useful than interpreting the laughter as evidence that they have moved on.",
+      "takeaways": [
+        "Grief can include changing and apparently conflicting feelings.",
+        "No required stage or display establishes how much a loss matters.",
+        "Practical support and professional help can be appropriate."
+      ],
+      "practice": [
+        "Identify a specific current need related to a loss, using the person’s account where possible.",
+        "Offer one wanted contribution or find a suitable support route.",
+        "Review whether it helped and what needs changed, without scoring progress through stages."
+      ],
+      "sources": [
+        "nhs-grief",
+        "nimh-depression",
+        "flexibility"
+      ],
+      "related": [
+        {
+          "node": "low-mood",
+          "relationship": "consider alongside",
+          "why": "Loss can matter without following a fixed timetable."
+        },
+        {
+          "node": "refusehelp",
+          "relationship": "consider alongside",
+          "why": "The kind and timing of help can matter."
+        },
+        {
+          "node": "life-transitions",
+          "relationship": "consider alongside",
+          "why": "Loss can alter roles and daily arrangements."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Bereavement support and health services may help when coping is difficult."
+        }
+      ],
+      "specialistCaveat": true
+    }
+  ]
+}

@@ -1,38 +1,76 @@
 # Conscientiousness
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Conscientiousness concerns broad tendencies in organising action, working toward responsibilities and handling commitments. People can differ in organisation, persistence and responsibility without being identical on each. It is a dimension of typical behaviour, not a score for worth or a guarantee that a person will meet every deadline.
 
-A broad personality dimension including tendencies toward organisation and dependability.
+> **Remember:** Look at the conditions of follow-through.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-A missed task is not enough to label someone careless.
+## How it may arise
 
-## What the full entry will cover
+Plans are enacted in settings with distractions, competing tasks, resources and habits. Someone who organises work reliably may struggle with household administration, especially when expectations are unclear. Differences can persist across time while behaviour varies from day to day. Traits can change, but research on change does not mean another person can be remodelled by repeated criticism.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What is the wider pattern, and what circumstances might explain exceptions?
+Christopher Soto and Oliver John developed and tested the BFI-2 across three studies, organising personality descriptions into five broad dimensions and narrower facets. These are dimensions, not fixed types or clinical diagnoses. This entry does not reproduce, administer or score the questionnaire. [Soto & John (2017). The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power.](https://pubmed.ncbi.nlm.nih.gov/27055049/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+William Fleeson used repeated reports of everyday behaviour in three studies. Individuals varied considerably across occasions while showing stable differences in their average patterns. A few memorable events cannot establish a lifelong trait; self-reports and the sampled settings have limits. [Fleeson (2001). Toward a structure- and process-integrated view of personality: traits as density distribution of states.](https://pubmed.ncbi.nlm.nih.gov/11414368/)
 
-## Read the foundations now
+Brent Roberts and colleagues reviewed 207 intervention studies tracking personality measures, mainly in clinical settings. Trait scores could change, especially emotional stability, and some changes persisted at follow-up. Study designs varied. This does not show that wishing, a short exercise or changing a relative will produce the same result. [Roberts and colleagues (2017). A systematic review of personality trait change through intervention.](https://pubmed.ncbi.nlm.nih.gov/28054797/)
 
-- [Chapter 6 — Personality, habits and situations](../chapters/06-personality-habits-situations.md)
+Susan Michie and colleagues reviewed behaviour-change frameworks and proposed COM-B: capability, opportunity and motivation as interacting conditions for behaviour. They examined its use in tobacco-control and obesity policy. It is a framework for analysing and designing change, not a diagnostic test or proof that one identified barrier caused an action. [Michie, van Stralen & West (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions.](https://pubmed.ncbi.nlm.nih.gov/21513547/)
+
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+A missed task can reflect overload, unclear ownership, inaccessible tools, illness or a different priority. A meticulous approach can be useful, excessive for the task or part of a separate difficulty. Conscientiousness is not obsessive-compulsive personality disorder, and ordinary carefulness is not OCD. Avoid using clinical terms to express annoyance at someone’s method.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Examine comparable commitments: was the task understood, feasible and actually agreed? Compare completed work with missed work, including changes in workload and support. Ask whether the process consistently depends on another person reminding or rescuing. That dependency matters operationally even when the explanation remains uncertain.
+
+## How to respond
+
+Agree on outcomes, scope, timing and an early warning when capacity changes. Use supports such as a shared task list only with a clear purpose and appropriate consent. If you want to develop reliability, reduce the task to a realistic commitment and build a useful cue. Reliability includes saying that a deadline is no longer feasible before others depend on it.
+
+**A brief fictional example:** Fictional example: A volunteer repeatedly misses an email deadline but reliably completes tasks agreed during a short planning call. Comparing the arrangements suggests a communication or planning change to test; it does not prove a global character defect or remove the need for a dependable agreement.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Personality, habits and situations](../chapters/06-personality-habits-situations.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Agreeing, then not following through](followthrough.md): A single missed action cannot establish a broad personality trait.
 - [Time, resources & capacity](capacity.md): Practical barriers can affect follow-through even for a usually dependable person.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Candidate source from the app: [Fleeson (2001)](https://doi.org/10.1037/0022-3514.80.6.1011). Its relevance, claims and limitations need checking for this full book entry. This link does not mean the stub has received an evidence review.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Conscientiousness summarises patterns, not every outcome.
+- Check the commitment and conditions before assigning a trait.
+- A workable system can matter alongside personal tendencies.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Choose one commitment and identify ownership, time, tools and competing demands.
+2. Make one realistic process change, such as an earlier capacity check.
+3. Review completion and the burden on others; retain both successful and missed occasions.
+
+<!-- practice-notes: reference-conscientiousness | Conscientiousness -->
+
+</section>

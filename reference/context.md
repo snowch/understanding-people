@@ -1,41 +1,77 @@
 # Culture & power
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Culture and power are parts of the setting in which people interpret and respond to each other. Culture concerns learned meanings and practices; power concerns unequal ability to affect resources, choices or consequences. Both can influence an interaction without determining exactly what any individual thinks.
 
-Consider the expectations, roles and unequal choices around an interaction.
+> **Remember:** Ask what the setting makes possible or costly.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Silence alone does not tell you whether someone agrees, is unsure or fears the consequences of speaking.
+## How it may arise
 
-## What the full entry will cover
+A person’s silence may occur in a workplace where disagreement affects shifts, a family where elders decide, or a setting where language and access differ. Those conditions can shape what action is feasible. Your own position may make constraints easy to miss, especially if the same rules rarely impose a cost on you.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** Who can disagree here, and at what cost?
+Vivian Vignoles and colleagues conducted two multinational surveys. Ways of being independent and connected varied across several dimensions, beyond a simple East–West division. Group patterns cannot reveal one person’s values, and national averages are not instructions for interacting with an individual. [Vignoles and colleagues (2016). Beyond the 'east-west' dichotomy: Global variation in cultural models of selfhood.](https://pubmed.ncbi.nlm.nih.gov/27359126/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Sociologist Annette Lareau used ethnographic observation and interviews with US families to examine how class-related practices affected interactions with institutions. The study concerns particular families and settings; it is not a universal parenting typology or an explanation of an individual family. [Lareau (2002). Invisible Inequality: Social Class and Childrearing in Black Families and White Families.](https://doi.org/10.1177/000312240206700507)
 
-## Read the foundations now
+Jason Colquitt and colleagues combined 183 organisational-justice studies. Fair outcomes, procedures, interpersonal treatment and information were related but distinguishable aspects of perceived fairness. Most evidence concerns organisations. Disagreement about fairness is not proof of dishonesty or a single objectively correct allocation. [Colquitt and colleagues (2001). Justice at the millennium: a meta-analytic review of 25 years of organizational justice research.](https://pubmed.ncbi.nlm.nih.gov/11419803/)
 
-- [Chapter 7 — Culture, groups and power](../chapters/07-culture-groups-power.md)
-- [Chapter 4 — Beliefs, identity and personal history](../chapters/04-beliefs-identity-history.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+A cultural explanation should not replace the individual’s account. Nor does a formal hierarchy mean that every disagreement is coercion. Practical expertise, role responsibilities and genuine safety constraints need distinguishing from arbitrary control. An apparently shared agreement can also conceal a very unequal ability to refuse.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Identify who decides, who supplies resources, who can disagree and what the consequences may be. Ask how the situation is understood by those affected. Compare formal rules with everyday practice. Include less visible barriers such as language, time, transport, caregiving and access to information.
+
+## How to respond
+
+Adjust the process where you have influence: provide information, make decision criteria explicit, allow suitable ways to contribute and protect a legitimate route for concerns. If you hold power, do not make others responsible for reassuring you that it is harmless. If your choices are constrained, consider advice or support appropriate to the setting rather than treating every difficulty as a communication failure.
+
+**A brief fictional example:** Fictional example: A junior worker agrees to an extra shift in front of the manager who assigns their hours. The answer may be sincere, pressured or both. A private, genuinely penalty-free route to discuss capacity gives better information than assuming the public yes expressed full preference.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Culture, groups and power](../chapters/07-culture-groups-power.md)
+- [Beliefs, identity and personal history](../chapters/04-beliefs-identity-history.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Family expectations](familynorms.md): Family expectations are one context in which roles and decisions take shape.
 - [Unequal power](power.md): Unequal consequences of refusal can change how an agreement should be understood.
 - [Who else is present](audience.md): Compare behaviour across settings without assuming the audience caused every difference.
 - [Correspondence bias](correspondence-bias.md): Roles, expectations and available choices may affect what a person can do.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Sources have not been selected for this book entry. Relevant reviews, competing evidence and limits need checking before the explanation is developed.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Meaning and available choices depend partly on context.
+- Group labels do not reveal individual beliefs.
+- Examine the real consequences of disagreement.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Describe one interaction and who controlled the relevant choices or resources.
+2. Identify one process change or support route that could make an honest answer more possible.
+3. Review participation and practical consequences rather than only the words people used.
+
+<!-- practice-notes: reference-context | Culture & power -->
+
+</section>

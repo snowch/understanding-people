@@ -1,6 +1,6 @@
 # Sources and further reading
 
-The sources below support the **twelve chapters**. Each annotation states what the source contributes and where its use stops. This is a selected reading list, not a systematic review of the entire field. Chapter links place the evidence beside the claims it supports. Research records and bibliographic details for this draft were checked on 27 October 2026; that check does not make older findings the latest evidence on a topic.
+The sources below support the **twelve chapters**. The expanded reference library has its own [annotated research sources and access log](reference/sources.md), including what was read, selected findings and limits. Each annotation states what the source contributes and where its use stops. This is a selected reading list, not a systematic review of the entire field. Chapter links place the evidence beside the claims it supports. Research records and bibliographic details for this draft were checked on 27 October 2026; that check does not make older findings the latest evidence on a topic.
 
 ## Interpreting behaviour and checking your own judgment
 

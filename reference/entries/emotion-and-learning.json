@@ -1,0 +1,315 @@
+{
+  "entries": [
+    {
+      "id": "reinforcement",
+      "cue": "Ask what follows the action—and what happens next time.",
+      "meaning": "Reinforcement is a learning process in which a consequence makes a response more likely in similar circumstances. Positive reinforcement adds something; negative reinforcement removes something aversive. Positive and negative here mean addition and removal, not good and bad. Punishment, by contrast, concerns a reduction in a response. The definitions describe effects over time, not merely someone’s intention.",
+      "arise": "An action may persist because it gains attention, secures a useful outcome or brings relief. Avoiding a difficult conversation can remove discomfort now while leaving a problem for later. These are hypotheses to investigate. One pleasant outcome does not demonstrate reinforcement, and a person may repeat an action because it is necessary or because the environment offers no safe alternative.",
+      "alternatives": "A repeated action can also reflect deliberate choice, a recurring demand or an automatic habit. Relief after escaping a genuine threat is not evidence that safety-seeking should be removed. Do not infer that someone created distress for attention merely because support followed it. What a behaviour accomplishes and what the person intended are separate questions.",
+      "notice": "Describe a sequence: what preceded the action, what happened immediately afterward, and whether the pattern recurs in comparable circumstances. Include occasions when it did not occur. Ask about the person’s experience where appropriate. Notice your own responses, such as taking over a task whenever a disagreement becomes uncomfortable.",
+      "respond": "For an ordinary pattern you want to change, make a constructive alternative easier and more rewarding rather than relying on repeated criticism. Agree the change with affected people. Do not withhold necessary care, safety or basic support to test a learning theory, or improvise treatment for anxiety or compulsions. Where a task is shared, clarify responsibilities so that relief for one person does not invisibly transfer all the burden.",
+      "example": "Fictional example: You agree to every invitation to avoid an awkward refusal, then feel overloaded. Practising a brief, honest answer in a low-stakes situation may change the sequence. The aim is a sustainable choice, not proving that discomfort must disappear.",
+      "takeaways": [
+        "Reinforcement describes a change in future responding.",
+        "Immediate relief and long-term benefit can differ.",
+        "Understanding a pattern does not justify removing necessary support."
+      ],
+      "practice": [
+        "Record one recurring sequence, including what happens just before and after your action.",
+        "Choose a small alternative that meets the legitimate need with fewer unwanted costs.",
+        "Compare later occasions and exceptions before deciding what sustained the pattern."
+      ],
+      "sources": [
+        "habit",
+        "avoidance-review",
+        "comb"
+      ],
+      "related": [
+        {
+          "node": "reassurance",
+          "relationship": "pattern to examine",
+          "why": "Notice whether relief lasts or whether the same question soon returns."
+        },
+        {
+          "node": "learned",
+          "relationship": "compare with",
+          "why": "Past expectations and current consequences are different questions about repetition."
+        },
+        {
+          "node": "habits",
+          "relationship": "compare with",
+          "why": "Look at the cue before an action and the consequences after it."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "habits",
+      "cue": "Change the cue and the easy next action.",
+      "meaning": "A habit is a response that becomes more automatic through repetition in recurring circumstances. It can help daily life run smoothly, but can also continue after a goal changes. Automatic does not mean inevitable, unconscious in every case or outside all responsibility. A repeated action is not necessarily a habit.",
+      "arise": "Settings, timing, objects and preceding actions can become cues. A person may check a phone whenever a conversation pauses or take over a task whenever someone hesitates. Deliberate goals and automatic responses can coexist. Simply deciding to stop may leave the familiar cue and convenient response unchanged.",
+      "alternatives": "Repetition may reflect a current preference, an ongoing duty, lack of alternatives or a response to real danger. A new pattern can also signal a change in health or circumstances. Distinguish an established cue–response sequence from a one-off lapse or a task that remains genuinely necessary. Do not explain another person’s behaviour as automatic merely because they cannot give a satisfying reason.",
+      "notice": "Notice when and where the action happens, what precedes it and what immediate outcome follows. Compare times it is easier not to do it. Include fatigue, access and the social arrangement. If you are the observer, ask whether the person experiences the action as habitual rather than diagnosing it from outside.",
+      "respond": "Choose a specific replacement and adjust the setting to make it easier. You might put the phone out of reach for a short agreed period or place a needed item beside an existing routine. Keep the change small enough to repeat and review. Where the behaviour affects others, agree a useful cue rather than appointing someone to police you indefinitely.",
+      "example": "Fictional example: You interrupt with advice whenever a friend pauses. You agree to ask “Do you want ideas or just a listener?” before offering solutions. The cue is still present, but there is a clearer alternative response to practise.",
+      "takeaways": [
+        "Habit involves a recurring context and a more automatic response.",
+        "A goal change may need an environment change too.",
+        "Repeated conduct can have explanations other than habit."
+      ],
+      "practice": [
+        "Identify one recurring action and a specific cue that precedes it.",
+        "Make one replacement action easy in that setting.",
+        "Review several occasions, including misses, and adjust the cue or size of the change."
+      ],
+      "sources": [
+        "habit",
+        "comb",
+        "planning"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "compare with",
+          "why": "An action might be a familiar response rather than a freshly considered choice."
+        },
+        {
+          "node": "reinforcement",
+          "relationship": "compare with",
+          "why": "Look at the cue before an action and the consequences after it."
+        },
+        {
+          "node": "review",
+          "relationship": "useful response",
+          "why": "Try a small change in circumstances and review the observed result."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "learned",
+      "cue": "A past lesson is a possibility, not a biography.",
+      "meaning": "Learned expectations are predictions about what is likely to happen, shaped by experience and information. Someone may expect that asking for help creates debt, disagreement brings anger or praise is followed by a request. An expectation can be accurate in one relationship and less useful in another.",
+      "arise": "People can learn from direct consequences, watching others and what they are told. Similar conduct across relatives may reflect shared norms, inherited tendencies, common circumstances or different reasons. You cannot identify which influence mattered from resemblance alone. A plausible childhood story is not evidence that it occurred.",
+      "alternatives": "Caution may concern the current person rather than an old lesson. It can be a preference, a practical constraint or a response to repeated recent events. Some expectations protect against real risks. Avoid framing justified mistrust as a personal defect or assuming that reassurance should cancel earlier harmful experiences.",
+      "notice": "Ask what the person expects would follow and whether they can identify the experience behind that expectation if they want to. Compare the present conditions with the earlier ones: who is involved, what choices exist and what safeguards apply. In your own thinking, distinguish a remembered event from a prediction that every similar event will end the same way.",
+      "respond": "Offer consistent, bounded actions rather than requiring immediate trust. State what you will do, respect a no and follow through. If you want to update an expectation yourself, choose an ordinary, low-risk comparison with room to stop. Do not use a “test” that exposes you or another person to harm, and do not demand disclosure of a history to justify a boundary.",
+      "example": "Fictional example: A father declines help because earlier offers came with criticism. His adult child asks what kind of assistance would be welcome, makes one clearly limited offer and accepts the answer. Repeated respectful conduct may provide new information; a speech about trust does not establish it.",
+      "takeaways": [
+        "Expectations can be learned and context-specific.",
+        "Family resemblance cannot identify an individual cause.",
+        "Updating trust depends on relevant experience and choice."
+      ],
+      "practice": [
+        "Name one prediction you make and the experience you believe supports it.",
+        "Compare current conditions with that experience and choose a low-risk check if useful.",
+        "Record what happened, including whether the expectation remains reasonable."
+      ],
+      "sources": [
+        "habit",
+        "heritability",
+        "eyal"
+      ],
+      "related": [
+        {
+          "node": "familynorms",
+          "relationship": "context to examine",
+          "why": "Past family expectations are one possible source of a learned response."
+        },
+        {
+          "node": "history",
+          "relationship": "information to seek",
+          "why": "The person’s actual account of past experiences matters more than an invented backstory."
+        },
+        {
+          "node": "reinforcement",
+          "relationship": "compare with",
+          "why": "Past expectations and current consequences are different questions about repetition."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "stress",
+      "cue": "Reduce avoidable load before judging capacity.",
+      "meaning": "Stress describes responses to demands or threats that strain available resources. It can affect attention, memory, decision-making, bodily arousal and interaction. A person may become more reactive, quiet, rushed or rigid, but those actions alone cannot establish stress or its cause. People’s responses and circumstances differ.",
+      "arise": "A task may become harder when there are too many decisions, interruptions, uncertainties or competing responsibilities. Sleep, pain, health and support can also matter. Some demands are temporary; others arise from ongoing work or care arrangements. Describing stress should not turn a structural overload into a requirement that one person simply cope better.",
+      "alternatives": "A sharp reply can also involve disagreement, habit, poor communication or deliberate hostility. Calm behaviour does not prove low stress. Stress may help explain a response while leaving responsibility for its effects intact. A persistent or sudden change in functioning may call for support or medical assessment rather than an assumption about temperament.",
+      "notice": "Ask what has changed in demands, resources and recovery. Compare difficult occasions with more manageable ones. Identify what is urgent, what can wait and which tasks require concentrated attention. If you are affected by another person’s behaviour, describe the particular action and its impact rather than trying to prove how stressed they were.",
+      "respond": "Reduce one unnecessary demand, clarify priorities or arrange a pause with a return point. Make support concrete and check whether it actually reduces work rather than adding coordination. If conduct is harmful, maintain relevant limits alongside support. Persistent distress, impaired functioning or urgent health changes deserve appropriate professional attention.",
+      "example": "Fictional example: During a caregiving week you repeatedly snap over routine questions. Agreeing one place for updates and asking a relative to own a specific task may reduce interruptions. You can apologise for snapping while explaining the arrangement you need next.",
+      "takeaways": [
+        "Stress involves demands and resources, not only personality.",
+        "A response does not reveal its cause by itself.",
+        "Support and accountability can proceed together."
+      ],
+      "practice": [
+        "Describe one difficult period, its demands and one response you want to handle differently.",
+        "Change one avoidable demand or make a specific support request.",
+        "Review load, recovery and effects on others; seek help if functioning remains impaired."
+      ],
+      "sources": [
+        "stress",
+        "flexibility",
+        "nimh-support"
+      ],
+      "related": [
+        {
+          "node": "defensive",
+          "relationship": "possible context",
+          "why": "Overload is one possible contributor, not a diagnosis from a reaction."
+        },
+        {
+          "node": "withdraw",
+          "relationship": "possible context",
+          "why": "A pause may create space to recover when overwhelmed."
+        },
+        {
+          "node": "capacity",
+          "relationship": "connects with",
+          "why": "Demands and available resources are useful context for a change in behaviour."
+        },
+        {
+          "node": "emotionality",
+          "relationship": "distinguish from",
+          "why": "A broad tendency and a temporary period of overload require different evidence."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "fear-rejection",
+      "cue": "Check the expectation before acting on it.",
+      "meaning": "Fear of rejection is concern about being unwanted, excluded or abandoned. It can be proportionate to a real relationship risk, or extend to ambiguous situations where the outcome is unclear. Rejection sensitivity is a research concept about anxious expectations and reactions to rejection; this entry does not measure or diagnose it.",
+      "arise": "If rejection is expected, a delay or brief answer may receive more attention as possible evidence. The resulting response—repeated questions, withdrawal, anger or quick agreement—can affect the interaction in turn. That is one possible sequence. It does not show that the first concern was mistaken or that the person caused another’s harmful behaviour.",
+      "alternatives": "A relationship may genuinely be unreliable or excluding. A missed reply can also concern workload, communication preferences or a misunderstanding. Fear of rejection is distinct from a diagnosis of borderline personality disorder, and does not justify surveillance or preventing another person from leaving. People need both connection and room for choice.",
+      "notice": "Write the specific event, the feared meaning and the action you felt urged to take. Compare similar occasions and include messages or actions that complicate the fear. Ask whether a clear expectation about contact exists. Notice when reassurance gives useful information and when the same question returns without new evidence.",
+      "respond": "Where safe, make a specific request about communication or expectations rather than demanding a guarantee of permanent acceptance. Allow time before responding to ambiguity. If fear repeatedly disrupts life or relationships, support can help you explore it without settling a label yourself. If exclusion or mistreatment is real, address that conduct and consider your options.",
+      "example": "Fictional example: A friend sends a short reply. You first read it as rejection, then learn they are in a noisy station and will call later. One clarification changes this occasion’s explanation. It does not prove every earlier concern was unfounded.",
+      "takeaways": [
+        "Fear can reflect uncertainty, a learned expectation or a real problem.",
+        "Separate the event from the rejection you predict.",
+        "Requests and support are more workable than guarantees of acceptance."
+      ],
+      "practice": [
+        "Record an ambiguous event, the feared meaning and your first impulse.",
+        "Choose one fair clarification or a deliberate pause, avoiding repeated checking.",
+        "Review the information gained and whether your response made the exchange clearer."
+      ],
+      "sources": [
+        "rejection-foundation",
+        "belonging",
+        "uncertainty-review"
+      ],
+      "related": [
+        {
+          "node": "reassurance",
+          "relationship": "consider alongside",
+          "why": "Repeated questions may be an attempt to resolve uncertainty."
+        },
+        {
+          "node": "belonging",
+          "relationship": "consider alongside",
+          "why": "Wanting connection is ordinary."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Distress can be addressed without assigning a diagnosis."
+        },
+        {
+          "node": "approval-seeking",
+          "relationship": "consider alongside",
+          "why": "Fear of exclusion may overlap with approval seeking."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "jealousy",
+      "cue": "Treat the feeling and the conduct separately.",
+      "meaning": "Jealousy often concerns a perceived threat to a valued relationship or position. Envy concerns wanting something another person has; the experiences can overlap. Feeling jealous does not establish that a threat is real, and it does not determine what someone will do. The useful focus is the concern, the evidence and the response.",
+      "arise": "A change in attention, comparison, ambiguous contact or an actual breach of an agreement may trigger concern. Earlier rejection, uncertainty and self-evaluation may also matter. These are possible influences rather than a complete explanation. The person’s own account and the actual relationship arrangements matter more than a confident outsider’s story.",
+      "alternatives": "A wish for clarity differs from entitlement to control someone’s contacts. Agreed exclusivity differs from possession. Legitimate concerns can be raised without threats, password demands or restrictions on friendships. Conversely, calling a person jealous should not be used to dismiss evidence of deception or a broken agreement.",
+      "notice": "Clarify what is feared and what agreement, if any, is relevant. Separate observed conduct from imagined possibilities. Compare whether the same standard applies to both people. Notice whether checking provides information or becomes a growing requirement for reassurance. Include the other person’s freedom, privacy and ability to disagree.",
+      "respond": "Discuss a specific concern and the terms of the relationship if that is safe. Take responsibility for the way you express the feeling, including avoiding accusations unsupported by evidence. You can decide that an arrangement does not suit you without enforcing control over another adult. If jealousy is paired with threats, monitoring or isolation, consider support for that pattern.",
+      "example": "Fictional example: You feel sidelined when a close friend makes plans with someone else. Asking to arrange time together expresses a wish for connection. Insisting that the friend stop seeing the other person attempts to control their relationships.",
+      "takeaways": [
+        "Jealousy is an experience; harmful conduct is a separate issue.",
+        "A concern can be discussed without restricting another person’s freedom.",
+        "Check the actual agreement and evidence."
+      ],
+      "practice": [
+        "Describe one jealousy-provoking event and the loss or threat you imagined.",
+        "Choose a request or self-directed response that respects both people’s choices.",
+        "Review the facts and the effects of your response; seek support for controlling or threatening patterns."
+      ],
+      "sources": [
+        "rejection-foundation",
+        "belonging",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "possessiveness",
+          "relationship": "consider alongside",
+          "why": "A feeling and a restriction on another person are different."
+        },
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "Check what was actually agreed."
+        },
+        {
+          "node": "security",
+          "relationship": "consider alongside",
+          "why": "A feared loss may need clarification."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "perfectionism",
+      "cue": "Define what good enough must achieve.",
+      "meaning": "Perfectionism concerns demanding standards and the way people judge themselves or others when those standards are not met. A useful distinction is between striving for high quality and being preoccupied with mistakes, criticism or falling short. These can coexist. Careful work is not inherently a problem; rigidity and cost are important.",
+      "arise": "A task may become a test of personal worth, safety or acceptance rather than a bounded piece of work. Rechecking can reduce doubt briefly while delaying completion. The setting may also genuinely punish small mistakes. Possible personal and environmental influences should be examined together rather than assuming an internal defect.",
+      "alternatives": "High stakes can justify rigorous checking. An unclear brief can produce repeated revision without perfectionism. Conscientiousness, professional standards, OCD and obsessive-compulsive personality disorder are different concepts. You cannot infer a disorder from a tidy home, demanding work or a preference for a particular method.",
+      "notice": "Ask what standard is necessary for the purpose, who set it and what would count as completion. Compare the value of another revision with its cost in time, rest and other responsibilities. Notice whether mistakes lead to a specific correction or a global self-judgment. Include your effect on others when you delegate but reject every acceptable alternative.",
+      "respond": "Agree observable completion criteria, a proportionate checking process and a stopping point. For a low-risk task, try submitting an adequate version and reviewing the result. Do not remove necessary safeguards in a safety-critical setting. If standards and doubt are causing substantial distress or impairment, professional support may be more useful than another productivity rule.",
+      "example": "Fictional example: You rewrite an ordinary meeting summary five times because it could be better. Agreeing that it must accurately state decisions, owners and dates gives a concrete endpoint. It separates the document’s job from an impossible requirement to eliminate every possible criticism.",
+      "takeaways": [
+        "High standards and costly self-evaluation are distinguishable.",
+        "Judge the standard against the task’s real purpose.",
+        "A stopping point should preserve necessary safety and quality."
+      ],
+      "practice": [
+        "Choose one low-risk task and state what adequate completion requires.",
+        "Use a bounded revision process and finish at the agreed point.",
+        "Review actual quality, cost and your reaction; do not judge success only by feeling certain."
+      ],
+      "sources": [
+        "perfectionism",
+        "bigfive",
+        "uncertainty-review"
+      ],
+      "related": [
+        {
+          "node": "competence",
+          "relationship": "consider alongside",
+          "why": "Wanting to do well can coexist with difficulty stopping."
+        },
+        {
+          "node": "competing",
+          "relationship": "consider alongside",
+          "why": "One standard can crowd out other priorities."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Persistent impairment can be assessed without a self-diagnosis."
+        }
+      ],
+      "specialistCaveat": false
+    }
+  ]
+}

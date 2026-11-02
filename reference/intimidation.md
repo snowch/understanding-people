@@ -1,45 +1,79 @@
 # Intimidation & threats
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Intimidation involves conduct that threatens or frightens in a way that can constrain another person’s choices. It can include explicit threats, threatening presence or damage used to convey consequences. The aim need not be proven before the conduct and its effects deserve attention. A single serious threat can warrant help.
 
-Words or actions that create fear of consequences, such as threats, menacing conduct or destruction of belongings.
+> **Remember:** Take the conduct seriously before decoding its purpose.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
 This material provides general information and has not received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
 
-For help with your circumstances, see [When to seek other help](../support.md).
+See [When to seek other help](../support.md) for support routes and their limits.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Anger can be present without intimidation. Explaining anger does not make threats acceptable.
+## How it may arise
 
-## What the full entry will cover
+A person may be expressing anger, seeking compliance, retaliating or acting in another context. Those possibilities do not make the effect harmless. An intimidating action can occur without shouting, while a loud voice alone does not establish a threat. Context, specific conduct and the ability to refuse matter.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What was threatened or done, what choices did it restrict, and what support is safe to access?
+NHS public guidance describes emotional, physical, sexual and economic abuse and routes to confidential support. Services are UK-specific. It is guidance, not a test that determines a person’s motive or an individual safety assessment. [NHS: Domestic violence and abuse](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Home Office statutory guidance describes controlling or coercive behaviour as an unfolding pattern and discusses restrictions, threats, economic abuse and effects on everyday freedom. It addresses law and practice in England and Wales. This book does not establish whether a legal offence occurred or replace local advice. [Home Office: Controlling or coercive behaviour — statutory guidance](https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible)
 
-## Read the foundations now
+## What else could explain it? {#a-distinction-to-keep-in-mind}
 
-- [Chapter 1 — Why we misinterpret people](../chapters/01-before-you-explain.md)
-- [Chapter 8 — Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
-- [Chapter 11 — Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
+A firm boundary, a relevant warning and a credible account of danger differ from threatening harm to control someone. You may not know whether a threat will be carried out. Uncertainty is not a reason to test it, and a later apology does not establish that it is now safe. Legal questions require advice appropriate to the location.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Focus on what was said or done, available access to the threatened person, affected choices and any changes in the pattern. Use existing information only where safe to do so. You do not need a detailed record before asking for help. Avoid assessing risk solely from calmness, remorse or a personality label.
+
+## How to respond
+
+If there is immediate danger, use appropriate urgent local help. Otherwise, a suitable specialist, workplace, safeguarding or legal route can discuss options for the actual conduct. Do not provoke a reaction to measure seriousness or assume that a forceful reply will improve safety. If you are worried about your own intimidating behaviour, seek appropriate help and stop making others responsible for managing it.
+
+**A brief fictional example:** Fictional example: Someone damages your belongings after you refuse a request and says a worse consequence will follow next time. The action and threat can be brought to a suitable support service without first deciding which personality type explains them.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Why we misinterpret people](../chapters/01-before-you-explain.md)
+- [Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
+- [Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Restriction, monitoring & coercive patterns](coercive-patterns.md): Threats can enforce wider restrictions.
 - [Unequal power](power.md): Fear changes what apparent agreement means.
 - [Getting support without needing a label](getting-support.md): Immediate danger takes priority over logging or analysing.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Candidate source from the app: [NHS: Domestic violence and abuse](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/). Its relevance, claims and limitations need checking for this full book entry. This link does not mean the stub has received an evidence review.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- A serious threat deserves attention without a motive verdict.
+- Demeanour and a later apology do not determine safety.
+- Do not test a threat through provocation.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. If safe, describe the existing conduct and its effect on choices; seek help without waiting for perfect documentation.
+2. Choose an appropriate urgent or confidential support route for the circumstances.
+3. Review access to support and immediate practical needs, rather than whether the person admitted intent.
+
+<!-- practice-notes: reference-intimidation | Intimidation & threats -->
+
+</section>

@@ -1,0 +1,183 @@
+{
+  "entries": [
+    {
+      "id": "observation",
+      "cue": "Describe it before explaining it.",
+      "meaning": "An observation is an account of something said, done or recorded. An interpretation is your explanation of its meaning. Both matter: you need an account of the event and a working explanation. Keeping them distinct makes it possible to change the explanation without pretending the event never happened. “They left before I finished” is different from “They wanted to humiliate me.”",
+      "arise": "People rarely receive a complete record of an interaction. We fill gaps using earlier experience, expectations and what seems important. That is useful for acting quickly, but the completed story can feel as certain as the part we actually witnessed. Even an observation has a source and limits: hearing an account from a friend differs from being present, and remembering exact words differs from having a message.",
+      "alternatives": "A record can establish wording or timing while leaving intent uncertain. Conversely, missing documentation does not make an experience unreal. Do not turn “I cannot prove why” into “nothing happened.” Multiple witnesses may share a viewpoint rather than provide independent confirmation. A recording can also omit what came before or after.",
+      "notice": "Write the smallest useful account: who said or did what, on which occasion, and how you know. Mark remembered wording as approximate. Separate the effect on you from the motive you suspect. Then identify one missing detail that would distinguish explanations, such as whether an interruption followed a scheduled deadline or happened repeatedly only when you spoke.",
+      "respond": "Use a description another person could understand without accepting your character judgment. Ask a specific clarification if that is safe and useful. You can request a change or set a limit based on what happened and its effects while leaving intent unresolved. If you were the actor, explain the relevant circumstances and acknowledge the effect rather than demanding that your good intention settle the matter.",
+      "example": "Fictional example: You say, “You ignored me.” Your notes show a message sent on Monday and no reply by Wednesday. A useful check is whether the person saw the request and knew when you needed an answer. The unanswered message remains an observation whatever the answer.",
+      "takeaways": [
+        "Keep the event, its effect and your explanation distinct.",
+        "Mark the source and uncertainty of an account.",
+        "A practical limit can be justified before intent is known."
+      ],
+      "practice": [
+        "Choose one ordinary interaction and write the action separately from the meaning you gave it.",
+        "Identify one check that could change that meaning; ask or consult a relevant record if appropriate.",
+        "Return after checking. Keep the original account and add what changed in your understanding."
+      ],
+      "sources": [
+        "gilbert",
+        "eyal"
+      ],
+      "related": [
+        {
+          "node": "confirmation",
+          "relationship": "helps you check",
+          "why": "Separating the account from your interpretation creates room to notice evidence that challenges it."
+        },
+        {
+          "node": "alternatives",
+          "relationship": "learn before",
+          "why": "You need a clear description before comparing explanations for it. This is a suggested learning order."
+        },
+        {
+          "node": "deception",
+          "relationship": "consider alongside",
+          "why": "An observed inconsistency and an inferred lie are different statements."
+        },
+        {
+          "node": "gaslighting",
+          "relationship": "consider alongside",
+          "why": "Separate the event from the meaning you give it."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "identity",
+      "cue": "Ask what the issue means to them.",
+      "meaning": "Identity is how someone understands who they are, including roles, commitments and affiliations. A belief can be a judgment about facts, a value, a loyalty or several of these at once. A disagreement about a plan may also feel like a judgment about being a good parent, reliable colleague or competent adult. That possibility is worth asking about, not assuming.",
+      "arise": "If revising a belief seems to threaten belonging or self-respect, a person may put more effort into defending it. The same can happen to you when you have publicly recommended something. Wanting a conclusion to be true can affect which reasons seem persuasive. It does not follow that strong commitments are irrational or that disagreement conceals insecurity.",
+      "alternatives": "Some disputes are mainly about evidence, cost or practical consequences. Other people may understand a shared identity differently from you. Avoid explaining someone through nationality, religion or a role label when you can ask what matters to them. A person can change their mind about a method while keeping the value that originally motivated it.",
+      "notice": "Listen for what is at stake in the person’s own words: fairness, loyalty, skill, duty, freedom or something else. Compare how the discussion changes when the method is separated from the value. Include your own incentives to be right. Would you judge the same evidence differently if the recommendation came from someone you admired?",
+      "respond": "Ask about the concern before arguing against an inferred one. Identify a shared aim where it exists, then examine whether the proposed action serves it. Offer a way to revise a decision without public humiliation, while keeping accountability for its consequences. You do not have to agree with a belief to treat its holder respectfully, and respect does not require tolerating harmful conduct.",
+      "example": "Fictional example: A father objects to a new study routine. Rather than assuming he dislikes change, his daughter asks what worries him. He says the routine removes time they spend together. They can discuss that concern separately from whether shorter study sessions help learning.",
+      "takeaways": [
+        "A belief may connect to facts, values and belonging.",
+        "Ask about meaning instead of inventing a hidden vulnerability.",
+        "Changing a method need not mean abandoning a value."
+      ],
+      "practice": [
+        "Name one belief you are defending and what changing it would seem to imply about you.",
+        "Separate the factual question from the value or relationship at stake; choose a fair comparison.",
+        "After the conversation, record whether the concern became clearer and whether your view changed."
+      ],
+      "sources": [
+        "kunda",
+        "culture"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "connects with",
+          "why": "What an action means to someone may matter alongside its practical outcome."
+        },
+        {
+          "node": "defensive",
+          "relationship": "possible connection",
+          "why": "A suggestion might be heard as a judgment about who someone is."
+        },
+        {
+          "node": "belonging",
+          "relationship": "possible connection",
+          "why": "A belief may connect someone to a valued group as well as express an opinion."
+        },
+        {
+          "node": "openness",
+          "relationship": "consider alongside",
+          "why": "Curiosity and commitments can coexist; a disagreement does not identify openness."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "deception",
+      "cue": "Check the account, not the performance.",
+      "meaning": "A lie involves an attempt to mislead about something the speaker believes to be false. An inaccurate statement may instead reflect memory error, misunderstanding, incomplete information or uncertainty. Concealing information and giving a technically true but misleading answer raise related questions about honesty. The first practical task is to establish what the account claims and what can be checked.",
+      "arise": "People may mislead to avoid consequences, gain an advantage, protect privacy, preserve a relationship or serve another aim. These are possibilities, not a complete list. Several aims can coexist. A confident explanation of motive is weaker evidence than a relevant discrepancy, and a discrepancy still requires interpretation. Honest people can be nervous; practiced deception can look calm.",
+      "alternatives": "Changing an account can be a correction rather than a sign of lying. Consistency can reflect truth, rehearsal or a shared story. Eye contact, fidgeting, pauses, accent and visible anxiety are not dependable lie detectors. Distinguish whether the information is wrong, whether the person knew it was wrong, and whether they intended to mislead you.",
+      "notice": "Clarify dates, actions and the meaning of ambiguous wording. Compare an account with independent, relevant information you have legitimate access to. Ask open questions before suggesting an answer; document revisions as revisions. Check whether your source is actually independent. Do not manufacture tests, secretly provoke a reaction or treat an AI’s confidence as evidence.",
+      "respond": "Where possible, make the next decision depend on verifiable steps rather than a verdict about character. You might require written approval before spending money or confirm a delivery before paying the balance. If questioning could expose you to retaliation, use a suitable support route. Suspicion does not authorise surveillance, and uncertainty does not oblige you to accept an arrangement you cannot reasonably trust.",
+      "example": "Fictional example: A seller says an item was posted on Tuesday. Tracking shows the carrier received it on Thursday. Ask what “posted” meant and check the promised delivery terms. The discrepancy matters, but alone it does not establish whether the seller was mistaken or deliberately misleading.",
+      "takeaways": [
+        "Inaccuracy and intentional deception are different questions.",
+        "Demeanour does not provide a reliable lie test.",
+        "Base important arrangements on checks and safeguards."
+      ],
+      "practice": [
+        "Write one disputed claim precisely, including what is uncertain about it.",
+        "Choose an independent check you can legitimately make, or a safeguard for your next decision.",
+        "Record what the check established and what remains unknown about knowledge or intent."
+      ],
+      "sources": [
+        "deception",
+        "nonverbal",
+        "memory"
+      ],
+      "related": [
+        {
+          "node": "language-context",
+          "relationship": "consider alongside",
+          "why": "Speech style is not a dependable lie test."
+        },
+        {
+          "node": "observation",
+          "relationship": "consider alongside",
+          "why": "An observed inconsistency and an inferred lie are different statements."
+        },
+        {
+          "node": "confirmation",
+          "relationship": "consider alongside",
+          "why": "Suspicion can shape which details you notice."
+        },
+        {
+          "node": "clearrequest",
+          "relationship": "consider alongside",
+          "why": "Clear records can help without making interrogation necessary."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "uncertainty",
+      "cue": "Decide what you need to know to act.",
+      "meaning": "Uncertainty means that the information available does not settle a question. You may be uncertain about what happened, why someone acted, whether a pattern will recur or which response will help. These are separate uncertainties. You can sometimes make a sensible decision about your own action without resolving them all.",
+      "arise": "Uncertainty can feel especially difficult when the possible outcome matters or seems outside your control. Rechecking, asking several people or searching for one more explanation may bring brief relief while leaving the decision unchanged. However, further inquiry can also be useful. The distinction depends on whether it provides decision-relevant information rather than simply repeating the same comparison.",
+      "alternatives": "Being uncertain is not the same as being equally persuaded by every explanation. Some accounts have better support. Nor does accepting uncertainty mean ignoring a serious risk. You can prepare for a harmful possibility without declaring it certain. Conversely, needing reassurance does not establish an anxiety disorder.",
+      "notice": "Identify the decision you face and the information that would change it. Ask whether another check could realistically provide that information, what it would cost, and when you will stop. Separate “I dislike not knowing” from “I lack information necessary for this decision.” Include ordinary and reassuring occasions as well as alarming ones when reviewing a pattern.",
+      "respond": "Choose a proportionate next step: obtain a missing fact, ask a clear question, make a reversible arrangement, or seek advice when stakes exceed your knowledge. State a review point rather than searching indefinitely. If uncertainty is consuming time or impairing daily life, support may be more useful than collecting explanations about another person.",
+      "example": "Fictional example: You do not know whether a colleague will deliver by Friday. A Wednesday progress check and a fallback plan address the project risk. You do not need to determine whether the colleague is optimistic, overwhelmed or avoiding embarrassment before putting those arrangements in place.",
+      "takeaways": [
+        "Different questions can remain uncertain to different degrees.",
+        "Useful checks can change a decision; repeated reassurance may not.",
+        "A reversible action and a review point can be enough."
+      ],
+      "practice": [
+        "Name one decision and the particular fact that could change it.",
+        "Make one bounded check or choose a reversible next step, with a stopping point.",
+        "Review whether you gained useful information or repeated the same uncertainty without progress."
+      ],
+      "sources": [
+        "uncertainty-review",
+        "flexibility"
+      ],
+      "related": [
+        {
+          "node": "reassurance",
+          "relationship": "possible connection",
+          "why": "An unresolved question or vague answer may contribute to repeated checking."
+        },
+        {
+          "node": "anxiety-patterns",
+          "relationship": "consider alongside",
+          "why": "Some unknowns can be clarified; others cannot be eliminated."
+        }
+      ],
+      "specialistCaveat": false
+    }
+  ]
+}

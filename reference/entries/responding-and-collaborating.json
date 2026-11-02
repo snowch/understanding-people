@@ -1,0 +1,464 @@
+{
+  "entries": [
+    {
+      "id": "clearrequest",
+      "cue": "Name the action and leave room for an answer.",
+      "meaning": "A clear request describes an action you want someone to consider, with enough context to answer usefully. It differs from a complaint, a hint, a demand or a judgment about character. A clear request can still be refused. Clarity improves the information available; it does not create an obligation to agree.",
+      "arise": "People often assume that a need is obvious or that the other person interprets a familiar phrase in the same way. “Help more” might mean taking ownership of a task, doing part of it now or asking before making decisions. Frustration grows when the response is judged against an expectation that was never made explicit.",
+      "alternatives": "A request can be perfectly clear and still impractical, unwanted or unfair. Missing follow-through may concern capacity, priorities or an unspoken disagreement rather than misunderstanding. A polite sentence can also function as a demand if refusal brings punishment. Check both wording and the conditions under which an answer is given.",
+      "notice": "Specify the action, timing, purpose and relevant constraints. Ask what the person understood and what they can realistically offer. Listen for an actual commitment rather than silence or a vague encouraging response. Include which decisions stay with them and whether they need resources, preparation or a different arrangement.",
+      "respond": "Use a concrete description of the problem and one proposed change. Explain why it matters without requiring the other person to accept a guessed motive. Invite an alternative that serves the same need. If agreement matters for shared work, record the agreed action and review point. If a direct request could expose you to harm, seek a safer route rather than refining the sentence indefinitely.",
+      "example": "Fictional example: Instead of “You never support me,” try “Before Friday’s meeting, can you tell me whether you will recommend this proposal, and which concerns remain?” The answer may still be no, but it gives information relevant to your preparation.",
+      "takeaways": [
+        "A request asks for an action, not a character change.",
+        "Clarity does not guarantee agreement or capacity.",
+        "Confirm what was actually agreed."
+      ],
+      "practice": [
+        "Rewrite one vague request as an action, purpose and useful time.",
+        "Ask it where appropriate and make room for an honest alternative or refusal.",
+        "Review what was understood, agreed and done, including whether the request was realistic."
+      ],
+      "sources": [
+        "eyal",
+        "intentions",
+        "planning"
+      ],
+      "related": [
+        {
+          "node": "followthrough",
+          "relationship": "useful response",
+          "why": "Check whether both people agreed the same action and timing."
+        },
+        {
+          "node": "thirdparty",
+          "relationship": "possible response",
+          "why": "Clarify whether you are agreeing to mediation, seeking support or bypassing a decision."
+        },
+        {
+          "node": "refusehelp",
+          "relationship": "useful response",
+          "why": "Ask which kind of help would be useful rather than repeating the same offer."
+        },
+        {
+          "node": "interrupt",
+          "relationship": "possible response",
+          "why": "Ask to finish a point and see whether the pattern changes, where it is safe to do so."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "boundaries",
+      "cue": "State what you will do about a specific limit.",
+      "meaning": "A boundary describes a limit on your participation, access or responsibility and how you will handle it. It might concern time, physical contact, privacy, money or the way you are spoken to. A boundary can be communicated respectfully and still disappoint someone. It is not automatically a demand that they change their feelings or preferences.",
+      "arise": "Limits become difficult when obligations are unclear, refusal has been costly or someone assumes that earlier access continues indefinitely. You may also state a limit vaguely while repeatedly making exceptions you cannot sustain. That is worth examining without making you responsible for another person ignoring a clear refusal.",
+      "alternatives": "A request asks another person to act; a boundary identifies your limit and response. An ultimatum may be a necessary statement about an unsustainable arrangement or an attempt to control unrelated choices. Consider relevance, proportionality, power and safety rather than deciding from the wording alone. Shared legal or care responsibilities cannot be dismissed simply by calling them a boundary.",
+      "notice": "Identify the conduct or access at issue, what you can reasonably control and what obligations apply. Ask whether the limit has been understood and what happened afterward. A single misunderstanding differs from repeated pressure after clarification. Notice whether your proposed response protects the limit or aims to humiliate or punish.",
+      "respond": "State the limit concretely and choose a response you can carry out. You may stop an insulting conversation and offer a different time, decline a loan or restrict access to private information. Negotiate practical arrangements where responsibilities are shared. Where threats, stalking or coercion are possible, seek suitable support before announcing or testing a change.",
+      "example": "Fictional example: “I can discuss the bill, but I will pause the call if there is name-calling. We can return to the figures tomorrow.” This identifies both the issue you are willing to discuss and the conduct you will not participate in.",
+      "takeaways": [
+        "A boundary concerns a specific limit and your participation.",
+        "Disappointment is not proof that a limit is wrong.",
+        "Shared duties, proportionality and safety still matter."
+      ],
+      "practice": [
+        "Choose one ordinary limit and identify what is within your control.",
+        "State it clearly and plan a relevant, feasible response if needed.",
+        "Review what happened, whether the arrangement worked and whether support is needed."
+      ],
+      "sources": [
+        "sdt",
+        "fairness",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "relationship": "possible response",
+          "why": "You can ask for a change or set a limit based on the effect of repeated comments."
+        },
+        {
+          "node": "withdraw",
+          "relationship": "distinguish from",
+          "why": "A stated limit or time-limited pause can differ from an unexplained repeated refusal to engage."
+        },
+        {
+          "node": "punish",
+          "relationship": "distinguish from",
+          "why": "Consider what is communicated, the action’s purpose and its practical effect. Do not equate every refusal with punishment."
+        },
+        {
+          "node": "review",
+          "relationship": "follow with",
+          "why": "Review whether the chosen response is workable and safe, not only whether the other person changed."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "alternatives",
+      "cue": "Find the observation that separates explanations.",
+      "meaning": "Comparing explanations means keeping more than one plausible account available while deciding what information would distinguish them. The aim is not to invent endless possibilities or make every account equally credible. It is to prevent the first compelling story from becoming the only explanation you investigate.",
+      "arise": "An action can fit several accounts. A missed task could involve a capacity problem, misunderstanding, a competing priority or avoidance of responsibility. Some causes can coexist. Your existing beliefs and interests can influence which explanation feels obvious, especially when a conclusion would protect your self-image or settle an uncomfortable uncertainty.",
+      "alternatives": "An alternative should account for the actual details, not erase them. “Maybe nothing happened” is not useful when an event is established. Nor should alternative explanations become a reason to delay responding to serious harm. You can protect yourself or change an arrangement while remaining uncertain about the reason for the conduct.",
+      "notice": "Name the first explanation and one or two credible alternatives. For each, identify what you would expect to observe if it were important. Seek a comparison that differs between them, such as whether the same task is completed with clearer instructions. Include a result that would weaken your favoured explanation, not only one that could confirm it.",
+      "respond": "Make one proportionate check you can legitimately perform: clarify an agreement, compare comparable occasions or adjust a practical condition with consent. Keep the original observation and add what the check showed. Do not provoke, surveil or set traps. If the options remain indistinguishable, state that uncertainty and choose a practical response based on the consequences.",
+      "example": "Fictional example: A colleague misses only tasks sent through a new system. Checking whether they can access notifications distinguishes an access explanation from the broader claim that they refuse all work. Fixing access may help, while future follow-through still needs review.",
+      "takeaways": [
+        "Plausible alternatives must fit the observed details.",
+        "A useful check can weaken your first explanation.",
+        "Protection or a practical limit need not wait for certainty."
+      ],
+      "practice": [
+        "Write one event, your first explanation and two credible alternatives.",
+        "Choose one observation or clarification that would distinguish them.",
+        "Review how the evidence changed your view and choose the next practical step."
+      ],
+      "sources": [
+        "gilbert",
+        "kunda",
+        "eyal"
+      ],
+      "related": [
+        {
+          "node": "observation",
+          "relationship": "learn before",
+          "why": "You need a clear description before comparing explanations for it. This is a suggested learning order."
+        },
+        {
+          "node": "defensive",
+          "relationship": "useful response",
+          "why": "Check what was heard before deciding the person cannot accept feedback."
+        },
+        {
+          "node": "confirmation",
+          "relationship": "useful response",
+          "why": "Ask what would weaken the preferred account, not only what supports it."
+        },
+        {
+          "node": "review",
+          "relationship": "follow with",
+          "why": "Compare the result with what each explanation led you to expect."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "shared-agreement",
+      "cue": "Agree the outcome, ownership and review.",
+      "meaning": "A workable agreement makes responsibilities sufficiently clear for people to act and notice when something needs changing. It includes what will be done, who owns it, by when, with which resources and how difficulties will be raised. It can be informal, but it should not depend on each person silently supplying a different meaning.",
+      "arise": "People may agree enthusiastically while picturing different amounts of work or different decision rights. A plan may also fail when capacity changes or a task depends on someone who was never consulted. Wanting an outcome and carrying out its steps are related but distinct. Clarity and feasibility need attention alongside goodwill.",
+      "alternatives": "A written agreement is not proof that consent was free, the terms fair or the work achievable. A shared document can clarify decisions or become a tool for blaming and monitoring. Silence, politeness and private encouragement are not automatically commitments. Legal, employment and care arrangements may require advice beyond an ordinary conversation.",
+      "notice": "Ask each person to state what they will do and what they need from others. Identify dependencies, standards of completion and the point at which someone should warn that the plan is at risk. Include invisible coordination work. Check whether anyone can honestly decline or renegotiate without threats.",
+      "respond": "Write a brief account of the actual agreement, not a transcript of every feeling. Build in a review date and a fair route for correcting misunderstanding. If one person cannot contribute as hoped, reconsider scope or another arrangement rather than relying on repeated rescue. A good agreement makes an early warning useful instead of treating it as a moral failure.",
+      "example": "Fictional example: “We will each cook twice this week” leaves shopping and planning unowned. Clarifying who buys ingredients and which nights are covered makes the arrangement more testable without requiring a judgment about who cares most.",
+      "takeaways": [
+        "A shared goal does not define the work by itself.",
+        "Consent, feasibility and fairness matter alongside clarity.",
+        "An early warning should lead to a practical adjustment."
+      ],
+      "practice": [
+        "Choose one recurring shared task and list ownership, timing and dependencies.",
+        "Agree one small plan and how capacity changes will be raised.",
+        "Review completion and coordination burden, then amend the agreement rather than rewriting the past."
+      ],
+      "sources": [
+        "intentions",
+        "planning",
+        "fairness"
+      ],
+      "related": [
+        {
+          "node": "followthrough",
+          "relationship": "useful response",
+          "why": "Clarify the shared task and practical constraints before attributing a missed commitment."
+        },
+        {
+          "node": "life-transitions",
+          "relationship": "consider alongside",
+          "why": "Changed circumstances can make an old agreement unworkable."
+        },
+        {
+          "node": "denial",
+          "relationship": "consider alongside",
+          "why": "Explicit terms reduce ambiguity in future arrangements."
+        },
+        {
+          "node": "deflecting",
+          "relationship": "consider alongside",
+          "why": "A return point makes the next step explicit."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "review",
+      "cue": "Compare the result with what you expected.",
+      "meaning": "Review means returning to a chosen action and asking what happened, what changed in your understanding and what to do next. It differs from replaying a conversation without new information or collecting evidence for a verdict about character. A useful review preserves the original account and records later learning separately.",
+      "arise": "Expectations can shift after an outcome, making a result seem more predictable than it was. You may also remember the most emotional part and miss a practical improvement. Writing a modest prediction and review point beforehand can make the comparison clearer. Monitoring can help chosen goals, but excessive tracking can become a burden or surveillance.",
+      "alternatives": "A single outcome does not prove an explanation or show that your intervention caused it. Other conditions may have changed, and a response can have mixed effects. A respected refusal, a clearer disagreement or deciding to seek support can be useful outcomes. Agreement or immediate warmth is not the only measure of collaboration.",
+      "notice": "Record what you actually tried, what each person said or did afterward, and what information remains missing. Compare the result with your stated aim. Include costs, unintended effects and the other person’s feedback where available. Distinguish a direct report from what you infer about how they felt.",
+      "respond": "Choose whether to keep, change or stop the approach. Make the next adjustment small enough to learn from where possible. If repeated attempts produce no benefit, do not assume that more analysis is always better. Look at the arrangement, available support and whether a practical decision is now needed. Keep the record proportionate and protect privacy.",
+      "example": "Fictional example: You asked before offering advice. Your friend still declined, but the conversation was calmer and they explained what help would suit them. The approach may have improved clarity even though the answer was not the one you hoped for.",
+      "takeaways": [
+        "Preserve the original observation and add later learning.",
+        "One result rarely establishes a cause.",
+        "Measure clarity, choice and practical effects as well as agreement."
+      ],
+      "practice": [
+        "Write what you expect one chosen response to improve and when you will review it.",
+        "Try the response and note the observable result without rewriting the original prediction.",
+        "Decide what to retain, adjust or stop, including whether further help is needed."
+      ],
+      "sources": [
+        "progress",
+        "flexibility"
+      ],
+      "related": [
+        {
+          "node": "followthrough",
+          "relationship": "useful response",
+          "why": "After changing an arrangement, examine what happens rather than declaring the cause settled."
+        },
+        {
+          "node": "habits",
+          "relationship": "useful response",
+          "why": "Try a small change in circumstances and review the observed result."
+        },
+        {
+          "node": "alternatives",
+          "relationship": "follow with",
+          "why": "Compare the result with what each explanation led you to expect."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "follow with",
+          "why": "Review whether the chosen response is workable and safe, not only whether the other person changed."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "accountability",
+      "cue": "Name the action, repair the effect, change the arrangement.",
+      "meaning": "Accountability means recognising responsibility for an action or commitment, addressing its consequences and following through on a reasonable correction. It concerns conduct, not a declaration that someone is wholly good or bad. An explanation can clarify circumstances while leaving responsibility intact.",
+      "arise": "People may defend against a global accusation because it feels humiliating or inaccurate. That can make a specific discussion harder. The person raising the issue can also demand remorse in a particular emotional form rather than identifying the needed correction. Neither difficulty makes an apology unnecessary or excuses repeated harm.",
+      "alternatives": "An apology, an explanation, restitution and sustained change are different parts of responding. A convincing apology does not prove future reliability, and a quiet or awkward apology does not prove lack of concern. Shared responsibility is possible, but each person’s action should remain visible rather than being cancelled by the other’s mistake.",
+      "notice": "Identify what was done or promised, the effects, which facts are agreed and who can change what. Notice whether the response names the action specifically or shifts to unrelated grievances. Check subsequent conduct and practical repair rather than trying to read sincerity from tears, confidence or the exact words used.",
+      "respond": "If responsible, acknowledge the action accurately, hear its effect and make a feasible repair or prevention plan. Avoid promising unlimited change to end an uncomfortable conversation. If affected, state what correction matters and what limits you need while trust is uncertain. You can recognise an apology without granting forgiveness, renewed access or the same arrangement.",
+      "example": "Fictional example: You missed an agreed school pickup. “I was busy” explains part of the context but leaves the effect untouched. Contacting the affected people, arranging the immediate solution and changing the calendar handover addresses the actual responsibility.",
+      "takeaways": [
+        "Explanation and responsibility can coexist.",
+        "An apology and sustained repair are different evidence.",
+        "Accepting acknowledgment does not require restoring trust immediately."
+      ],
+      "practice": [
+        "Name one action you own and its concrete effect on another person.",
+        "Offer a specific correction or prevention step you can carry out.",
+        "Review follow-through and the affected person’s feedback without demanding forgiveness."
+      ],
+      "sources": [
+        "apology",
+        "shame",
+        "intentions"
+      ],
+      "related": [
+        {
+          "node": "blame-shifting",
+          "relationship": "consider alongside",
+          "why": "Taking responsibility leaves room to discuss context."
+        },
+        {
+          "node": "deflecting",
+          "relationship": "consider alongside",
+          "why": "Responsibility can be discussed without resolving every past dispute first."
+        },
+        {
+          "node": "taking-credit",
+          "relationship": "consider alongside",
+          "why": "The response to a correction provides useful information."
+        },
+        {
+          "node": "repairing",
+          "relationship": "consider alongside",
+          "why": "Responsibility becomes useful through a concrete repair."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "appreciation",
+      "cue": "Name the contribution without creating a debt.",
+      "meaning": "Appreciation communicates that you noticed and valued a contribution, quality or effort. It can help make useful behaviour visible. It is different from flattering someone to obtain compliance, evaluating their whole worth or implying that gratitude cancels a concern. Appreciation is most informative when the recipient can recognise what you mean.",
+      "arise": "Helpful work often becomes invisible when it is routine. People may notice mistakes more readily than reliable contributions, or offer praise only when they want another favour. Appreciation can then feel vague or conditional. The issue is not whether praise is always good, but whether it is accurate, welcome and consistent with the arrangement.",
+      "alternatives": "Not everyone enjoys public praise or the same form of recognition. A person may prefer accurate credit, shared workload or payment rather than repeated thanks. Lack of visible enthusiasm does not establish ingratitude. Appreciation also does not compensate for unfair terms, underpayment, unwanted access or continued harmful conduct.",
+      "notice": "Ask what contribution you actually observed and what effect it had. Notice whose work is routinely expected and whose is celebrated. Consider whether public acknowledgment would reveal something private or uncomfortable. If you are receiving thanks, distinguish a freely given expression from a suggestion that you now owe continued availability.",
+      "respond": "State the specific contribution and its benefit without attaching an immediate demand. Give appropriate credit in the setting where work is recognised, checking preferences where relevant. Pair thanks with fair responsibilities and resources. If appreciation concerns a behaviour you want to develop yourself, notice its effect without turning every interaction into a performance score.",
+      "example": "Fictional example: “Your note about the deadline helped us catch the missing approval” gives more useful information than “You are amazing.” It can stand on its own, while any request for further work remains a separate question with room for refusal.",
+      "takeaways": [
+        "Specific acknowledgment makes a contribution visible.",
+        "Preferences for public and private recognition differ.",
+        "Thanks does not erase unfairness or create an obligation."
+      ],
+      "practice": [
+        "Identify one contribution and its actual benefit, including work you usually overlook.",
+        "Express appreciation in a suitable form without adding a demand.",
+        "Review whether recognition was accurate and welcome, and whether responsibilities are fairly shared."
+      ],
+      "sources": [
+        "status",
+        "fairness",
+        "exchange"
+      ],
+      "related": [
+        {
+          "node": "review",
+          "relationship": "learn from positives",
+          "why": "Review conditions around successful occasions as well as difficulties."
+        },
+        {
+          "node": "reciprocity",
+          "relationship": "consider alongside",
+          "why": "Notice specific actions that help."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "reciprocity",
+      "cue": "Look for mutual care over time, not identical exchanges.",
+      "meaning": "Reciprocity concerns how people respond to one another’s contributions within a relationship. It can involve practical help, attention, information or care. A reciprocal relationship need not have equal contributions on every occasion or exchange the same kind of resource. Capacity, need and the kind of relationship matter.",
+      "arise": "People may have different expectations about whether help is a gift, a trade, a role responsibility or something to return later. Trouble arises when one person assumes an obligation the other never accepted, or when a caring relationship becomes a hidden ledger. The meaning of an exchange should not be inferred from its size alone.",
+      "alternatives": "A temporary imbalance can reflect illness, caregiving or changing resources. A persistent one-sided arrangement can also be a real problem. Gratitude is different from consent to another request. Receiving help does not give the helper a general right to money, private information, access or compliance.",
+      "notice": "Compare contributions and opportunities over a reasonable period, including less visible work and genuine constraints. Ask what each person expects rather than counting only the resource easiest for you to measure. Notice whether refusal is respected and whether commitments are explicit. Include your own tendency either to overgive without agreement or to assume others will always compensate.",
+      "respond": "Clarify the terms of substantial help before accepting or offering it. In an ordinary relationship, discuss what is sustainable and what kind of mutuality matters. You can reduce a contribution you cannot maintain without presenting the other person with a moral invoice. If obligation is enforced through threats or dependence, consider the wider controlling pattern and support options.",
+      "example": "Fictional example: You drive a friend to appointments while they regularly help with your paperwork. The exchange need not involve equal hours to feel mutually valued. If either contribution becomes unmanageable, the arrangement needs discussion rather than a silent accusation of selfishness.",
+      "takeaways": [
+        "Mutuality does not require identical contributions each time.",
+        "Clarify whether help is a gift, agreement or role duty.",
+        "A favour does not buy unrelated access or compliance."
+      ],
+      "practice": [
+        "Describe one ongoing exchange, including less visible contributions and constraints.",
+        "Clarify one expectation or adjust an unsustainable contribution.",
+        "Review whether the arrangement remains voluntary, understood and workable for both people."
+      ],
+      "sources": [
+        "exchange",
+        "fairness",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "guilt-pressure",
+          "relationship": "consider alongside",
+          "why": "Reciprocity does not mean every favour buys compliance."
+        },
+        {
+          "node": "creating-obligation",
+          "relationship": "consider alongside",
+          "why": "Mutual care differs from using gifts as leverage."
+        },
+        {
+          "node": "fairness",
+          "relationship": "consider alongside",
+          "why": "Fairness may involve differing capacities."
+        },
+        {
+          "node": "appreciation",
+          "relationship": "consider alongside",
+          "why": "Notice specific actions that help."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "encouragement",
+      "cue": "Help the next step belong to the person taking it.",
+      "meaning": "Encouragement supports someone’s effort or next action while recognising their own goals and choices. It may involve confidence, useful information, practical help or noticing progress. It differs from telling someone that success is guaranteed, dismissing a difficulty or making your approval conditional on an outcome.",
+      "arise": "A person can value an aim while finding the next step unclear, difficult or inaccessible. Another person’s enthusiasm may help them start, or add pressure to appear confident. Effective support therefore depends on what is missing rather than the intensity of a motivational speech. Enjoyment, personal value and external incentives are distinguishable reasons to act.",
+      "alternatives": "Encouragement cannot replace training, time, equipment, accommodations or a realistic plan. A person may also choose a different goal. Rewards can influence performance without addressing every need. Avoid treating a refusal to pursue your preferred ambition as a motivation defect, especially where you control resources or approval.",
+      "notice": "Ask what the person is trying to achieve, what part is difficult and whether support is wanted. Look for a next step small enough to attempt and informative enough to learn from. Notice actual progress and effort without praising work that has not happened. Compare your hopes with the person’s own priorities.",
+      "respond": "Offer a specific kind of help and let the person retain the appropriate decisions. Give feedback about what became more effective and what remains to learn. Agree a review point if you share responsibility, and make it possible to report difficulties honestly. A revised plan can be progress when the earlier one was unrealistic.",
+      "example": "Fictional example: A son struggles to begin revision. Instead of “You can do anything if you try,” ask which topic is unclear and offer to help find practice questions. His answers then show what he needs to learn, while the work remains his.",
+      "takeaways": [
+        "Encouragement should support the person’s goal and agency.",
+        "Match help to the actual missing condition.",
+        "Notice usable progress without promising a result."
+      ],
+      "practice": [
+        "Ask about one goal and the specific next-step difficulty, including whether help is wanted.",
+        "Offer one suitable support or a small attempt with room for feedback.",
+        "Review learning, feasibility and ownership, rather than whether confidence sounded high."
+      ],
+      "sources": [
+        "sdt",
+        "comb",
+        "student-motivation",
+        "incentives"
+      ],
+      "related": [
+        {
+          "node": "autonomy",
+          "relationship": "consider alongside",
+          "why": "Offer a real choice about what support is wanted."
+        },
+        {
+          "node": "competence",
+          "relationship": "consider alongside",
+          "why": "A manageable next step may help someone participate."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "getting-support",
+      "cue": "Describe the difficulty before searching for a label.",
+      "meaning": "Support can be appropriate for distress, changes in functioning, harmful treatment or an arrangement that is no longer manageable. You do not need to identify a personality type, prove an intention or reach a diagnosis before asking about options. Different concerns call for different kinds of help.",
+      "arise": "A search for certainty can delay practical assistance: you may keep reading about whether someone is narcissistic while sleep, finances or safety deteriorate. Equally, a label can make an ordinary disagreement seem clinical. The useful starting point is what is happening, how it affects life and what help is needed now.",
+      "alternatives": "A trusted friend, clinician, advocate, manager or adviser has a different role and different confidentiality limits. A book or AI can organise questions but cannot assess individual safety, diagnose a person or guarantee that a particular action will be safe. Support for your experience does not require a professional to agree with every explanation you have formed.",
+      "notice": "Prepare a concise account of the conduct or difficulty, its duration, changes, impact and any immediate concerns. Mark what you observed directly and what was reported. Ask the service what it can provide, what will be recorded and who may access it. Consider whether the device or account used to seek help is private enough.",
+      "respond": "Choose a route suited to the concern and location: health care for persistent or sudden health-related changes, specialist domestic-abuse support for controlling or threatening treatment, and relevant workplace or legal advice for rights and procedures. Urgent danger or sudden serious medical changes need an appropriate urgent service. See the support page for routes and limits; do not wait for a perfect account before seeking help.",
+      "example": "Fictional example: Someone is sleeping poorly, missing routine tasks and feeling constantly frightened after a relationship change. They can bring that account to a suitable professional without first deciding whether the other person has a disorder.",
+      "takeaways": [
+        "Support can begin before explanation or diagnosis is settled.",
+        "Match the service to the practical concern and location.",
+        "Ask about privacy, role and the next step."
+      ],
+      "practice": [
+        "Write the difficulty and its impact in a few factual sentences, leaving uncertain motives open.",
+        "Identify an appropriate support route and one question to ask about help and confidentiality.",
+        "Review whether the contact addressed the need or whether another service or urgent route is required."
+      ],
+      "sources": [
+        "nimh-support",
+        "nhs-abuse",
+        "nhs-confusion"
+      ],
+      "related": [
+        {
+          "node": "child-development",
+          "relationship": "consider alongside",
+          "why": "Developmental concerns deserve an appropriate assessment."
+        },
+        {
+          "node": "neurodiversity",
+          "relationship": "consider alongside",
+          "why": "Support and assessment should respond to the person’s needs and wishes."
+        },
+        {
+          "node": "health-change",
+          "relationship": "consider alongside",
+          "why": "The kind and urgency of support matter more than finding a label."
+        },
+        {
+          "node": "low-mood",
+          "relationship": "consider alongside",
+          "why": "Support can begin before there is a diagnosis."
+        }
+      ],
+      "specialistCaveat": false
+    }
+  ]
+}

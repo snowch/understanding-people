@@ -1,0 +1,11 @@
+# Reference writing work
+
+Scope: develop all 108 remaining reference stubs into original written entries, retaining the three developed references, their URLs and app node IDs. No new images, video or audio are to be produced. Existing media is outside this writing task.
+
+Canonical original drafts are being written in `reference/entries/`, grouped by topic. `reference/research-sources.json` records selected sources, original summaries, limitations, source-access scope and date. Research records and abstracts are distinguished from full public guidance; this is not a systematic review. Third-party questionnaires, diagnostic checklists, figures, recordings and extended prose are not reproduced.
+
+Completed writing: all 108 former stubs have original entries across the eight topic groups, alongside the three existing developed references. The catalogue now has 111 developed entries and no remaining stubs. The new entries use 65 selected research/guidance sources with recorded access scope. They include distinctions, alternatives, practical responses, original fictional examples, key takeaways and one saved-note exercise. Clinical and abuse-related material retains the standing limits and suitable support routes. The app’s existing preview text is not silently overwritten by this book publication.
+
+Completion checks: full catalogue-to-content coverage; stable URLs and prior note identifiers; scoped source citations; original concept-first prose; alternatives and practical limits; takeaways and one practice section with saved notes; build/link checks; browser navigation, reading and note persistence. Browser checks for this task should not capture screenshots or produce recordings.
+
+Local verification completed: the 139-page build resolves all local links and anchors; every reference route and its current navigation were checked with Playwright; combined search/status filters, old anchors, note isolation/reload/escaping, clinical prompts, responsive widths and no-JavaScript notes passed. No screenshots or recordings were created. A 15-word exact-phrase scan of authored explanatory fields against the consulted source cache produced no flags; this is an editorial aid, not proof of copyright compliance. No third-party full texts, checklists, figures or questionnaires are included in the repository.

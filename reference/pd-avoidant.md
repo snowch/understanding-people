@@ -1,43 +1,79 @@
 # Avoidant personality disorder
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Avoidant personality disorder is a clinical term involving persistent inhibition in relationships, feelings of inadequacy and sensitivity to negative evaluation, with significant effects on life. Someone may want connection while finding the prospect of criticism or rejection difficult to tolerate. Quietness or declining a gathering is not enough to establish the condition.
 
-A clinical condition involving pervasive social inhibition, feelings of inadequacy and sensitivity to negative evaluation, with significant effects on life.
+> **Remember:** Distinguish a preference for solitude from fear and impairment.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
 This material provides general information and has not received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
 
-For help with your circumstances, see [When to seek other help](../support.md).
+See [When to seek other help](../support.md) for support routes and their limits.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Introversion, a preference for solitude, social anxiety, communication differences and caution in an unsafe setting need distinguishing. “Avoidant attachment” is a different concept, not another name for avoidant personality disorder.
+## How it may arise
 
-## What the full entry will cover
+Temperament and experience may contribute, but an observer cannot identify their roles from a person’s current social behaviour. Expectations of rejection may affect what a situation seems to offer. Actual exclusion and unwelcoming environments can also matter. A professional assessment considers the broader pattern and whether the person’s choices and functioning are constrained.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What does the person want to do but find difficult, and what barrier or distress do they describe?
+The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment. This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria. [MSD Manual: Avoidant personality disorder](https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/avoidant-personality-disorder)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+NHS clinical information describes enduring difficulties in relating, thinking, feeling or behaving that cause distress or problems in daily life, with support and treatment options. It is general guidance; diagnosis requires professional assessment of the person, history, context and alternatives. [NHS: Personality disorder](https://www.nhs.uk/mental-health/conditions/personality-disorder/)
 
-## Read the foundations now
+Stefan Hofmann and Angela Hay reviewed avoidance in anxiety treatment, including circumstances in which avoidance can be adaptive. Function and actual danger matter. This is not a reason to remove someone’s safety arrangements or conduct exposure treatment yourself. [Hofmann & Hay (2018). Rethinking avoidance: Toward a balanced approach to avoidance in treating anxiety disorders.](https://pubmed.ncbi.nlm.nih.gov/29550689/)
 
-- [Chapter 6 — Personality, habits and situations](../chapters/06-personality-habits-situations.md)
-- [Chapter 11 — Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+Introversion, privacy, social anxiety, communication differences, fatigue and a wish to avoid an unsafe setting need distinguishing. Avoidant attachment is a separate concept, not another name for this personality disorder. A person’s low desire for one event should not be interpreted as secret distress when they say it is simply not their preference.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Ask whether the person wants a form of connection they find difficult to pursue and what gets in the way. Compare familiar, welcoming settings with unfamiliar or evaluative ones. Attend to their own experience and practical impact rather than measuring sociability against your preferred lifestyle. Do not ask them to demonstrate discomfort to earn an accommodation.
+
+## How to respond
+
+Offer specific, low-pressure ways to participate and room to decline. Avoid public pressure, surprise exposure or treating invitations as tests. If persistent fear or avoidance is limiting the person’s life, a qualified clinician can assess the issue and discuss support. You can help with access or companionship when wanted without making yourself responsible for changing a personality.
+
+**A brief fictional example:** Fictional example: A relative declines a large celebration but asks to meet you quietly beforehand. That preference gives information about a workable form of contact. It does not establish a disorder, nor does it require pushing them into the event to see how they react.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Personality, habits and situations](../chapters/06-personality-habits-situations.md)
+- [Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Personality disorders: what the term means](personality-disorders.md): Clinical vocabulary is educational; a link is not evidence that a person has a condition.
 - [Getting support without needing a label](getting-support.md): Assessment and support should address the person’s actual difficulties and wishes.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Candidate source from the app: [MSD Manual: Avoidant personality disorder](https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/avoidant-personality-disorder). Its relevance, claims and limitations need checking for this full book entry. This link does not mean the stub has received an evidence review.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- A clinical difficulty differs from ordinary quietness or preference.
+- Wanting connection and fearing evaluation can coexist.
+- Support participation without forcing a diagnostic experiment.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Describe the wanted activity or relationship and the specific barrier, using the person’s own account.
+2. Offer a suitable participation option or seek assessment if the difficulty is persistent and impairing.
+3. Review whether choice and access improved, without making greater sociability the only acceptable result.
+
+<!-- practice-notes: reference-pd-avoidant | Avoidant personality disorder -->
+
+</section>

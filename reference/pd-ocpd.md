@@ -1,43 +1,79 @@
 # Obsessive-compulsive personality disorder (OCPD)
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Obsessive-compulsive personality disorder, or OCPD, is a clinical term involving a persistent preoccupation with order, perfection and control that interferes with flexibility or functioning. It is different from liking a tidy home, having demanding standards or doing a job that requires precision. The pattern and its consequences are central.
 
-A clinical condition involving a pervasive preoccupation with order, perfectionism and control that reduces flexibility or interferes with functioning.
+> **Remember:** Look at flexibility and cost, not neatness alone.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
 This material provides general information and has not received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
 
-For help with your circumstances, see [When to seek other help](../support.md).
+See [When to seek other help](../support.md) for support routes and their limits.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-OCPD and OCD are different conditions and can coexist. OCD involves obsessions, compulsions or both; it is not a synonym for neatness. Perfectionism or refusing help does not establish either condition.
+## How it may arise
 
-## What the full entry will cover
+Clinical accounts describe possible contributions from temperament and experience, while individual causes remain uncertain. A particular method may feel necessary or correct to the person, and changing it may be difficult. That does not mean observers can diagnose the condition from disagreements about how a task should be done.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** Where are standards or control interfering with what matters, and what support could address that impact?
+The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment. This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria. [MSD Manual: Obsessive-compulsive personality disorder](https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/obsessive-compulsive-personality-disorder)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+NHS clinical information describes enduring difficulties in relating, thinking, feeling or behaving that cause distress or problems in daily life, with support and treatment options. It is general guidance; diagnosis requires professional assessment of the person, history, context and alternatives. [NHS: Personality disorder](https://www.nhs.uk/mental-health/conditions/personality-disorder/)
 
-## Read the foundations now
+Karina Limburg and colleagues combined 284 studies of perfectionism and mental-health outcomes. Perfectionistic concerns and strivings were associated with several difficulties. Associations do not diagnose a disorder or mean that careful work and high standards are inherently harmful. [Limburg and colleagues (2017). The Relationship Between Perfectionism and Psychopathology: A Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/28026869/)
 
-- [Chapter 6 — Personality, habits and situations](../chapters/06-personality-habits-situations.md)
-- [Chapter 11 — Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+OCPD and obsessive-compulsive disorder are different conditions, although a person can have both. OCD involves obsessions, compulsions or both; OCPD describes a broader personality pattern. Ordinary conscientiousness, reasonable quality controls, anxiety and an unclear brief can also resemble parts of the problem. A preference for control does not by itself establish abuse, and a diagnosis would not excuse harmful restrictions.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+For a practical concern, examine the agreed standard, time cost, ability to delegate and response to acceptable alternatives. Is the standard necessary for the purpose, or does repeated revision prevent completion and shift work onto others? If seeking assessment, include the person’s own difficulties across settings rather than only one disputed household rule.
+
+## How to respond
+
+Clarify outcomes and genuinely necessary safeguards, then allow appropriate discretion in method. State the effect of repeated checking or rejected work without requiring agreement about a diagnosis. Persistent distress or impairment can be discussed with a clinician. Avoid deliberately creating disorder as a test, and do not treat another person’s discomfort as permission to override their belongings or consent.
+
+**A brief fictional example:** Fictional example: A shared task is delayed because every acceptable version is revised to match one person’s preferred format. Agreeing essential completion criteria addresses the collaboration problem. Whether there is OCPD requires a much broader assessment.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Personality, habits and situations](../chapters/06-personality-habits-situations.md)
+- [Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Personality disorders: what the term means](personality-disorders.md): Clinical vocabulary is educational; a link is not evidence that a person has a condition.
 - [Getting support without needing a label](getting-support.md): Assessment and support should address the person’s actual difficulties and wishes.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Candidate source from the app: [MSD Manual: Obsessive-compulsive personality disorder (OCPD)](https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/obsessive-compulsive-personality-disorder). Its relevance, claims and limitations need checking for this full book entry. This link does not mean the stub has received an evidence review.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- OCPD is distinct from OCD and ordinary carefulness.
+- Assess the purpose, flexibility and cost of a standard.
+- Practical agreements do not require your own diagnosis.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Name one standard, its purpose and the costs of the current process.
+2. Agree an adequate outcome and room for an acceptable alternative method.
+3. Review completion, burden and remaining difficulty; consider assessment if the pattern causes persistent impairment.
+
+<!-- practice-notes: reference-pd-ocpd | Obsessive-compulsive personality disorder (OCPD) -->
+
+</section>

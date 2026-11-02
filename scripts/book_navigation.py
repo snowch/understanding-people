@@ -81,7 +81,7 @@ def breadcrumbs(source, page, title):
         parts += [('contents.md', 'The book', '')]
     elif source == 'worksheet.md':
         parts += [('practice/index.md', 'Practice', '')]
-    elif source == 'glossary.md':
+    elif source == 'glossary.md' or source.startswith('reference/'):
         parts += [('reference/index.md', 'Reference library', '')]
     html = ''.join(f'<li><a href="{href(s, page, frag)}">{escape(t)}</a></li>' for s, t, frag in parts)
     return f'<nav class="breadcrumbs" aria-label="Breadcrumb"><ol>{html}<li aria-current="page">{escape(title)}</li></ol></nav>'
@@ -108,7 +108,7 @@ def pagination(source, page, chapters):
 
 
 def render_library():
-    chunks = ['# Reference library', f"Browse {len(ENTRIES)} topics: {sum(e.get('status')=='developed' for e in ENTRIES)} developed entries and {sum(e.get('status')=='stub' for e in ENTRIES)} stubs. Stubs are short introductions and writing outlines; their full explanations, evidence reviews and practice sections are still to be developed.",
+    chunks = ['# Reference library', f"Browse {len(ENTRIES)} written reference entries across {len(GROUPS)} topics. Each explains the concept, compares alternatives, links selected evidence and offers a practical next step. These are developing references, not a systematic review or an individual assessment.",
               '<div class="library-search" hidden><label for="library-query">Find a topic or behaviour</label><div class="library-search-controls"><input id="library-query" type="search" placeholder="Try beliefs, attribution or independence…" aria-describedby="library-result-count"><button type="button" id="library-clear" hidden>Clear search</button></div><label for="library-status">Show entries</label><select id="library-status"><option value="all">All entries</option><option value="developed">Developed entries</option><option value="stub">Stubs — full entries planned</option></select><p id="library-result-count" role="status" aria-live="polite"></p></div>',
               '<nav class="library-topics" aria-label="Reference topics">' + ''.join(f'<a href="#{g["id"]}">{escape(g["title"])}</a>' for g in GROUPS) + '</nav>']
     for group in GROUPS:
@@ -120,6 +120,6 @@ def render_library():
             chunks += [f'<article class="library-entry" data-status="{entry.get('status','developed')}" data-library-search="{escape(search, quote=True)}"><h3><a href="{file}">{escape(entry["title"])}</a></h3><p>{escape(entry["summary"])}</p><p class="library-entry-formats">{formats}</p></article>']
         chunks += ['</section>']
     chunks += ['<p id="library-empty" hidden>No matching entries with these filters. Try All entries, a broader term, browse the topics, or look in the <a href="../glossary.html">glossary</a>.</p>',
-               '## Looking for a starting point?', 'For a guided introduction, follow [the book’s chapters](../contents.md). For a short exercise, visit [Practice](../practice/index.md). For short definitions, use the [glossary](../glossary.md). Use the entry filter to find developed explanations or browse the planned coverage.',
+               '## Looking for a starting point?', '[Research sources and access scope](sources.md) explains what was read and what the evidence can support.', 'For a guided introduction, follow [the book’s chapters](../contents.md). For a short exercise, visit [Practice](../practice/index.md). For short definitions, use the [glossary](../glossary.md). Use the entry filter to find developed explanations or browse the planned coverage.',
                '<script defer src="../assets/library.js"></script>']
     (ROOT/'reference/index.md').write_text('\n\n'.join(chunks)+'\n')

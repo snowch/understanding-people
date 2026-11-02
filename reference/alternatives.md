@@ -1,42 +1,78 @@
 # Compare explanations
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Comparing explanations means keeping more than one plausible account available while deciding what information would distinguish them. The aim is not to invent endless possibilities or make every account equally credible. It is to prevent the first compelling story from becoming the only explanation you investigate.
 
-Ask what would look different if another explanation were true.
+> **Remember:** Find the observation that separates explanations.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Listing many possibilities is not enough; choose a useful way to distinguish them.
+## How it may arise
 
-## What the full entry will cover
+An action can fit several accounts. A missed task could involve a capacity problem, misunderstanding, a competing priority or avoidance of responsibility. Some causes can coexist. Your existing beliefs and interests can influence which explanation feels obvious, especially when a conclusion would protect your self-image or settle an uncomfortable uncertainty.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What information would actually change my next step?
+Psychologists Daniel Gilbert and Patrick Malone reviewed research on correspondence bias: people can underweight circumstances when explaining another person’s behaviour. This does not establish that a particular judgment about someone’s character is mistaken. [Gilbert & Malone (1995). The correspondence bias.](https://pubmed.ncbi.nlm.nih.gov/7870861/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Psychologist Ziva Kunda reviewed research on motivated reasoning. Desired conclusions can shape which reasons people search for and find convincing. Disagreement alone cannot establish a hidden motive, and a desired conclusion can still be correct. [Kunda (1990). The case for motivated reasoning.](https://pubmed.ncbi.nlm.nih.gov/2270237/)
 
-## Read the foundations now
+Tal Eyal and colleagues tested interpersonal predictions across a series of experiments. Imagining another person’s perspective did not consistently improve accuracy; a final experiment found that obtaining information through conversation helped. Conversation does not guarantee honesty, complete understanding or safety. These were specific prediction tasks, not tests of every relationship. [Eyal, Steffel & Epley (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective.](https://pubmed.ncbi.nlm.nih.gov/29620401/)
 
-- [Chapter 8 — Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
-- [Chapter 10 — Motivation, influence and cooperation](../chapters/10-motivation-influence-cooperation.md)
-- [Chapter 12 — Putting understanding to work](../chapters/12-putting-understanding-to-work.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+An alternative should account for the actual details, not erase them. “Maybe nothing happened” is not useful when an event is established. Nor should alternative explanations become a reason to delay responding to serious harm. You can protect yourself or change an arrangement while remaining uncertain about the reason for the conduct.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Name the first explanation and one or two credible alternatives. For each, identify what you would expect to observe if it were important. Seek a comparison that differs between them, such as whether the same task is completed with clearer instructions. Include a result that would weaken your favoured explanation, not only one that could confirm it.
+
+## How to respond
+
+Make one proportionate check you can legitimately perform: clarify an agreement, compare comparable occasions or adjust a practical condition with consent. Keep the original observation and add what the check showed. Do not provoke, surveil or set traps. If the options remain indistinguishable, state that uncertainty and choose a practical response based on the consequences.
+
+**A brief fictional example:** Fictional example: A colleague misses only tasks sent through a new system. Checking whether they can access notifications distinguishes an access explanation from the broader claim that they refuse all work. Fixing access may help, while future follow-through still needs review.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
+- [Motivation, influence and cooperation](../chapters/10-motivation-influence-cooperation.md)
+- [Putting understanding to work](../chapters/12-putting-understanding-to-work.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Observation & interpretation](observation.md): You need a clear description before comparing explanations for it. This is a suggested learning order.
 - [Responding defensively](defensive.md): Check what was heard before deciding the person cannot accept feedback.
 - [Confirmation bias](confirmation-bias.md): Ask what would weaken the preferred account, not only what supports it.
 - [Review what happened](review.md): Compare the result with what each explanation led you to expect.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Sources have not been selected for this book entry. Relevant reviews, competing evidence and limits need checking before the explanation is developed.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Plausible alternatives must fit the observed details.
+- A useful check can weaken your first explanation.
+- Protection or a practical limit need not wait for certainty.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Write one event, your first explanation and two credible alternatives.
+2. Choose one observation or clarification that would distinguish them.
+3. Review how the evidence changed your view and choose the next practical step.
+
+<!-- practice-notes: reference-alternatives | Compare explanations -->
+
+</section>

@@ -1,0 +1,474 @@
+{
+  "entries": [
+    {
+      "id": "personality-disorders",
+      "cue": "Understand the term without assigning it to a person.",
+      "meaning": "Personality disorders are clinical descriptions of enduring difficulties in patterns of thinking, feeling, relating and responding that are associated with substantial distress or problems functioning. The term concerns a broad pattern in a person’s life, not a synonym for being difficult, disliked or abusive. People with the same diagnosis can have very different strengths, experiences and support needs.",
+      "arise": "Development is complex. Inherited tendencies, learning, relationships and wider circumstances may contribute, but no family anecdote establishes their relative influence. A professional assessment considers persistence, context, the person’s own experience and other possible explanations. A diagnosis is not a complete causal biography.",
+      "alternatives": "Clinical systems describe personality difficulties differently. The NHS notes a move toward descriptions of severity and traits, whereas familiar named categories remain widely used in DSM-based material. An ordinary trait, a period of stress, another health condition and a personality disorder are not interchangeable. A diagnosis also does not establish whether a particular action was intended or abusive.",
+      "notice": "If a label has been suggested, ask what difficulty it is meant to explain and who assessed it. Separate a professional diagnosis reported by the person from a term used by a relative or an online video. Record specific impacts and changes rather than accumulating incidents toward your own diagnostic threshold.",
+      "respond": "For yourself, discuss persistent difficulties and goals with a qualified professional. Ask what a proposed diagnosis means, which alternatives were considered and what support is available. For another person, address observable conduct, practical needs and your limits. Treatment and support can help, but their form and likely benefits depend on assessment; neither hopelessness nor guaranteed recovery follows from a label.",
+      "example": "Fictional example: Repeated arguments about housework lead someone to say their partner has a personality disorder. The arguments may reveal a real problem, but they do not supply a clinical assessment of the partner’s broader life. The responsibilities and effects can still be addressed.",
+      "takeaways": [
+        "A clinical label concerns a broader pattern and impact.",
+        "Classification systems and individual presentations differ.",
+        "Support and practical limits do not require your own diagnosis."
+      ],
+      "practice": [
+        "Describe a persistent difficulty or impact without assigning a disorder.",
+        "Identify a support question or practical change appropriate to your role.",
+        "Review what help clarified and what requires further assessment, keeping observations separate from labels."
+      ],
+      "sources": [
+        "nhs-pd",
+        "states",
+        "heritability"
+      ],
+      "related": [
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        },
+        {
+          "node": "pd-narcissistic",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "pd-borderline",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "pd-avoidant",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-narcissistic",
+      "cue": "Distinguish entitlement, a trait and a diagnosis.",
+      "meaning": "Narcissistic personality disorder is a clinical term involving persistent difficulties around an inflated self-view, reliance on admiration and how other people’s needs are recognised, considered within the person’s functioning and history. It is more specific than everyday uses of narcissist. A confident, ambitious, selfish or inconsiderate act does not establish the disorder.",
+      "arise": "Public clinical accounts describe possible contributions from inherited tendencies and developmental experience, while the explanation of an individual remains uncertain. Do not infer a particular childhood or parenting history from current behaviour. A clinician explores the wider pattern and alternative explanations rather than deciding from a person’s charm, social success or a conflict with you.",
+      "alternatives": "Narcissistic traits, entitlement, desire for status and NPD are related but different ideas. Abusive conduct can occur without NPD, and a diagnosis is not proof that someone is abusive. Popular categories such as covert narcissist may combine descriptions, theories and informal labels; they are not conclusions this reference can assign from your account.",
+      "notice": "For a practical concern, identify the conduct: whose needs were dismissed, what agreement was broken, what happened after feedback and whether exceptions occur. Keep information about the person’s diagnosis separate from your interpretation. Avoid turning every ambiguous action into another point for a preselected type.",
+      "respond": "If the question concerns your own persistent difficulties with self-worth or relationships, a qualified clinician can help assess them and discuss support. If someone else’s conduct affects you, use specific requests, realistic agreements and limits suited to the circumstances. You do not need diagnostic certainty to respond to exploitation or seek support, and no communication technique guarantees that another person will change.",
+      "example": "Fictional example: A colleague takes credit for your work. Correcting attribution and documenting contributions addresses the event. Calling them a narcissist adds a clinical-sounding explanation that the event cannot establish and may distract from the remedy you need.",
+      "takeaways": [
+        "Everyday narcissist labels and NPD are not equivalent.",
+        "A diagnosis neither proves nor excuses a particular harm.",
+        "Describe conduct and practical effects before choosing a response."
+      ],
+      "practice": [
+        "Write one concern as a specific action and its impact, leaving the diagnostic question open.",
+        "Choose a relevant request, safeguard or support question within your role.",
+        "Review the response and practical outcome without treating it as a diagnostic test."
+      ],
+      "sources": [
+        "msd-pd-narcissistic",
+        "nhs-pd",
+        "status"
+      ],
+      "related": [
+        {
+          "node": "narcissistic-behaviour",
+          "relationship": "term distinction",
+          "why": "Learn the clinical distinction; this connection is not evidence of a disorder."
+        },
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-borderline",
+      "cue": "Recognise distress without reducing someone to a label.",
+      "meaning": "Borderline personality disorder, or BPD, is a clinical term for a broader pattern of difficulties involving emotion regulation, self-image, relationships and sometimes impulsive behaviour. Experiences and severity vary. Intense feelings, a fear of losing someone or a difficult argument do not by themselves establish BPD.",
+      "arise": "NIMH describes several possible risk influences, including family, biological and environmental factors. Risk factors are not individual causes: experiencing adversity does not determine that a person will develop BPD, and a diagnosis does not tell you exactly what happened in childhood. Assessment considers the person’s account, history, functioning and other possible conditions.",
+      "alternatives": "Rapid emotional changes can have several explanations. A period of stress, trauma-related responses, a mood disorder, substance effects or relationship circumstances may need consideration by a professional. BPD is not a synonym for manipulation, abuse or an inability to care. Harmful behaviour should be addressed on its own terms, whatever diagnosis is or is not present.",
+      "notice": "If a professional diagnosis exists, ask what it means for this person and what support plan they want others to know about. If it does not, record the actual difficulty and its effects rather than using relationship events as a checklist. A new, marked change deserves attention to health and circumstances, not only a personality explanation.",
+      "respond": "Professional treatments are available, and a clinician can discuss suitable options. In ordinary support, be clear about what you can offer, keep agreements realistic and respect the person’s agency. You can acknowledge distress while maintaining a limit on harmful conduct. Any immediate threat to life or safety needs appropriate urgent support rather than a debate about whether the distress is genuine.",
+      "example": "Fictional example: A friend becomes intensely distressed after cancelled plans. You can clarify the cancellation, offer a realistic next contact and ask what support is needed. That response does not require deciding that the distress is either BPD or a deliberate attempt to control you.",
+      "takeaways": [
+        "BPD concerns a broad clinical pattern, not one emotional response.",
+        "Risk factors do not establish an individual cause.",
+        "Clear support, treatment options and limits can coexist."
+      ],
+      "practice": [
+        "Describe a concrete difficulty, its duration and impact without inferring a diagnosis.",
+        "Identify a suitable support contact or clarify an agreed support arrangement.",
+        "Review whether the need was addressed; use urgent local help for immediate danger."
+      ],
+      "sources": [
+        "nimh-bpd",
+        "nhs-pd"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-avoidant",
+      "cue": "Distinguish a preference for solitude from fear and impairment.",
+      "meaning": "Avoidant personality disorder is a clinical term involving persistent inhibition in relationships, feelings of inadequacy and sensitivity to negative evaluation, with significant effects on life. Someone may want connection while finding the prospect of criticism or rejection difficult to tolerate. Quietness or declining a gathering is not enough to establish the condition.",
+      "arise": "Temperament and experience may contribute, but an observer cannot identify their roles from a person’s current social behaviour. Expectations of rejection may affect what a situation seems to offer. Actual exclusion and unwelcoming environments can also matter. A professional assessment considers the broader pattern and whether the person’s choices and functioning are constrained.",
+      "alternatives": "Introversion, privacy, social anxiety, communication differences, fatigue and a wish to avoid an unsafe setting need distinguishing. Avoidant attachment is a separate concept, not another name for this personality disorder. A person’s low desire for one event should not be interpreted as secret distress when they say it is simply not their preference.",
+      "notice": "Ask whether the person wants a form of connection they find difficult to pursue and what gets in the way. Compare familiar, welcoming settings with unfamiliar or evaluative ones. Attend to their own experience and practical impact rather than measuring sociability against your preferred lifestyle. Do not ask them to demonstrate discomfort to earn an accommodation.",
+      "respond": "Offer specific, low-pressure ways to participate and room to decline. Avoid public pressure, surprise exposure or treating invitations as tests. If persistent fear or avoidance is limiting the person’s life, a qualified clinician can assess the issue and discuss support. You can help with access or companionship when wanted without making yourself responsible for changing a personality.",
+      "example": "Fictional example: A relative declines a large celebration but asks to meet you quietly beforehand. That preference gives information about a workable form of contact. It does not establish a disorder, nor does it require pushing them into the event to see how they react.",
+      "takeaways": [
+        "A clinical difficulty differs from ordinary quietness or preference.",
+        "Wanting connection and fearing evaluation can coexist.",
+        "Support participation without forcing a diagnostic experiment."
+      ],
+      "practice": [
+        "Describe the wanted activity or relationship and the specific barrier, using the person’s own account.",
+        "Offer a suitable participation option or seek assessment if the difficulty is persistent and impairing.",
+        "Review whether choice and access improved, without making greater sociability the only acceptable result."
+      ],
+      "sources": [
+        "msd-pd-avoidant",
+        "nhs-pd",
+        "avoidance-review"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-dependent",
+      "cue": "Practical dependence is not a personality diagnosis.",
+      "meaning": "Dependent personality disorder is a clinical term involving a persistent, excessive need for care associated with difficulty acting independently and fear of separation. It is assessed through a broader pattern and its effects. Needing assistance, valuing interdependence or living with disability does not establish this disorder.",
+      "arise": "Possible developmental influences are varied and uncertain for an individual. Confidence, experience, available skills and the security of current relationships may matter. A person may genuinely lack access to money, information or practical support. Those constraints should not be relabelled as a personality problem simply because independence would be more convenient for someone else.",
+      "alternatives": "Cultural expectations, chosen shared roles, a temporary illness, anxiety and coercive restrictions can resemble aspects of dependence while having different meanings. A person can need substantial support and still make their own decisions. Conversely, being capable of a task does not automatically make the fear of attempting it trivial.",
+      "notice": "Clarify which decisions and tasks are difficult, what support is actually needed and what the person wants to control. Ask whether there are opportunities to practise safely and whether help comes with unwanted conditions. If concerned about someone else, avoid interpreting every request for reassurance or assistance as evidence for a type.",
+      "respond": "Offer support that preserves appropriate choice and develops skills where wanted. Make responsibilities explicit instead of abruptly withdrawing needed help to force independence. Persistent distress or difficulty functioning deserves professional assessment. If dependence is being created or exploited through threats or restricted resources, consider support for the conduct and circumstances as well as any health concern.",
+      "example": "Fictional example: An adult asks a sibling to handle unfamiliar paperwork while they learn the process. That can be practical support. Whether there is a wider persistent difficulty cannot be decided from the request, and removing assistance would not establish an answer.",
+      "takeaways": [
+        "Needing care and having a disorder are different.",
+        "Choice can remain central in an interdependent arrangement.",
+        "Do not force independence by withdrawing necessary support."
+      ],
+      "practice": [
+        "Name one task, the help genuinely needed and the decisions the person wants to retain.",
+        "Clarify support or seek an assessment of persistent difficulty rather than assigning a label.",
+        "Review access, choice and functioning, including whether the arrangement creates an unwanted debt."
+      ],
+      "sources": [
+        "msd-pd-dependent",
+        "nhs-pd",
+        "sdt"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-paranoid",
+      "cue": "Investigate the concern without declaring its cause.",
+      "meaning": "Paranoid personality disorder is a clinical term involving a pervasive pattern of distrust and interpreting others’ motives as hostile without sufficient justification, considered within the wider history and functioning. Ordinary caution, a justified complaint or suspicion after betrayal is not enough to establish the condition. Deciding that a concern is unwarranted itself requires care.",
+      "arise": "Clinical descriptions consider enduring patterns and possible developmental influences, but they cannot explain a particular person from a few accounts. Someone may also face real discrimination, deception or intimidation. Treating every concern as a symptom can prevent legitimate problems from being investigated.",
+      "alternatives": "Trauma-related responses, anxiety, other mental or physical health conditions, substance effects and current threats can require different assessment. A sudden new change in suspicion or behaviour should not be assumed to be a longstanding personality pattern. The fact that you disagree with an accusation is not clinical evidence about the person making it.",
+      "notice": "Focus on the exact concern, what information is available, what remains uncertain and how the difficulty affects daily life. If there is a diagnosis, ask about its source and the person’s own understanding. Avoid traps, secret surveillance or collecting disagreements as a diagnostic score. Mark what you know separately from what either person infers.",
+      "respond": "Use clear, consistent communication and address verifiable issues without agreeing to claims you cannot establish. You can acknowledge that a situation feels frightening or difficult while leaving its explanation open. A qualified professional can assess persistent or marked difficulties and discuss support. Protect your own limits and seek appropriate help where behaviour is threatening or a health change is urgent.",
+      "example": "Fictional example: A neighbour believes a missed invitation was deliberate exclusion. Checking how invitations were distributed may clarify that occasion. It does not establish either a pervasive disorder or the accuracy of every earlier concern.",
+      "takeaways": [
+        "Suspicion may be justified, mistaken or still unresolved.",
+        "Disagreement is not a diagnosis.",
+        "A new marked change needs attention to health and circumstances."
+      ],
+      "practice": [
+        "Write the specific concern and the available evidence without deciding a personality label.",
+        "Choose a fair factual check or an appropriate support route.",
+        "Review what became clearer and which difficulties require further assessment or practical limits."
+      ],
+      "sources": [
+        "msd-pd-paranoid",
+        "nhs-pd",
+        "memory"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-antisocial",
+      "cue": "Antisocial here does not mean unsociable.",
+      "meaning": "Antisocial personality disorder is a clinical term involving an enduring pattern of disregard for others’ rights and consequences, assessed with developmental history and broader functioning. In this context, antisocial has a specific clinical meaning. It is not a term for someone who prefers solitude or dislikes parties.",
+      "arise": "Clinical accounts discuss interacting inherited and environmental influences, while individual causes remain complex. Assessment requires more than deciding whether an act was selfish, dishonest or against a rule. Developmental history and other conditions matter. A relative’s journal of troubling incidents cannot supply the full clinical process.",
+      "alternatives": "A criminal act, a lie, aggression, substance-related conduct and a diagnosis are different questions. Psychopath and sociopath are used inconsistently in popular discussion and are not interchangeable diagnoses supplied here. No personality label establishes what a person will do next, and absence of a diagnosis does not make exploitation or threats acceptable.",
+      "notice": "For a concern affecting you, describe the conduct, affected rights or agreements, consequences and any immediate safety issue. Keep evidence of a diagnosis separate from descriptions of harmful actions. Consider what safeguards or support are needed without trying to provoke evidence of remorse or predict danger from demeanour.",
+      "respond": "Professional assessment and treatment planning belong with appropriate clinicians. In everyday arrangements, use clear responsibilities and verifiable safeguards where warranted, and recognise limits on what you can change. If there are threats, fraud or other harms, seek support suited to the actual conduct and jurisdiction. You do not need to prove a disorder before protecting your resources or ending an arrangement within your rights.",
+      "example": "Fictional example: A contractor repeatedly takes payment for work not completed. Records of the agreement, payments and work support a practical complaint or advice request. Assigning antisocial personality disorder adds a conclusion those records cannot establish.",
+      "takeaways": [
+        "The clinical term is different from preferring solitude.",
+        "A harmful act and a clinical diagnosis are separate matters.",
+        "Respond to conduct and risk using appropriate support and safeguards."
+      ],
+      "practice": [
+        "Describe one concrete concern, its impact and the relevant agreement or right.",
+        "Identify a lawful safeguard, advice route or support question suited to that conduct.",
+        "Review the practical outcome without using remorse or reaction as a diagnostic test."
+      ],
+      "sources": [
+        "msd-pd-antisocial",
+        "nhs-pd",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-histrionic",
+      "cue": "Style is not a clinical assessment.",
+      "meaning": "Histrionic personality disorder is a clinical term involving a persistent pattern of attention-seeking and emotionally expressive behaviour that is considered in relation to functioning and the person’s wider life. It should not be inferred from clothing, flirtation, an expressive communication style or someone describing a person as dramatic.",
+      "arise": "The causes of an individual’s difficulties cannot be reconstructed from appearance or a social encounter. People may seek attention for many reasons, including connection, distress, practical help or enjoyment of performance. A clinician examines the broader pattern and alternatives, rather than turning an observer’s dislike into a diagnosis.",
+      "alternatives": "Expressiveness can be a cultural norm, a professional skill or an ordinary preference. A person who communicates distress intensely may still have a legitimate need. Gendered judgments about emotion and appearance can bias interpretation. Clinical vocabulary is not a reliable way to decide that someone’s feelings are shallow, false or intended to manipulate.",
+      "notice": "If conduct affects you, identify what actually happened: an agreement interrupted, an unwanted interaction, a request for attention or a missed responsibility. Ask about the practical issue without inferring an inner life from presentation. If a diagnosis has been reported, keep that information separate from what you conclude about this occasion.",
+      "respond": "For persistent personal difficulties, professional assessment can clarify needs and support options. In ordinary interaction, make respectful requests about conduct and your availability without policing appearance or emotional style. A boundary can be relevant even when the other person’s feelings are genuine. Neither attention nor withholding attention should be used as an improvised treatment.",
+      "example": "Fictional example: A colleague speaks animatedly and enjoys presenting. That does not establish a disorder. If they repeatedly interrupt a shared meeting, address turn-taking and the meeting’s purpose rather than using a clinical label to criticise their style.",
+      "takeaways": [
+        "Expression, appearance and diagnosis are different questions.",
+        "An intense presentation does not settle the validity of a need.",
+        "Address specific conduct without stereotyping."
+      ],
+      "practice": [
+        "Describe a concrete interaction without appearance-based or gendered judgments.",
+        "Identify a relevant request, limit or support need.",
+        "Review the practical result and whether your interpretation relied on style more than evidence."
+      ],
+      "sources": [
+        "msd-pd-histrionic",
+        "nhs-pd",
+        "gilbert"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-schizoid",
+      "cue": "Limited expression does not reveal the whole experience.",
+      "meaning": "Schizoid personality disorder is a clinical term involving a persistent pattern of detachment from social relationships and limited outward emotional expression, assessed in a broader pattern of functioning. It is not a synonym for introversion, privacy, independence or preferring a small social life.",
+      "arise": "Clinical accounts consider possible inherited and developmental influences, but a person’s history cannot be inferred from their quietness. The person may describe their social preferences differently from an observer. An assessment considers persistence, impact, the individual’s experience and alternative explanations rather than simply counting friendships.",
+      "alternatives": "Depression, exhaustion, sensory or communication differences, grief and an unwelcoming environment can affect contact or expression. A longstanding preference differs from a new loss of interest or functioning. Limited visible emotion does not establish absence of feeling, care or a capacity for meaningful relationships. Schizoid personality disorder is also distinct from schizophrenia.",
+      "notice": "Ask what kind of contact the person wants, what is difficult and whether there is an impact they would like help with. Notice changes from their own usual pattern rather than comparing them only with a highly sociable ideal. If concerned about another person, separate your disappointment about contact from evidence of clinical impairment.",
+      "respond": "Respect clearly expressed preferences and make practical expectations explicit. Offer contact without turning acceptance into proof of health or affection. A professional can assess persistent difficulties or a marked change and discuss suitable support. You can also state your own relationship needs and decide what arrangement is workable without assigning a disorder.",
+      "example": "Fictional example: A relative prefers brief visits and rarely shows enthusiasm in the way you expect. Asking what contact they enjoy is more informative than assuming they do not care. A sudden change in their usual activities would raise a different support question.",
+      "takeaways": [
+        "Privacy and introversion are not diagnoses.",
+        "Outward expression does not reveal every feeling.",
+        "Compare change and impact with the person’s own baseline."
+      ],
+      "practice": [
+        "Record a preference or change, distinguishing the person’s account from your interpretation.",
+        "Ask about wanted contact or support without pressuring greater sociability.",
+        "Review whether the arrangement fits both people and whether a persistent difficulty needs assessment."
+      ],
+      "sources": [
+        "msd-pd-schizoid",
+        "nhs-pd",
+        "states"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-schizotypal",
+      "cue": "Consider context, distress and functioning together.",
+      "meaning": "Schizotypal personality disorder is a clinical term involving enduring difficulties with close relationships alongside unusual patterns of thinking, perception or behaviour. It requires assessment in the person’s broader life. Unfamiliar beliefs, unconventional interests, an unusual style or social discomfort do not establish the condition.",
+      "arise": "Clinical explanations consider several influences and relationships with other mental-health conditions. Those broad accounts do not identify the cause of an individual’s experience. A clinician also considers culture, community, substances, physical health and the course of any changes rather than interpreting a single remark outside its context.",
+      "alternatives": "Unconventional beliefs are not automatically delusions, and beliefs shared within a cultural or religious setting should not be treated as pathology merely because they are unfamiliar to you. Schizotypal personality disorder is distinct from schizophrenia. A sudden new change in perception, thinking or functioning deserves assessment rather than an assumption of a longstanding personality pattern.",
+      "notice": "If seeking help for yourself, describe what you experience, when it occurs and how it affects sleep, work, relationships or daily tasks. If supporting someone else, ask about their experience without interrogating them or collecting unusual statements toward a diagnosis. Mark what is observed, reported and still uncertain.",
+      "respond": "Respond to distress and practical needs without ridiculing a belief or agreeing to facts you cannot establish. Be clear about your own limits and help access appropriate professional assessment when wanted or urgently needed. Do not stage tests of someone’s perception or attempt treatment through argument. Immediate danger or a serious new health change needs an appropriate local urgent service.",
+      "example": "Fictional example: A friend reports an unsettling experience and is struggling to sleep. You can ask how it is affecting them and help arrange a suitable health conversation without declaring a disorder, confirming a frightening explanation or dismissing the distress.",
+      "takeaways": [
+        "Unfamiliarity is not a diagnostic criterion you can apply.",
+        "Context and changes in functioning matter.",
+        "Support distress without claiming certainty about its explanation."
+      ],
+      "practice": [
+        "Describe the experience or change and its practical effects without a diagnostic label.",
+        "Identify an appropriate assessment or support question and a feasible next step.",
+        "Review access to help and any change in urgency, leaving clinical interpretation to assessment."
+      ],
+      "sources": [
+        "msd-pd-schizotypal",
+        "nhs-pd",
+        "nimh-support"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "pd-ocpd",
+      "cue": "Look at flexibility and cost, not neatness alone.",
+      "meaning": "Obsessive-compulsive personality disorder, or OCPD, is a clinical term involving a persistent preoccupation with order, perfection and control that interferes with flexibility or functioning. It is different from liking a tidy home, having demanding standards or doing a job that requires precision. The pattern and its consequences are central.",
+      "arise": "Clinical accounts describe possible contributions from temperament and experience, while individual causes remain uncertain. A particular method may feel necessary or correct to the person, and changing it may be difficult. That does not mean observers can diagnose the condition from disagreements about how a task should be done.",
+      "alternatives": "OCPD and obsessive-compulsive disorder are different conditions, although a person can have both. OCD involves obsessions, compulsions or both; OCPD describes a broader personality pattern. Ordinary conscientiousness, reasonable quality controls, anxiety and an unclear brief can also resemble parts of the problem. A preference for control does not by itself establish abuse, and a diagnosis would not excuse harmful restrictions.",
+      "notice": "For a practical concern, examine the agreed standard, time cost, ability to delegate and response to acceptable alternatives. Is the standard necessary for the purpose, or does repeated revision prevent completion and shift work onto others? If seeking assessment, include the person’s own difficulties across settings rather than only one disputed household rule.",
+      "respond": "Clarify outcomes and genuinely necessary safeguards, then allow appropriate discretion in method. State the effect of repeated checking or rejected work without requiring agreement about a diagnosis. Persistent distress or impairment can be discussed with a clinician. Avoid deliberately creating disorder as a test, and do not treat another person’s discomfort as permission to override their belongings or consent.",
+      "example": "Fictional example: A shared task is delayed because every acceptable version is revised to match one person’s preferred format. Agreeing essential completion criteria addresses the collaboration problem. Whether there is OCPD requires a much broader assessment.",
+      "takeaways": [
+        "OCPD is distinct from OCD and ordinary carefulness.",
+        "Assess the purpose, flexibility and cost of a standard.",
+        "Practical agreements do not require your own diagnosis."
+      ],
+      "practice": [
+        "Name one standard, its purpose and the costs of the current process.",
+        "Agree an adequate outcome and room for an acceptable alternative method.",
+        "Review completion, burden and remaining difficulty; consider assessment if the pattern causes persistent impairment."
+      ],
+      "sources": [
+        "msd-pd-ocpd",
+        "nhs-pd",
+        "perfectionism"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "ocd",
+      "cue": "Unwanted thoughts and chosen intentions are different.",
+      "meaning": "Obsessive-compulsive disorder, or OCD, is a clinical condition involving recurring intrusive obsessions, compulsions or both that can cause substantial distress or interfere with daily life. Compulsions may be visible actions or mental routines. OCD is not a casual synonym for cleanliness, orderliness or a strong preference.",
+      "arise": "People can feel driven to obtain certainty or reduce distress through checking, reassurance or rituals. The person’s experience and the function of the action matter. An observer cannot establish OCD from seeing repeated handwashing or hearing one unwanted thought. Nor should unwanted mental content be assumed to reveal what someone wants or intends to do.",
+      "alternatives": "Ordinary checking, a real safety requirement, general worry and other health conditions need distinguishing in assessment. OCPD is a separate personality-disorder term. People vary in insight and presentation, so a simple contrast between enjoying and disliking neatness is not a diagnostic method. Both the distress and interference with daily life deserve attention.",
+      "notice": "If seeking support for yourself, describe how much time the difficulty takes, what it interferes with and what you feel compelled to do. If another person tells you about OCD, ask what support is appropriate rather than examining them against an online checklist. Avoid collecting examples of rituals to decide whether the diagnosis is genuine.",
+      "respond": "Qualified professionals can assess OCD and discuss evidence-based treatment options. In a relationship, clarify a support plan with the person and, where appropriate and consented to, their clinician. Do not abruptly remove rituals, repeatedly provide certainty as an improvised treatment, or stage exposure exercises yourself. Shared practical limits can still be discussed respectfully.",
+      "example": "Fictional example: A friend repeatedly asks whether they locked a door and says the checking is consuming hours. Helping them arrange a clinical conversation addresses the reported impairment. Mocking the ritual or secretly altering the door to test them would not be an assessment.",
+      "takeaways": [
+        "OCD is more than tidiness or ordinary caution.",
+        "Intrusive content does not by itself establish intention.",
+        "Support should fit assessment and an agreed plan."
+      ],
+      "practice": [
+        "Describe a reported difficulty and its impact without creating a symptom score.",
+        "Identify a suitable assessment route or clarify how to support an existing care plan.",
+        "Review whether support was accessed and whether practical needs remain unmet."
+      ],
+      "sources": [
+        "nimh-ocd",
+        "msd-pd-ocpd",
+        "nimh-support"
+      ],
+      "related": [
+        {
+          "node": "personality-disorders",
+          "relationship": "learn the distinction",
+          "why": "Clinical vocabulary is educational; a link is not evidence that a person has a condition."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "support route",
+          "why": "Assessment and support should address the person’s actual difficulties and wishes."
+        }
+      ],
+      "specialistCaveat": true
+    }
+  ]
+}

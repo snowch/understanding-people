@@ -1,45 +1,79 @@
 # Monitoring & demands for access
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Monitoring and demands for access can concern messages, accounts, location, devices or everyday activities. Some access is freely agreed for a specific purpose; some has a legitimate formal basis; some can be intrusive or coercive. The presence of a tracking or sharing tool alone does not settle the question.
 
-Checking messages, movements or accounts, or demanding access to them. Consent and the ability to withdraw it matter.
+> **Remember:** A shared tool does not settle whether access is voluntary.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
 This material provides general information and has not received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
 
-For help with your circumstances, see [When to seek other help](../support.md).
+See [When to seek other help](../support.md) for support routes and their limits.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-A concern about safety can be sincere without justifying unlimited access.
+## How it may arise
 
-## What the full entry will cover
+A request may be explained as care, reassurance, efficiency or trust. Its actual effect depends on scope, knowledge, consequences and whether refusal is a real option. Repeated demands can gradually make privacy seem like evidence of wrongdoing. A person’s anxiety does not create an automatic right to another adult’s information.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What was agreed, what access is actually used, and what happens if permission is withdrawn?
+Home Office statutory guidance describes controlling or coercive behaviour as an unfolding pattern and discusses restrictions, threats, economic abuse and effects on everyday freedom. It addresses law and practice in England and Wales. This book does not establish whether a legal offence occurred or replace local advice. [Home Office: Controlling or coercive behaviour — statutory guidance](https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+NHS public guidance describes emotional, physical, sexual and economic abuse and routes to confidential support. Services are UK-specific. It is guidance, not a test that determines a person’s motive or an individual safety assessment. [NHS: Domestic violence and abuse](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/)
 
-## Read the foundations now
+## What else could explain it? {#a-distinction-to-keep-in-mind}
 
-- [Chapter 1 — Why we misinterpret people](../chapters/01-before-you-explain.md)
-- [Chapter 8 — Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
-- [Chapter 11 — Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
+Consensual location sharing differs from secret or enforced surveillance. A workplace or care setting may involve duties and legal rules that need appropriate advice. Legitimate safety arrangements should be relevant and proportionate. Declining account access is not by itself evidence of deception, and apparent agreement under threat may not reflect free choice.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+If safe, identify what is accessed, by whom, for what purpose and what happens if access is questioned. Consider whether the arrangement is understood and can be reviewed. Use what is already known rather than trying to expose hidden monitoring through risky experiments. Notes on a shared or monitored device may not be private.
+
+## How to respond
+
+For an ordinary voluntary arrangement, clarify purpose, scope and limits. If monitoring may be part of intimidation or control, seek specialist support about the circumstances and digital privacy before changing settings or confronting the person. A general book cannot determine which device action is safe. Formal monitoring questions may also require local legal or workplace advice.
+
+**A brief fictional example:** Fictional example: Two adults share travel updates for one journey and can stop afterward without penalty. A different partner demands permanent account access and threatens consequences for refusal. The relevant distinction is the arrangement and freedom to choose, not whether both are called sharing.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Why we misinterpret people](../chapters/01-before-you-explain.md)
+- [Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
+- [Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Restriction, monitoring & coercive patterns](coercive-patterns.md): Monitoring may reinforce control.
 - [Having a say](autonomy.md): Meaningful consent includes the ability to refuse.
 - [Getting support without needing a label](getting-support.md): Specialist advice can help assess digital safety.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Candidate source from the app: [NHS: Domestic violence and abuse](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/). Its relevance, claims and limitations need checking for this full book entry. This link does not mean the stub has received an evidence review.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Purpose, scope and real consent matter.
+- Privacy is not evidence of dishonesty.
+- Changing access can have consequences that need situation-specific advice.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. If safe, describe the known access arrangement and any consequences of questioning it.
+2. Seek appropriate advice about privacy, rights or safety before testing or changing a risky arrangement.
+3. Review whether support clarified options and protected necessary access and information.
+
+<!-- practice-notes: reference-monitoring | Monitoring & demands for access -->
+
+</section>

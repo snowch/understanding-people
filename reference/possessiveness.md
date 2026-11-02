@@ -1,45 +1,83 @@
 # Possessiveness & demands for exclusivity
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Possessiveness concerns treating another person’s attention, contacts, movements or choices as something one is entitled to control. It is different from wanting closeness or agreeing an exclusive relationship. A shared agreement should still leave room for each person’s agency, privacy and decisions about whether the arrangement continues.
 
-Treating another person’s attention, time or relationships as something one is entitled to control.
+> **Remember:** A relationship is not ownership.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
 This material provides general information and has not received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
 
-For help with your circumstances, see [When to seek other help](../support.md).
+See [When to seek other help](../support.md) for support routes and their limits.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Fear of loss or loneliness may explain a concern without making restrictions acceptable.
+## How it may arise
 
-## What the full entry will cover
+Jealousy, insecurity, learned expectations, status concerns or deliberate control may be relevant, but cannot be read directly from a demand. Several influences can coexist. The claimed reason for restricting someone matters less than whether the conduct is voluntary, proportionate and respectful of their actual choices.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** Which choices remain available, and what happens when the person makes a separate choice?
+Roy Baumeister and Mark Leary reviewed evidence for a widespread motivation to form and maintain stable interpersonal attachments. The review does not imply that everyone wants the same amount or form of contact, or must maintain an unsafe relationship. [Baumeister & Leary (1995). The need to belong: desire for interpersonal attachments as a fundamental human motivation.](https://pubmed.ncbi.nlm.nih.gov/7777651/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Richard Ryan and Edward Deci reviewed self-determination theory and evidence concerning autonomy, competence and relatedness in motivation and well-being. The framework suggests distinctions to investigate. It cannot identify the cause of a particular action or refusal. [Ryan & Deci (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.](https://pubmed.ncbi.nlm.nih.gov/11392867/)
 
-## Read the foundations now
+Home Office statutory guidance describes controlling or coercive behaviour as an unfolding pattern and discusses restrictions, threats, economic abuse and effects on everyday freedom. It addresses law and practice in England and Wales. This book does not establish whether a legal offence occurred or replace local advice. [Home Office: Controlling or coercive behaviour — statutory guidance](https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible)
 
-- [Chapter 1 — Why we misinterpret people](../chapters/01-before-you-explain.md)
-- [Chapter 8 — Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
-- [Chapter 11 — Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
+NHS public guidance describes emotional, physical, sexual and economic abuse and routes to confidential support. Services are UK-specific. It is guidance, not a test that determines a person’s motive or an individual safety assessment. [NHS: Domestic violence and abuse](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/)
+
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+A mutually understood commitment differs from an imposed rule backed by threats. A person may reasonably object to a broken agreement without being entitled to passwords, constant location access or isolation from others. Conversely, a lack of obvious jealousy does not prove the absence of control. Examine the arrangements, not only the emotion.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Identify what is being claimed, what was agreed and what happens when the person chooses differently. Include contacts, time, privacy and essential resources. Ask whether rules apply fairly and can be reviewed or ended without punishment. Use existing information rather than creating a test of jealousy or loyalty.
+
+## How to respond
+
+For an ordinary relationship disagreement, clarify the agreement and each person’s needs without treating closeness as unlimited access. If restrictions occur with intimidation, monitoring or isolation, seek appropriate confidential support. If you recognise possessive conduct in yourself, take responsibility for stopping the restriction and seek help rather than asking another person to prove loyalty by surrendering choice.
+
+**A brief fictional example:** Fictional example: A partner feels uneasy about a friendship. Asking to discuss an agreed relationship boundary is different from demanding that all contact end under threat of financial consequences. The threatened penalty changes the practical meaning of the request.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Why we misinterpret people](../chapters/01-before-you-explain.md)
+- [Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
+- [Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Jealousy & what follows](jealousy.md): A feeling and a restriction on another person are different.
 - [Restricting contact with other people](isolation.md): Exclusivity can become a restriction on support.
 - [Boundaries](boundaries.md): Connection can coexist with separate choices.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Sources have not been selected for this book entry. Relevant reviews, competing evidence and limits need checking before the explanation is developed.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Closeness and exclusivity do not mean ownership.
+- Look at freedom, consent and consequences of disagreement.
+- A feeling does not justify restrictions on another person.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. If safe, describe an existing claimed rule and the choices it affects.
+2. Clarify an ordinary agreement or seek support for a restricting or threatening pattern.
+3. Review whether agency and legitimate commitments are both respected without provoking a loyalty test.
+
+<!-- practice-notes: reference-possessiveness | Possessiveness & demands for exclusivity -->
+
+</section>

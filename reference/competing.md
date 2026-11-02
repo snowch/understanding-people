@@ -1,41 +1,77 @@
 # Competing goals
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Competing goals are aims that cannot all be pursued fully with the same time, resources or action. A person can value a relationship and want solitude, want success and need rest, or want to help while protecting money. The conflict may concern timing or method rather than a lack of commitment to either aim.
 
-Two desired outcomes can call for different actions at the same time.
+> **Remember:** A person can want two incompatible things.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-Difficulty starting does not always involve competing goals; instructions or resources may be missing.
+## How it may arise
 
-## What the full entry will cover
+Goals become difficult to balance when costs are hidden or priorities remain unspoken. Someone may agree to several requests separately without noticing that the combined workload is impossible. Pressure can produce an immediate yes while leaving the conflict intact. The same issue arises when you judge a single refusal without seeing the rest of a person’s commitments.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What else would this action cost in time, effort or opportunity?
+Susan Michie and colleagues reviewed behaviour-change frameworks and proposed COM-B: capability, opportunity and motivation as interacting conditions for behaviour. They examined its use in tobacco-control and obesity policy. It is a framework for analysing and designing change, not a diagnostic test or proof that one identified barrier caused an action. [Michie, van Stralen & West (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions.](https://pubmed.ncbi.nlm.nih.gov/21513547/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Thomas Webb and Paschal Sheeran combined 47 experimental tests in which intentions changed. Changes in behaviour were generally smaller than changes in intention. The result supports separating a promise from follow-through, not deciding why an individual failed to act. [Webb & Sheeran (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence.](https://pubmed.ncbi.nlm.nih.gov/16536643/)
 
-## Read the foundations now
+Richard Ryan and Edward Deci reviewed self-determination theory and evidence concerning autonomy, competence and relatedness in motivation and well-being. The framework suggests distinctions to investigate. It cannot identify the cause of a particular action or refusal. [Ryan & Deci (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.](https://pubmed.ncbi.nlm.nih.gov/11392867/)
 
-- [Chapter 3 — Needs, motives and competing goals](../chapters/03-needs-motives-goals.md)
-- [Chapter 10 — Motivation, influence and cooperation](../chapters/10-motivation-influence-cooperation.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+An explanation involving competing goals may be accurate, incomplete or convenient. A stated priority does not automatically excuse a broken agreement. Other explanations include missing skills, unclear expectations, habitual delay and an unwanted task. Avoid assuming that the priority you would choose is the only reasonable one.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Ask what the person is trying to preserve, what the proposed action costs and what commitments already exist. Compare what was promised with the capacity available. Include invisible work and recovery needs without demanding intrusive proof. Identify whether the conflict can be resolved by timing, scope, method or an explicit decision about priorities.
+
+## How to respond
+
+Make the trade-off discussable. Agree what will happen first, what will be reduced and who needs advance notice. If neither person can provide a needed contribution, consider another arrangement rather than distributing blame indefinitely. You can accept the legitimacy of a competing aim while saying that the current agreement does not work for you.
+
+**A brief fictional example:** Fictional example: A friend repeatedly cancels a long evening visit while caring for a relative. A shorter daytime meeting may preserve both contact and caregiving. It is still reasonable to ask for notice rather than treating your time as expendable.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Needs, motives and competing goals](../chapters/03-needs-motives-goals.md)
+- [Motivation, influence and cooperation](../chapters/10-motivation-influence-cooperation.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Motivation](motivation.md): Wanting several things can make a decision difficult even when each goal makes sense.
 - [Agreeing, then not following through](followthrough.md): The agreed task may conflict with another priority. Ask rather than assume.
 - [Make a clear request](clearrequest.md): Clarify priorities and negotiate a workable task rather than simply demanding more effort.
 - [Perfectionism & inflexible standards](perfectionism.md): One standard can crowd out other priorities.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Sources have not been selected for this book entry. Relevant reviews, competing evidence and limits need checking before the explanation is developed.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Multiple sincere aims can conflict.
+- A trade-off can explain an action without excusing every consequence.
+- Negotiate timing, scope and notice explicitly.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Write the aims and constraints involved in one difficult commitment.
+2. Agree which trade-off will be made and how affected people will be told.
+3. Review both follow-through and whether the arrangement was sustainable.
+
+<!-- practice-notes: reference-competing | Competing goals -->
+
+</section>

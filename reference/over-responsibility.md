@@ -1,41 +1,77 @@
 # Taking too much responsibility
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Taking too much responsibility means assuming more work, decision ownership or responsibility for others’ feelings than is reasonably yours in the arrangement. It can include repeated rescue after missed commitments or believing that another adult must never be disappointed. The question depends on real duties, capacity and context.
 
-Taking on responsibility for outcomes or other people’s reactions beyond what one can reasonably control or has agreed to do.
+> **Remember:** Separate what is yours from what has become yours by default.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-A lack of support, unclear roles or pressure from others may be creating the burden.
+## How it may arise
 
-## What the full entry will cover
+A person may step in from care, habit, fear of an outcome or a wish to keep control. Others may come to rely on that response, or have no genuine alternative support. These are possible patterns, not proof that the helper created the problem. Invisible work can also make a heavy responsibility appear smaller from outside.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What is genuinely mine to do, what belongs to someone else, and where is support missing?
+Jason Colquitt and colleagues combined 183 organisational-justice studies. Fair outcomes, procedures, interpersonal treatment and information were related but distinguishable aspects of perceived fairness. Most evidence concerns organisations. Disagreement about fairness is not proof of dishonesty or a single objectively correct allocation. [Colquitt and colleagues (2001). Justice at the millennium: a meta-analytic review of 25 years of organizational justice research.](https://pubmed.ncbi.nlm.nih.gov/11419803/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Susan Michie and colleagues reviewed behaviour-change frameworks and proposed COM-B: capability, opportunity and motivation as interacting conditions for behaviour. They examined its use in tobacco-control and obesity policy. It is a framework for analysing and designing change, not a diagnostic test or proof that one identified barrier caused an action. [Michie, van Stralen & West (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions.](https://pubmed.ncbi.nlm.nih.gov/21513547/)
 
-## Read the foundations now
+Richard Ryan and Edward Deci reviewed self-determination theory and evidence concerning autonomy, competence and relatedness in motivation and well-being. The framework suggests distinctions to investigate. It cannot identify the cause of a particular action or refusal. [Ryan & Deci (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.](https://pubmed.ncbi.nlm.nih.gov/11392867/)
 
-- [Chapter 1 — Why we misinterpret people](../chapters/01-before-you-explain.md)
-- [Chapter 8 — Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
-- [Chapter 11 — Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+Legitimate care, parenting, professional duties and an emergency are different from an assumed obligation to manage every result. A person may need substantial assistance while retaining choice. Conversely, doing more is not always more helpful if it removes another person’s opportunity or responsibility without agreement.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+List the actual tasks and decisions, who agreed to own them and what happens if you do not step in. Distinguish concern from control. Ask what support is necessary and what could be reassigned safely. Include the cost to your health, other responsibilities and the person whose task you repeatedly take over.
+
+## How to respond
+
+Renegotiate one recurring responsibility, including resources, backup and a warning point. Step back in a planned way when appropriate rather than abruptly abandoning someone who depends on essential care. State what you can genuinely offer. If the arrangement is coercive, exploitative or unmanageable, seek relevant support instead of making self-sacrifice the only solution.
+
+**A brief fictional example:** Fictional example: You complete every shared report after a colleague misses their part. Clarifying ownership and an earlier escalation point may protect the work without making you the permanent invisible backup. It does not require deciding whether the colleague intended to rely on you.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Why we misinterpret people](../chapters/01-before-you-explain.md)
+- [Questions, listening and disagreement](../chapters/08-questions-listening-disagreement.md)
+- [Conflict, manipulation and boundaries](../chapters/11-conflict-manipulation-boundaries.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Make a workable agreement](shared-agreement.md): Responsibility should be explicit rather than assumed.
 - [Time, resources & capacity](capacity.md): A real burden may need resources, not a different attitude.
 - [Boundaries](boundaries.md): Limits can protect sustainable care.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Sources have not been selected for this book entry. Relevant reviews, competing evidence and limits need checking before the explanation is developed.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Actual duties differ from responsibility assumed by default.
+- Care and control can become entangled.
+- A sustainable change needs ownership, resources and safe backup.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Map one recurring task, its actual owner and the work you absorb.
+2. Agree one safe transfer, limit or support request.
+3. Review workload, essential needs and whether the new arrangement is genuinely functioning.
+
+<!-- practice-notes: reference-over-responsibility | Taking too much responsibility -->
+
+</section>

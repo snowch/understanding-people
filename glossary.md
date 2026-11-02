@@ -2,6 +2,8 @@
 
 Plain-English meanings for terms used in the book. Each example is fictional. Use the chapter link to return to the explanation and its research sources.
 
+The [reference library](reference/index.md) provides expanded explanations and practical checks; its [source log](reference/sources.md) records evidence and access limits.
+
 These definitions explain how the book uses each term. They do not replace the qualifications in the chapter.
 
 ## Autonomy {#autonomy}
@@ -11,6 +13,8 @@ Feeling that an action is your own choice and that you agree with doing it. This
 **Example:** Leila chooses an occasional gardening session because it fits what she wants to contribute.
 
 [Read in Chapter 3](chapters/03-needs-motives-goals.md#definition-autonomy).
+
+[Read the full autonomy reference](reference/autonomy.md).
 
 ## Base rate {#base-rate}
 
@@ -28,6 +32,8 @@ A way of describing personality on five broad scales. A person can be higher or 
 
 [Read in Chapter 6](chapters/06-personality-habits-situations.md#definition-big-five).
 
+[Explore the five personality dimensions](reference/index.md#personality).
+
 ## Boundary {#boundary}
 
 A limit on what you will accept or take part in, backed by an action you can take.
@@ -35,6 +41,8 @@ A limit on what you will accept or take part in, backed by an action you can tak
 **Example:** “I will bring food, but I will not organise a gathering I did not agree to organise.”
 
 [Read in Chapter 11](chapters/11-conflict-manipulation-boundaries.md#definition-boundary).
+
+[Read the full boundaries reference](reference/boundaries.md).
 
 ## Cognitive flexibility {#cognitive-flexibility}
 
@@ -52,6 +60,8 @@ In self-determination theory, feeling able to handle a task and make progress.
 
 [Read in Chapter 3](chapters/03-needs-motives-goals.md#definition-competence).
 
+[Read the full competence reference](reference/competence.md).
+
 ## Confirmation bias {#confirmation-bias}
 
 Looking for information—or understanding it in a way—that supports what you already believe.
@@ -60,6 +70,8 @@ Looking for information—or understanding it in a way—that supports what you 
 
 [Read in Chapter 1](chapters/01-before-you-explain.md#definition-confirmation-bias) · [Explore causes, recognition and practice](reference/confirmation-bias.md).
 
+[Read the full confirmation-bias reference](reference/confirmation-bias.md).
+
 ## Correspondence bias {#correspondence-bias}
 
 Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.
@@ -67,6 +79,8 @@ Deciding that someone’s behaviour shows what they are like as a person, while 
 **Example:** A colleague gives a short reply. You decide they are rude without considering that they are facing an urgent deadline. You have judged their character while overlooking a possible situational explanation.
 
 [Read in Chapter 1](chapters/01-before-you-explain.md#definition-correspondence-bias) · [Explore causes, recognition and practice](reference/correspondence-bias.md).
+
+[Read the full correspondence-bias reference](reference/correspondence-bias.md).
 
 ## Corroboration {#corroboration}
 
@@ -92,6 +106,8 @@ Doing an activity for a result beyond the activity itself. The result may matter
 
 [Read in Chapter 3](chapters/03-needs-motives-goals.md#definition-extrinsic-motivation).
 
+[Explore motivation and incentives](reference/motivation.md).
+
 ## Gaslighting {#gaslighting}
 
 Psychological abuse that undermines someone’s trust in their own memory, perceptions or judgment. One disagreement about a memory is not enough to establish it.
@@ -100,6 +116,8 @@ Psychological abuse that undermines someone’s trust in their own memory, perce
 
 [Read in Chapter 11](chapters/11-conflict-manipulation-boundaries.md#definition-gaslighting).
 
+[Read the full gaslighting reference](reference/gaslighting.md).
+
 ## Habit {#habit}
 
 A learned tendency to respond fairly automatically when a familiar situation occurs.
@@ -107,6 +125,8 @@ A learned tendency to respond fairly automatically when a familiar situation occ
 **Example:** After many evenings spent scrolling on the sofa, Alex sits down there and reaches for the phone before deciding what to do. The familiar setting prompts the familiar action.
 
 [Read in Chapter 6](chapters/06-personality-habits-situations.md#definition-habit).
+
+[Read the full habits reference](reference/habits.md).
 
 ## If–then plan {#if-then-plan}
 
@@ -123,6 +143,8 @@ Doing an activity because you enjoy it or find the activity itself interesting.
 **Example:** Leila gardens because she enjoys growing plants.
 
 [Read in Chapter 3](chapters/03-needs-motives-goals.md#definition-intrinsic-motivation).
+
+[Explore motivation and incentives](reference/motivation.md).
 
 ## Leading question {#leading-question}
 
@@ -148,6 +170,8 @@ Reasoning in which what you want to be true influences how you judge the informa
 
 [Read in Chapter 4](chapters/04-beliefs-identity-history.md#definition-motivated-reasoning).
 
+[Explore beliefs, identity and motivated reasoning](reference/identity.md).
+
 ## Narrative identity {#narrative-identity}
 
 The changing story you tell about your life: how your past, present and hopes for the future fit together.
@@ -155,6 +179,8 @@ The changing story you tell about your life: how your past, present and hopes fo
 **Example:** Suppose Dev describes learning to manage alone when he was younger. He sees independence as part of who he is now and wants to keep it in the future. This story connects his past, present and hopes.
 
 [Read in Chapter 4](chapters/04-beliefs-identity-history.md#definition-narrative-identity).
+
+[Explore identity and beliefs](reference/identity.md).
 
 ## Open question {#open-question}
 
@@ -171,6 +197,8 @@ A tendency in how someone thinks, feels or behaves across occasions. It does not
 **Example:** Alex often prefers quieter gatherings but sometimes enjoys a large party.
 
 [Read in Chapter 6](chapters/06-personality-habits-situations.md#definition-personality-trait).
+
+[Explore the personality references](reference/index.md#personality).
 
 ## Prescriptive norm {#prescriptive-norm}
 

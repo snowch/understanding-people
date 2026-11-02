@@ -1,0 +1,1613 @@
+{
+  "entries": [
+    {
+      "id": "acknowledging",
+      "cue": "Show what you understood before adding your view.",
+      "meaning": "Acknowledging another perspective means recognising what the person is saying, experiencing or prioritising without necessarily agreeing with their conclusion. It can make an exchange clearer because each person can check whether their concern was understood. It is different from endorsing an unverified fact or taking responsibility for something you did not do.",
+      "arise": "People can argue past one another when each response addresses the point they expected rather than the one actually raised. A quick reassuring phrase may sound dismissive if it skips the concern. Equally, a careful summary can become a tactic if you use it only to move faster toward your preferred answer.",
+      "alternatives": "Understanding, validating an experience and agreeing on facts are different actions. You can recognise distress while leaving an explanation uncertain. You can also disagree with an unfair accusation after checking what it means. Acknowledgment does not require accepting abuse, promising a solution or making your own concern disappear.",
+      "notice": "Identify the point in the person’s own account: a consequence, need, interpretation or request. Ask whether your summary is accurate rather than declaring that you now know how they feel. Notice what they correct. Include your own part in the interaction and whether you have actually left room for an answer.",
+      "respond": "Use a short, specific summary and then state your view or question. Avoid mechanical phrases that label an emotion the person has not named. If there is a disputed fact, separate it from the effect or concern you can acknowledge. In a harmful exchange, a relevant limit or support route may matter more than continuing the conversation.",
+      "example": "Fictional example: “You are worried that the new rota removes your only free evening. Have I understood?” acknowledges the practical concern without promising the rota can remain unchanged. The next discussion can address that cost and the other constraints.",
+      "takeaways": [
+        "Acknowledgment is not automatic agreement.",
+        "Let the person correct your understanding.",
+        "Recognise the concern without erasing your own needs or limits."
+      ],
+      "practice": [
+        "Choose one disagreement and write the other person’s concern as you understand it.",
+        "Offer a brief summary and ask what you missed, if discussion is appropriate.",
+        "Review what was corrected and whether the actual issue became easier to discuss."
+      ],
+      "sources": [
+        "eyal",
+        "listening"
+      ],
+      "related": [
+        {
+          "node": "boundaries",
+          "relationship": "can coexist with",
+          "why": "You can recognise a concern and still keep a limit."
+        },
+        {
+          "node": "minimising",
+          "relationship": "consider alongside",
+          "why": "Recognising an effect is different from agreeing with every interpretation."
+        },
+        {
+          "node": "dismissing-needs",
+          "relationship": "consider alongside",
+          "why": "Recognising a need does not require meeting every request."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "listening",
+      "cue": "Check understanding before solving the problem.",
+      "meaning": "Listening involves attending to another person’s account, making room for it and checking what you understood. It is an active contribution to information and connection, not simply waiting silently or agreeing. It can be particularly useful when your first explanation of the problem differs from the speaker’s.",
+      "arise": "Attention can be pulled toward preparing a reply, defending yourself, identifying a solution or comparing the story with your own. Those responses may be understandable while limiting what you hear. A person may need acknowledgment before advice, or may want practical action rather than a long discussion. Ask rather than assume.",
+      "alternatives": "Listening is not a guarantee of accuracy, honesty or agreement. A speaker can be mistaken, omit information or want something you cannot provide. Silence can reflect disengagement as well as attention. You can listen carefully and still set a limit, ask for evidence or decide that a conversation is unsafe or unproductive.",
+      "notice": "Notice whether you can state the main concern without adding your preferred explanation. Ask a relevant open question and check key terms. Pay attention to interruptions, pace, privacy and access needs. Include what you do not yet understand and distinguish the person’s report from independently established facts.",
+      "respond": "Agree what kind of conversation is wanted: listening, ideas, a decision or help with a task. Use brief clarification and summaries rather than interrogation. Ask before giving advice and explain honestly if you lack time or knowledge. If you are being insulted or threatened, you do not have to continue listening as a test of empathy.",
+      "example": "Fictional example: A friend describes a difficult day. You begin planning solutions, then ask whether they want ideas or someone to hear them. They say they need help composing one message. Checking the purpose changes your contribution without assuming that talking alone was the goal.",
+      "takeaways": [
+        "Listening supplies attention and better questions, not automatic agreement.",
+        "Clarify whether the person wants understanding, ideas or action.",
+        "Your time, access needs and safety remain relevant."
+      ],
+      "practice": [
+        "In one ordinary conversation, notice when you start preparing a solution or defence.",
+        "Ask one useful clarification and check what contribution the person wants.",
+        "Review what you learned that you would otherwise have missed."
+      ],
+      "sources": [
+        "listening",
+        "eyal"
+      ],
+      "related": [
+        {
+          "node": "clearrequest",
+          "relationship": "can clarify",
+          "why": "Checking understanding can help reveal what a request means to each person."
+        },
+        {
+          "node": "criticism",
+          "relationship": "possible response",
+          "why": "Where it is useful and safe, ask which specific concern sits behind the comment."
+        },
+        {
+          "node": "repairing",
+          "relationship": "possible next step",
+          "why": "Listening may clarify what needs repairing, without guaranteeing reconciliation."
+        },
+        {
+          "node": "language-context",
+          "relationship": "consider alongside",
+          "why": "Checking meaning is more reliable than judging delivery."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "repairing",
+      "cue": "Return to the missed meaning and the needed change.",
+      "meaning": "Repair after a misunderstanding means identifying where an exchange went wrong and making a useful correction. It may involve a word, an assumption, an action or a relationship expectation. It is more than restarting as though nothing happened, and it need not require deciding that one person is entirely at fault.",
+      "arise": "Misunderstandings can grow when people respond to an inferred intention, use the same phrase differently or assume that a concern was already understood. Defending the original intention may then obscure the effect. Both parties can contribute to confusion, while responsibility for a harmful action remains specific rather than cancelled out.",
+      "alternatives": "A misunderstanding differs from a disagreement about values or an established breach of an agreement. Calling repeated conduct a misunderstanding does not make it one. A useful repair can clarify meaning without restoring trust immediately or requiring forgiveness. The person affected can still need a practical limit.",
+      "notice": "Identify the exact wording, expectation or action that diverged. Ask what each person understood at the time, and compare with any relevant record. Notice whether new information changes the account or whether the same concern is being dismissed again. Include what you can own without accepting an inaccurate global accusation.",
+      "respond": "State the correction, acknowledge the relevant effect and agree the next action. If you made an unsupported assumption, say what you now understand differently. If a commitment was missed, address practical repair and prevention as well as wording. Review later follow-through rather than treating a smooth conversation as proof the issue is resolved.",
+      "example": "Fictional example: You thought “I support the idea” meant a colleague would recommend it in a meeting. They meant it was promising but unfinished. Clarifying the remaining work and how future support will be stated repairs a specific expectation without settling every question about the relationship.",
+      "takeaways": [
+        "Locate the actual divergence in meaning or action.",
+        "Clarification and accountability can both be needed.",
+        "Trust depends on what follows as well as what is said."
+      ],
+      "practice": [
+        "Write one point where your understanding and the other person’s may have differed.",
+        "Ask a specific clarification or make a correction you own.",
+        "Review whether the next agreement and later conduct became clearer."
+      ],
+      "sources": [
+        "eyal",
+        "apology",
+        "intentions"
+      ],
+      "related": [
+        {
+          "node": "history",
+          "relationship": "context to examine",
+          "why": "A repair sits within a history; one conversation does not settle it."
+        },
+        {
+          "node": "review",
+          "relationship": "useful follow-up",
+          "why": "Notice what changes after the conversation."
+        },
+        {
+          "node": "listening",
+          "relationship": "possible next step",
+          "why": "Listening may clarify what needs repairing, without guaranteeing reconciliation."
+        },
+        {
+          "node": "minimising",
+          "relationship": "consider alongside",
+          "why": "A useful repair addresses the action and what changes next."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "followthrough",
+      "cue": "Compare the promise with the route to action.",
+      "meaning": "Agreeing and then not following through describes a gap between an apparent commitment and later conduct. It can affect trust and transfer work to others. The gap deserves attention, but it does not reveal one cause by itself. First establish what was actually agreed, rather than treating encouragement or silence as a promise.",
+      "arise": "Possible contributors include unclear scope, changed capacity, a skill or access problem, competing priorities, avoidance of an uncomfortable no or deliberate disregard. Several can coexist. Wanting an outcome and being able to carry out the next step are different. A repeated gap may also persist because others reliably rescue the work.",
+      "alternatives": "A single failure differs from a recurring pattern, while an explanation is not automatically an excuse. Changed conditions can justify renegotiation without making the original impact disappear. Forgetting, unwillingness and inability are different questions. Do not assume that a confident promise guarantees feasibility.",
+      "notice": "Compare the wording, owner, timing and conditions of the commitment with what happened. Include completed tasks and exceptions, not only failures. Ask when the person knew the plan was at risk and what prevented an early warning. Notice whether your own requests leave room for refusal or rely on unspoken coordination work.",
+      "respond": "Agree a narrower, realistic action and an early warning point. Clarify what happens if it cannot be completed rather than planning indefinite rescue. You may need a different arrangement when reliability remains insufficient, even without a settled motive. If you are the person missing commitments, acknowledge the effect and change the process rather than offering a larger promise.",
+      "example": "Fictional example: A friend agrees to book tickets but does not. Asking reveals they expected to be reimbursed first, while you expected payment afterward. Clarifying the process addresses this occasion; later follow-through still needs to show whether the new arrangement works.",
+      "takeaways": [
+        "Establish the commitment before interpreting the gap.",
+        "A feasible plan and early warning matter alongside intention.",
+        "Repeated unreliability can justify a different arrangement."
+      ],
+      "practice": [
+        "Compare one missed commitment with its actual wording and conditions.",
+        "Agree a feasible next action, owner and warning point.",
+        "Review completion and the burden on others, including whether a different arrangement is needed."
+      ],
+      "sources": [
+        "intentions",
+        "comb",
+        "planning"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "can help explore",
+          "why": "Missing a commitment is a starting point for questions, not proof of weak motivation."
+        },
+        {
+          "node": "competing",
+          "relationship": "possible explanation",
+          "why": "The agreed task may conflict with another priority. Ask rather than assume."
+        },
+        {
+          "node": "capacity",
+          "relationship": "possible explanation",
+          "why": "Time, transport, skills or resources might prevent the action."
+        },
+        {
+          "node": "avoidconflict",
+          "relationship": "possible intention",
+          "why": "Someone might say yes to avoid disagreement; a missed task alone does not establish this."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "interrupt",
+      "cue": "Notice what the overlap does to the conversation.",
+      "meaning": "Interrupting means entering another person’s turn before they have finished, but conversational overlap can serve different functions. It can express enthusiasm, clarify a point, warn of a problem or take away someone’s opportunity to contribute. The effect and recurring pattern matter more than applying one meaning to every overlap.",
+      "arise": "Pace, excitement, role expectations, language, attention and learned conversation styles can influence turn-taking. Some groups tolerate more overlap than others. An interruption can also reflect unequal power when certain people repeatedly lose the floor. Possible influences do not remove the need to address the effect.",
+      "alternatives": "Not all interruptions are disrespectful, and quietness does not guarantee respectful listening. An urgent warning differs from repeated topic takeover. A person may also need an accessible way to signal a point before it is lost. Avoid inferring ADHD, aggression or a personality type from interrupting alone.",
+      "notice": "Compare who interrupts, who is interrupted, whether the original point returns and how people respond when the floor is requested. Ask about the speaker’s experience rather than judging only from your own tolerance. Notice your own tendency to finish sentences, offer advice or treat a pause as an invitation to change topics.",
+      "respond": "For ordinary exchanges, name the practical need: finishing a thought, clarifying turn-taking or making room for a quieter contribution. If you interrupted, return the floor without a lengthy self-defence. In groups, use a structure that fits the task and access needs. If a request repeatedly brings ridicule or retaliation, examine the wider pattern.",
+      "example": "Fictional example: You start explaining your experience while a friend is still describing theirs. Saying “I cut across you—please finish” repairs the immediate turn. It is more useful than deciding that good intentions mean no interruption occurred.",
+      "takeaways": [
+        "Overlap can have different functions and effects.",
+        "Look at whose contribution is repeatedly lost.",
+        "A brief repair can return the floor."
+      ],
+      "practice": [
+        "Notice one interruption, its context and what happened to the original point.",
+        "Try a clear turn-taking request or return the floor when you interrupt.",
+        "Review whether participation improved and whether the pattern changed across later exchanges."
+      ],
+      "sources": [
+        "listening",
+        "eyal",
+        "power",
+        "culture"
+      ],
+      "related": [
+        {
+          "node": "audience",
+          "relationship": "context to examine",
+          "why": "Check whether the pattern changes with the group or setting."
+        },
+        {
+          "node": "extraversion",
+          "relationship": "do not infer from one event",
+          "why": "Talkativeness is not enough to assign a trait or explain an interruption."
+        },
+        {
+          "node": "power",
+          "relationship": "context to examine",
+          "why": "Check who can interrupt whom without consequences."
+        },
+        {
+          "node": "clearrequest",
+          "relationship": "possible response",
+          "why": "Ask to finish a point and see whether the pattern changes, where it is safe to do so."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "thirdparty",
+      "cue": "Clarify the third person’s role and consent.",
+      "meaning": "Involving a third person can provide support, information, mediation or accountability. It can also carry pressure, disclose private material or create competing stories. The action is not automatically manipulation. Popular uses of triangulation often combine several different arrangements that need examining separately.",
+      "arise": "People may seek help because direct conversation is difficult, expertise is needed or safety is a concern. They may also recruit agreement, pass messages or avoid speaking directly about an ordinary issue. These are possibilities, not a complete list. The relevant question is what role the third person plays and what effect the involvement has.",
+      "alternatives": "Confidential advice differs from publicly recruiting allies. Appropriate safeguarding or reporting can require involving others without everyone’s approval. Mediation requires conditions different from taking sides, and may be unsuitable where threats or coercion limit safe participation. Do not require someone to confront you directly before they are allowed to seek support.",
+      "notice": "Ask what information was shared, with whom, for what purpose and with what authority or consent. Distinguish direct accounts from repeated reports of the same source. Notice whether the third person can hear each relevant perspective or is being asked to deliver a verdict. Include your own privacy and role limits.",
+      "respond": "For an ordinary conflict, agree whether the third person is advising, facilitating, making a decision or simply listening. Share only information necessary for that role. Avoid using them to pressure someone into contact or agreement. Where safety, rights or a formal process are involved, use an appropriate professional route rather than an informal family court.",
+      "example": "Fictional example: Two siblings ask an aunt to help arrange care duties. Agreeing that she will clarify options rather than decide who is the good child gives her a useful role. Either sibling can still seek separate confidential advice.",
+      "takeaways": [
+        "Third-party involvement can help or create pressure.",
+        "Purpose, information-sharing and authority need clarity.",
+        "A person may seek support without first confronting the person concerned."
+      ],
+      "practice": [
+        "Describe one third-party involvement and the role each person appears to expect.",
+        "Clarify purpose, privacy and decision authority where appropriate.",
+        "Review whether the involvement improved information or options without multiplying pressure and disputed reports."
+      ],
+      "sources": [
+        "eyal",
+        "fairness",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "persuade",
+          "relationship": "possible intention",
+          "why": "Involving another person may aim to change the decision, or may seek mediation or support."
+        },
+        {
+          "node": "power",
+          "relationship": "context to examine",
+          "why": "Who the third person is and what authority they hold can matter."
+        },
+        {
+          "node": "clearrequest",
+          "relationship": "possible response",
+          "why": "Clarify whether you are agreeing to mediation, seeking support or bypassing a decision."
+        },
+        {
+          "node": "familynorms",
+          "relationship": "context to examine",
+          "why": "Families may differ in who is normally involved in decisions."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "withdraw",
+      "cue": "Distinguish a needed pause from an unresolved pattern.",
+      "meaning": "Withdrawing from a conversation can mean leaving, becoming quiet, stopping replies or asking for space. It can protect concentration, privacy, emotional regulation or safety. It can also leave a shared issue indefinitely unresolved. The action alone does not reveal which explanation is correct.",
+      "arise": "A person may be overloaded, unsure what to say, uninterested in continuing or expecting hostility. They may also use disengagement to avoid a responsibility or pressure another person. Those possibilities need comparison with the context and later conduct. A request for space should not automatically be treated as rejection or punishment.",
+      "alternatives": "A pause differs from an agreement never to discuss the issue again. Silence after a threat differs from refusing an ordinary clarification in a safe setting. Communication preferences, illness and practical availability may matter too. Nobody is entitled to unlimited conversation, while shared responsibilities can still require a workable route for decisions.",
+      "notice": "Notice what preceded the withdrawal, whether a reason or return point was offered and what happens later. Compare different settings and levels of demand. Ask whether the conversation included interruption, insults or pressure. Include your own response: repeated pursuit can increase overload and may disregard a clear request to stop.",
+      "respond": "For an ordinary shared problem, agree a pause and a suitable time or medium to return. State the practical decision that still needs making without demanding immediate emotional availability. If the other person does not return, decide what you can do within the arrangement and seek support if needed. Where contact is unsafe, prioritise protection rather than re-engagement.",
+      "example": "Fictional example: A partner asks to stop a heated discussion and proposes talking tomorrow about the bill. Keeping that return arrangement provides different evidence from repeatedly disappearing whenever the bill is mentioned and leaving all consequences to you.",
+      "takeaways": [
+        "Withdrawal can protect a need or leave a problem unresolved.",
+        "Later conduct and a return arrangement are informative.",
+        "Respect space while clarifying shared responsibilities."
+      ],
+      "practice": [
+        "Describe one withdrawal, the preceding exchange and any agreed return point.",
+        "Where appropriate, propose a bounded return route or state the practical decision needed.",
+        "Review whether the issue was addressed and whether the interaction remained safe and voluntary."
+      ],
+      "sources": [
+        "flexibility",
+        "avoidance-review",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "stress",
+          "relationship": "possible context",
+          "why": "A pause may create space to recover when overwhelmed."
+        },
+        {
+          "node": "punish",
+          "relationship": "possible intention",
+          "why": "Withdrawal could be punitive, but silence alone cannot establish that purpose."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "distinguish from",
+          "why": "A stated limit or time-limited pause can differ from an unexplained repeated refusal to engage."
+        },
+        {
+          "node": "avoidconflict",
+          "relationship": "possible intention",
+          "why": "Avoiding an argument is one possibility; inability to respond is another."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "defensive",
+      "cue": "Check what is being defended before choosing your reply.",
+      "meaning": "Responding defensively can involve justifying, counterattacking, denying or focusing on the critic’s faults when a concern is raised. It describes a pattern in an exchange, not proof that the criticism is correct or that the person lacks care. A reasonable defence against an inaccurate accusation can look similar from the outside.",
+      "arise": "Criticism may be heard as a global judgment about competence or worth, especially when public or harsh. The person may be protecting an identity, avoiding shame, disputing facts or resisting responsibility. These are possible influences rather than a mind-reading method. You can also become defensive while believing you are simply explaining.",
+      "alternatives": "Explaining context, correcting an error and refusing abuse are different from evading a specific responsibility. The critic may also be unfair, vague or controlling. Do not require instant agreement as proof of openness. Equally, an objection to tone does not settle whether the underlying concern needs a response.",
+      "notice": "Identify the exact criticism and the response. Can both people state the disputed action and its effect? Does the discussion move to unrelated faults before addressing it? Compare how the person responds to specific, private feedback and whether changes follow. Notice your own urge to prove innocence rather than understand what happened.",
+      "respond": "Separate the factual question, the effect and the requested change. Acknowledge a part you can own without accepting a global label. Ask for a concrete example when criticism is vague. If the exchange becomes insulting or threatening, pause or seek support. A calmer discussion is useful only if the actual issue remains discussable.",
+      "example": "Fictional example: When told you missed an agreed update, you begin listing the other person’s late replies. Returning to whether your update was sent keeps one responsibility visible. Their conduct can be discussed separately rather than used to cancel yours.",
+      "takeaways": [
+        "A defensive-looking response does not prove the criticism.",
+        "Specific responsibility can coexist with context or disagreement.",
+        "Keep the issue discussable without accepting abuse."
+      ],
+      "practice": [
+        "Recall one criticism and separate its factual claim from a global judgment you heard.",
+        "Ask a specific clarification or acknowledge one action you own.",
+        "Review whether the concern was addressed and whether your response left room for learning."
+      ],
+      "sources": [
+        "shame",
+        "kunda",
+        "listening"
+      ],
+      "related": [
+        {
+          "node": "identity",
+          "relationship": "possible connection",
+          "why": "A suggestion might be heard as a judgment about who someone is."
+        },
+        {
+          "node": "fairness",
+          "relationship": "possible concern",
+          "why": "The person might believe the criticism is inaccurate or unfair."
+        },
+        {
+          "node": "stress",
+          "relationship": "possible context",
+          "why": "Overload is one possible contributor, not a diagnosis from a reaction."
+        },
+        {
+          "node": "alternatives",
+          "relationship": "useful response",
+          "why": "Check what was heard before deciding the person cannot accept feedback."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "criticism",
+      "cue": "Separate the useful issue from the way it is delivered.",
+      "meaning": "Repeated criticism involves recurring negative evaluation of someone’s work, choices or conduct. It can include necessary feedback, an unresolved standards dispute or a demeaning pattern. Frequency alone does not distinguish them. The content, context, proportionality and opportunity to respond all matter.",
+      "arise": "A person may be trying to correct a real problem, expressing frustration, applying an unclear standard or seeking influence. Public criticism can also affect status and willingness to speak. These are possible explanations, not an exhaustive list or a way to establish intent. A legitimate concern can be delivered harmfully, and an unpleasant delivery does not automatically make every factual point wrong.",
+      "alternatives": "Specific feedback differs from a global judgment such as “You are useless.” A demanding role can justify careful review without justifying humiliation. A person may feel criticised by an ordinary disagreement, while another may minimise a genuine pattern. Compare the conduct and effects rather than deciding from either label alone.",
+      "notice": "Collect a few representative examples, including what was criticised, the stated standard, the audience and what followed. Include positive or ordinary feedback and whether the same standard applies to others. Ask whether you can understand what would count as adequate work. If criticism is yours, notice whether it identifies a change or merely communicates dissatisfaction.",
+      "respond": "For an ordinary issue, ask for a specific example and a usable standard. Address any accurate part while requesting a different method of feedback where needed. If the pattern is belittling, discriminatory or retaliatory, consider relevant support and procedures. Do not make your safety or self-respect depend on proving the critic’s psychological motive.",
+      "example": "Fictional example: A manager says a report is poor but gives no criteria. Asking which decision it fails to support and what needs changing makes the issue more concrete. Repeated public insults would remain a separate concern even if the report needs revision.",
+      "takeaways": [
+        "Feedback content and delivery can require separate responses.",
+        "A usable standard matters more than a global label.",
+        "Patterns of humiliation deserve attention without a motive verdict."
+      ],
+      "practice": [
+        "Write one representative criticism, its context and the standard you understood.",
+        "Ask for a concrete correction or choose a suitable support route for harmful conduct.",
+        "Review whether the feedback became usable and respectful, including any repeated pattern."
+      ],
+      "sources": [
+        "fairness",
+        "listening",
+        "eeoc-harassment"
+      ],
+      "related": [
+        {
+          "node": "persuade",
+          "relationship": "possible intention",
+          "why": "The comments may aim to change a decision, but their purpose requires checking."
+        },
+        {
+          "node": "protect",
+          "relationship": "possible intention",
+          "why": "Concern about a risk is one possibility; criticism alone is not evidence of care."
+        },
+        {
+          "node": "status",
+          "relationship": "possible goal",
+          "why": "Influence or recognition could matter; consider other explanations too."
+        },
+        {
+          "node": "familynorms",
+          "relationship": "context to examine",
+          "why": "Advice that seems ordinary to one person may feel intrusive to another."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "contempt",
+      "cue": "Describe the belittling action and its effect.",
+      "meaning": "Contempt is often used to describe treating someone as beneath consideration or respect. In everyday interaction it may involve ridicule, demeaning comparison or dismissing a person rather than examining an issue. It is an interpretive description, not something you can reliably diagnose from a single facial movement or tone.",
+      "arise": "A person may be expressing anger, repeating a group norm, asserting status or trying to diminish another person’s standing. These are possibilities. Humour can also become a way to avoid responsibility for a demeaning comment. The stated intention to joke does not settle the effect or whether a pattern is acceptable.",
+      "alternatives": "A blunt disagreement, frustration or an isolated awkward remark is not automatically contempt. Cultural and communication differences can affect interpretation. At the same time, requiring perfect proof of inner superiority can distract from observable insults. You can address name-calling, public ridicule or discriminatory comments without establishing an emotion.",
+      "notice": "Write the words or actions, the setting, who was present and what happened when concern was raised. Compare whether the person respects a request to stop and whether the same targets repeatedly lose standing. Include your own humour and dismissive habits. Avoid treating an eye roll alone as a scientific measure of a relationship’s future.",
+      "respond": "Name the conduct and a specific limit where it is safe to do so. You may decline a conversation involving insults while leaving room for substantive disagreement. In workplaces or groups, use appropriate processes for repeated humiliation or discriminatory treatment. When belittling occurs with threats or control, seek support for the broader pattern rather than trying to earn respect through more patient explanation.",
+      "example": "Fictional example: A relative repeatedly calls you stupid in front of others, then says you cannot take a joke. The words and repetition can be addressed directly. You do not need to demonstrate the relative’s precise feeling of superiority before choosing a limit or support.",
+      "takeaways": [
+        "Address observable belittling without claiming to read an emotion.",
+        "A joke explanation does not erase repeated harmful effects.",
+        "Respectful disagreement and humiliation are different."
+      ],
+      "practice": [
+        "Describe one demeaning action and its effect without a personality label.",
+        "Choose a safe specific limit or relevant support route.",
+        "Review whether conduct changed and whether the wider pattern restricts your choices."
+      ],
+      "sources": [
+        "status",
+        "fairness",
+        "nhs-abuse",
+        "eeoc-harassment"
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "relationship": "consider alongside",
+          "why": "A useful correction and a demeaning delivery can coexist."
+        },
+        {
+          "node": "minimising",
+          "relationship": "consider alongside",
+          "why": "Calling it a joke may leave the impact unaddressed."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "You can limit participation in degrading exchanges."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "minimising",
+      "cue": "Keep the actual effect in view.",
+      "meaning": "Minimising describes presenting an event or its effects as less important than another person’s account suggests. It can concern harm, workload, risk or a broken agreement. The label does not settle which account is accurate. The practical task is to clarify what happened and which consequences need addressing.",
+      "arise": "A person may be embarrassed, protecting a self-image, lacking information or genuinely assessing the effect differently. They may also be trying to avoid accountability. Several explanations can coexist. Your own wish to move on can make an effect seem smaller than it was for the person who bore it.",
+      "alternatives": "Different perspectives and uncertainty about severity are not automatically manipulation. An observer may need evidence to understand a claim. Conversely, saying that no harm was intended does not establish that no harm occurred, and being unable to quantify an effect does not make it irrelevant. Repeated dismissal alongside control or intimidation raises a wider concern.",
+      "notice": "Separate the event, the reported effect, the disputed interpretation and the requested response. Ask which part is being questioned. Check relevant records where available, but do not require someone to prove every feeling. Notice whether the discussion allows acknowledgment or repeatedly returns to “It was nothing” without examining the consequences.",
+      "respond": "If you may have minimised, ask about the specific effect and respond to the part you can establish. If affected, state what changed for you and what practical correction or limit matters. You do not need the other person to adopt an identical emotional reaction. If discussion becomes a repeated barrier to support or protection, seek another suitable route.",
+      "example": "Fictional example: A colleague says missing a deadline was “only a day,” while you had to cancel a booked service. Naming the cancellation cost makes the effect discussable without requiring a verdict about whether the colleague is generally uncaring.",
+      "takeaways": [
+        "Intent, severity and effect are different questions.",
+        "A practical consequence can matter without identical emotional reactions.",
+        "Repeated dismissal may require a different response route."
+      ],
+      "practice": [
+        "Describe one event, its effect and the exact point being disputed.",
+        "Ask for or offer a specific acknowledgment, correction or relevant safeguard.",
+        "Review whether the consequence was addressed rather than only whether the discussion ended."
+      ],
+      "sources": [
+        "apology",
+        "shame",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "acknowledging",
+          "relationship": "consider alongside",
+          "why": "Recognising an effect is different from agreeing with every interpretation."
+        },
+        {
+          "node": "repairing",
+          "relationship": "consider alongside",
+          "why": "A useful repair addresses the action and what changes next."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "A limit can respond to impact without proving intent."
+        },
+        {
+          "node": "contempt",
+          "relationship": "consider alongside",
+          "why": "Calling it a joke may leave the impact unaddressed."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "denial",
+      "cue": "Check accuracy before claiming deliberate distortion.",
+      "meaning": "Denying an event or agreement means saying it did not happen or did not have the meaning another person reports. Denial can be accurate, mistaken, partial or deliberately misleading. The disagreement itself cannot establish which. A relevant record can clarify part of the event while leaving context or intention uncertain.",
+      "arise": "People can remember differently, interpret a phrase differently, forget or protect themselves from an unwelcome consequence. A person may also deliberately contradict something they know occurred. These possibilities require different evidence. The fact that memory can be influenced does not prove that your memory, or another person’s account of harm, is false.",
+      "alternatives": "A correction differs from blanket dismissal. An agreement may have been conditional, misunderstood or never made explicitly. Repeated denial can also form part of a wider attempt to undermine someone’s confidence or avoid responsibility. Do not identify gaslighting from one disputed recollection or rule it out merely because a single event has ambiguity.",
+      "notice": "Write what each account claims, how each person knows and which detail could be checked. Use legitimate relevant records, noting what they cannot establish. Distinguish direct evidence from several people repeating the same report. Notice whether clarification leads to correction, continued uncertainty or attacks on your credibility.",
+      "respond": "For an ordinary dispute, clarify what can be established and make the next agreement explicit. You can choose a safeguard or limit without extracting a confession. If contradictions occur alongside intimidation, restricted choices or systematic discrediting, consider appropriate support and safe record-keeping. Repeatedly arguing for acknowledgment may not be the most useful or safe next step.",
+      "example": "Fictional example: You remember an offer as a promise to help on Saturday; a message says “possibly, if work finishes.” The record supports a conditional offer. A different case with a clear written commitment would require a different conclusion.",
+      "takeaways": [
+        "Disputed recollection does not establish deliberate deception.",
+        "Records clarify particular facts, not every motive.",
+        "A recurring pattern and response to evidence matter."
+      ],
+      "practice": [
+        "Write the two accounts and what evidence could distinguish them.",
+        "Check one legitimate source or make a future agreement clearer.",
+        "Record what was established, what remains uncertain and what practical response is needed."
+      ],
+      "sources": [
+        "memory",
+        "deception",
+        "gaslighting"
+      ],
+      "related": [
+        {
+          "node": "gaslighting",
+          "relationship": "consider alongside",
+          "why": "A disputed fact and a wider pattern of undermining credibility are different concerns."
+        },
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "Explicit terms reduce ambiguity in future arrangements."
+        },
+        {
+          "node": "deception",
+          "relationship": "consider alongside",
+          "why": "An inconsistency needs checking rather than a body-language verdict."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "deflecting",
+      "cue": "Make room for context without losing the issue.",
+      "meaning": "Deflecting or changing the subject describes a conversational shift that moves attention away from a concern. It may be deliberate avoidance, a response to a different understanding of the problem, a need for context or simple distraction. The shift alone does not establish motive or determine whether the original concern is valid.",
+      "arise": "A person may feel accused and raise your conduct in return, or believe another event must be understood first. You may also change topics when your own responsibility is uncomfortable. These possibilities should be examined through what happens to the issue, not a confident account of why the person did it.",
+      "alternatives": "Providing relevant context is different from making every concern impossible to address. A second grievance may be legitimate even when it is raised at an unhelpful moment. A pause requested for safety or overload is not automatically evasion. Avoid insisting on an immediate answer when the setting is unsuitable.",
+      "notice": "Identify the original question and the new topic. Ask how they relate and whether both can be addressed in a useful order. Notice whether the original issue ever receives a response or whether every attempt ends elsewhere. Include your own framing: a vague global accusation can make it hard to know what answer is being sought.",
+      "respond": "For an ordinary discussion, state the concrete issue and agree to return to the other concern separately. Summarise what is still unanswered and propose a suitable time or medium. If the person refuses, decide what practical action is available rather than escalating interrogation. Where threats or coercion are involved, a support route may be safer than trying to keep the conversation on track.",
+      "example": "Fictional example: Asked about an unpaid bill, someone raises your late replies. You can acknowledge that replies deserve a separate discussion while asking who will pay the bill and when. The second issue need not cancel the first.",
+      "takeaways": [
+        "A topic shift can have several explanations.",
+        "Relevant context and indefinite evasion differ in their effects.",
+        "Keep separate responsibilities visible without forcing an unsafe exchange."
+      ],
+      "practice": [
+        "Write one original concern and the topic that replaced it.",
+        "Clarify their connection and propose an order for addressing both where appropriate.",
+        "Review whether the specific issue received a usable answer or requires another arrangement."
+      ],
+      "sources": [
+        "eyal",
+        "shame",
+        "intentions"
+      ],
+      "related": [
+        {
+          "node": "withdraw",
+          "relationship": "consider alongside",
+          "why": "A pause and an indefinite avoidance require different responses."
+        },
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "A return point makes the next step explicit."
+        },
+        {
+          "node": "accountability",
+          "relationship": "consider alongside",
+          "why": "Responsibility can be discussed without resolving every past dispute first."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "blame-shifting",
+      "cue": "Separate each person’s action and responsibility.",
+      "meaning": "Shifting responsibility describes redirecting accountability for an action toward another person or circumstance. The description can be useful when an explanation repeatedly leaves the actor with nothing to own. It is not proof that context is irrelevant or that every shared problem belongs to one person.",
+      "arise": "A person may avoid shame, dispute the facts, misunderstand their role or genuinely identify another contributor. You can do the same when you focus on what provoked you rather than what you chose. Context can explain difficulty without making a harmful response inevitable.",
+      "alternatives": "Shared responsibility differs from cancelling one action with another. A system failure can involve several owners; a person can also be blamed unfairly for something beyond their role. Distinguish the event, available choices, agreed duties and consequences. A victim is not responsible for another person choosing abuse merely because a disagreement preceded it.",
+      "notice": "Ask who did what, what each person controlled and what would need changing to prevent recurrence. Check relevant agreements and information rather than relying on a broad accusation. Notice whether an account can include both circumstances and a concrete acknowledgment. Include exceptions where responsibility was accepted and acted on.",
+      "respond": "Own your part specifically and make a feasible repair. When another person redirects blame, return to the particular action or duty while allowing a separate discussion of relevant contributions. If the exchange becomes a demand that you accept responsibility for threats or harm done to you, seek support rather than negotiating over how you caused it.",
+      "example": "Fictional example: You snapped at a colleague after receiving an unclear brief. The brief may need improving, and you still own the insulting reply. Correcting the process and apologising for the reply address separate responsibilities.",
+      "takeaways": [
+        "Context and ownership can coexist.",
+        "Another person’s mistake does not erase your action.",
+        "Nobody causes another person’s chosen abuse by failing to behave perfectly."
+      ],
+      "practice": [
+        "Describe one event and each person’s actual role or choice.",
+        "Acknowledge or request a specific responsibility and a practical correction.",
+        "Review follow-through and whether the explanation kept relevant context without erasing ownership."
+      ],
+      "sources": [
+        "apology",
+        "shame",
+        "fairness",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "accountability",
+          "relationship": "consider alongside",
+          "why": "Taking responsibility leaves room to discuss context."
+        },
+        {
+          "node": "coercive-patterns",
+          "relationship": "consider alongside",
+          "why": "Blaming someone for abuse does not make them responsible for it."
+        },
+        {
+          "node": "repairing",
+          "relationship": "consider alongside",
+          "why": "Repair starts with the part one can change."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "taking-credit",
+      "cue": "Trace the contribution before judging character.",
+      "meaning": "Taking or withholding credit concerns how contributions are represented. It can involve presenting shared work as one person’s achievement, omitting a contributor or assigning responsibility inaccurately. It affects recognition and sometimes opportunities or pay. An error in attribution and a deliberate appropriation require different evidence.",
+      "arise": "Roles may be unclear, a summary may be careless or someone may be seeking recognition or advantage. People can also overestimate their own visible contribution while overlooking coordination and support. These are possible explanations, not an excuse to leave attribution inaccurate.",
+      "alternatives": "Leadership, sponsorship, authorship and doing a task are different contributions. Credit need not be distributed identically to be accurate. A disagreement about contribution is not automatically narcissism or jealousy. At the same time, a polished public account does not override records of who did the work.",
+      "notice": "Identify the specific representation, the actual contributions and the standard relevant to the setting. Use records you can legitimately access, including prior agreements about authorship or acknowledgment. Notice whose less visible work is omitted repeatedly and what happens when a correction is requested. Examine your own summaries of shared success.",
+      "respond": "Request a precise correction and clarify future attribution before the next presentation or handover. Give credit where the relevant audience can see it, without exposing unnecessary private details. If the pattern affects employment or formal rights, use suitable procedures or advice. You can protect a contribution without proving the other person’s personality or hidden intent.",
+      "example": "Fictional example: A manager introduces a team analysis as their own work. A follow-up note identifying the team’s specific contributions and requesting correction addresses the attribution. Whether the omission was intentional needs more than the omission alone.",
+      "takeaways": [
+        "Credit should reflect actual contributions and applicable standards.",
+        "An attribution error does not reveal its motive by itself.",
+        "Correct the record and clarify future expectations."
+      ],
+      "practice": [
+        "Write one inaccurate attribution and the evidence for each contribution.",
+        "Request or make a specific correction through an appropriate route.",
+        "Review the corrected record and whether future agreements reduce repeated omissions."
+      ],
+      "sources": [
+        "status",
+        "fairness",
+        "exchange"
+      ],
+      "related": [
+        {
+          "node": "status",
+          "relationship": "consider alongside",
+          "why": "A request for credit may correct a real omission."
+        },
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "Credit and responsibility can be agreed together."
+        },
+        {
+          "node": "accountability",
+          "relationship": "consider alongside",
+          "why": "The response to a correction provides useful information."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "dismissing-needs",
+      "cue": "Acknowledge a need without promising to meet it.",
+      "meaning": "Dismissing another person’s needs means treating a reported concern or requirement as unworthy of consideration. It differs from saying that you cannot meet a request or disagree about the proposed solution. A useful exchange can recognise the need while leaving the arrangement open to negotiation.",
+      "arise": "A person may lack information, feel overloaded, see a conflict with their own needs or believe a request is unfair. They may also be avoiding responsibility or exercising control. Several can coexist. Calling something a need does not settle how it must be met, while calling it inconvenient does not make it disappear.",
+      "alternatives": "A request, preference, access requirement, shared duty and immediate safety concern call for different responses. A clear no can be respectful. An apparent accommodation can be coercive if it buys unrelated compliance. Avoid treating all disagreement as invalidation or all expressions of need as manipulation.",
+      "notice": "Clarify the actual difficulty, its impact and what outcome would help. Ask which part is being disputed: existence, importance, responsibility or the proposed method. Notice whether each person can state the other’s concern accurately. Include whose needs are routinely treated as the default and whose must be repeatedly justified.",
+      "respond": "Acknowledge the concern you understand, state real constraints and discuss available options. Make shared duties explicit and use appropriate advice for access or rights issues. If needs are dismissed alongside threats, deprivation or control, seek support for the practical pattern. Understanding does not require endless debate before you protect a legitimate limit.",
+      "example": "Fictional example: A partner needs quiet to work, while another needs to use the room for a call. Naming both requirements allows discussion of timing or another space. Saying “Your work is not important” changes the issue from a scheduling conflict to dismissal.",
+      "takeaways": [
+        "Recognising a need and agreeing to a solution are different.",
+        "Clarify what is disputed and who owns the responsibility.",
+        "Both people’s constraints deserve consideration."
+      ],
+      "practice": [
+        "Describe one need and separate it from your preferred solution.",
+        "Ask what the other person understood and discuss one feasible option or relevant support route.",
+        "Review whether the need and constraints were acknowledged and a practical decision made."
+      ],
+      "sources": [
+        "sdt",
+        "fairness",
+        "eyal",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "narcissistic-behaviour",
+          "relationship": "consider alongside",
+          "why": "Describe how a need was treated rather than assuming an inner absence of empathy."
+        },
+        {
+          "node": "acknowledging",
+          "relationship": "consider alongside",
+          "why": "Recognising a need does not require meeting every request."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "You can act on an unmet need without proving an inner state."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "vulnerability",
+      "cue": "Let disclosure remain a choice.",
+      "meaning": "Avoiding vulnerability describes reluctance to expose uncertainty, feelings, needs or personal information. It can protect privacy or safety, or make a wanted relationship or task harder. The label should not turn someone’s right to withhold information into a defect. Openness is useful only when its purpose and conditions make sense.",
+      "arise": "A person may expect criticism, misuse of information, rejection or an unwanted obligation. They may also lack words, need time or prefer a different kind of closeness. Those possibilities are not a history to invent. Your own response to earlier disclosures can influence whether another person sees sharing as worthwhile.",
+      "alternatives": "Privacy, emotional reserve and boundaries differ from being unable to ask for help or discuss an agreed responsibility. A person can collaborate well without disclosing a painful history. Conversely, sharing intimate material does not automatically establish trustworthiness, care or a safe relationship.",
+      "notice": "Ask what information is actually necessary for the decision or task, and what can remain private. Notice how uncertainty or a mistake is treated when someone does mention it. Compare small, ordinary disclosures with high-stakes ones. Include whether you use another person’s openness later as ammunition or pressure.",
+      "respond": "Offer an appropriate space, a clear purpose and an honest description of privacy limits. Accept a no or a narrower answer. If you want to become more open yourself, choose a small disclosure with someone who has shown relevant trustworthiness, retaining the option to stop. Persistent distress can be explored with suitable support; nobody should have to reveal a history to earn respect.",
+      "example": "Fictional example: A colleague says they need a schedule adjustment but do not want to discuss medical details. Asking what task arrangement would work, and using the appropriate workplace process, may provide what is needed without requiring personal disclosure to the team.",
+      "takeaways": [
+        "Privacy is not inherently a problem to overcome.",
+        "Disclosure should fit a purpose and trustworthy conditions.",
+        "Ask what is needed without demanding an entire history."
+      ],
+      "practice": [
+        "Identify one situation where you want openness and distinguish necessary information from curiosity.",
+        "Invite or offer a small, voluntary disclosure or a practical alternative.",
+        "Review whether choice and useful understanding improved without unnecessary exposure."
+      ],
+      "sources": [
+        "eyal",
+        "belonging",
+        "sdt"
+      ],
+      "related": [
+        {
+          "node": "refusehelp",
+          "relationship": "consider alongside",
+          "why": "Accepting help may involve revealing a need."
+        },
+        {
+          "node": "history",
+          "relationship": "consider alongside",
+          "why": "Previous responses can shape expectations."
+        },
+        {
+          "node": "autonomy",
+          "relationship": "consider alongside",
+          "why": "A person can choose their level of disclosure."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "difficulty-trusting",
+      "cue": "Make trust specific enough to examine.",
+      "meaning": "Difficulty trusting can concern honesty, reliability, discretion, competence or respect for a limit. These are different forms of reliance. You may trust someone to keep a confidence but not manage money, or trust their intentions while needing a clearer plan. A single global judgment often hides the particular risk involved.",
+      "arise": "Expectations can reflect earlier conduct, current uncertainty or experiences in another relationship. A person may need time to learn whether an arrangement is dependable. You cannot assume a prior betrayal from caution, and a person asking for evidence is not automatically suspicious or emotionally damaged.",
+      "alternatives": "A reasonable safeguard differs from surveillance or a demand for unlimited access. Trust is not proven by surrendering privacy. Confidence, warmth and a persuasive apology do not establish future reliability. At the same time, impossible tests can prevent any evidence from counting: one mistake may be treated as decisive while consistent respectful conduct is ignored.",
+      "notice": "Identify what reliance is being considered, what evidence is relevant and what the consequences of failure would be. Compare the person’s conduct in similar arrangements, including repairs and exceptions. Ask which uncertainty a safeguard would address. Include whether your own past actions have made assurances less credible.",
+      "respond": "Use a bounded arrangement with appropriate safeguards and review rather than a demand for total trust. Follow through consistently if you want to be relied on. If trust remains insufficient, you can choose a different arrangement without assigning a personality disorder. Where threats or coercion are present, seek support instead of trying to prove that you can become trusting enough.",
+      "example": "Fictional example: A friend repaid small loans but missed a much larger commitment. You can decline another loan while continuing other parts of the friendship. Trust in one domain does not require identical reliance in every domain.",
+      "takeaways": [
+        "Trust concerns particular forms of reliance.",
+        "Safeguards and privacy can coexist.",
+        "Consistent conduct matters more than a demand to be believed."
+      ],
+      "practice": [
+        "Name one form of reliance, the relevant uncertainty and the cost of failure.",
+        "Choose a proportionate safeguard or a different arrangement.",
+        "Review actual conduct and what it supports, without turning the outcome into a global character verdict."
+      ],
+      "sources": [
+        "apology",
+        "intentions",
+        "eyal",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "history",
+          "relationship": "consider alongside",
+          "why": "Relevant experience can affect current expectations."
+        },
+        {
+          "node": "deception",
+          "relationship": "consider alongside",
+          "why": "Evidence matters more than impressions of honesty."
+        },
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "Clear, limited commitments give something concrete to review."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "reassurance",
+      "cue": "Check what a repeated answer is accomplishing.",
+      "meaning": "Repeatedly asking for reassurance means seeking confirmation that something is safe, acceptable or not a sign of rejection. It can be a reasonable response to missing information. It becomes worth examining when the same answer brings only brief relief, the question quickly returns and time or relationships are affected.",
+      "arise": "A person may be struggling with uncertainty, anxiety, unclear communication or an unreliable arrangement. The answer may also have been vague or inconsistent. These are alternatives to compare, not a diagnosis. Reassurance can communicate care while failing to answer the practical question or changing only discomfort for a short time.",
+      "alternatives": "A new question, a memory difficulty and repeated checking of the same settled detail are different situations. Requests related to health, safety or access can require legitimate professional clarification. OCD and anxiety disorders are separate assessment questions, not labels established by how often someone asks you something.",
+      "notice": "Clarify the exact worry, what is known and what information would change a decision. Notice how long an answer helps and whether anything new prompted the next question. Include the quality and consistency of your own answers. Ask whether the pattern interferes with tasks or contact the person wants.",
+      "respond": "For an ordinary uncertainty, provide a clear answer within your knowledge, acknowledge what is unknown and agree a useful next step. Be honest about your availability. If the pattern is persistent or impairing, encourage appropriate support. Do not abruptly withhold all reassurance as a home treatment, or offer certainty about matters you cannot know; follow an agreed professional plan where one exists.",
+      "example": "Fictional example: A friend repeatedly asks whether you are angry after a short message. Clarifying that you were rushing and agreeing how to flag a real concern can supply relevant information. If the same fear continues to dominate their day, another identical answer may not be enough.",
+      "takeaways": [
+        "Repeated questions can reflect missing information or a recurring relief cycle.",
+        "Check the actual question and the effect of the answer.",
+        "Persistent impairment deserves support rather than improvised treatment."
+      ],
+      "practice": [
+        "Record one repeated question, the answer and how long it helped.",
+        "Clarify a missing fact or agree an appropriate next step or support route.",
+        "Review useful information and functioning, without requiring complete certainty."
+      ],
+      "sources": [
+        "uncertainty-review",
+        "nimh-anxiety",
+        "nimh-ocd"
+      ],
+      "related": [
+        {
+          "node": "uncertainty",
+          "relationship": "possible connection",
+          "why": "An unresolved question or vague answer may contribute to repeated checking."
+        },
+        {
+          "node": "security",
+          "relationship": "possible goal",
+          "why": "The person may be trying to establish that something is safe."
+        },
+        {
+          "node": "reinforcement",
+          "relationship": "pattern to examine",
+          "why": "Notice whether relief lasts or whether the same question soon returns."
+        },
+        {
+          "node": "anxiety-patterns",
+          "relationship": "consider alongside",
+          "why": "Repeated reassurance may have several functions."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "people-pleasing",
+      "cue": "Pause long enough to know your own answer.",
+      "meaning": "People-pleasing is an everyday term for repeatedly accommodating others at the expense of your own preferences, capacity or limits, often to avoid disapproval. It is not a clinical diagnosis. Generosity and cooperation can be freely chosen, so the term should not be applied merely because someone is considerate.",
+      "arise": "An immediate yes may reduce the discomfort of disappointing someone while creating later overload or resentment. Earlier expectations and current power differences may matter. A person may also genuinely value the contribution. The useful distinction is whether they can weigh that value alongside their own needs and give a sufficiently free answer.",
+      "alternatives": "Being polite, culturally respectful or strategically careful in an unequal setting is not automatically a personal problem. A person may have real consequences to manage if they decline. A wish to become more assertive should not lead to denying care duties or assuming that every uncomfortable request is unreasonable.",
+      "notice": "Notice when you answer, whether you understand the request and what you expect would happen if you said no. Compare your immediate response with how you feel after checking your calendar or resources. If someone else repeatedly agrees, ask whether your reactions make an honest no difficult.",
+      "respond": "Try a brief pause, a request for details or a narrower offer that you can sustain. State your preference without a long defence when the situation allows it. For shared duties, negotiate an arrangement rather than simply withdrawing. If refusal could lead to harm or serious retaliation, consider support and real options as well as wording.",
+      "example": "Fictional example: You accept an extra family task before thinking, then cancel your own appointment. Next time, saying “I need to check what I can manage” creates space for an honest answer. The aim is a workable commitment, not making the other person admire your boundary.",
+      "takeaways": [
+        "Consideration can be freely chosen rather than people-pleasing.",
+        "Check preference, capacity and the cost of refusal.",
+        "A pause can support a more honest agreement."
+      ],
+      "practice": [
+        "Review one recent yes and the preference or cost you did not consider.",
+        "Try a safe pause or a specific sustainable answer on the next ordinary request.",
+        "Review honesty, workload and consequences, rather than whether disappointment disappeared."
+      ],
+      "sources": [
+        "sdt",
+        "belonging",
+        "power"
+      ],
+      "related": [
+        {
+          "node": "autonomy",
+          "relationship": "consider alongside",
+          "why": "A choice needs room to consider and refuse."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "A limit should fit what is possible and safe."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "over-responsibility",
+      "cue": "Separate what is yours from what has become yours by default.",
+      "meaning": "Taking too much responsibility means assuming more work, decision ownership or responsibility for others’ feelings than is reasonably yours in the arrangement. It can include repeated rescue after missed commitments or believing that another adult must never be disappointed. The question depends on real duties, capacity and context.",
+      "arise": "A person may step in from care, habit, fear of an outcome or a wish to keep control. Others may come to rely on that response, or have no genuine alternative support. These are possible patterns, not proof that the helper created the problem. Invisible work can also make a heavy responsibility appear smaller from outside.",
+      "alternatives": "Legitimate care, parenting, professional duties and an emergency are different from an assumed obligation to manage every result. A person may need substantial assistance while retaining choice. Conversely, doing more is not always more helpful if it removes another person’s opportunity or responsibility without agreement.",
+      "notice": "List the actual tasks and decisions, who agreed to own them and what happens if you do not step in. Distinguish concern from control. Ask what support is necessary and what could be reassigned safely. Include the cost to your health, other responsibilities and the person whose task you repeatedly take over.",
+      "respond": "Renegotiate one recurring responsibility, including resources, backup and a warning point. Step back in a planned way when appropriate rather than abruptly abandoning someone who depends on essential care. State what you can genuinely offer. If the arrangement is coercive, exploitative or unmanageable, seek relevant support instead of making self-sacrifice the only solution.",
+      "example": "Fictional example: You complete every shared report after a colleague misses their part. Clarifying ownership and an earlier escalation point may protect the work without making you the permanent invisible backup. It does not require deciding whether the colleague intended to rely on you.",
+      "takeaways": [
+        "Actual duties differ from responsibility assumed by default.",
+        "Care and control can become entangled.",
+        "A sustainable change needs ownership, resources and safe backup."
+      ],
+      "practice": [
+        "Map one recurring task, its actual owner and the work you absorb.",
+        "Agree one safe transfer, limit or support request.",
+        "Review workload, essential needs and whether the new arrangement is genuinely functioning."
+      ],
+      "sources": [
+        "fairness",
+        "comb",
+        "sdt"
+      ],
+      "related": [
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "Responsibility should be explicit rather than assumed."
+        },
+        {
+          "node": "capacity",
+          "relationship": "consider alongside",
+          "why": "A real burden may need resources, not a different attitude."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "Limits can protect sustainable care."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "passive-aggression",
+      "cue": "Name the indirect action without assuming its motive.",
+      "meaning": "Passive aggression is an everyday label for indirect expressions of resistance or hostility, such as pointed comments or obstructive conduct. It is an interpretation, not a validated category this book can identify from a few incidents. Describing the actual action is usually more useful than beginning with the label.",
+      "arise": "Indirect resistance may arise when disagreement feels costly, a person does not know how to raise it, or they are angry and avoiding an explicit conversation. It may also be a mistaken interpretation of delay, humour or a practical obstacle. The effect can still need addressing even when intent is uncertain.",
+      "alternatives": "Forgetting, a capacity limit, a need for privacy and legitimate refusal are not automatically covert hostility. An indirect complaint may contain a real issue. Conversely, repeated obstruction can make an arrangement unworkable without a confession of anger. Do not confuse an ability to remain polite with an absence of harm.",
+      "notice": "Identify what happened, the agreed task or meaning at issue and whether similar events recur under comparable conditions. Ask a direct, non-accusatory question about the practical difficulty where safe. Notice whether you allow explicit disagreement or punish it, then criticise the person for expressing it indirectly.",
+      "respond": "For an ordinary problem, invite a clear answer and address the specific consequence. “Do you still agree to this task?” can be more useful than “Why are you passive-aggressive?” Make the next agreement realistic. If the pattern continues, change the arrangement or use a suitable process rather than repeatedly debating an inferred attitude.",
+      "example": "Fictional example: A housemate agrees to a chore but repeatedly leaves it unfinished while making jokes about your standards. Clarifying the required outcome, whether they agree and what alternative is workable addresses the task without assuming one explanation for every delay.",
+      "takeaways": [
+        "The label interprets conduct rather than proving hidden anger.",
+        "Make explicit disagreement possible.",
+        "Address recurring consequences even when motive remains uncertain."
+      ],
+      "practice": [
+        "Describe one indirect action and the concrete problem it creates.",
+        "Ask a clear question about agreement or barriers where appropriate.",
+        "Review follow-through and whether the arrangement needs changing, not whether you obtained a motive admission."
+      ],
+      "sources": [
+        "eyal",
+        "intentions",
+        "power"
+      ],
+      "related": [
+        {
+          "node": "followthrough",
+          "relationship": "consider alongside",
+          "why": "A missed action needs more than a motive label."
+        },
+        {
+          "node": "avoidconflict",
+          "relationship": "consider alongside",
+          "why": "An unsafe disagreement may encourage indirect responses."
+        },
+        {
+          "node": "clearrequest",
+          "relationship": "consider alongside",
+          "why": "Clear, negotiable expectations help identify the actual issue."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "narcissistic-behaviour",
+      "cue": "Describe entitlement and impact before reaching for a type.",
+      "meaning": "Entitlement, seeking admiration and disregarding others’ needs are behaviours or tendencies that can be discussed specifically. Narcissistic is often used as a broad everyday label for them, but it can obscure important differences. A trait description, a particular harmful action and narcissistic personality disorder are separate questions.",
+      "arise": "A person may be seeking recognition, protecting self-worth, repeating a role expectation or deliberately taking advantage. You cannot establish those explanations from confidence, charm or disagreement. Several processes can coexist, and the same person may act differently across situations. A broad trait account does not supply a complete strategy behind every event.",
+      "alternatives": "Healthy pride, a legitimate claim to credit, a strong boundary and ordinary self-interest are not automatically narcissistic. An isolated selfish act does not establish a pervasive trait or a disorder. Conversely, a lack of diagnosis does not make repeated exploitation acceptable. Avoid treating informal labels such as covert narcissist as conclusions that an incident log can establish.",
+      "notice": "Identify the actual issue: an assumed exemption, an inaccurate credit claim, a need ignored or a demand for special treatment. Compare how the person responds when another need or limit is made explicit, including exceptions. Keep facts, interpretations and any professionally reported diagnosis separate.",
+      "respond": "Use specific requests, fair criteria and appropriate limits rather than trying to expose a type. If you recognise the behaviour in yourself, ask for an example and make a concrete correction without demanding reassurance that you are a good person. For persistent harmful patterns, seek support suited to the conduct; a more skillful conversation cannot guarantee change.",
+      "example": "Fictional example: Someone expects a group to reorganise every plan around their preference while dismissing other constraints. Agreeing a fair decision process addresses the entitlement in that arrangement. It does not diagnose NPD or explain the person’s entire inner life.",
+      "takeaways": [
+        "Behaviour, traits and NPD are distinguishable.",
+        "Recognition and self-interest are not inherently pathological.",
+        "Track specific conduct and its response to fair limits."
+      ],
+      "practice": [
+        "Describe one action involving credit, special treatment or another person’s needs.",
+        "Choose a specific fair request, correction or limit within your control.",
+        "Review the practical response and pattern without assigning a diagnostic score."
+      ],
+      "sources": [
+        "narcissism-meta",
+        "narcissism-components",
+        "msd-pd-narcissistic"
+      ],
+      "related": [
+        {
+          "node": "fairness",
+          "relationship": "consider alongside",
+          "why": "Different standards for different people deserve examination."
+        },
+        {
+          "node": "dismissing-needs",
+          "relationship": "consider alongside",
+          "why": "Describe how a need was treated rather than assuming an inner absence of empathy."
+        },
+        {
+          "node": "pd-narcissistic",
+          "relationship": "term distinction",
+          "why": "Learn the clinical distinction; this connection is not evidence of a disorder."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "stonewalling",
+      "cue": "Look for a workable return, not forced immediate engagement.",
+      "meaning": "Stonewalling is commonly used for a pattern of shutting down communication so that an issue cannot be addressed. An agreed pause is different: it allows space while keeping a workable route to return. Neither silence nor leaving a conversation alone establishes an intention to punish or control.",
+      "arise": "A person may be overwhelmed, afraid, unsure how to respond, unwilling to discuss the issue or trying to exert pressure. Your own pursuit, criticism or threats may affect the exchange. Those possibilities need examining without making one person responsible for another’s chosen harmful conduct.",
+      "alternatives": "A request to stop an abusive conversation should not be treated as stonewalling. Privacy and refusal of unwanted contact also matter. At the same time, shared bills, care or decisions may need an alternative route when direct discussion stops. A pause that repeatedly leaves all consequences to someone else is operationally different from a pause followed by follow-through.",
+      "notice": "Notice what precedes the shutdown, whether a return point is offered and whether it is kept. Ask what medium or timing would make the practical issue discussable. Compare calm and heated settings where appropriate. Include what happens when you respect a pause instead of repeatedly seeking an immediate response.",
+      "respond": "For an ordinary shared problem, agree a time or written route to return and the decision that must be made. Do not demand emotional disclosure as the price of a pause. If no route is workable, consider another arrangement or appropriate support. Where threats or coercion are involved, prioritise support over a communication exercise or informal mediation.",
+      "example": "Fictional example: After an argument about a payment, one person asks for an hour and later returns to agree the amount. That is different from repeatedly refusing every discussion until the other person pays everything to end the silence.",
+      "takeaways": [
+        "A pause and an indefinite communication barrier are different.",
+        "A return arrangement and later conduct are informative.",
+        "Safety and shared responsibilities both require attention."
+      ],
+      "practice": [
+        "Describe one shutdown and any proposed or completed return to the issue.",
+        "Where safe, agree a bounded return route or another practical process.",
+        "Review whether the issue became discussable and whether support or a changed arrangement is needed."
+      ],
+      "sources": [
+        "flexibility",
+        "avoidance-review",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "withdraw",
+          "relationship": "consider alongside",
+          "why": "Withdrawal has several possible meanings."
+        },
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "An agreed return point makes a pause clearer."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "You can act on an unresolved issue without forcing a conversation."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "coercive-patterns",
+      "cue": "Notice how the pattern changes someone’s freedom.",
+      "meaning": "Controlling or coercive patterns can restrict another person’s choices through threats, intimidation, monitoring, isolation or control of resources. The concern is how conduct works together over time and affects everyday freedom. A single serious incident can still warrant help; you do not have to wait for a complete pattern or legal conclusion.",
+      "arise": "Individual actions may appear ordinary when separated from their conditions. A request for information, help with money or concern about travel can have a different effect when refusal brings penalties or access is gradually removed. The person affected may adapt behaviour to avoid consequences, making the restriction less visible to outsiders.",
+      "alternatives": "A freely chosen shared arrangement, a relevant professional duty or a proportionate safety measure differs from imposed control. Consent matters, including whether it can genuinely be withdrawn. Disagreement alone is not coercion, while calm wording and claims of care do not establish that an arrangement is voluntary. Legal definitions depend on jurisdiction and cannot be decided by this page.",
+      "notice": "Look at concrete choices: contact, movement, work, money, information, care and the consequences of saying no. Use existing information and the affected person’s own account; do not investigate secretly in ways that increase risk. Compare changes across time and whether different restrictions reinforce one another. Absence of a visible reaction does not establish absence of fear.",
+      "respond": "If this concerns your circumstances, seek a suitable domestic-abuse, advocacy or other professional support route rather than trying to prove the entire strategy. Consider privacy when using devices or keeping notes. Do not assume confrontation, leaving or changing access will be safe without considering the situation. Immediate danger needs appropriate urgent local help.",
+      "example": "Fictional example: A partner offers to manage transport, then repeatedly cancels trips to friends and threatens financial consequences if alternative transport is used. The pattern concerns restricted choices, not merely who drives or whether the partner says they are helping.",
+      "takeaways": [
+        "Effects on choice and the consequences of refusal matter.",
+        "Actions can reinforce a wider pattern of restriction.",
+        "Support need not wait for proof of intent or a legal finding."
+      ],
+      "practice": [
+        "If safe, review existing information about restrictions and their practical effects; do not create a test.",
+        "Identify a confidential support route and ask about options suited to your circumstances.",
+        "Review whether support and privacy needs were addressed, without requiring a confrontation or complete explanation."
+      ],
+      "sources": [
+        "coercion-guidance",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "power",
+          "relationship": "consider alongside",
+          "why": "Restricted choices change what agreement means."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "A limit may require support rather than a stronger sentence."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Specialist support can help assess practical safety options."
+        },
+        {
+          "node": "gaslighting",
+          "relationship": "consider alongside",
+          "why": "Undermining credibility can occur alongside restrictions or threats."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "gaslighting",
+      "cue": "Check the event and the effort to discredit your account.",
+      "meaning": "Gaslighting refers to a pattern of undermining someone’s confidence in their perception, memory or account of events, often through distortion, denial or attacks on credibility. It is more than an ordinary disagreement or one mistaken recollection. The term can help identify a concern, but it does not give a book or AI a validated way to classify every disputed conversation.",
+      "arise": "Power can matter because one person may be better placed to have their version accepted by family, workplaces or services. Social stereotypes and dependence can also affect whose account is believed. A repeated challenge to credibility may become consequential beyond the original event. These processes should be examined from actual conduct, not inferred as a complete plan from one contradiction.",
+      "alternatives": "Memory error, ambiguous wording, embarrassment, selective reporting and deception about one fact can overlap with parts of the pattern. Those alternatives do not erase an established event or make repeated discrediting harmless. You can establish that an account is inaccurate without establishing intent, and you can seek help before settling whether the label fits.",
+      "notice": "Separate the event, the disputed account and what happens to your credibility or choices afterward. Note relevant messages or records you already legitimately have, and mark uncertainty. Ask whether corrections are accepted, whether your account is repeatedly dismissed globally, and whether other restrictions or threats occur. Multiple people repeating one account are not independent confirmation.",
+      "respond": "Focus on practical support, reliable information and your options rather than winning an endless argument about reality. Where safe, clarify a particular fact or make future agreements explicit. If the pattern includes intimidation or control, seek appropriate confidential support and consider the privacy of notes and devices. Do not stage memory tests or provoke denial to obtain proof.",
+      "example": "Fictional example: After a clear agreement is documented, a relative repeatedly denies it and tells others you cannot distinguish events from imagination. The record and subsequent discrediting are separate relevant observations. Neither a single denial nor an outsider’s label establishes the entire pattern by itself.",
+      "takeaways": [
+        "A disputed memory and a pattern of undermining credibility are different.",
+        "Power and wider restrictions can shape the effect.",
+        "You can seek support without obtaining an admission of intent."
+      ],
+      "practice": [
+        "If safe, separate one event, the conflicting accounts and any effect on your credibility or choices.",
+        "Choose a legitimate factual clarification or confidential support route without provoking a response.",
+        "Review what became clearer and what practical protection or support is still needed."
+      ],
+      "sources": [
+        "gaslighting",
+        "memory",
+        "coercion-guidance"
+      ],
+      "related": [
+        {
+          "node": "observation",
+          "relationship": "consider alongside",
+          "why": "Separate the event from the meaning you give it."
+        },
+        {
+          "node": "coercive-patterns",
+          "relationship": "consider alongside",
+          "why": "Undermining credibility can occur alongside restrictions or threats."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "You can seek support without establishing a diagnosis or motive."
+        },
+        {
+          "node": "denial",
+          "relationship": "consider alongside",
+          "why": "A disputed fact and a wider pattern of undermining credibility are different concerns."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "financial-control",
+      "cue": "Ask who can access resources and genuinely choose.",
+      "meaning": "Control of money and resources can become harmful when someone’s access, spending, work or essential support is restricted in ways that undermine their freedom. Managing finances by agreement is different from imposing dependence. A person may appear to agree because they have few practical alternatives.",
+      "arise": "A pattern can develop through withheld information, unilateral decisions, restricted access or penalties linked to spending and work. Claims of budgeting, care or expertise may coexist with control, but do not establish it by themselves. The effect on the affected person’s real options and access to necessities is central.",
+      "alternatives": "Limited resources, a chosen division of tasks, legitimate account protections and agreed safeguards need distinguishing. Not every refusal to lend money is abuse. Nor does providing an income create an unlimited entitlement to decide another adult’s contacts, movements or personal choices. Legal rights and responsibilities vary by arrangement and jurisdiction.",
+      "notice": "Using existing information where safe, identify who can see accounts, obtain essentials, earn money, understand debts and question decisions. Distinguish consent from compliance under threat. Notice whether access or information changes after disagreement. Do not make risky changes to accounts or collect sensitive documents simply because a general page suggests keeping records.",
+      "respond": "Seek appropriate confidential financial, legal or domestic-abuse advice when access or safety is at issue. A suitable service can discuss options for the actual circumstances. For an ordinary shared budget, clarify decision rights, information and review arrangements. Avoid assuming that confrontation or opening a new account is universally safe or legally straightforward.",
+      "example": "Fictional example: One person handles bills by mutual agreement and both can review the information. In a different arrangement, a partner withholds essential funds whenever the other disagrees. The difference concerns access and consequences, not simply who pays the bills.",
+      "takeaways": [
+        "Financial management and imposed dependence differ.",
+        "Information, essentials and the consequences of disagreement matter.",
+        "Use advice suited to the actual arrangement and local rights."
+      ],
+      "practice": [
+        "If safe, describe a concrete access restriction or disputed financial responsibility.",
+        "Identify an appropriate confidential advice route rather than testing the restriction.",
+        "Review whether you understand available options and privacy needs; leave unresolved legal questions to advice."
+      ],
+      "sources": [
+        "coercion-guidance",
+        "nhs-abuse",
+        "fairness"
+      ],
+      "related": [
+        {
+          "node": "coercive-patterns",
+          "relationship": "consider alongside",
+          "why": "Financial restriction can make leaving or refusing harder."
+        },
+        {
+          "node": "fairness",
+          "relationship": "consider alongside",
+          "why": "A budget should be considered alongside access and consent."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Practical and specialist advice may be needed."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "monitoring",
+      "cue": "A shared tool does not settle whether access is voluntary.",
+      "meaning": "Monitoring and demands for access can concern messages, accounts, location, devices or everyday activities. Some access is freely agreed for a specific purpose; some has a legitimate formal basis; some can be intrusive or coercive. The presence of a tracking or sharing tool alone does not settle the question.",
+      "arise": "A request may be explained as care, reassurance, efficiency or trust. Its actual effect depends on scope, knowledge, consequences and whether refusal is a real option. Repeated demands can gradually make privacy seem like evidence of wrongdoing. A person’s anxiety does not create an automatic right to another adult’s information.",
+      "alternatives": "Consensual location sharing differs from secret or enforced surveillance. A workplace or care setting may involve duties and legal rules that need appropriate advice. Legitimate safety arrangements should be relevant and proportionate. Declining account access is not by itself evidence of deception, and apparent agreement under threat may not reflect free choice.",
+      "notice": "If safe, identify what is accessed, by whom, for what purpose and what happens if access is questioned. Consider whether the arrangement is understood and can be reviewed. Use what is already known rather than trying to expose hidden monitoring through risky experiments. Notes on a shared or monitored device may not be private.",
+      "respond": "For an ordinary voluntary arrangement, clarify purpose, scope and limits. If monitoring may be part of intimidation or control, seek specialist support about the circumstances and digital privacy before changing settings or confronting the person. A general book cannot determine which device action is safe. Formal monitoring questions may also require local legal or workplace advice.",
+      "example": "Fictional example: Two adults share travel updates for one journey and can stop afterward without penalty. A different partner demands permanent account access and threatens consequences for refusal. The relevant distinction is the arrangement and freedom to choose, not whether both are called sharing.",
+      "takeaways": [
+        "Purpose, scope and real consent matter.",
+        "Privacy is not evidence of dishonesty.",
+        "Changing access can have consequences that need situation-specific advice."
+      ],
+      "practice": [
+        "If safe, describe the known access arrangement and any consequences of questioning it.",
+        "Seek appropriate advice about privacy, rights or safety before testing or changing a risky arrangement.",
+        "Review whether support clarified options and protected necessary access and information."
+      ],
+      "sources": [
+        "coercion-guidance",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "coercive-patterns",
+          "relationship": "consider alongside",
+          "why": "Monitoring may reinforce control."
+        },
+        {
+          "node": "autonomy",
+          "relationship": "consider alongside",
+          "why": "Meaningful consent includes the ability to refuse."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Specialist advice can help assess digital safety."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "isolation",
+      "cue": "Distinguish chosen distance from restricted contact.",
+      "meaning": "Restricting contact with other people can reduce someone’s access to support, information and independent choices. It may involve interference with friendships, family, work or services. Choosing privacy or distance for oneself is different from another person enforcing isolation through threats, punishment or control of resources.",
+      "arise": "Restrictions may be presented as loyalty, protection, a practical inconvenience or concern about another relationship. Those explanations can be genuine, incomplete or part of a controlling pattern. The affected person may stop seeking contact to avoid consequences, so outsiders may see fewer explicit prohibitions over time.",
+      "alternatives": "A mutually chosen plan, a specific safety concern and an individual boundary need distinguishing from an imposed restriction. A person may reasonably choose not to see someone harmful. No relationship automatically entitles another adult to determine all their contacts. One missed visit does not establish isolation; a serious restriction still deserves attention without waiting for a long record.",
+      "notice": "Using existing information where safe, notice which contacts have become difficult, who controls practical access and what happens after contact or disagreement. Include transport, money, communication tools and care needs. Ask the affected person privately only when the circumstances allow it; do not assume a message or device is confidential.",
+      "respond": "Seek suitable support if contact restrictions may be part of coercion or danger. If supporting another person, offer a dependable, nonjudgmental route without demanding that they confront someone or leave on your timetable. For an ordinary disagreement about plans, clarify the specific concern and preserve meaningful choice rather than imposing a loyalty test.",
+      "example": "Fictional example: A partner repeatedly creates a crisis before visits to friends and later threatens loss of access to money if visits continue. The pattern concerns practical restriction and consequences. It is not resolved by asking whether the partner says they feel lonely.",
+      "takeaways": [
+        "Chosen solitude and imposed isolation are different.",
+        "Look at practical access and consequences, not only explicit bans.",
+        "Support should avoid adding pressure or exposing private contact."
+      ],
+      "practice": [
+        "If safe, describe an existing restriction and its effect on access to people or services.",
+        "Identify a confidential support option or a safe way to maintain contact.",
+        "Review whether support and choice increased without testing the restriction through confrontation."
+      ],
+      "sources": [
+        "coercion-guidance",
+        "nhs-abuse",
+        "belonging"
+      ],
+      "related": [
+        {
+          "node": "coercive-patterns",
+          "relationship": "consider alongside",
+          "why": "Isolation can reduce access to help."
+        },
+        {
+          "node": "belonging",
+          "relationship": "consider alongside",
+          "why": "Connection is different from enforced exclusivity."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Support may need a safe device or private route."
+        },
+        {
+          "node": "possessiveness",
+          "relationship": "consider alongside",
+          "why": "Exclusivity can become a restriction on support."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "intimidation",
+      "cue": "Take the conduct seriously before decoding its purpose.",
+      "meaning": "Intimidation involves conduct that threatens or frightens in a way that can constrain another person’s choices. It can include explicit threats, threatening presence or damage used to convey consequences. The aim need not be proven before the conduct and its effects deserve attention. A single serious threat can warrant help.",
+      "arise": "A person may be expressing anger, seeking compliance, retaliating or acting in another context. Those possibilities do not make the effect harmless. An intimidating action can occur without shouting, while a loud voice alone does not establish a threat. Context, specific conduct and the ability to refuse matter.",
+      "alternatives": "A firm boundary, a relevant warning and a credible account of danger differ from threatening harm to control someone. You may not know whether a threat will be carried out. Uncertainty is not a reason to test it, and a later apology does not establish that it is now safe. Legal questions require advice appropriate to the location.",
+      "notice": "Focus on what was said or done, available access to the threatened person, affected choices and any changes in the pattern. Use existing information only where safe to do so. You do not need a detailed record before asking for help. Avoid assessing risk solely from calmness, remorse or a personality label.",
+      "respond": "If there is immediate danger, use appropriate urgent local help. Otherwise, a suitable specialist, workplace, safeguarding or legal route can discuss options for the actual conduct. Do not provoke a reaction to measure seriousness or assume that a forceful reply will improve safety. If you are worried about your own intimidating behaviour, seek appropriate help and stop making others responsible for managing it.",
+      "example": "Fictional example: Someone damages your belongings after you refuse a request and says a worse consequence will follow next time. The action and threat can be brought to a suitable support service without first deciding which personality type explains them.",
+      "takeaways": [
+        "A serious threat deserves attention without a motive verdict.",
+        "Demeanour and a later apology do not determine safety.",
+        "Do not test a threat through provocation."
+      ],
+      "practice": [
+        "If safe, describe the existing conduct and its effect on choices; seek help without waiting for perfect documentation.",
+        "Choose an appropriate urgent or confidential support route for the circumstances.",
+        "Review access to support and immediate practical needs, rather than whether the person admitted intent."
+      ],
+      "sources": [
+        "nhs-abuse",
+        "coercion-guidance"
+      ],
+      "related": [
+        {
+          "node": "coercive-patterns",
+          "relationship": "consider alongside",
+          "why": "Threats can enforce wider restrictions."
+        },
+        {
+          "node": "power",
+          "relationship": "consider alongside",
+          "why": "Fear changes what apparent agreement means."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Immediate danger takes priority over logging or analysing."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "boundary-pushing",
+      "cue": "Notice what happens after a clear limit.",
+      "meaning": "Repeatedly pushing a stated limit can involve asking again, bargaining, bypassing an agreed route or imposing a cost after a no. A genuine misunderstanding can occur, but repeated pressure after clarification provides different information. The concern is the conduct and its effect on choice, not a label for the person.",
+      "arise": "A person may not understand the limit, disagree about responsibilities, expect an exception or be trying to obtain compliance. These possibilities should be compared with actual wording and later actions. You may also state a preference as though it were a binding rule for someone else, so the scope and legitimacy of the limit matter.",
+      "alternatives": "Clarifying a shared duty or asking once about an alternative is different from wearing someone down. A boundary about your participation does not automatically cancel legal, care or agreed responsibilities. Conversely, another person’s disappointment does not create a right to your body, private information, money or unlimited availability.",
+      "notice": "Using existing information where appropriate, identify the limit, how it was communicated, whether it was understood and what followed. Compare respectful refusals and exceptions. Notice whether saying no brings insults, threats or unrelated penalties. Avoid treating a need to explain repeatedly as proof that the affected person simply needs better communication skills.",
+      "respond": "For an ordinary misunderstanding, clarify the specific limit and a relevant alternative if you want to offer one. If pressure continues, choose a feasible response or a different arrangement within your rights. Where control or retaliation is possible, seek appropriate support rather than testing the limit through confrontation. You do not need an admission of intent before taking repeated pressure seriously.",
+      "example": "Fictional example: You decline to lend a device. A relative asks for your password through another family member after you explain the answer. The indirect route and repeated request are relevant observations, even if the relative says they were only trying to solve a practical problem.",
+      "takeaways": [
+        "A clarification and repeated pressure are different actions.",
+        "Check the limit’s scope and any real shared duties.",
+        "Respectful refusal should not depend on enduring threats."
+      ],
+      "practice": [
+        "If safe, review an existing limit and the response after it was clarified.",
+        "Choose an appropriate clarification, practical arrangement or support route without provoking a test.",
+        "Review whether the limit and genuine responsibilities were respected and what further help is needed."
+      ],
+      "sources": [
+        "sdt",
+        "coercion-guidance",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "A limit needs a feasible response."
+        },
+        {
+          "node": "thirdparty",
+          "relationship": "consider alongside",
+          "why": "Pressure may be routed through someone else."
+        },
+        {
+          "node": "coercive-patterns",
+          "relationship": "consider alongside",
+          "why": "The consequences of refusal matter."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "creating-obligation",
+      "cue": "Clarify the terms before a favour becomes a debt.",
+      "meaning": "Favours can create unwanted obligation when help is treated afterward as permission to demand unrelated access, loyalty or repayment that was never agreed. A freely accepted exchange is different from a hidden condition. Gratitude for help does not establish consent to every later request.",
+      "arise": "People may bring different assumptions about gifts, loans, family duties and reciprocity. A giver may expect a return without having made it explicit; a recipient may hear a gift where repayment was intended. The pattern can also become coercive when dependence or essential resources are used to enforce compliance.",
+      "alternatives": "An explicit loan, professional service or shared responsibility has terms that should be considered fairly. Not every request for reciprocity is manipulation. Equally, generosity does not buy decision rights over another adult. A person can acknowledge a contribution while disputing a new condition or declining further help.",
+      "notice": "Identify what was offered, which terms were known, whether acceptance was optional and what is now being demanded. Compare whether refusal of the later request is respected. Include your own assumptions when you give help: are you freely offering something, making a proposal or expecting an unspoken return?",
+      "respond": "For an ordinary exchange, clarify costs, repayment and decision rights before proceeding. If terms are disputed afterward, separate the original agreement from the new request and seek appropriate advice where money or rights are involved. If essential support is being used to restrict choices, consider confidential support rather than trying to repay enough to earn freedom.",
+      "example": "Fictional example: A parent offers moving help, then says this means they must have a key to the new home. The practical help and ongoing access are separate questions. Appreciation does not settle whether a key will be given.",
+      "takeaways": [
+        "A favour and unrelated access are different agreements.",
+        "Make exchange terms explicit rather than relying on a hidden ledger.",
+        "Dependence can make apparent agreement less voluntary."
+      ],
+      "practice": [
+        "Describe one offer and the terms actually understood at acceptance.",
+        "Clarify a condition or seek suitable advice about a disputed or coercive obligation.",
+        "Review whether the arrangement remains voluntary and understandable, without staging a refusal as a test."
+      ],
+      "sources": [
+        "exchange",
+        "sdt",
+        "coercion-guidance"
+      ],
+      "related": [
+        {
+          "node": "refusehelp",
+          "relationship": "consider alongside",
+          "why": "Previous conditional help may affect later offers."
+        },
+        {
+          "node": "shared-agreement",
+          "relationship": "consider alongside",
+          "why": "Explicit expectations can prevent an assumed debt."
+        },
+        {
+          "node": "reciprocity",
+          "relationship": "consider alongside",
+          "why": "Mutual care differs from using gifts as leverage."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "guilt-pressure",
+      "cue": "Separate your values from the pressure to comply.",
+      "meaning": "Guilt-tripping is an everyday description of pressure that links refusal to being selfish, disloyal or responsible for another person’s suffering. It can be subtle or explicit. The label does not decide whether an obligation exists. The useful question is whether the request and responsibility are being considered fairly.",
+      "arise": "Guilt can help people recognise a real wrong and make repair. It can also be invoked to obtain an answer without examining capacity, consent or the relevance of the demand. Someone may express a genuine hurt in a pressuring way, while another may hear pressure whenever they face a legitimate responsibility.",
+      "alternatives": "A disappointed feeling, a factual account of impact and an attempt to control are different. An honest no does not guarantee that nobody feels hurt. Conversely, another person’s distress does not automatically make you responsible for solving it through the exact action requested. Shared duties should be examined directly rather than erased or expanded through a character accusation.",
+      "notice": "Clarify the request, the actual agreement or duty, the claimed consequence of refusal and what alternatives exist. Notice whether disagreement leads to global judgments about your worth or escalating demands. Include your own use of past sacrifices or emotional reactions when asking others to act.",
+      "respond": "Acknowledge a genuine effect without accepting an unrelated obligation. For an ordinary request, state what you can offer and discuss a feasible alternative if wanted. If threats, essential resources or ongoing control are involved, seek appropriate support. You do not need to prove that the person feels no real distress before protecting a legitimate limit.",
+      "example": "Fictional example: A relative says declining one gathering means you do not care about the family. You can value the relationship and still discuss availability or another way to meet. The accusation does not by itself establish that attendance is your duty.",
+      "takeaways": [
+        "Guilt can signal responsibility or become a pressure route.",
+        "Distress and entitlement to a particular action are different.",
+        "Examine the actual request, duty and alternatives."
+      ],
+      "practice": [
+        "Write one request and the responsibility or character judgment attached to it.",
+        "Check the actual duty and choose a feasible answer or appropriate support route.",
+        "Review whether the arrangement respects both real responsibilities and choice."
+      ],
+      "sources": [
+        "shame",
+        "sdt",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "fairness",
+          "relationship": "consider alongside",
+          "why": "A genuine obligation and an unlimited demand are different."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "A limit can coexist with care."
+        },
+        {
+          "node": "reciprocity",
+          "relationship": "consider alongside",
+          "why": "Reciprocity does not mean every favour buys compliance."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "emotional-blackmail",
+      "cue": "Take distress seriously without making compliance the only response.",
+      "meaning": "Emotional blackmail is an everyday term for pressure that makes another person’s compliance the condition for avoiding a threatened emotional or practical consequence. It may involve threatened withdrawal, exposure or harm. It is not a clinical diagnosis, and not every expression of distress or consequence is blackmail.",
+      "arise": "A person may be distressed and still use a threatening condition to influence another person. Those possibilities are not mutually exclusive. The threat’s effect depends partly on dependence, available support and what refusal could cost. Guessing whether the feeling is sincere does not settle whether the pressure is acceptable.",
+      "alternatives": "A relevant boundary about one’s own participation differs from threatening unrelated harm to force compliance. A warning about a genuine consequence can be legitimate. Threats of self-harm should not be dismissed as mere manipulation or used as a reason for you to become the person’s only safety plan. Professional or urgent support may be required.",
+      "notice": "Using information you already have where safe, identify the condition, threatened consequence and affected choices. Notice repetition, escalation and control of resources. You do not need a perfect record or admission of motive to ask for help. Avoid provoking a refusal to see whether a threat is serious.",
+      "respond": "For immediate danger or a threat to life, use appropriate urgent local support. For an ongoing pattern, seek confidential advice suited to the relationship and location. You can care about distress while recognising that compliance is not the only available response. A general page cannot determine a safe confrontation, departure or change in contact for your circumstances.",
+      "example": "Fictional example: Someone threatens to expose private information unless you cancel a plan. The threatened disclosure and conditional demand are concrete concerns regardless of whether the person also feels hurt. Appropriate support can focus on the conduct and your options.",
+      "takeaways": [
+        "Genuine distress and harmful pressure can coexist.",
+        "Do not test threats or dismiss threats to life as merely a tactic.",
+        "Support options should not depend on your unlimited compliance."
+      ],
+      "practice": [
+        "If safe, describe an existing conditional demand and its practical effect.",
+        "Choose a suitable urgent or confidential support route rather than testing the threat.",
+        "Review whether support addressed privacy, safety and options; do not make yourself the sole responder."
+      ],
+      "sources": [
+        "nhs-abuse",
+        "coercion-guidance",
+        "nimh-support"
+      ],
+      "related": [
+        {
+          "node": "coercive-patterns",
+          "relationship": "consider alongside",
+          "why": "Conditional threats may restrict meaningful choice."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "A boundary describes a feasible action within one’s control."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Threats involving immediate safety need appropriate help."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "possessiveness",
+      "cue": "A relationship is not ownership.",
+      "meaning": "Possessiveness concerns treating another person’s attention, contacts, movements or choices as something one is entitled to control. It is different from wanting closeness or agreeing an exclusive relationship. A shared agreement should still leave room for each person’s agency, privacy and decisions about whether the arrangement continues.",
+      "arise": "Jealousy, insecurity, learned expectations, status concerns or deliberate control may be relevant, but cannot be read directly from a demand. Several influences can coexist. The claimed reason for restricting someone matters less than whether the conduct is voluntary, proportionate and respectful of their actual choices.",
+      "alternatives": "A mutually understood commitment differs from an imposed rule backed by threats. A person may reasonably object to a broken agreement without being entitled to passwords, constant location access or isolation from others. Conversely, a lack of obvious jealousy does not prove the absence of control. Examine the arrangements, not only the emotion.",
+      "notice": "Identify what is being claimed, what was agreed and what happens when the person chooses differently. Include contacts, time, privacy and essential resources. Ask whether rules apply fairly and can be reviewed or ended without punishment. Use existing information rather than creating a test of jealousy or loyalty.",
+      "respond": "For an ordinary relationship disagreement, clarify the agreement and each person’s needs without treating closeness as unlimited access. If restrictions occur with intimidation, monitoring or isolation, seek appropriate confidential support. If you recognise possessive conduct in yourself, take responsibility for stopping the restriction and seek help rather than asking another person to prove loyalty by surrendering choice.",
+      "example": "Fictional example: A partner feels uneasy about a friendship. Asking to discuss an agreed relationship boundary is different from demanding that all contact end under threat of financial consequences. The threatened penalty changes the practical meaning of the request.",
+      "takeaways": [
+        "Closeness and exclusivity do not mean ownership.",
+        "Look at freedom, consent and consequences of disagreement.",
+        "A feeling does not justify restrictions on another person."
+      ],
+      "practice": [
+        "If safe, describe an existing claimed rule and the choices it affects.",
+        "Clarify an ordinary agreement or seek support for a restricting or threatening pattern.",
+        "Review whether agency and legitimate commitments are both respected without provoking a loyalty test."
+      ],
+      "sources": [
+        "belonging",
+        "sdt",
+        "coercion-guidance",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "jealousy",
+          "relationship": "consider alongside",
+          "why": "A feeling and a restriction on another person are different."
+        },
+        {
+          "node": "isolation",
+          "relationship": "consider alongside",
+          "why": "Exclusivity can become a restriction on support."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "consider alongside",
+          "why": "Connection can coexist with separate choices."
+        }
+      ],
+      "specialistCaveat": true
+    },
+    {
+      "id": "retaliation",
+      "cue": "Document the sequence without assuming it proves the cause.",
+      "meaning": "Retaliation involves an adverse response to someone asserting a right, raising a concern, refusing a demand or taking another protected or disapproved action. Legal definitions depend on the setting and jurisdiction. In everyday life, a suspected retaliatory response can still matter before its legal or psychological explanation is settled.",
+      "arise": "A person may impose a cost to discourage future challenge or express anger. An adverse event after a complaint may also have another cause. Timing is relevant information, not proof by itself. Power and dependence matter because even an implied consequence can change whether someone feels able to speak or refuse.",
+      "alternatives": "A relevant, consistently applied consequence of an agreement differs from a penalty for raising a legitimate concern. Disagreement about that distinction may need formal advice. An unpleasant interaction is not automatically unlawful retaliation, while conduct outside a particular legal definition can still be harmful or unacceptable.",
+      "notice": "Where safe, record the original concern or refusal, the subsequent action, timing, stated reasons and relevant comparisons. Use information you already legitimately have, avoiding risky collection or exposure of confidential material. Keep observations separate from the causal explanation. You do not need a perfect record before seeking support.",
+      "respond": "Choose a route suited to the actual setting: a relevant workplace process, advocate, legal adviser or domestic-abuse service. Ask about confidentiality and the practical consequences of next steps. Do not repeat or escalate a complaint simply to test whether retaliation occurs. If immediate danger is present, use appropriate urgent local help rather than waiting to establish a pattern.",
+      "example": "Fictional example: After you raise a scheduling concern, access to useful shifts changes. The timing and comparison with earlier allocation are worth discussing with a suitable adviser. They do not alone establish the decision-maker’s motive or the legal conclusion.",
+      "takeaways": [
+        "Timing can support inquiry without proving causation.",
+        "Setting, rights and relevant comparisons matter.",
+        "Do not provoke a penalty to strengthen the evidence."
+      ],
+      "practice": [
+        "If safe, describe the existing sequence, practical cost and available relevant information.",
+        "Seek suitable confidential advice about options and any applicable process.",
+        "Review whether support clarified rights, risks and practical next steps without requiring a motive admission."
+      ],
+      "sources": [
+        "eeoc-harassment",
+        "fairness",
+        "coercion-guidance"
+      ],
+      "related": [
+        {
+          "node": "punish",
+          "relationship": "consider alongside",
+          "why": "A punitive intention needs evidence beyond an unpleasant effect."
+        },
+        {
+          "node": "power",
+          "relationship": "consider alongside",
+          "why": "Retaliation can make future agreement less freely chosen."
+        },
+        {
+          "node": "getting-support",
+          "relationship": "consider alongside",
+          "why": "Advice should fit the setting and local rules."
+        }
+      ],
+      "specialistCaveat": true
+    }
+  ]
+}

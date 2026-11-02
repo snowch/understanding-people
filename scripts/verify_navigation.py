@@ -1,10 +1,15 @@
 """Exercise the library and book hierarchy under a GitHub Pages base path."""
 import sys
+import os
 from pathlib import Path
 from urllib.parse import urljoin
 from playwright.sync_api import sync_playwright, expect
 from book_navigation import ENTRIES, GROUPS
 from build import CHAPTERS, PAGES
+def capture(page, **kwargs):
+    if not os.environ.get('PEOPLE_NO_SCREENSHOTS'):
+        page.screenshot(**kwargs)
+
 base=sys.argv[1].rstrip('/')+'/'
 shots=Path('/tmp/book-navigation');shots.mkdir(exist_ok=True)
 with sync_playwright() as pw:
@@ -57,15 +62,14 @@ with sync_playwright() as pw:
         if width<=800:page.locator('.mobile-nav > summary').click()
         expect(tree.locator('[data-topic="behaviour-and-relationships"]')).to_have_attribute('open','')
         expect(tree.locator('.nav-listening')).to_have_count(0)
-        page.screenshot(path=str(shots/f'drilldown-{width}.png'))
+        capture(page, path=str(shots/f'drilldown-{width}.png'))
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
         page.goto(base+'reference/index.html')
         search=page.get_by_role('searchbox',name='Find a topic or behaviour')
         expect(page.locator('.library-entry:visible')).to_have_count(len(ENTRIES))
         page.locator('#library-status').select_option('developed')
-        search.fill('independence');expect(page.locator('.library-entry:visible')).to_have_count(1)
-        expect(page.locator('.library-entry:visible h3')).to_have_text('Declining help')
-        search.fill('attribution');expect(page.locator('.library-entry:visible h3')).to_have_text('Correspondence bias')
+        search.fill('independence');expect(page.locator('.library-entry:visible h3',has_text='Declining help')).to_be_visible()
+        search.fill('attribution');expect(page.locator('.library-entry:visible h3',has_text='Correspondence bias')).to_be_visible()
         search.fill('no-such-topic');expect(page.locator('#library-empty')).to_be_visible()
         expect(page.locator('#library-result-count')).to_have_text(f'0 of {len(ENTRIES)} entries')
         page.get_by_role('button',name='Clear search').click();expect(search).to_be_focused()
@@ -73,7 +77,7 @@ with sync_playwright() as pw:
         expect(page.locator('.library-entry:visible')).to_have_count(len(ENTRIES))
         search.fill('nothing');page.locator('.library-topics a').first.click()
         expect(page.locator('.library-entry:visible')).to_have_count(len(ENTRIES))
-        page.evaluate('scrollTo(0,0)');page.screenshot(path=str(shots/f'library-{width}.png'))
+        page.evaluate('scrollTo(0,0)');capture(page, path=str(shots/f'library-{width}.png'))
         page.locator('.library-entry h3 a',has_text='Confirmation bias').click()
         page.locator('.reference-formats a[href="#listen"]').click()
         expect(page.locator('h1')).to_contain_text('Confirmation bias')
@@ -84,15 +88,15 @@ with sync_playwright() as pw:
             assert nav.locator('.nav-topic a').first.evaluate('(e)=>getComputedStyle(e).display')=='block'
             expect(nav.locator('[data-section="library"]')).to_have_attribute('open','')
             nav.locator('[data-section="practice"] > summary').click()
-            page.screenshot(path=str(shots/f'mobile-nav-{width}.png'))
+            capture(page, path=str(shots/f'mobile-nav-{width}.png'))
             nav.get_by_role('link',name='Choose a practice',exact=True).click()
             expect(page.locator('h1')).to_have_text('Practice')
         else:
-            page.screenshot(path=str(shots/f'audio-context-{width}.png'))
+            capture(page, path=str(shots/f'audio-context-{width}.png'))
         page.goto(base+'audio/confirmation-bias-explained.html')
         expect(page).to_have_url(base+'reference/confirmation-bias.html#listen-explanation');expect(page.locator('h1')).to_have_text('Confirmation bias')
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
-    page.set_viewport_size({'width':1440,'height':1000});page.emulate_media(color_scheme='dark');page.goto(base+'reference/index.html');page.screenshot(path=str(shots/'library-dark.png'))
+    page.set_viewport_size({'width':1440,'height':1000});page.emulate_media(color_scheme='dark');page.goto(base+'reference/index.html');capture(page, path=str(shots/'library-dark.png'))
     nojs=browser.new_context(java_script_enabled=False,viewport={'width':390,'height':844});q=nojs.new_page();q.goto(base+'reference/index.html')
     expect(q.locator('.library-entry:visible')).to_have_count(len(ENTRIES));expect(q.locator('.library-search')).to_be_hidden()
     q.locator('.mobile-nav > summary').click()
@@ -104,4 +108,4 @@ with sync_playwright() as pw:
     expect(q.locator('h1')).to_have_text('Why we misinterpret people')
     assert not errors,errors
     browser.close()
-print('Passed: four-section hierarchy on every page, topic search/clear/empty states, mobile navigation, breadcrumbs/audio return, chapter order, base-path links, responsive screenshots and no-JavaScript browsing.')
+print('Passed: four-section hierarchy on every page, topic search/clear/empty states, mobile navigation, breadcrumbs/audio return, chapter order, base-path links, responsive layouts and no-JavaScript browsing.' + (' No screenshots created.' if os.environ.get('PEOPLE_NO_SCREENSHOTS') else ' Screenshots captured.'))

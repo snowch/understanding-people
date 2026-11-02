@@ -1,40 +1,76 @@
 # Consequences that sustain a pattern
 
-<p class="reference-status"><strong>Stub — full entry planned</strong></p>
+Reinforcement is a learning process in which a consequence makes a response more likely in similar circumstances. Positive reinforcement adds something; negative reinforcement removes something aversive. Positive and negative here mean addition and removal, not good and bad. Punishment, by contrast, concerns a reduction in a response. The definitions describe effects over time, not merely someone’s intention.
 
-Consider whether what follows a behaviour makes its repetition worthwhile or relieves a difficulty.
+> **Remember:** Ask what follows the action—and what happens next time.
 
-This is a starting outline. The full explanation, evidence review and practice material are still to be written.
+The brief example is fictional. Possible explanations and practical suggestions are editorial applications; they are not a test that identifies a motive, trait or diagnosis.
 
-## A distinction to keep in mind
+<span id="what-the-full-entry-will-cover"></span>
 
-An effect that sustains a pattern does not prove a conscious strategy.
+## How it may arise
 
-## What the full entry will cover
+An action may persist because it gains attention, secures a useful outcome or brings relief. Avoiding a difficult conversation can remove discomfort now while leaving a problem for later. These are hypotheses to investigate. One pleasant outcome does not demonstrate reinforcement, and a person may repeat an action because it is necessary or because the environment offers no safe alternative.
 
-- Meaning and limits, with brief supporting examples.
-- How this may arise, with research separated from possible explanations.
-- Patterns, exceptions and alternatives that would change the explanation.
-- Your own contribution, useful responses and their trade-offs.
-- Key takeaways and one observation–action–review exercise.
+## What the evidence supports
 
-**Reader’s question to address:** What usually happens after the behaviour, including exceptions?
+Wendy Wood and Dennis Rünger reviewed habit research. Repetition in recurring contexts can make responses more automatic, alongside deliberate goals. Not every repeated action is a habit. A pattern may also reflect ongoing constraints, decisions or coercion. [Wood & Rünger (2016). Psychology of Habit.](https://pubmed.ncbi.nlm.nih.gov/26361052/)
 
-For now, the [situation worksheet](../worksheet.md) provides a place to record an occasion, your explanation and a next step. The question above is part of the outline, not an assessment.
+Stefan Hofmann and Angela Hay reviewed avoidance in anxiety treatment, including circumstances in which avoidance can be adaptive. Function and actual danger matter. This is not a reason to remove someone’s safety arrangements or conduct exposure treatment yourself. [Hofmann & Hay (2018). Rethinking avoidance: Toward a balanced approach to avoidance in treating anxiety disorders.](https://pubmed.ncbi.nlm.nih.gov/29550689/)
 
-## Read the foundations now
+Susan Michie and colleagues reviewed behaviour-change frameworks and proposed COM-B: capability, opportunity and motivation as interacting conditions for behaviour. They examined its use in tobacco-control and obesity policy. It is a framework for analysing and designing change, not a diagnostic test or proof that one identified barrier caused an action. [Michie, van Stralen & West (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions.](https://pubmed.ncbi.nlm.nih.gov/21513547/)
 
-- [Chapter 5 — Emotion, stress and coping](../chapters/05-emotion-stress-coping.md)
-- [Chapter 6 — Personality, habits and situations](../chapters/06-personality-habits-situations.md)
+## What else could explain it? {#a-distinction-to-keep-in-mind}
+
+A repeated action can also reflect deliberate choice, a recurring demand or an automatic habit. Relief after escaping a genuine threat is not evidence that safety-seeking should be removed. Do not infer that someone created distress for attention merely because support followed it. What a behaviour accomplishes and what the person intended are separate questions.
+
+These alternatives are starting points, not an exhaustive list.
+
+## What to notice and check
+
+Describe a sequence: what preceded the action, what happened immediately afterward, and whether the pattern recurs in comparable circumstances. Include occasions when it did not occur. Ask about the person’s experience where appropriate. Notice your own responses, such as taking over a task whenever a disagreement becomes uncomfortable.
+
+## How to respond
+
+For an ordinary pattern you want to change, make a constructive alternative easier and more rewarding rather than relying on repeated criticism. Agree the change with affected people. Do not withhold necessary care, safety or basic support to test a learning theory, or improvise treatment for anxiety or compulsions. Where a task is shared, clarify responsibilities so that relief for one person does not invisibly transfer all the burden.
+
+**A brief fictional example:** Fictional example: You agree to every invitation to avoid an awkward refusal, then feel overloaded. Practising a brief, honest answer in a low-stakes situation may change the sequence. The aim is a sustainable choice, not proving that discomfort must disappear.
+
+## Read the foundations {#read-the-foundations-now}
+
+- [Emotion, stress and coping](../chapters/05-emotion-stress-coping.md)
+- [Personality, habits and situations](../chapters/06-personality-habits-situations.md)
 
 ## Related entries
 
-These are reading connections, not evidence that one idea causes another in your situation.
+These are editorial reading connections, not evidence of a cause or diagnosis in your situation.
 
 - [Repeatedly asking for reassurance](reassurance.md): Notice whether relief lasts or whether the same question soon returns.
 - [Learned expectations](learned.md): Past expectations and current consequences are different questions about repetition.
 - [Habits & situations](habits.md): Look at the cue before an action and the consequences after it.
 
-## Evidence to develop
+<span id="evidence-to-develop"></span>
 
-Sources have not been selected for this book entry. Relevant reviews, competing evidence and limits need checking before the explanation is developed.
+[Source access and research scope](sources.md). This is a selected reference entry, not a systematic review or an individual assessment.
+
+<section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
+
+## Key takeaways {#key-takeaways}
+
+- Reinforcement describes a change in future responding.
+- Immediate relief and long-term benefit can differ.
+- Understanding a pattern does not justify removing necessary support.
+
+</section>
+
+<section class="reader-action compact-practice" markdown="1" aria-labelledby="practice">
+
+## Put it into practice {#practice}
+
+1. Record one recurring sequence, including what happens just before and after your action.
+2. Choose a small alternative that meets the legitimate need with fewer unwanted costs.
+3. Compare later occasions and exceptions before deciding what sustained the pattern.
+
+<!-- practice-notes: reference-reinforcement | Consequences that sustain a pattern -->
+
+</section>

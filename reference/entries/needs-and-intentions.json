@@ -1,0 +1,684 @@
+{
+  "entries": [
+    {
+      "id": "autonomy",
+      "cue": "Offer choice without abandoning responsibility.",
+      "meaning": "Autonomy means experiencing a sense of choice and ownership over what you do. It is different from doing everything alone, having no obligations or always getting your preferred outcome. People can freely choose support, follow a shared rule they accept, or depend on others while retaining a meaningful say.",
+      "arise": "An offer can help with a task while taking away decisions the recipient values. Pressure may increase when refusal seems costly, an explanation is dismissed or help arrives without permission. Resistance may concern that loss of choice, but it can also concern a genuinely unsuitable task. The same distinction applies when you are the person offering advice or organising a shared activity.",
+      "alternatives": "Autonomy is distinct from independence, privacy, competence and power, although these can interact. A child can have choices within adult safety responsibilities. An employee can have discretion within a genuine role requirement. Neither situation makes every choice freely available, and offering two unacceptable options does not create meaningful choice.",
+      "notice": "Ask which decision matters, which constraints are real, and which are merely your preferred method. Compare accepted and refused offers. Check whether the person can decline without punishment or a hidden debt. Also ask whether your own discomfort with another person’s method is being presented as a necessary rule.",
+      "respond": "Explain the purpose and constraints of a request, invite a workable alternative and distinguish the required outcome from the method where possible. Accept a refusal when it is genuinely optional. When responsibilities are shared, agree who will do what instead of making acceptance of your help the only acceptable answer. Respect for choice includes being honest about limits.",
+      "example": "Fictional example: A son wants to organise his study time. His parent explains the agreed quiet hours and asks him to propose a plan for completing his work. They review the plan’s results rather than requiring the parent’s timetable simply because it feels safer.",
+      "takeaways": [
+        "Autonomy is a sense of choice, not total independence.",
+        "A choice is limited when refusal brings retaliation.",
+        "Shared responsibilities can be clear without controlling every method."
+      ],
+      "practice": [
+        "Identify one offer or request and the decisions it leaves to each person.",
+        "Offer a real choice or state a necessary constraint with its reason.",
+        "Review whether the arrangement supported both responsibility and a meaningful say."
+      ],
+      "sources": [
+        "sdt",
+        "reactance"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "includes questions about",
+          "why": "Having a say is one useful question in examining motivation, not the answer in every case."
+        },
+        {
+          "node": "refusehelp",
+          "relationship": "possible goal",
+          "why": "Taking over may remove a choice the person wants to retain."
+        },
+        {
+          "node": "encouragement",
+          "relationship": "consider alongside",
+          "why": "Offer a real choice about what support is wanted."
+        },
+        {
+          "node": "adolescence",
+          "relationship": "consider alongside",
+          "why": "Choice and responsibility can be negotiated together."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "competence",
+      "cue": "Support progress without taking over.",
+      "meaning": "Competence concerns feeling able to act effectively and develop useful skills. It is related to actual ability but not identical to it. A capable person may feel unsure in an unfamiliar setting; someone else may feel confident while missing an important skill. Both confidence and performance deserve a fair check.",
+      "arise": "Challenge, feedback and opportunities to practise can shape how capable a task feels. Assistance can make learning possible, or remove the very part someone wants to master. Repeated public correction may make it harder to ask questions even when the correction is accurate. These possibilities need comparing with the task’s real demands rather than assuming encouragement alone is enough.",
+      "alternatives": "Difficulty starting may involve unclear instructions, missing tools, low interest or too little time rather than low confidence. A task can also be beyond current ability or inaccessible as designed. Distinguish “I do not know how,” “I cannot do this under these conditions” and “I do not want this outcome.” Those answers call for different responses.",
+      "notice": "Ask what the person can already do, what part is difficult and what useful progress would look like. Use an example of actual work rather than a global judgment such as lazy or gifted. Compare performance with clear instructions and appropriate support. Check whether your feedback tells the person how to improve or only whether you approve.",
+      "respond": "Agree on a manageable next challenge and the kind of help wanted. Give specific feedback about the task, allow practice where mistakes are tolerable, and retain appropriate safeguards where they are not. If you are learning, make a clear request for information or demonstration instead of treating uncertainty as proof that you are incapable.",
+      "example": "Fictional example: A daughter declines help cooking because she wants to learn the recipe. Her parent asks whether she wants the timing explained or another person to chop vegetables. Supporting one difficult part can preserve her ownership of the task.",
+      "takeaways": [
+        "Feeling capable and being able are related but different.",
+        "Find the actual difficulty before choosing support.",
+        "Useful help can leave room to practise and decide."
+      ],
+      "practice": [
+        "Choose one task and name what is already manageable and what is missing.",
+        "Try a specific support or smaller challenge agreed with the learner.",
+        "Review progress, understanding and independence of the next attempt."
+      ],
+      "sources": [
+        "sdt",
+        "comb"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "includes questions about",
+          "why": "Whether a task feels achievable may be relevant to participation."
+        },
+        {
+          "node": "refusehelp",
+          "relationship": "possible goal",
+          "why": "The person might want an opportunity to try for themselves."
+        },
+        {
+          "node": "encouragement",
+          "relationship": "consider alongside",
+          "why": "A manageable next step may help someone participate."
+        },
+        {
+          "node": "perfectionism",
+          "relationship": "consider alongside",
+          "why": "Wanting to do well can coexist with difficulty stopping."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "belonging",
+      "cue": "Connection should leave room for difference.",
+      "meaning": "Belonging is a sense of being accepted, included or connected within a relationship or group. It can matter in families, friendships, teams and communities. Belonging is not simply the number of contacts someone has: frequent company can still feel excluding, and a small number of dependable relationships can be meaningful.",
+      "arise": "An interaction may carry a question about inclusion alongside its practical content. A disagreement can feel like a risk to membership when affection, invitations or respect seem conditional on agreeing. People may also seek connection directly through shared activity or an invitation. The same action can have several purposes, and wanting inclusion does not make someone weak or manipulative.",
+      "alternatives": "Belonging is different from approval, admiration, constant access and agreement. A person may want a relationship while needing privacy or distance. Declining one event can reflect fatigue, cost, access needs or another commitment. Conversely, a warm message does not establish that exclusion from decisions has stopped.",
+      "notice": "Look at the actual opportunities to participate: who is invited, whose contribution counts, whether disagreement is tolerated and whether access is practical. Ask what inclusion would mean to the person. Notice your own tendency to test closeness by requiring agreement, rapid replies or attendance at every event.",
+      "respond": "Offer a specific invitation with an honest option to decline. Make group expectations explicit and address practical barriers without demanding a personal explanation. In a disagreement, separate continuing respect from accepting a proposal. A relationship is not owed unlimited access, and leaving a harmful group can be consistent with seeking healthier connection elsewhere.",
+      "example": "Fictional example: A friend cannot afford a regular restaurant outing. Saying “You never join us” mistakes a barrier for a preference. Asking about another way to meet creates a useful option without requiring public disclosure of financial details.",
+      "takeaways": [
+        "Contact and felt inclusion are not the same.",
+        "Belonging can coexist with disagreement and privacy.",
+        "Examine participation barriers before inferring rejection."
+      ],
+      "practice": [
+        "Describe one occasion of feeling included or excluded and the concrete conditions.",
+        "Try one invitation or change that leaves room for choice and access needs.",
+        "Review whether participation and connection improved, including the other person’s account."
+      ],
+      "sources": [
+        "belonging",
+        "sdt"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "includes questions about",
+          "why": "Connection to other people may be one part of what matters."
+        },
+        {
+          "node": "identity",
+          "relationship": "possible connection",
+          "why": "A belief may connect someone to a valued group as well as express an opinion."
+        },
+        {
+          "node": "adolescence",
+          "relationship": "consider alongside",
+          "why": "Peers can change what a task means."
+        },
+        {
+          "node": "isolation",
+          "relationship": "consider alongside",
+          "why": "Connection is different from enforced exclusivity."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "security",
+      "cue": "Separate a feeling of danger from the danger itself.",
+      "meaning": "Security concerns protection from harm and a sense of enough stability to act. It can involve physical safety, housing, money, employment or dependable relationships. Feeling safe and being safe are related but different: reassurance can reduce fear without changing a risk, while a precaution can be sensible even when someone appears calm.",
+      "arise": "An uncertain arrangement may threaten several forms of security at once. A person facing unstable work may hesitate to disagree with a manager; a family member may resist a change that affects housing. Past experience can shape expectations, but an observer should not invent a history to explain caution. Actual dependence and available alternatives matter.",
+      "alternatives": "Caution may be a reasonable response to evidence or a response that has spread beyond the current danger. You cannot settle that distinction from visible anxiety alone. Privacy, predictability and control can also be mistaken for one another. Someone’s wish to feel secure does not entitle them to monitor or restrict another person.",
+      "notice": "Clarify the concrete threat, available information and consequences of being wrong. Ask what would make an arrangement more dependable: notice, written terms, independent advice or another practical safeguard. If there are threats or restrictions, examine the pattern and support options rather than asking the person to prove they are frightened enough.",
+      "respond": "Address a real vulnerability before relying on reassurance. Make promises only about things you can control, and explain uncertainty honestly. If the main problem is persistent distress despite reasonable safeguards, professional support may help. Where coercion or immediate harm is a concern, use the support page and an appropriate local service rather than conducting a relationship experiment.",
+      "example": "Fictional example: A client hesitates to sign because cancellation would leave them without a service. Clear delivery terms and a credible fallback address the risk better than repeating “Trust me.” Their hesitation does not establish a suspicious personality.",
+      "takeaways": [
+        "Security includes material conditions, not only feelings.",
+        "Reassurance and risk reduction are different actions.",
+        "Fear does not justify controlling someone else."
+      ],
+      "practice": [
+        "Name one uncertainty and the specific harm you are trying to prevent.",
+        "Choose a proportionate safeguard or seek advice about a risk beyond your knowledge.",
+        "Review what became safer and what remains uncertain; do not provoke danger to test an explanation."
+      ],
+      "sources": [
+        "comb",
+        "nimh-support",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "possible concern",
+          "why": "Safety may be one of several desired outcomes in a situation."
+        },
+        {
+          "node": "reassurance",
+          "relationship": "possible goal",
+          "why": "The person may be trying to establish that something is safe."
+        },
+        {
+          "node": "protect",
+          "relationship": "possible goal",
+          "why": "An intention to protect would usually concern some perceived risk or loss."
+        },
+        {
+          "node": "emotionality",
+          "relationship": "consider alongside",
+          "why": "Concern about safety may fit a real risk; it is not proof of a personality trait."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "fairness",
+      "cue": "Ask which part of fairness is disputed.",
+      "meaning": "Fairness can concern the outcome people receive, the process used to decide, the respect shown during the process, or the information provided. A result can be acceptable while the procedure feels arbitrary; a transparent procedure can still produce an outcome someone believes is unjust. These distinctions help turn a broad accusation into a discussable issue.",
+      "arise": "People may compare contributions, needs, rights, prior agreements or how others were treated. Those standards can conflict. Someone who wants equal shares may disagree with someone prioritising greater need without either secretly acting in bad faith. Power also affects whether people can question an allocation without losing access or being penalised.",
+      "alternatives": "Fairness is not always identical to equality, generosity, legality or what a majority prefers. Agreement can follow pressure rather than a fair procedure. A person can also invoke fairness selectively when their own interests are affected. That possibility is a reason to compare standards consistently, including your own, rather than dismiss the complaint.",
+      "notice": "Ask what comparison is being made and what rule each person believes should apply. Check whether the rule was known beforehand, whether relevant information is available, and whether someone could raise an objection. Compare similar decisions across time. Do not require people to disclose private needs publicly to have them considered appropriately.",
+      "respond": "Separate the allocation question from the way the discussion is conducted. State the decision criteria, explain constraints and provide an avenue for correction where possible. If you cannot meet a request, explain the reason without pretending the disappointed person must agree. Where discrimination or legal rights may be involved, obtain relevant local advice rather than relying only on a family or team negotiation.",
+      "example": "Fictional example: Two siblings disagree about caring for a parent. Equal hours may ignore travel time and paid-work constraints. Making the workload and available capacity visible allows a discussion of a workable division without declaring either sibling selfish.",
+      "takeaways": [
+        "Outcome, process, respect and information can be disputed separately.",
+        "Different fairness principles can conflict.",
+        "Apply your preferred rule consistently, including to yourself."
+      ],
+      "practice": [
+        "Describe one disputed decision and the fairness standard each person appears to use.",
+        "Clarify a criterion or missing fact, while protecting private information.",
+        "Review whether the decision and the process became clearer, even if agreement remains incomplete."
+      ],
+      "sources": [
+        "fairness",
+        "eeoc-harassment"
+      ],
+      "related": [
+        {
+          "node": "defensive",
+          "relationship": "possible concern",
+          "why": "The person might believe the criticism is inaccurate or unfair."
+        },
+        {
+          "node": "persuade",
+          "relationship": "possible goal",
+          "why": "A person may be arguing for what they see as fair; check the substance of the claim."
+        },
+        {
+          "node": "agreeableness",
+          "relationship": "distinguish from",
+          "why": "A cooperative disposition does not mean accepting every arrangement as fair."
+        },
+        {
+          "node": "structural-barriers",
+          "relationship": "consider alongside",
+          "why": "Fair treatment may require changing an arrangement, not identical demands."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "status",
+      "cue": "Recognition is different from control.",
+      "meaning": "Status concerns the respect, recognition or voluntary deference someone receives from others. Power concerns the ability to influence resources, choices or consequences. A respected expert can lack authority over decisions; a manager can have authority without being admired. Both can matter in an interaction, but they should not be treated as the same thing.",
+      "arise": "A discussion may threaten recognition when a contribution is omitted, expertise is dismissed or criticism happens publicly. A person might seek credit, a visible role or acknowledgment of effort. Those are possible concerns, not explanations established by confidence or disagreement. You may also defend an idea more strongly because your own reputation is attached to it.",
+      "alternatives": "Seeking fair credit differs from demanding admiration. Assertiveness can reflect expertise or role responsibility, not vanity. Someone can want recognition while treating others considerately; another can be quiet while controlling access behind the scenes. Do not use a status explanation to dismiss the substance of a criticism.",
+      "notice": "Compare what happens when contributions are accurately credited and roles are clear. Ask whose expertise is recognised, who can speak and who makes the final decision. Notice public versus private differences without assuming a secret strategy. Include whether your own presentation erased another person’s work or overstated their commitment.",
+      "respond": "Give specific, accurate acknowledgment without using praise to buy agreement. Separate credit, decision authority and accountability. When you need recognition, request attribution for the work rather than demanding reassurance about your worth. Address belittling or exclusion as conduct even when its motive remains uncertain.",
+      "example": "Fictional example: A colleague objects when a project is presented as your sole work. Correcting the attribution addresses a real issue. It would be premature to explain the objection as ego or narcissism before checking who actually contributed.",
+      "takeaways": [
+        "Status, power and belonging are distinguishable.",
+        "A request for credit can be legitimate.",
+        "Recognition should be accurate rather than a tool for control."
+      ],
+      "practice": [
+        "Identify one disagreement involving credit, respect or decision authority.",
+        "Clarify the contribution or role without promising admiration or agreement.",
+        "Review whether attribution and collaboration improved and whether the substantive issue was addressed."
+      ],
+      "sources": [
+        "status",
+        "fairness"
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "relationship": "possible goal",
+          "why": "Influence or recognition could matter; consider other explanations too."
+        },
+        {
+          "node": "maintainrole",
+          "relationship": "possible goal",
+          "why": "Retaining a role could preserve recognition or influence, but it may also reflect responsibility or habit."
+        },
+        {
+          "node": "approval-seeking",
+          "relationship": "consider alongside",
+          "why": "Recognition can matter without becoming the only measure."
+        },
+        {
+          "node": "taking-credit",
+          "relationship": "consider alongside",
+          "why": "A request for credit may correct a real omission."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "motivation",
+      "cue": "Ask what matters and what makes action possible.",
+      "meaning": "Motivation concerns processes that direct and sustain action. Enjoying an activity, valuing its outcome, avoiding punishment and seeking approval are different reasons to act. People can hold several reasons at once. Understanding those reasons helps, but action also depends on skills, opportunity, resources and competing demands.",
+      "arise": "An apparently simple request can conflict with another goal. Studying may compete with sleep; buying may compete with preserving savings; helping may compete with privacy or time. These examples are possibilities to examine, not a universal hierarchy of motives. Motivation can also change as a person learns more about a task or its costs.",
+      "alternatives": "Not acting does not establish not caring. A willing person may lack a feasible route, and a competent person may not value the proposed outcome. Rewards can increase some forms of output without making the activity personally meaningful. Equally, wanting an outcome does not mean that every obstacle is external or that a commitment has no responsibility attached.",
+      "notice": "Ask what the person wants from the outcome, what the next action requires and what else is competing. Distinguish an actual agreement from an enthusiastic conversation. Compare tasks they start readily with the one that stalls. Notice whether you are trying to understand their priorities or simply make them share yours.",
+      "respond": "Explain the purpose of a request and invite an honest account of barriers. Choose a response that fits: instruction for a skill gap, resources for an access problem, a smaller plan for overload, or a different agreement when priorities conflict. Use incentives transparently; avoid treating pressure or dependency as evidence of genuine commitment.",
+      "example": "Fictional example: A son says he wants to pass an exam but avoids revising. A short conversation reveals he cannot tell which topics he understands. Starting with a few practice questions may expose the next learning task more usefully than another speech about his future.",
+      "takeaways": [
+        "Reasons for acting can coexist and change.",
+        "Valuing an outcome does not guarantee the conditions for action.",
+        "Match support to the actual barrier."
+      ],
+      "practice": [
+        "Choose one stalled action and separate its value, requirements and competing demands.",
+        "Ask or test one specific barrier and change one feasible condition.",
+        "Review what the person did and learned, rather than whether they sounded motivated."
+      ],
+      "sources": [
+        "sdt",
+        "comb",
+        "student-motivation",
+        "incentives"
+      ],
+      "related": [
+        {
+          "node": "competing",
+          "relationship": "explore through",
+          "why": "Wanting several things can make a decision difficult even when each goal makes sense."
+        },
+        {
+          "node": "autonomy",
+          "relationship": "includes questions about",
+          "why": "Having a say is one useful question in examining motivation, not the answer in every case."
+        },
+        {
+          "node": "competence",
+          "relationship": "includes questions about",
+          "why": "Whether a task feels achievable may be relevant to participation."
+        },
+        {
+          "node": "belonging",
+          "relationship": "includes questions about",
+          "why": "Connection to other people may be one part of what matters."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "change-conditions",
+      "cue": "Find the missing condition before adding pressure.",
+      "meaning": "Capability, opportunity and motivation are three useful questions about an action: can the person do it, do the circumstances allow it, and what directs them toward or away from it? Together they form COM-B, a behaviour-change framework. The questions interact rather than divide people into fixed categories.",
+      "arise": "A person may know how to do a task but lack the time or equipment. They may have access and still find the activity threatening, unrewarding or inconsistent with another goal. Changing one condition can alter the others: a clearer instruction can make a task feel more achievable, while a crowded setting can make a familiar skill difficult to use.",
+      "alternatives": "COM-B is not a test that proves which cause explains one action. “They need motivation” can become a circular explanation if it simply means “They did not act.” Real disagreement, refusal of an unwanted goal and harmful external constraints must remain visible. Do not use a behaviour-change framework to make another person comply with a goal they have not chosen.",
+      "notice": "Define the action narrowly: who would do what, where and when? Ask about physical and psychological skills, practical and social conditions, and competing reasons or automatic responses. Seek a concrete example of the barrier. Compare an occasion when the same action was easier, including what changed in the environment.",
+      "respond": "Choose a small change matched to the evidence: demonstrate a skill, remove an access barrier, simplify a step, agree a cue or reconsider the goal. Change one condition where feasible so you can learn from the result. Include the person in the design. If a responsibility is shared, negotiate a workable contribution rather than silently redesigning their behaviour.",
+      "example": "Fictional example: A volunteer misses an online form. The problem is that the form cannot be completed on their phone. Repeating reminders addresses neither access nor usability. Providing an accessible route tests a specific explanation without declaring the volunteer uncommitted.",
+      "takeaways": [
+        "Specify the action before explaining it.",
+        "Skills, circumstances and motivation interact.",
+        "A framework supports inquiry; it does not establish a cause."
+      ],
+      "practice": [
+        "Name one action precisely and one suspected missing condition.",
+        "Agree a small change to that condition or ask for a concrete explanation.",
+        "Review whether the action became feasible and whether the goal still makes sense."
+      ],
+      "sources": [
+        "comb",
+        "intentions"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "broadens the question",
+          "why": "Motivation is one part of the framework, alongside capability and opportunity."
+        },
+        {
+          "node": "capacity",
+          "relationship": "context to examine",
+          "why": "Practical conditions can make an intended action difficult."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "competing",
+      "cue": "A person can want two incompatible things.",
+      "meaning": "Competing goals are aims that cannot all be pursued fully with the same time, resources or action. A person can value a relationship and want solitude, want success and need rest, or want to help while protecting money. The conflict may concern timing or method rather than a lack of commitment to either aim.",
+      "arise": "Goals become difficult to balance when costs are hidden or priorities remain unspoken. Someone may agree to several requests separately without noticing that the combined workload is impossible. Pressure can produce an immediate yes while leaving the conflict intact. The same issue arises when you judge a single refusal without seeing the rest of a person’s commitments.",
+      "alternatives": "An explanation involving competing goals may be accurate, incomplete or convenient. A stated priority does not automatically excuse a broken agreement. Other explanations include missing skills, unclear expectations, habitual delay and an unwanted task. Avoid assuming that the priority you would choose is the only reasonable one.",
+      "notice": "Ask what the person is trying to preserve, what the proposed action costs and what commitments already exist. Compare what was promised with the capacity available. Include invisible work and recovery needs without demanding intrusive proof. Identify whether the conflict can be resolved by timing, scope, method or an explicit decision about priorities.",
+      "respond": "Make the trade-off discussable. Agree what will happen first, what will be reduced and who needs advance notice. If neither person can provide a needed contribution, consider another arrangement rather than distributing blame indefinitely. You can accept the legitimacy of a competing aim while saying that the current agreement does not work for you.",
+      "example": "Fictional example: A friend repeatedly cancels a long evening visit while caring for a relative. A shorter daytime meeting may preserve both contact and caregiving. It is still reasonable to ask for notice rather than treating your time as expendable.",
+      "takeaways": [
+        "Multiple sincere aims can conflict.",
+        "A trade-off can explain an action without excusing every consequence.",
+        "Negotiate timing, scope and notice explicitly."
+      ],
+      "practice": [
+        "Write the aims and constraints involved in one difficult commitment.",
+        "Agree which trade-off will be made and how affected people will be told.",
+        "Review both follow-through and whether the arrangement was sustainable."
+      ],
+      "sources": [
+        "comb",
+        "intentions",
+        "sdt"
+      ],
+      "related": [
+        {
+          "node": "motivation",
+          "relationship": "explore through",
+          "why": "Wanting several things can make a decision difficult even when each goal makes sense."
+        },
+        {
+          "node": "followthrough",
+          "relationship": "possible explanation",
+          "why": "The agreed task may conflict with another priority. Ask rather than assume."
+        },
+        {
+          "node": "clearrequest",
+          "relationship": "useful response",
+          "why": "Clarify priorities and negotiate a workable task rather than simply demanding more effort."
+        },
+        {
+          "node": "perfectionism",
+          "relationship": "consider alongside",
+          "why": "One standard can crowd out other priorities."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "approval-seeking",
+      "cue": "Check whether the yes belongs to you.",
+      "meaning": "Seeking approval means directing attention or action toward being accepted, praised or spared disapproval. It can be an ordinary part of relationships. It becomes a useful concern when an answer repeatedly conflicts with your needs, values or capacity, or when another person’s reaction seems to determine whether you feel allowed to choose.",
+      "arise": "Agreement may feel safer than disappointment, especially when earlier refusals brought criticism or exclusion. Those are possibilities, not a history to invent for someone. Approval may also be genuinely useful in an evaluated role. Distinguish wanting an honest assessment of your work from needing reassurance that you are acceptable as a person.",
+      "alternatives": "Cooperation, generosity and respect are not automatically approval-seeking. A yes may be freely chosen. Conversely, apparent eagerness may conceal a power imbalance. The question is not whether you care about others’ views, but whether you can consider those views alongside your own judgment and practical limits.",
+      "notice": "Notice what happens before, during and after agreeing. Did you check your capacity, identify your preference and understand the request? Do you later resent a commitment you never wanted? Compare situations where you can decline safely. If the issue is someone else’s agreement, invite an honest answer without making them responsible for reassuring you.",
+      "respond": "Use a brief pause before answering, clarify the request and state a limit or alternative you can actually sustain. If retaliation is likely, a more assertive sentence alone may not solve the problem; consider support and available choices. When seeking feedback, ask about a specific action or standard rather than asking the other person to settle your worth.",
+      "example": "Fictional example: A colleague asks you to cover another shift. You usually agree immediately and then cancel your own plans. This time you check the rota and offer one hour you can genuinely spare. Their disappointment does not by itself establish that your answer was wrong.",
+      "takeaways": [
+        "Caring about approval is not inherently a problem.",
+        "An immediate yes may hide an unexamined cost.",
+        "Real consequences of refusal need attention alongside communication skills."
+      ],
+      "practice": [
+        "Recall one agreement and identify your preference, capacity and expected cost of saying no.",
+        "Try a pause or a specific limit in an ordinary situation where it is safe.",
+        "Review whether the answer was more honest and sustainable, rather than whether everyone approved."
+      ],
+      "sources": [
+        "sdt",
+        "belonging",
+        "rejection-foundation"
+      ],
+      "related": [
+        {
+          "node": "status",
+          "relationship": "consider alongside",
+          "why": "Recognition can matter without becoming the only measure."
+        },
+        {
+          "node": "autonomy",
+          "relationship": "consider alongside",
+          "why": "A choice can include others’ views without being wholly determined by them."
+        },
+        {
+          "node": "fear-rejection",
+          "relationship": "consider alongside",
+          "why": "Fear of exclusion may overlap with approval seeking."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "avoidconflict",
+      "cue": "Ask what postponement is protecting—and costing.",
+      "meaning": "Trying to avoid conflict is a possible intention to prevent disagreement, escalation, rejection or an unpleasant exchange. It may lead to silence, quick agreement, delay or changing the subject. None of those actions proves the intention. Avoiding a dangerous confrontation can be protective; avoiding every ordinary difference can leave problems unresolved.",
+      "arise": "An immediate reduction in discomfort can make postponement attractive even when a later cost grows. A person may also be tired, lack words, need privacy or reasonably expect hostility. The important distinction is whether the action protects something necessary or prevents a manageable issue from being addressed. You need context and the person’s own account to investigate that.",
+      "alternatives": "A pause is different from refusing all future discussion. Disagreement is different from intimidation. Some apparent avoidance reflects a decision that an argument is unproductive, not fear. Do not make “willingness to confront” the standard for honesty or courage when power, safety or access to support differs.",
+      "notice": "Ask whether there is a specific return point, a preferred way to discuss the issue and an explanation of what makes the conversation difficult. Notice what happens when a lower-pressure option is offered. Include your own part: do you ask for discussion while interrupting, belittling or making refusal costly?",
+      "respond": "For an ordinary shared problem, propose one concrete issue, a suitable time and a clear purpose. Allow preparation or a written route. Agree what happens if more time is needed. Where threats or retaliation are plausible, prioritise support over proving that direct discussion is possible. You can also set a practical limit when a shared responsibility remains unaddressed.",
+      "example": "Fictional example: A partner says, “Not now,” during a rushed morning. Offering a time that evening distinguishes a need for a pause from an indefinite refusal to discuss the bill. Neither response alone establishes a complete motive.",
+      "takeaways": [
+        "Avoidance may protect safety or postpone a manageable problem.",
+        "A return arrangement distinguishes a pause from indefinite delay.",
+        "Check how your own conduct affects the conversation."
+      ],
+      "practice": [
+        "Describe one postponed issue and what might make discussing it difficult.",
+        "If appropriate, propose a bounded conversation or another route with a return point.",
+        "Review whether the issue became more workable; use support rather than escalation if the response is threatening."
+      ],
+      "sources": [
+        "avoidance-review",
+        "flexibility",
+        "nhs-abuse"
+      ],
+      "related": [
+        {
+          "node": "followthrough",
+          "relationship": "possible intention",
+          "why": "Someone might say yes to avoid disagreement; a missed task alone does not establish this."
+        },
+        {
+          "node": "withdraw",
+          "relationship": "possible intention",
+          "why": "Avoiding an argument is one possibility; inability to respond is another."
+        },
+        {
+          "node": "power",
+          "relationship": "context to examine",
+          "why": "A refusal may carry costs that are easy for an observer to overlook."
+        },
+        {
+          "node": "agreeableness",
+          "relationship": "distinguish from",
+          "why": "Cooperation and avoiding disagreement are not the same explanation."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "persuade",
+      "cue": "Make reasons visible and refusal possible.",
+      "meaning": "Trying to persuade means attempting to influence another person’s judgment or choice. It can involve explaining benefits, presenting evidence, appealing to values or asking for action. Persuasion is part of ordinary collaboration and selling. Its quality depends on accuracy, transparency and whether the other person retains a meaningful choice.",
+      "arise": "People may be persuaded by reasons that fit their aims, trust in the source, anticipated consequences or social expectations. These routes can overlap. A well-presented argument can be wrong, while an awkwardly presented argument can be sound. Pressure can also increase resistance when it threatens choice, without making the original proposal either right or wrong.",
+      "alternatives": "Persuasion differs from informing, negotiating and coercing. Providing relevant information leaves room for a different conclusion; bargaining changes the terms; coercion can make refusal unsafe or practically unavailable. A persuasive outcome does not prove the person understood the costs or wanted the arrangement. Avoid calling an ordinary disagreement manipulation merely because someone is trying to influence you.",
+      "notice": "Check the claim, evidence, omissions, incentives and consequences of refusal. Ask what the person proposing the choice stands to gain, including yourself. Can the decision be delayed, reviewed or reversed? Compare the proposed arrangement with actual alternatives rather than an artificial choice between buying now and losing everything.",
+      "respond": "Present a clear proposition, relevant limitations and room for questions. Ask what matters to the other person without using a personal vulnerability as a pressure point. If you are deciding, separate the seller’s confidence from the evidence and terms. A useful conversation may end with a better-informed no.",
+      "example": "Fictional example: A client hesitates over a service. Explaining the scope, total cost and cancellation terms helps them decide. Suggesting that hesitation proves they lack ambition replaces a practical discussion with pressure on their self-image.",
+      "takeaways": [
+        "Influence is common; its method and conditions matter.",
+        "An informed refusal can be a good outcome.",
+        "Check evidence and terms independently of presentation."
+      ],
+      "practice": [
+        "Identify one choice you are proposing or considering and the relevant benefits and costs.",
+        "Make one missing limitation, alternative or refusal option explicit.",
+        "Review the quality of understanding and consent, not just whether persuasion succeeded."
+      ],
+      "sources": [
+        "reactance",
+        "kunda",
+        "sdt"
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "relationship": "possible intention",
+          "why": "The comments may aim to change a decision, but their purpose requires checking."
+        },
+        {
+          "node": "thirdparty",
+          "relationship": "possible intention",
+          "why": "Involving another person may aim to change the decision, or may seek mediation or support."
+        },
+        {
+          "node": "fairness",
+          "relationship": "possible goal",
+          "why": "A person may be arguing for what they see as fair; check the substance of the claim."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "protect",
+      "cue": "Protection should be proportionate and reviewable.",
+      "meaning": "Trying to protect is a possible intention to reduce a perceived risk to someone or something valued. Protective action can be thoughtful and necessary. The claim of protection does not establish that the risk assessment is sound or that the method is acceptable. The affected person’s wishes, rights and ability to choose still matter.",
+      "arise": "A person may act on a real hazard, an earlier experience, limited information or an exaggerated expectation of harm. A parent, manager or caregiver may have genuine responsibilities while also finding uncertainty difficult. Several motives can coexist, including a wish to retain influence. Do not assume either care or control solely from the explanation offered.",
+      "alternatives": "A necessary safety restriction differs from an unlimited right to decide for another adult. A warning differs from preventing contact or demanding account passwords. Legitimate care can also be poorly communicated. Examine what the action does, how it is justified and whether less restrictive alternatives are available.",
+      "notice": "Clarify the specific hazard, the evidence, who bears the cost and what would allow the restriction to end. Is the precaution connected to the hazard? Can the affected person ask questions or obtain independent advice? Compare occasions when choice is respected. If there are threats or repeated restrictions, consider the wider pattern rather than evaluating the stated intention in isolation.",
+      "respond": "Explain a concrete concern and invite a proportionate safeguard that preserves as much choice as possible. Where responsibilities for a child or a person needing care apply, use appropriate professional and local guidance rather than pretending the responsibilities disappear. For adult relationships, protection is not a standing entitlement to monitor, isolate or punish.",
+      "example": "Fictional example: A father worries about his adult daughter travelling. Offering route information and asking what support she wants preserves her decision. Requiring constant location sharing under threat of withdrawing unrelated support raises a different issue from giving advice.",
+      "takeaways": [
+        "A protective intention does not settle whether a method is justified.",
+        "Connect restrictions to a specific risk and a review point.",
+        "Safety and the affected person’s agency both matter."
+      ],
+      "practice": [
+        "Describe one claimed protective action, the hazard and whose choices it changes.",
+        "Discuss or seek advice on a less restrictive safeguard where appropriate.",
+        "Review risk, consent and freedom of action; seek support if questioning leads to threats."
+      ],
+      "sources": [
+        "sdt",
+        "nhs-abuse",
+        "coercion-guidance"
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "relationship": "possible intention",
+          "why": "Concern about a risk is one possibility; criticism alone is not evidence of care."
+        },
+        {
+          "node": "security",
+          "relationship": "possible goal",
+          "why": "An intention to protect would usually concern some perceived risk or loss."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "punish",
+      "cue": "Look at the imposed cost, not a guessed motive.",
+      "meaning": "Trying to punish is a possible intention to impose a cost after an unwanted action. The cost may be explicit, such as a stated sanction, or suspected from withdrawal, humiliation or loss of access. An unpleasant consequence alone does not prove punishment was intended. It does tell you something about the arrangement that needs examining.",
+      "arise": "Consequences can be used to deter an action, express anger, enforce a rule or regain control. A person might describe the same action as teaching a lesson, fairness or self-protection. These explanations require checking against what was agreed, the proportionality of the response and the freedom to disagree. Good intentions do not erase an imposed harm.",
+      "alternatives": "A boundary about your own participation differs from a penalty designed to force another person’s compliance. Stopping a conversation because of shouting can be a limit; threatening unrelated financial harm because someone disagrees is a different action. Natural consequences, formal role responsibilities and retaliation also need distinguishing.",
+      "notice": "Identify the triggering event, the consequence, who controls it and how it ends. Was the rule clear, relevant and legitimately applied? Can the affected person challenge it safely? Compare whether similar situations receive similar responses. In your own conduct, ask whether you are protecting a reasonable limit or trying to make another person suffer for disappointing you.",
+      "respond": "For shared agreements, make consequences relevant, proportionate and transparent, with a route to repair or review. Avoid humiliation and unrelated deprivation. If threats or dependence make refusal unsafe, seek appropriate support instead of testing whether the person will carry out the penalty. You do not need to settle their inner motive before taking the consequences seriously.",
+      "example": "Fictional example: A colleague is removed from a necessary email chain after raising a concern. The timing is worth documenting, but does not alone prove retaliation. Ask about access through a suitable channel and consider other evidence about the decision.",
+      "takeaways": [
+        "An imposed consequence and an inferred intention are different.",
+        "Boundaries and coercive penalties should not be treated as synonyms.",
+        "Relevance, proportionality and safe challenge matter."
+      ],
+      "practice": [
+        "Write one triggering action and the concrete consequence without assigning intent.",
+        "Check an applicable agreement or seek advice about a proportionate response.",
+        "Review access, fairness and practical effects; do not provoke retaliation to obtain proof."
+      ],
+      "sources": [
+        "coercion-guidance",
+        "fairness",
+        "eeoc-harassment"
+      ],
+      "related": [
+        {
+          "node": "withdraw",
+          "relationship": "possible intention",
+          "why": "Withdrawal could be punitive, but silence alone cannot establish that purpose."
+        },
+        {
+          "node": "boundaries",
+          "relationship": "distinguish from",
+          "why": "Consider what is communicated, the action’s purpose and its practical effect. Do not equate every refusal with punishment."
+        },
+        {
+          "node": "retaliation",
+          "relationship": "consider alongside",
+          "why": "A punitive intention needs evidence beyond an unpleasant effect."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "maintainrole",
+      "cue": "Clarify what changes and what still matters.",
+      "meaning": "Trying to retain a role is a possible intention to preserve familiar involvement, responsibility or recognition. It can arise when children become adults, a colleague takes over a project, a person retires or care needs change. Continuing an old practice does not prove a strategy to control; it may reflect an unclear handover or a genuinely shared responsibility.",
+      "arise": "A role can provide identity, connection, competence or status as well as practical work. Losing part of it may leave uncertainty about how to contribute. The person taking over may also expect independence without recognising the work that remains. These are possibilities to discuss, not a reason to infer a childhood history or assign blame.",
+      "alternatives": "Role retention differs from expertise, a continuing duty or a concern about an unfinished task. It can also become restrictive when someone refuses agreed changes, withholds information or makes others dependent. Gratitude for past help does not require preserving decision rights forever. A new role should not remove legitimate safeguards merely to demonstrate autonomy.",
+      "notice": "Ask what was explicitly agreed about the transition: decisions, tasks, information and accountability. Look for places where expectations differ. Compare what happens when a meaningful contribution is invited without surrendering the new decision-maker’s role. Include your own tendency either to take over or to expect someone else to remain available invisibly.",
+      "respond": "Make a concrete handover, acknowledge the earlier contribution and agree which support will be requested. Set a time to review what is working. If unwanted involvement continues, state the particular decision or access limit. Where care, employment or legal responsibilities are involved, clarify them with appropriate advice rather than relying on assumptions about family roles.",
+      "example": "Fictional example: A parent keeps booking appointments for an adult child. The child says which bookings they will now manage and asks for help only with transport. They can value the parent’s support while changing who makes the arrangements.",
+      "takeaways": [
+        "Roles carry practical work and personal meaning.",
+        "A handover needs explicit decisions and responsibilities.",
+        "Appreciation does not require indefinite loss of choice."
+      ],
+      "practice": [
+        "Identify one changing role and the decisions or tasks that remain unclear.",
+        "Agree one explicit transfer or requested form of support.",
+        "Review whether responsibilities and choices became clearer without leaving essential work unowned."
+      ],
+      "sources": [
+        "sdt",
+        "status",
+        "eyal"
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "relationship": "possible intention",
+          "why": "A changing family role might matter; the incident cannot establish that history."
+        },
+        {
+          "node": "status",
+          "relationship": "possible goal",
+          "why": "Retaining a role could preserve recognition or influence, but it may also reflect responsibility or habit."
+        },
+        {
+          "node": "familynorms",
+          "relationship": "context to examine",
+          "why": "Check what responsibilities were expected and whether they have been renegotiated."
+        },
+        {
+          "node": "later-life",
+          "relationship": "consider alongside",
+          "why": "A task can also carry identity and involvement."
+        }
+      ],
+      "specialistCaveat": false
+    }
+  ]
+}

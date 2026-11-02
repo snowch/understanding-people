@@ -1,0 +1,205 @@
+{
+  "entries": [
+    {
+      "id": "agreeableness",
+      "cue": "Cooperation and agreement are different.",
+      "meaning": "Agreeableness is a broad personality dimension concerning how people tend to approach others, including compassion, respectfulness and trust. It describes a pattern across occasions, not whether someone agrees with your current request. A considerate person can disagree firmly; an accommodating answer can reflect fear, pressure or convenience rather than a stable trait.",
+      "arise": "Individual differences and circumstances both matter. The same person may be trusting with a reliable friend and cautious with a supplier who has broken agreements. Family resemblance can involve inherited tendencies and shared learning, but observing relatives cannot separate those influences. Treat a trait description as a summary to investigate, not a hidden mechanism that explains every action.",
+      "alternatives": "Agreeableness is distinct from social confidence, sociability, obedience and being easy for you to manage. A refusal of help may protect choice or reflect the particular offer. Repeated criticism might concern a real problem, a harsh communication style or a harmful pattern. Neither one act nor your frustration establishes where a person falls on this dimension.",
+      "notice": "Compare how the person handles others’ needs, conflicting interests and opportunities to cooperate across different settings. Include exceptions and your own position: do you call someone agreeable mainly when they do what you want? If self-description and others’ reports differ, examine which situations each person sees rather than automatically privileging one account.",
+      "respond": "For collaboration, identify concrete preferences and commitments. Ask what counts as respectful disagreement, how decisions will be made and what each person can offer. If you want to develop consideration yourself, choose a behaviour such as acknowledging a concern before responding, while keeping the right to say no. A personality label does not substitute for addressing harm.",
+      "example": "Fictional example: A daughter declines her parent’s suggested career but listens carefully, explains her reasons and offers to discuss the practical risks. The disagreement does not show a lack of care. Her handling of the disagreement is more informative than whether she accepts the advice.",
+      "takeaways": [
+        "Agreeableness is a dimension, not a moral verdict.",
+        "Disagreement and respectful cooperation can coexist.",
+        "Look across settings before describing a stable tendency."
+      ],
+      "practice": [
+        "Compare one disagreement and one cooperative exchange involving yourself.",
+        "Choose one act of consideration that preserves an honest answer, and try it.",
+        "Review whether the other person’s concern became clearer without treating agreement as success."
+      ],
+      "sources": [
+        "bigfive",
+        "states",
+        "heritability"
+      ],
+      "related": [
+        {
+          "node": "fairness",
+          "relationship": "distinguish from",
+          "why": "A cooperative disposition does not mean accepting every arrangement as fair."
+        },
+        {
+          "node": "avoidconflict",
+          "relationship": "distinguish from",
+          "why": "Cooperation and avoiding disagreement are not the same explanation."
+        },
+        {
+          "node": "refusehelp",
+          "relationship": "learn alongside",
+          "why": "Look across occasions before turning a particular refusal into a trait."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "conscientiousness",
+      "cue": "Look at the conditions of follow-through.",
+      "meaning": "Conscientiousness concerns broad tendencies in organising action, working toward responsibilities and handling commitments. People can differ in organisation, persistence and responsibility without being identical on each. It is a dimension of typical behaviour, not a score for worth or a guarantee that a person will meet every deadline.",
+      "arise": "Plans are enacted in settings with distractions, competing tasks, resources and habits. Someone who organises work reliably may struggle with household administration, especially when expectations are unclear. Differences can persist across time while behaviour varies from day to day. Traits can change, but research on change does not mean another person can be remodelled by repeated criticism.",
+      "alternatives": "A missed task can reflect overload, unclear ownership, inaccessible tools, illness or a different priority. A meticulous approach can be useful, excessive for the task or part of a separate difficulty. Conscientiousness is not obsessive-compulsive personality disorder, and ordinary carefulness is not OCD. Avoid using clinical terms to express annoyance at someone’s method.",
+      "notice": "Examine comparable commitments: was the task understood, feasible and actually agreed? Compare completed work with missed work, including changes in workload and support. Ask whether the process consistently depends on another person reminding or rescuing. That dependency matters operationally even when the explanation remains uncertain.",
+      "respond": "Agree on outcomes, scope, timing and an early warning when capacity changes. Use supports such as a shared task list only with a clear purpose and appropriate consent. If you want to develop reliability, reduce the task to a realistic commitment and build a useful cue. Reliability includes saying that a deadline is no longer feasible before others depend on it.",
+      "example": "Fictional example: A volunteer repeatedly misses an email deadline but reliably completes tasks agreed during a short planning call. Comparing the arrangements suggests a communication or planning change to test; it does not prove a global character defect or remove the need for a dependable agreement.",
+      "takeaways": [
+        "Conscientiousness summarises patterns, not every outcome.",
+        "Check the commitment and conditions before assigning a trait.",
+        "A workable system can matter alongside personal tendencies."
+      ],
+      "practice": [
+        "Choose one commitment and identify ownership, time, tools and competing demands.",
+        "Make one realistic process change, such as an earlier capacity check.",
+        "Review completion and the burden on others; retain both successful and missed occasions."
+      ],
+      "sources": [
+        "bigfive",
+        "states",
+        "selfchange",
+        "comb"
+      ],
+      "related": [
+        {
+          "node": "followthrough",
+          "relationship": "do not infer from one event",
+          "why": "A single missed action cannot establish a broad personality trait."
+        },
+        {
+          "node": "capacity",
+          "relationship": "context to examine",
+          "why": "Practical barriers can affect follow-through even for a usually dependable person."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "extraversion",
+      "cue": "Ask what kind of participation works.",
+      "meaning": "Extraversion describes tendencies involving sociability, assertiveness and energy in engagement with the world. These aspects need not move together in every situation. A person may enjoy company while disliking speaking in a large meeting, or lead a discussion confidently while needing quiet afterward. Introversion is not a disorder or a measure of social skill.",
+      "arise": "Typical levels of engagement interact with familiarity, interest, fatigue and the structure of a situation. Repeated sampling of everyday behaviour shows considerable variation within individuals. What looks like a stable trait in one setting may partly reflect whether the person is invited, interrupted, comfortable with the language or able to process the pace.",
+      "alternatives": "Quietness can reflect preference, uncertainty, exclusion, anxiety, grief, fatigue or listening. Talkativeness can be enthusiasm, role demands or a response to silence. Neither settles confidence, competence, honesty or care. A new change in participation may deserve a different inquiry from someone’s longstanding preference for smaller groups.",
+      "notice": "Compare settings that vary in group size, familiarity, medium and time to prepare. Ask the person how they prefer to contribute instead of treating visible enthusiasm as the standard. Check your own habits: do you credit the fastest speaker with the strongest idea, or read a need for solitude as rejection?",
+      "respond": "Offer several legitimate ways to participate: advance information, a turn to speak, written comments or a smaller conversation where feasible. Make the actual requirement explicit when public speaking is necessary, and discuss support rather than a personality makeover. When developing your own participation, choose a specific skill while preserving the amount of contact that suits you.",
+      "example": "Fictional example: A colleague says little during a fast group discussion but sends a clear analysis afterward. Providing the question in advance and a pause for written input tests whether the meeting format was limiting contribution. It does not establish an introvert or anxiety diagnosis.",
+      "takeaways": [
+        "Sociability, assertiveness and energy are related but distinguishable.",
+        "Quietness does not reveal its own explanation.",
+        "Good collaboration can accommodate different participation styles."
+      ],
+      "practice": [
+        "Compare two settings in which your participation differs.",
+        "Ask for or try one format change that would improve contribution.",
+        "Review the usefulness of your input and your comfort, rather than counting how much you spoke."
+      ],
+      "sources": [
+        "bigfive",
+        "states"
+      ],
+      "related": [
+        {
+          "node": "interrupt",
+          "relationship": "do not infer from one event",
+          "why": "Talkativeness is not enough to assign a trait or explain an interruption."
+        },
+        {
+          "node": "audience",
+          "relationship": "context to examine",
+          "why": "A broad tendency does not determine behaviour in every group."
+        },
+        {
+          "node": "openness",
+          "relationship": "distinguish from",
+          "why": "Interest in unfamiliar ideas is different from seeking social interaction."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "emotionality",
+      "cue": "Notice recovery as well as reaction.",
+      "meaning": "Negative emotionality is a broad personality dimension describing tendencies toward experiences such as worry, sadness or emotional volatility. The term refers to patterns in emotional experience; it is not a criticism of a person or a diagnosis. A person can experience strong emotions and still act thoughtfully, and calm outward behaviour does not reveal how someone feels inside.",
+      "arise": "Emotional responses vary with perceived stakes, uncertainty, sleep, past experience and current demands. Typical differences between people can coexist with large variations within the same person. Inherited and environmental influences can contribute to broad traits, but neither a family story nor a single stressful event identifies their relative contributions for an individual.",
+      "alternatives": "A difficult period can differ from a longstanding pattern. Physical health changes, grief, anxiety or depression can also affect emotional experience and functioning. These possibilities require attention to duration and impact rather than guessing a condition. High emotional sensitivity is not the same as manipulation, and emotional stability does not excuse dismissing another person’s needs.",
+      "notice": "If describing your own pattern, note triggers, intensity, recovery time and what helped. Compare ordinary days with difficult ones, and include actions you handled well. If concerned about someone else, ask about their experience and needs rather than rating the legitimacy of their feelings. Focus on concrete conduct when a response affects you.",
+      "respond": "Work on a response you can influence: pause before sending a message, reduce an avoidable load, clarify uncertainty or seek support for persistent distress. Changes in trait measures have been observed in intervention research, particularly clinical work, but that is not proof that a short self-help exercise will change a trait. Measure a useful improvement in functioning or recovery instead.",
+      "example": "Fictional example: You worry strongly after an ambiguous email. This time you wait, identify the uncertain sentence and ask one clarification rather than sending repeated replies. Worry may still be present, but your response becomes more deliberate and easier to collaborate with.",
+      "takeaways": [
+        "Emotional experience and chosen action are different.",
+        "A difficult period does not establish a stable trait or disorder.",
+        "Track recovery and functioning, not just whether emotion disappears."
+      ],
+      "practice": [
+        "Describe one recent emotional reaction, its circumstances and how you responded.",
+        "Choose one manageable change to your response or support arrangements.",
+        "Review recovery, daily functioning and effects on others; seek help if difficulties persist or worsen."
+      ],
+      "sources": [
+        "bigfive",
+        "states",
+        "selfchange",
+        "nimh-support"
+      ],
+      "related": [
+        {
+          "node": "stress",
+          "relationship": "distinguish from",
+          "why": "A broad tendency and a temporary period of overload require different evidence."
+        },
+        {
+          "node": "security",
+          "relationship": "consider alongside",
+          "why": "Concern about safety may fit a real risk; it is not proof of a personality trait."
+        }
+      ],
+      "specialistCaveat": false
+    },
+    {
+      "id": "openness",
+      "cue": "Curiosity is compatible with checking evidence.",
+      "meaning": "Open-mindedness, often called openness to experience, concerns tendencies toward intellectual curiosity, aesthetic engagement and imagination. It does not mean agreeing with every unfamiliar idea. Someone may be adventurous in art and cautious in finances; another may enjoy abstract questions while preferring a familiar daily routine.",
+      "arise": "Interest in novelty interacts with expertise, opportunity, perceived risk and the setting. Familiarity can make an option easier to evaluate; genuine constraints can make experimentation costly. Trait descriptions summarise these patterns across occasions, while leaving room for someone to behave differently when a decision matters or circumstances change.",
+      "alternatives": "Rejecting a proposal can reflect evidence, timing, expense or a conflicting aim rather than a closed mind. Accepting an unusual claim can reflect careful inquiry or uncritical enthusiasm. Neither tradition nor novelty guarantees quality. Openness is also distinct from political identity, intelligence and moral superiority.",
+      "notice": "Ask whether the person can identify what they would need to learn or see before changing a view. Apply that question to yourself. Compare responses to proposals of similar risk rather than equating enthusiasm for a low-cost hobby with willingness to make a major life change. Notice whether you dismiss an idea because of who proposed it.",
+      "respond": "Separate exploration from commitment. A small, reversible trial can answer a practical question while preserving limits on cost and responsibility. Invite reasons for caution as well as arguments for change. If the answer is no, clarify the decision criteria rather than accusing the person of a defective personality. You can develop a habit of inquiry without making novelty compulsory.",
+      "example": "Fictional example: A parent declines a new budgeting app because it requires sharing banking data, but agrees to compare spending categories on paper. The refusal concerns the arrangement, not necessarily a general unwillingness to learn. The revised comparison can still serve the shared goal.",
+      "takeaways": [
+        "Openness concerns tendencies, not an obligation to agree.",
+        "Curiosity and critical evaluation can support each other.",
+        "Compare the risks and conditions of different proposals."
+      ],
+      "practice": [
+        "Choose one idea you dismissed and state the actual reason.",
+        "Identify a fair question or bounded trial that could change your assessment.",
+        "Review what you learned without treating acceptance of the idea as the required result."
+      ],
+      "sources": [
+        "bigfive",
+        "states",
+        "kunda"
+      ],
+      "related": [
+        {
+          "node": "identity",
+          "relationship": "consider alongside",
+          "why": "Curiosity and commitments can coexist; a disagreement does not identify openness."
+        },
+        {
+          "node": "extraversion",
+          "relationship": "distinguish from",
+          "why": "Interest in unfamiliar ideas is different from seeking social interaction."
+        }
+      ],
+      "specialistCaveat": false
+    }
+  ]
+}

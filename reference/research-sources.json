@@ -1,0 +1,590 @@
+{
+  "method": "Selected research records/abstracts and public guidance checked on 2 November 2026. Access scope is recorded per source; this is not a systematic review. Source wording, questionnaires, diagnostic checklists, figures and recordings are not reproduced. All explanatory prose and teaching examples are original editorial writing.",
+  "sources": {
+    "gilbert": {
+      "title": "Gilbert & Malone (1995). The correspondence bias.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7870861/",
+      "explanation": "Psychologists Daniel Gilbert and Patrick Malone reviewed research on correspondence bias: people can underweight circumstances when explaining another person’s behaviour.",
+      "limit": "This does not establish that a particular judgment about someone’s character is mistaken.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/7870861"
+    },
+    "kunda": {
+      "title": "Kunda (1990). The case for motivated reasoning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2270237/",
+      "explanation": "Psychologist Ziva Kunda reviewed research on motivated reasoning. Desired conclusions can shape which reasons people search for and find convincing.",
+      "limit": "Disagreement alone cannot establish a hidden motive, and a desired conclusion can still be correct.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/2270237"
+    },
+    "eyal": {
+      "title": "Eyal, Steffel & Epley (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29620401/",
+      "explanation": "Tal Eyal and colleagues tested interpersonal predictions across a series of experiments. Imagining another person’s perspective did not consistently improve accuracy; a final experiment found that obtaining information through conversation helped.",
+      "limit": "Conversation does not guarantee honesty, complete understanding or safety. These were specific prediction tasks, not tests of every relationship.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/29620401"
+    },
+    "listening": {
+      "title": "Itzchakov, Kluger & Castro (2017). I Am Aware of My Inconsistencies but Can Tolerate Them: The Effect of High Quality Listening on Speakers' Attitude Ambivalence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27856728/",
+      "explanation": "Guy Itzchakov and colleagues manipulated listening quality in four laboratory experiments. Attentive, nonjudgmental listening reduced speakers’ social anxiety and helped them recognise mixed attitudes in the studied tasks.",
+      "limit": "The experiments do not show that listening guarantees agreement or repairs a harmful relationship.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/27856728"
+    },
+    "memory": {
+      "title": "Loftus (2005). Planting misinformation in the human mind: a 30-year investigation of the malleability of memory.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16027179/",
+      "explanation": "Elizabeth Loftus reviewed experimental research on misinformation after an event. Later suggestions can change what people report remembering.",
+      "limit": "This does not show that a particular memory is false, or justify dismissing an account of harm.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/16027179"
+    },
+    "stress": {
+      "title": "Shields, Sazma & Yonelinas (2016). The effects of acute stress on core executive functions: A meta-analysis and comparison with cortisol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27371161/",
+      "explanation": "Grant Shields and colleagues combined studies of acute stress and executive functions. Stress tended to impair working memory and flexible switching; effects on inhibition were more mixed.",
+      "limit": "Laboratory averages cannot explain a particular person’s sharp response or remove responsibility for harm.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/27371161"
+    },
+    "flexibility": {
+      "title": "Bonanno & Burton (2013). Regulatory Flexibility: An Individual Differences Perspective on Coping and Emotion Regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26173226/",
+      "explanation": "George Bonanno and Charles Burton reviewed coping and emotion-regulation research. Their framework emphasises noticing context, having several response options and adjusting to feedback.",
+      "limit": "It is a framework with acknowledged measurement limits, not evidence that one response or this worksheet always works.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/26173226"
+    },
+    "bigfive": {
+      "title": "Soto & John (2017). The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27055049/",
+      "explanation": "Christopher Soto and Oliver John developed and tested the BFI-2 across three studies, organising personality descriptions into five broad dimensions and narrower facets.",
+      "limit": "These are dimensions, not fixed types or clinical diagnoses. This entry does not reproduce, administer or score the questionnaire.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/27055049"
+    },
+    "states": {
+      "title": "Fleeson (2001). Toward a structure- and process-integrated view of personality: traits as density distribution of states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11414368/",
+      "explanation": "William Fleeson used repeated reports of everyday behaviour in three studies. Individuals varied considerably across occasions while showing stable differences in their average patterns.",
+      "limit": "A few memorable events cannot establish a lifelong trait; self-reports and the sampled settings have limits.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/11414368"
+    },
+    "habit": {
+      "title": "Wood & Rünger (2016). Psychology of Habit.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26361052/",
+      "explanation": "Wendy Wood and Dennis Rünger reviewed habit research. Repetition in recurring contexts can make responses more automatic, alongside deliberate goals.",
+      "limit": "Not every repeated action is a habit. A pattern may also reflect ongoing constraints, decisions or coercion.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/26361052"
+    },
+    "culture": {
+      "title": "Vignoles and colleagues (2016). Beyond the 'east-west' dichotomy: Global variation in cultural models of selfhood.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27359126/",
+      "explanation": "Vivian Vignoles and colleagues conducted two multinational surveys. Ways of being independent and connected varied across several dimensions, beyond a simple East–West division.",
+      "limit": "Group patterns cannot reveal one person’s values, and national averages are not instructions for interacting with an individual.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/27359126"
+    },
+    "weird": {
+      "title": "Henrich, Heine & Norenzayan (2010). The weirdest people in the world?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20550733/",
+      "explanation": "Joseph Henrich, Steven Heine and Ara Norenzayan compared behavioural findings across populations and examined reliance on Western, educated samples.",
+      "limit": "Findings from a narrow sample need checking before they are generalised; the review does not assign a personality to a culture.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/20550733"
+    },
+    "deception": {
+      "title": "Bond & DePaulo (2006). Accuracy of deception judgments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16859438/",
+      "explanation": "Charles Bond and Bella DePaulo combined studies of unaided truth–lie judgments. Average accuracy was about 54%, with truths recognised more accurately than lies.",
+      "limit": "This is an average across tasks, not the probability that a particular person is lying.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/16859438"
+    },
+    "nonverbal": {
+      "title": "Vrij, Hartwig & Granhag (2019). Reading Lies: Nonverbal Communication and Deception.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30609913/",
+      "explanation": "Aldert Vrij, Maria Hartwig and Pär Granhag reviewed nonverbal deception research. Available behavioural cues were faint and unreliable for practical lie detection.",
+      "limit": "Nervousness, eye contact or confidence cannot settle whether an account is accurate.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/30609913"
+    },
+    "intentions": {
+      "title": "Webb & Sheeran (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16536643/",
+      "explanation": "Thomas Webb and Paschal Sheeran combined 47 experimental tests in which intentions changed. Changes in behaviour were generally smaller than changes in intention.",
+      "limit": "The result supports separating a promise from follow-through, not deciding why an individual failed to act.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/16536643"
+    },
+    "planning": {
+      "title": "Hagger & Luszczynska (2014). Implementation intention and action planning interventions in health contexts: state of the research and proposals for the way forward.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24591064/",
+      "explanation": "Martin Hagger and Aleksandra Luszczynska reviewed action-planning interventions in health settings, including differences in results and study quality.",
+      "limit": "A concrete plan may be useful, but health-intervention findings do not validate a family or workplace agreement.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/24591064"
+    },
+    "progress": {
+      "title": "Harkin and colleagues (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26479070/",
+      "explanation": "Benjamin Harkin and colleagues combined 138 experiments. Interventions that increased monitoring of goal progress improved goal attainment on average.",
+      "limit": "Monitoring a chosen goal is different from surveillance of another person; the review did not test this book’s complete method.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/26479070"
+    },
+    "incentives": {
+      "title": "Cerasoli, Nicklin & Ford (2014). Intrinsic motivation and extrinsic incentives jointly predict performance: a 40-year meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24491020/",
+      "explanation": "Christopher Cerasoli and colleagues combined research on motivation, incentives and performance. Intrinsic motivation and incentives both mattered, with differences between quality and quantity.",
+      "limit": "Rewards are neither universally helpful nor universally harmful; performance findings cannot identify one person’s values.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/24491020"
+    },
+    "student-motivation": {
+      "title": "Howard and colleagues (2021). Student Motivation and Associated Outcomes: A Meta-Analysis From Self-Determination Theory.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33593153/",
+      "explanation": "Joshua Howard and colleagues combined studies of student motivation and outcomes. Different forms of motivation showed different associations with learning and well-being.",
+      "limit": "Many associations are not causal; applying the findings outside education requires care.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/33593153"
+    },
+    "sdt": {
+      "title": "Ryan & Deci (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11392867/",
+      "explanation": "Richard Ryan and Edward Deci reviewed self-determination theory and evidence concerning autonomy, competence and relatedness in motivation and well-being.",
+      "limit": "The framework suggests distinctions to investigate. It cannot identify the cause of a particular action or refusal.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/11392867"
+    },
+    "belonging": {
+      "title": "Baumeister & Leary (1995). The need to belong: desire for interpersonal attachments as a fundamental human motivation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7777651/",
+      "explanation": "Roy Baumeister and Mark Leary reviewed evidence for a widespread motivation to form and maintain stable interpersonal attachments.",
+      "limit": "The review does not imply that everyone wants the same amount or form of contact, or must maintain an unsafe relationship.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/7777651"
+    },
+    "comb": {
+      "title": "Michie, van Stralen & West (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21513547/",
+      "explanation": "Susan Michie and colleagues reviewed behaviour-change frameworks and proposed COM-B: capability, opportunity and motivation as interacting conditions for behaviour. They examined its use in tobacco-control and obesity policy.",
+      "limit": "It is a framework for analysing and designing change, not a diagnostic test or proof that one identified barrier caused an action.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/21513547"
+    },
+    "heritability": {
+      "title": "Polderman and colleagues (2015). Meta-analysis of the heritability of human traits based on fifty years of twin studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25985137/",
+      "explanation": "Tinca Polderman and colleagues combined twin-study findings across many human traits. Genetic contributions to variation were widespread across the studied traits.",
+      "limit": "Heritability concerns variation in studied populations, not the genetic percentage of one action. Family resemblance does not separate inheritance from learning.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/25985137"
+    },
+    "selfchange": {
+      "title": "Roberts and colleagues (2017). A systematic review of personality trait change through intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28054797/",
+      "explanation": "Brent Roberts and colleagues reviewed 207 intervention studies tracking personality measures, mainly in clinical settings. Trait scores could change, especially emotional stability, and some changes persisted at follow-up.",
+      "limit": "Study designs varied. This does not show that wishing, a short exercise or changing a relative will produce the same result.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/28054797"
+    },
+    "reactance": {
+      "title": "Steindl and colleagues (2015). Understanding Psychological Reactance: New Developments and Findings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27453805/",
+      "explanation": "Christina Steindl and colleagues reviewed psychological-reactance research on responses to perceived threats to freedom.",
+      "limit": "Reactance is one possible process, not an explanation established whenever someone resists a request. Real disagreement and unsuitable demands still matter.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/27453805"
+    },
+    "shame": {
+      "title": "Tangney, Stuewig & Mashek (2007). Moral emotions and moral behavior.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16953797/",
+      "explanation": "June Tangney and colleagues reviewed theory and research on moral emotions, including distinctions between evaluating one’s whole self and evaluating a particular action.",
+      "limit": "Emotions have different effects across contexts. An observer cannot read shame, guilt or remorse directly from a facial expression.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/16953797"
+    },
+    "perfectionism": {
+      "title": "Limburg and colleagues (2017). The Relationship Between Perfectionism and Psychopathology: A Meta-Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28026869/",
+      "explanation": "Karina Limburg and colleagues combined 284 studies of perfectionism and mental-health outcomes. Perfectionistic concerns and strivings were associated with several difficulties.",
+      "limit": "Associations do not diagnose a disorder or mean that careful work and high standards are inherently harmful.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/28026869"
+    },
+    "rejection-foundation": {
+      "title": "Downey & Feldman (1996). Implications of rejection sensitivity for intimate relationships.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8667172/",
+      "explanation": "Geraldine Downey and Scott Feldman used several studies to examine anxious expectations of rejection, interpretations of ambiguous behaviour and intimate-relationship outcomes.",
+      "limit": "The findings do not establish that a particular fear is mistaken or allow this entry to score someone’s rejection sensitivity.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/8667172"
+    },
+    "fairness": {
+      "title": "Colquitt and colleagues (2001). Justice at the millennium: a meta-analytic review of 25 years of organizational justice research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11419803/",
+      "explanation": "Jason Colquitt and colleagues combined 183 organisational-justice studies. Fair outcomes, procedures, interpersonal treatment and information were related but distinguishable aspects of perceived fairness.",
+      "limit": "Most evidence concerns organisations. Disagreement about fairness is not proof of dishonesty or a single objectively correct allocation.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/11419803"
+    },
+    "status": {
+      "title": "Anderson, Hildreth & Howland (2015). Is the desire for status a fundamental human motive? A review of the empirical literature.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25774679/",
+      "explanation": "Cameron Anderson and colleagues reviewed evidence on the desire for respect, admiration and voluntary deference, distinguishing status from power, money and belonging.",
+      "limit": "A broad motive does not explain every interruption, disagreement or wish for recognition.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/25774679"
+    },
+    "autistic-communication": {
+      "title": "Crompton and colleagues (2020). Autistic peer-to-peer information transfer is highly effective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32431157/",
+      "explanation": "Catherine Crompton and colleagues studied story-information transfer in autistic, non-autistic and mixed groups. Transfer and rapport were poorer in mixed groups than within same-neurotype groups in this task.",
+      "limit": "This supports attention to communication fit, not a rule about every autistic person or all forms of neurodivergence.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/32431157"
+    },
+    "uncertainty-review": {
+      "title": "Shihata and colleagues (2016). Intolerance of uncertainty in emotional disorders: What uncertainties remain?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27212227/",
+      "explanation": "Sarah Shihata and colleagues reviewed what was known and unresolved about intolerance of uncertainty across emotional disorders.",
+      "limit": "Uncertainty can be difficult without implying a disorder. The review does not establish what level of uncertainty another person should tolerate.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/27212227"
+    },
+    "avoidance-review": {
+      "title": "Hofmann & Hay (2018). Rethinking avoidance: Toward a balanced approach to avoidance in treating anxiety disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29550689/",
+      "explanation": "Stefan Hofmann and Angela Hay reviewed avoidance in anxiety treatment, including circumstances in which avoidance can be adaptive.",
+      "limit": "Function and actual danger matter. This is not a reason to remove someone’s safety arrangements or conduct exposure treatment yourself.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/29550689"
+    },
+    "gaslighting": {
+      "title": "Sweet (2019). The Sociology of Gaslighting.",
+      "url": "https://doi.org/10.1177/0003122419874843",
+      "explanation": "Sociologist Paige Sweet used domestic-violence accounts to develop an explanation of gaslighting involving power and structural inequalities.",
+      "limit": "This is a qualitative sociological analysis, not a validated checklist for classifying any disagreement.",
+      "access": "Publisher-supplied abstract and bibliographic record read through Crossref.",
+      "checked": "2026-11-02",
+      "record": "https://api.crossref.org/works/10.1177/0003122419874843"
+    },
+    "apology": {
+      "title": "Lewicki, Polin & Lount (2016). An Exploration of the Structure of Effective Apologies.",
+      "url": "https://doi.org/10.1111/ncmr.12073",
+      "explanation": "Roy Lewicki and colleagues ran two studies of how people judged apologies after hypothetical trust violations. Apologies differed in perceived effectiveness depending on what they contained and the kind of violation.",
+      "limit": "Judging a scenario differs from rebuilding trust after real harm. No apology formula obliges forgiveness or renewed access.",
+      "access": "Publisher-supplied abstract and bibliographic record read through Crossref.",
+      "checked": "2026-11-02",
+      "record": "https://api.crossref.org/works/10.1111/ncmr.12073"
+    },
+    "exchange": {
+      "title": "Cropanzano & Mitchell (2005). Social Exchange Theory: An Interdisciplinary Review.",
+      "url": "https://doi.org/10.1177/0149206305279602",
+      "explanation": "Russell Cropanzano and Marie Mitchell reviewed social-exchange theory in organisational research, including different exchange rules, resources and relationships.",
+      "limit": "The review also identifies conceptual ambiguity. Relationships cannot be reduced to a universal ledger of favours.",
+      "access": "Publisher-supplied abstract and bibliographic record read through Crossref.",
+      "checked": "2026-11-02",
+      "record": "https://api.crossref.org/works/10.1177/0149206305279602"
+    },
+    "anthropology": {
+      "title": "Lareau (2002). Invisible Inequality: Social Class and Childrearing in Black Families and White Families.",
+      "url": "https://doi.org/10.1177/000312240206700507",
+      "explanation": "Sociologist Annette Lareau used ethnographic observation and interviews with US families to examine how class-related practices affected interactions with institutions.",
+      "limit": "The study concerns particular families and settings; it is not a universal parenting typology or an explanation of an individual family.",
+      "access": "Publisher-supplied abstract and bibliographic record read through Crossref.",
+      "checked": "2026-11-02",
+      "record": "https://api.crossref.org/works/10.1177/000312240206700507"
+    },
+    "nhs-abuse": {
+      "title": "NHS: Domestic violence and abuse",
+      "url": "https://www.nhs.uk/live-well/getting-help-for-domestic-violence/",
+      "explanation": "NHS public guidance describes emotional, physical, sexual and economic abuse and routes to confidential support.",
+      "limit": "Services are UK-specific. It is guidance, not a test that determines a person’s motive or an individual safety assessment.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nhs.uk/live-well/getting-help-for-domestic-violence/"
+    },
+    "coercion-guidance": {
+      "title": "Home Office: Controlling or coercive behaviour — statutory guidance",
+      "url": "https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible",
+      "explanation": "Home Office statutory guidance describes controlling or coercive behaviour as an unfolding pattern and discusses restrictions, threats, economic abuse and effects on everyday freedom.",
+      "limit": "It addresses law and practice in England and Wales. This book does not establish whether a legal offence occurred or replace local advice.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible"
+    },
+    "nhs-pd": {
+      "title": "NHS: Personality disorder",
+      "url": "https://www.nhs.uk/mental-health/conditions/personality-disorder/",
+      "explanation": "NHS clinical information describes enduring difficulties in relating, thinking, feeling or behaving that cause distress or problems in daily life, with support and treatment options.",
+      "limit": "It is general guidance; diagnosis requires professional assessment of the person, history, context and alternatives.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nhs.uk/mental-health/conditions/personality-disorder/"
+    },
+    "nimh-ocd": {
+      "title": "NIMH: Obsessive-compulsive disorder",
+      "url": "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd",
+      "explanation": "NIMH public information describes recurring intrusive obsessions, compulsions or both, their potential impact on daily life and available treatment approaches.",
+      "limit": "This is clinical guidance, not a questionnaire or a way to diagnose someone from cleanliness, checking or an unwanted thought.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd"
+    },
+    "nimh-bpd": {
+      "title": "NIMH: Borderline personality disorder",
+      "url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder",
+      "explanation": "NIMH public guidance describes difficulties involving emotions, self-image, impulsivity and relationships; presentations vary and effective treatments are available.",
+      "limit": "Risk factors are not individual causes. A professional assessment considers the wider history and possible co-occurring or alternative conditions.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder"
+    },
+    "nimh-depression": {
+      "title": "NIMH: Depression",
+      "url": "https://www.nimh.nih.gov/health/topics/depression",
+      "explanation": "NIMH public guidance distinguishes passing low feelings from depression that can significantly affect thinking, sleep, eating, work and other daily activities.",
+      "limit": "Only assessment can establish the explanation of a particular change; quietness or withdrawal alone is insufficient.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nimh.nih.gov/health/topics/depression"
+    },
+    "nimh-anxiety": {
+      "title": "NIMH: Anxiety disorders",
+      "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+      "explanation": "NIMH public guidance distinguishes occasional anxiety from difficulties that persist, spread or interfere with ordinary activities.",
+      "limit": "It does not make repeated reassurance or avoidance a diagnosis. Support depends on the person’s actual difficulties.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nimh.nih.gov/health/topics/anxiety-disorders"
+    },
+    "nimh-trauma": {
+      "title": "NIMH: Post-traumatic stress disorder",
+      "url": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd",
+      "explanation": "NIMH public guidance explains that reactions after trauma vary and that persistent symptoms affecting life can warrant assessment and treatment.",
+      "limit": "Not everyone exposed to trauma develops PTSD, and observers cannot infer a trauma history from an action.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
+    },
+    "nimh-support": {
+      "title": "NIMH: Caring for your mental health",
+      "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+      "explanation": "NIMH public guidance recommends considering distress, persistence and interference with usual activities when seeking help.",
+      "limit": "US service information may not apply elsewhere; support should be adapted to local options and urgency.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health"
+    },
+    "nimh-adolescence": {
+      "title": "NIMH: The teen brain — 7 things to know",
+      "url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know",
+      "explanation": "NIMH public guidance describes adolescence as a period of continuing development, learning, changing social experience and sleep needs.",
+      "limit": "Broad developmental patterns do not establish an individual teenager’s judgment, motives or capacity.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"
+    },
+    "nhs-grief": {
+      "title": "NHS: Grief after bereavement or loss",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+      "explanation": "NHS public guidance describes varied responses to loss and ways to seek support when grief is difficult to manage.",
+      "limit": "There is no compulsory sequence of feelings or timetable that every grieving person must follow.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+    },
+    "cdc-development": {
+      "title": "CDC: Developmental milestones",
+      "url": "https://www.cdc.gov/act-early/milestones/index.html",
+      "explanation": "CDC public guidance describes development in play, learning, communication, action and movement, and recommends discussing concerns or lost skills with a clinician.",
+      "limit": "Its milestone resources are not substitutes for validated screening and do not diagnose a child from one missed task.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.cdc.gov/act-early/milestones/index.html"
+    },
+    "nhs-confusion": {
+      "title": "NHS: Sudden confusion",
+      "url": "https://www.nhs.uk/conditions/confusion/",
+      "explanation": "NHS guidance treats sudden new confusion as requiring urgent medical assessment because several medical causes are possible.",
+      "limit": "It is UK guidance; use the appropriate urgent medical service where you are rather than trying to infer a psychological motive.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.nhs.uk/conditions/confusion/"
+    },
+    "eeoc-harassment": {
+      "title": "US EEOC: Harassment",
+      "url": "https://www.eeoc.gov/harassment",
+      "explanation": "The US Equal Employment Opportunity Commission describes harassment linked to protected characteristics and retaliation within the laws it administers.",
+      "limit": "Legal definitions, coverage and procedures vary by jurisdiction. Unfair or harmful conduct can still matter when it does not meet this legal definition.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.eeoc.gov/harassment"
+    },
+    "msd-pd-narcissistic": {
+      "title": "MSD Manual: Narcissistic personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/narcissistic-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/narcissistic-personality-disorder"
+    },
+    "msd-pd-avoidant": {
+      "title": "MSD Manual: Avoidant personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/avoidant-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/avoidant-personality-disorder"
+    },
+    "msd-pd-dependent": {
+      "title": "MSD Manual: Dependent personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/dependent-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/dependent-personality-disorder"
+    },
+    "msd-pd-paranoid": {
+      "title": "MSD Manual: Paranoid personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/paranoid-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/paranoid-personality-disorder"
+    },
+    "msd-pd-antisocial": {
+      "title": "MSD Manual: Antisocial personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/antisocial-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/antisocial-personality-disorder"
+    },
+    "msd-pd-histrionic": {
+      "title": "MSD Manual: Histrionic personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/histrionic-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/histrionic-personality-disorder"
+    },
+    "msd-pd-schizoid": {
+      "title": "MSD Manual: Schizoid personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/schizoid-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/schizoid-personality-disorder"
+    },
+    "msd-pd-schizotypal": {
+      "title": "MSD Manual: Schizotypal personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/schizotypal-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/schizotypal-personality-disorder"
+    },
+    "msd-pd-ocpd": {
+      "title": "MSD Manual: Obsessive-compulsive personality disorder",
+      "url": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/obsessive-compulsive-personality-disorder",
+      "explanation": "The MSD Manual’s public clinical overview explains this condition in the context of an enduring pattern, effects on functioning and professional assessment.",
+      "limit": "This is explanatory clinical guidance, not a checklist to apply to relatives. The short examples and response suggestions here are editorial, not diagnostic criteria.",
+      "access": "Relevant sections of the public guidance page read; not an individual assessment or a systematic evidence review.",
+      "checked": "2026-11-02",
+      "record": "https://www.msdmanuals.com/home/mental-health-disorders/personality-disorders/obsessive-compulsive-personality-disorder"
+    },
+    "time-horizons": {
+      "title": "Carstensen LL, Isaacowitz DM, Charles ST. (1999). Taking time seriously. A theory of socioemotional selectivity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10199217/",
+      "explanation": "Laura Carstensen and colleagues developed socioemotional selectivity theory, reviewing how perceived time horizons can shape social goals in younger and older people.",
+      "limit": "It is a theory with reviewed evidence, not a rule that age determines what an individual wants.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/10199217"
+    },
+    "ageism": {
+      "title": "Hu RX, Luo M, Zhang A, Li LW. (2021). Associations of Ageism and Health: A Systematic Review of Quantitative Observational Studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33317402/",
+      "explanation": "Hu and colleagues reviewed quantitative observational studies of ageism and health. Age-related stereotypes, discrimination and self-perceptions were associated with several health outcomes.",
+      "limit": "The studies were observational and measures varied; the review does not establish the cause of a particular person’s difficulty.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/33317402"
+    },
+    "power": {
+      "title": "Keltner D, Gruenfeld DH, Anderson C. (2003). Power, approach, and inhibition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12747524/",
+      "explanation": "Dacher Keltner, Deborah Gruenfeld and Cameron Anderson reviewed theory and evidence connecting unequal power with opportunities, threats and behavioural tendencies.",
+      "limit": "This is a broad framework, not a universal rule about every powerful or less powerful person.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/12747524"
+    },
+    "narcissism-meta": {
+      "title": "Kjærvik SL, Bushman BJ. (2021). The link between narcissism and aggression: A meta-analytic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34292012/",
+      "explanation": "Sophie Kjærvik and Brad Bushman combined 437 studies on narcissism and aggression. Research measures of narcissism were associated with aggression on average, with stronger links in provocation conditions.",
+      "limit": "These average associations do not diagnose a person, establish the cause of one action or predict individual violence. Do not provoke someone to test a trait.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/34292012"
+    },
+    "narcissism-components": {
+      "title": "Du TV, Miller JD, Lynam DR. (2022). The relation between narcissism and aggression: A meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34689345/",
+      "explanation": "Du, Miller and Lynam conducted a preregistered meta-analysis of narcissism components and aggression. Associations differed across components, showing why a single broad label can conceal meaningful differences.",
+      "limit": "Research components and measures are not a home classification system. Results cannot identify a clinical disorder or a hidden strategy from an incident log.",
+      "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
+      "checked": "2026-11-02",
+      "record": "https://europepmc.org/article/MED/34689345"
+    }
+  }
+}

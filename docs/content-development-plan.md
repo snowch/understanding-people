@@ -6,7 +6,7 @@ Develop **a concise book supported by a substantial reference library**, with th
 
 At this planning baseline, the repository contains twelve draft chapters and three dedicated deeper references: confirmation bias, correspondence bias and declining help. Chapter 1 follows the newer concept-first approach; much of the remaining book still follows extended fictional scenarios.
 
-Implementation update: the [reference inventory](reference-inventory.md) now maps all 111 app reference topics to book URLs, development status and foundation chapters. The three developed entries remain; 108 additional entries are explicitly labelled stubs. These outlines establish coverage and navigation, not completion of the research or writing workflow below. Practice goals and skills remain separate.
+Implementation update, 2 November 2026: the [reference inventory](reference-inventory.md) maps all 111 app reference topics to book URLs, development status and foundation chapters. The 108 former stubs now have original written entries with selected evidence, alternatives, examples, takeaways and saved practice notes; the three earlier developed entries remain. The [reference source log](../reference/sources.md) states what was read and each source’s limits. This is a selected first written edition, not a systematic evidence review or specialist-reviewed manual. Practice goals and skills remain separate. No new visual or audio material was produced for this expansion.
 
 ## Map the content before writing more
 

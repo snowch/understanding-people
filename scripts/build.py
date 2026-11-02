@@ -18,6 +18,7 @@ from build_confirmation_audio import render as render_confirmation_audio
 from build_listening_page import render as render_listening_page
 from build_reference import render as render_reference
 from build_reference_stubs import render as render_reference_stubs
+from build_reference_entries import render as render_reference_entries, content as reference_entries
 from build_bias_references import render as render_bias_references, content as bias_content
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -41,6 +42,7 @@ PAGES = [
     ("chapters/12-putting-understanding-to-work.md", "Putting understanding to work"),
     ("conclusion.md", "Conclusion · What to take with you"),
     ("reference/index.md", "Reference library"),
+    ("reference/sources.md", "Research sources for the reference library"),
     *[(e["source"], e["title"]) for e in ENTRIES],
     *[(a["source"], a["title"]) for e in ENTRIES for a in e["recordings"]],
     ("practice/index.md", "Practice"),
@@ -149,6 +151,24 @@ def practice_notes(match):
             ("action", "What will I try, what would improve, and when will I review it?"),
             ("review", "What happened? What changed in understanding or collaboration? What will I keep or change?"),
         ]
+    if note_id.startswith("reference-"):
+        entry = next((e for e in reference_entries() if "reference-" + e["id"] == note_id), None)
+        if entry is None:
+            raise ValueError("Unknown reference exercise: " + note_id)
+        if entry["id"].startswith("pd-") or entry["id"] in ("personality-disorders", "ocd"):
+            fields = [
+                ("event", "What difficulty or impact needs support?"),
+                ("thought", "What remains uncertain or needs professional assessment?"),
+                ("action", "What support or practical next step will I seek?"),
+                ("review", "What changed, and what further help or adjustment is needed?"),
+            ]
+        else:
+            fields = [
+                ("event", "What happened, and how do I know?"),
+                ("thought", "What do I think it means? What else could explain it?"),
+                ("action", "What will I try, and when will I review it?"),
+                ("review", "What did I learn about understanding or collaboration?"),
+            ]
     for entry in bias_content()["entries"]:
         if note_id == entry["slug"] + "-practice":
             fields = list(zip(("event", "thought", "action", "review"), entry["practice"]["fields"]))
@@ -174,6 +194,7 @@ def practice_notes(match):
 
 
 def build():
+    render_reference_entries()
     render_reference_stubs()
     render_reference()
     render_bias_references()
