@@ -5,16 +5,1433 @@
       "title": "Thinking & interpretation",
       "description": "How we form explanations, check beliefs and judge other people.",
       "entries": [
-        {"source": "reference/confirmation-bias.md", "title": "Confirmation bias", "summary": "Why we favour evidence that fits a belief, how to notice it, and how to check fairly.", "keywords": "beliefs evidence assumptions selective attention motivated reasoning", "biasSlug": "confirmation-bias"},
-        {"source": "reference/correspondence-bias.md", "title": "Correspondence bias", "summary": "Why we explain behaviour through character and overlook the situation.", "keywords": "attribution personality character situation fundamental attribution error", "biasSlug": "correspondence-bias"}
+        {
+          "source": "reference/confirmation-bias.md",
+          "title": "Confirmation bias",
+          "summary": "Why we favour evidence that fits a belief, how to notice it, and how to check fairly.",
+          "keywords": "beliefs evidence assumptions selective attention motivated reasoning",
+          "biasSlug": "confirmation-bias",
+          "appNode": "confirmation",
+          "status": "developed",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/02-what-counts-as-knowing.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/correspondence-bias.md",
+          "title": "Correspondence bias",
+          "summary": "Why we explain behaviour through character and overlook the situation.",
+          "keywords": "attribution personality character situation fundamental attribution error",
+          "biasSlug": "correspondence-bias",
+          "appNode": "correspondence",
+          "status": "developed",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/02-what-counts-as-knowing.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/identity.md",
+          "title": "Identity & beliefs",
+          "appNode": "identity",
+          "status": "stub",
+          "summary": "A belief can connect to someone’s experience, commitments and sense of who they are.",
+          "keywords": "",
+          "foundation": [
+            "chapters/04-beliefs-identity-history.md",
+            "chapters/01-before-you-explain.md"
+          ]
+        },
+        {
+          "source": "reference/observation.md",
+          "title": "Observation & interpretation",
+          "appNode": "observation",
+          "status": "stub",
+          "summary": "Separate what someone said or did from your explanation of it.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/02-what-counts-as-knowing.md"
+          ]
+        },
+        {
+          "source": "reference/deception.md",
+          "title": "Truth, lies & uncertainty",
+          "appNode": "deception",
+          "status": "stub",
+          "summary": "Check claims through relevant evidence. Eye contact, nervousness, confidence or a compelling story do not reliably establish honesty.",
+          "keywords": "",
+          "foundation": [
+            "chapters/09-truth-lies-uncertainty.md",
+            "chapters/02-what-counts-as-knowing.md"
+          ]
+        },
+        {
+          "source": "reference/uncertainty.md",
+          "title": "Uncertainty",
+          "appNode": "uncertainty",
+          "status": "stub",
+          "summary": "Not knowing what is happening or what will happen next can be relevant to an interaction.",
+          "keywords": "",
+          "foundation": [
+            "chapters/02-what-counts-as-knowing.md",
+            "chapters/09-truth-lies-uncertainty.md"
+          ]
+        }
       ]
     },
     {
       "id": "behaviour-and-relationships",
       "title": "Behaviour & relationships",
-      "description": "Start with what someone does, then compare what could explain it and how to respond.",
+      "description": "Recognise actions and patterns, compare possible explanations and examine your own contribution.",
       "entries": [
-        {"source": "reference/declining-help.md", "title": "Declining help", "summary": "Compare reasons for turning down help, change the offer and review what happens.", "keywords": "refusing help independence autonomy competence family support"}
+        {
+          "source": "reference/declining-help.md",
+          "title": "Declining help",
+          "summary": "Compare reasons for turning down help, change the offer and review what happens.",
+          "keywords": "refusing help independence autonomy competence family support",
+          "appNode": "refusehelp",
+          "status": "developed",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/acknowledging.md",
+          "title": "Acknowledging another perspective",
+          "appNode": "acknowledging",
+          "status": "stub",
+          "summary": "Recognising the concern or experience someone expresses without claiming you agree with every conclusion.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/followthrough.md",
+          "title": "Agreeing, then not following through",
+          "appNode": "followthrough",
+          "status": "stub",
+          "summary": "Someone agrees to an action, but it does not happen as expected.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/vulnerability.md",
+          "title": "Avoiding vulnerability",
+          "appNode": "vulnerability",
+          "status": "stub",
+          "summary": "Holding back feelings, uncertainty or needs that would expose something personally important.",
+          "keywords": "i cannot open up they never share feelings afraid to be vulnerable avoid vulnerability",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/contempt.md",
+          "title": "Contempt & belittling",
+          "appNode": "contempt",
+          "status": "stub",
+          "summary": "Communicating that another person is inferior or not worth taking seriously, for example through ridicule or degrading remarks.",
+          "keywords": "they mock me they talk down to me they humiliate me contempt",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/financial-control.md",
+          "title": "Control of money & resources",
+          "appNode": "financial-control",
+          "status": "stub",
+          "summary": "Restricting access to money, information, work or essentials in a way that limits another person’s choices.",
+          "keywords": "they control all the money they take my wages financial abuse i have to ask for money",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/deflecting.md",
+          "title": "Deflecting or changing the subject",
+          "appNode": "deflecting",
+          "status": "stub",
+          "summary": "Moving a discussion away from the issue being raised, so it remains unresolved.",
+          "keywords": "whataboutism they change the subject what about when you they avoid answering",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/denial.md",
+          "title": "Denying an event or agreement",
+          "appNode": "denial",
+          "status": "stub",
+          "summary": "Rejecting an account of what was said, done or agreed. The denial itself does not establish whether the person is mistaken or being deceptive.",
+          "keywords": "they deny it happened they never said that they deny saying things denying promises",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/difficulty-trusting.md",
+          "title": "Difficulty trusting",
+          "appNode": "difficulty-trusting",
+          "status": "stub",
+          "summary": "Finding it hard to rely on another person’s word, intentions or handling of something important.",
+          "keywords": "i cannot trust anyone i dont trust them difficulty trusting they distrust everyone",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/dismissing-needs.md",
+          "title": "Dismissing another person’s needs",
+          "appNode": "dismissing-needs",
+          "status": "stub",
+          "summary": "Responding to a stated need or feeling as though it does not deserve consideration. This describes a response, not a measurement of someone’s capacity for empathy.",
+          "keywords": "they dont care about my needs no empathy they ignore my feelings lack of empathy",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/emotional-blackmail.md",
+          "title": "Emotional blackmail & conditional threats",
+          "appNode": "emotional-blackmail",
+          "status": "stub",
+          "summary": "An everyday term for pressure that makes avoiding a threatened emotional or relational consequence conditional on compliance.",
+          "keywords": "emotional blackmail if you leave ill do this or i will they threaten consequences unless i agree",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/narcissistic-behaviour.md",
+          "title": "Entitlement, admiration & others’ needs",
+          "appNode": "narcissistic-behaviour",
+          "status": "stub",
+          "summary": "Behaviours often described as narcissistic include demanding special treatment, seeking admiration or repeatedly discounting others’ needs. These descriptions do not establish narcissistic personality disorder.",
+          "keywords": "narcissist narcissism narcissistic is this narcissistic they think they are special is this person a narcissist",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/creating-obligation.md",
+          "title": "Favours that create unwanted obligation",
+          "appNode": "creating-obligation",
+          "status": "stub",
+          "summary": "Giving help or gifts that are later treated as creating obligations the recipient did not agree to.",
+          "keywords": "strings attached they hold favours over me i owe them unwanted gifts",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/gaslighting.md",
+          "title": "Gaslighting & undermining your reality",
+          "appNode": "gaslighting",
+          "status": "stub",
+          "summary": "A pattern of undermining someone’s confidence in their memory, perception or account of events, often through denial, distortion or attacks on their credibility.",
+          "keywords": "gas lighting they deny saying things they tell me i imagined it you are imagining things they say im crazy they make me doubt my memory my partner says I imagined it says I imagined things says it never happened",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/guilt-pressure.md",
+          "title": "Guilt-tripping & pressure through obligation",
+          "appNode": "guilt-pressure",
+          "status": "stub",
+          "summary": "Using guilt or a claimed duty to press someone toward a choice, especially when their refusal is not accepted.",
+          "keywords": "guilt trip after all ive done for you if you cared you would they make me feel guilty",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/passive-aggression.md",
+          "title": "Indirect resistance & passive aggression",
+          "appNode": "passive-aggression",
+          "status": "stub",
+          "summary": "An everyday description of opposition or resentment expressed indirectly rather than through a clear disagreement.",
+          "keywords": "passive aggressive they agree but sabotage sarcastic digs they express anger indirectly",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/interrupt.md",
+          "title": "Interrupting",
+          "appNode": "interrupt",
+          "status": "stub",
+          "summary": "Beginning to speak before another person has finished.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/intimidation.md",
+          "title": "Intimidation & threats",
+          "appNode": "intimidation",
+          "status": "stub",
+          "summary": "Words or actions that create fear of consequences, such as threats, menacing conduct or destruction of belongings.",
+          "keywords": "they threaten me i feel scared to say no they smash things intimidating",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/thirdparty.md",
+          "title": "Involving a third person",
+          "appNode": "thirdparty",
+          "status": "stub",
+          "summary": "Bringing another person into a disagreement, whether for help, mediation or influence.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/listening.md",
+          "title": "Listening and checking understanding",
+          "appNode": "listening",
+          "status": "stub",
+          "summary": "Giving someone room to speak, then checking whether you understood what matters to them.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/minimising.md",
+          "title": "Minimising harm or impact",
+          "appNode": "minimising",
+          "status": "stub",
+          "summary": "Treating an effect on someone as too small or unreasonable to deserve attention.",
+          "keywords": "youre too sensitive it was just a joke you are overreacting they say it was nothing minimizing",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/monitoring.md",
+          "title": "Monitoring & demands for access",
+          "appNode": "monitoring",
+          "status": "stub",
+          "summary": "Checking messages, movements or accounts, or demanding access to them. Consent and the ability to withdraw it matter.",
+          "keywords": "they check my phone they track my location they demand my passwords surveillance",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/people-pleasing.md",
+          "title": "People-pleasing & automatic agreement",
+          "appNode": "people-pleasing",
+          "status": "stub",
+          "summary": "Agreeing or accommodating before checking one’s own wishes, limits or capacity, often to avoid disappointing someone.",
+          "keywords": "people pleasing i always say yes i cant say no i put everyone else first",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/possessiveness.md",
+          "title": "Possessiveness & demands for exclusivity",
+          "appNode": "possessiveness",
+          "status": "stub",
+          "summary": "Treating another person’s attention, time or relationships as something one is entitled to control.",
+          "keywords": "possessive they act like they own me they demand all my time not allowed other friends",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/repairing.md",
+          "title": "Repair after a misunderstanding",
+          "appNode": "repairing",
+          "status": "stub",
+          "summary": "Returning to an exchange to clarify, take responsibility for your actions and discuss what could work differently.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/criticism.md",
+          "title": "Repeated criticism",
+          "appNode": "criticism",
+          "status": "stub",
+          "summary": "Repeated negative comments about someone’s actions, choices or work. Describe the comments before interpreting the pattern.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/reassurance.md",
+          "title": "Repeatedly asking for reassurance",
+          "appNode": "reassurance",
+          "status": "stub",
+          "summary": "Returning to a question or request for reassurance after receiving an answer.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/boundary-pushing.md",
+          "title": "Repeatedly pushing a stated limit",
+          "appNode": "boundary-pushing",
+          "status": "stub",
+          "summary": "Continuing to press, bypass or test a limit after it has been communicated.",
+          "keywords": "they wont take no they keep asking after i say no ignore my boundaries boundary pushing",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/defensive.md",
+          "title": "Responding defensively",
+          "appNode": "defensive",
+          "status": "stub",
+          "summary": "Pushing back against perceived criticism, for example by justifying, denying or counter-criticising.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/isolation.md",
+          "title": "Restricting contact with other people",
+          "appNode": "isolation",
+          "status": "stub",
+          "summary": "Interfering with someone’s access to friends, family, work or other support.",
+          "keywords": "they stop me seeing friends they isolate me i cannot see my family cut off from friends",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/coercive-patterns.md",
+          "title": "Restriction, monitoring & coercive patterns",
+          "appNode": "coercive-patterns",
+          "status": "stub",
+          "summary": "Repeated restrictions, threats, monitoring or control of money and contact can limit someone’s freedom. The impact matters even when intent is disputed.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/retaliation.md",
+          "title": "Retaliation after a refusal or complaint",
+          "appNode": "retaliation",
+          "status": "stub",
+          "summary": "An adverse action following a refusal, disagreement or complaint that may be intended to impose a cost.",
+          "keywords": "they punish me for saying no revenge after a complaint they retaliate punished for disagreeing",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/blame-shifting.md",
+          "title": "Shifting responsibility",
+          "appNode": "blame-shifting",
+          "status": "stub",
+          "summary": "Moving responsibility for an action onto someone else instead of addressing the part the speaker chose or controlled.",
+          "keywords": "blame shifting everything is my fault they blame me for their actions you made me do it",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/stonewalling.md",
+          "title": "Stonewalling, silence & an agreed pause",
+          "appNode": "stonewalling",
+          "status": "stub",
+          "summary": "A term used for shutting down or refusing engagement in a discussion. Distinguish an indefinite refusal from a pause or a decision not to engage.",
+          "keywords": "silent treatment stonewalling they shut me out they refuse to discuss anything",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/taking-credit.md",
+          "title": "Taking or withholding credit",
+          "appNode": "taking-credit",
+          "status": "stub",
+          "summary": "Claiming a contribution one did not make, or leaving another person’s contribution unrecognised.",
+          "keywords": "they take credit for my work they steal my ideas no credit taking credit",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/over-responsibility.md",
+          "title": "Taking too much responsibility",
+          "appNode": "over-responsibility",
+          "status": "stub",
+          "summary": "Taking on responsibility for outcomes or other people’s reactions beyond what one can reasonably control or has agreed to do.",
+          "keywords": "everything is my responsibility i have to fix everyone over responsibility i feel responsible for their feelings",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/withdraw.md",
+          "title": "Withdrawing from a conversation",
+          "appNode": "withdraw",
+          "status": "stub",
+          "summary": "Someone reduces contact or stops taking part in a conversation.",
+          "keywords": "",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "needs-and-intentions",
+      "title": "Needs, goals & intentions",
+      "description": "What matters to people, competing priorities and the limits of inferring intentions.",
+      "entries": [
+        {
+          "source": "reference/belonging.md",
+          "title": "Belonging",
+          "appNode": "belonging",
+          "status": "stub",
+          "summary": "Wanting connection, acceptance or a place in a group.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/change-conditions.md",
+          "title": "Capability, opportunity & motivation",
+          "appNode": "change-conditions",
+          "status": "stub",
+          "summary": "Explore whether a change needs knowledge or skill, different circumstances, or attention to competing motives and habits.",
+          "keywords": "",
+          "foundation": [
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/competing.md",
+          "title": "Competing goals",
+          "appNode": "competing",
+          "status": "stub",
+          "summary": "Two desired outcomes can call for different actions at the same time.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/fairness.md",
+          "title": "Fair treatment",
+          "appNode": "fairness",
+          "status": "stub",
+          "summary": "Wanting an arrangement or process that feels fair. People can disagree about what fairness requires.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/competence.md",
+          "title": "Feeling capable",
+          "appNode": "competence",
+          "status": "stub",
+          "summary": "Wanting to be effective and able to meet a challenge.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/security.md",
+          "title": "Feeling safe",
+          "appNode": "security",
+          "status": "stub",
+          "summary": "Wanting safety, predictability or protection from a feared loss.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/autonomy.md",
+          "title": "Having a say",
+          "appNode": "autonomy",
+          "status": "stub",
+          "summary": "Wanting meaningful choice or ownership over what you do.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/motivation.md",
+          "title": "Motivation",
+          "appNode": "motivation",
+          "status": "stub",
+          "summary": "Explore what someone wants, what competes with it and what makes action possible.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/status.md",
+          "title": "Recognition & status",
+          "appNode": "status",
+          "status": "stub",
+          "summary": "Wanting respect, recognition or influence in a group.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/approval-seeking.md",
+          "title": "Seeking approval",
+          "appNode": "approval-seeking",
+          "status": "stub",
+          "summary": "Giving substantial weight to others’ favourable reactions when making choices or judging one’s own worth.",
+          "keywords": "i need everyone to like me approval seeking i need praise they need constant approval",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/avoidconflict.md",
+          "title": "Trying to avoid conflict",
+          "appNode": "avoidconflict",
+          "status": "stub",
+          "summary": "A possible intention to prevent an argument or its consequences.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/persuade.md",
+          "title": "Trying to persuade",
+          "appNode": "persuade",
+          "status": "stub",
+          "summary": "A possible intention to change someone’s view or decision. It must be examined in the particular situation.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/protect.md",
+          "title": "Trying to protect",
+          "appNode": "protect",
+          "status": "stub",
+          "summary": "A possible intention to prevent harm or loss to someone.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/punish.md",
+          "title": "Trying to punish",
+          "appNode": "punish",
+          "status": "stub",
+          "summary": "A possible intention to impose a cost in response to a perceived wrong. This is a substantial claim about purpose.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        },
+        {
+          "source": "reference/maintainrole.md",
+          "title": "Trying to retain a role",
+          "appNode": "maintainrole",
+          "status": "stub",
+          "summary": "A possible intention to preserve a familiar role or involvement in decisions.",
+          "keywords": "",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "personality",
+      "title": "Personality & individual differences",
+      "description": "Understand broad traits, variation across situations and the limits of labels.",
+      "entries": [
+        {
+          "source": "reference/agreeableness.md",
+          "title": "Agreeableness",
+          "appNode": "agreeableness",
+          "status": "stub",
+          "summary": "A broad personality dimension involving tendencies such as cooperation and consideration.",
+          "keywords": "",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/conscientiousness.md",
+          "title": "Conscientiousness",
+          "appNode": "conscientiousness",
+          "status": "stub",
+          "summary": "A broad personality dimension including tendencies toward organisation and dependability.",
+          "keywords": "",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/extraversion.md",
+          "title": "Extraversion",
+          "appNode": "extraversion",
+          "status": "stub",
+          "summary": "A broad personality dimension related to tendencies such as sociability and assertiveness.",
+          "keywords": "",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/emotionality.md",
+          "title": "Negative emotionality",
+          "appNode": "emotionality",
+          "status": "stub",
+          "summary": "A broad personality dimension involving tendencies to experience distress, worry or emotional volatility. It is also often called neuroticism.",
+          "keywords": "",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/openness.md",
+          "title": "Open-mindedness / openness",
+          "appNode": "openness",
+          "status": "stub",
+          "summary": "A broad personality dimension involving tendencies such as intellectual curiosity, imagination and aesthetic sensitivity.",
+          "keywords": "",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emotion-and-learning",
+      "title": "Emotion, habits & learning",
+      "description": "Stress, expectations and patterns that can develop or change over time.",
+      "entries": [
+        {
+          "source": "reference/reinforcement.md",
+          "title": "Consequences that sustain a pattern",
+          "appNode": "reinforcement",
+          "status": "stub",
+          "summary": "Consider whether what follows a behaviour makes its repetition worthwhile or relieves a difficulty.",
+          "keywords": "",
+          "foundation": [
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/fear-rejection.md",
+          "title": "Fear of rejection",
+          "appNode": "fear-rejection",
+          "status": "stub",
+          "summary": "Concern about being unwanted, excluded or left. It can shape how ambiguous interactions are interpreted.",
+          "keywords": "fear of abandonment they will leave me afraid of rejection rejection sensitive",
+          "foundation": [
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/habits.md",
+          "title": "Habits & situations",
+          "appNode": "habits",
+          "status": "stub",
+          "summary": "Repeated responses may be tied to familiar cues and circumstances.",
+          "keywords": "",
+          "foundation": [
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/jealousy.md",
+          "title": "Jealousy & what follows",
+          "appNode": "jealousy",
+          "status": "stub",
+          "summary": "Concern about losing a valued relationship or position. The feeling and the actions taken in response need separate consideration.",
+          "keywords": "jealous they get jealous fear of losing someone jealousy",
+          "foundation": [
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/learned.md",
+          "title": "Learned expectations",
+          "appNode": "learned",
+          "status": "stub",
+          "summary": "Past experience can shape what a person expects from an interaction. Do not invent that history from present behaviour.",
+          "keywords": "",
+          "foundation": [
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/perfectionism.md",
+          "title": "Perfectionism & inflexible standards",
+          "appNode": "perfectionism",
+          "status": "stub",
+          "summary": "Holding standards so tightly that errors, stopping or accepting an adequate result become difficult.",
+          "keywords": "nothing is ever good enough perfectionist i keep redoing it perfectionism",
+          "foundation": [
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/stress.md",
+          "title": "Stress & overload",
+          "appNode": "stress",
+          "status": "stub",
+          "summary": "Demands may exceed the time, energy or resources someone feels they have.",
+          "keywords": "",
+          "foundation": [
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/06-personality-habits-situations.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "context-and-development",
+      "title": "Context, relationships & development",
+      "description": "Family, culture, life stages, resources and circumstances around an interaction.",
+      "entries": [
+        {
+          "source": "reference/adolescence.md",
+          "title": "Adolescence: autonomy, peers & support",
+          "appNode": "adolescence",
+          "status": "stub",
+          "summary": "A young person’s wish for privacy or independence sits alongside learning, relationships, sleep, responsibilities and real constraints.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/life-transitions.md",
+          "title": "Changing roles & life transitions",
+          "appNode": "life-transitions",
+          "status": "stub",
+          "summary": "Moving, becoming a parent, changing work, retirement or taking on care can alter what people need from one another.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/child-development.md",
+          "title": "Children: ability, learning & expectations",
+          "appNode": "child-development",
+          "status": "stub",
+          "summary": "Before interpreting a child’s action as unwillingness, consider what they understand, can do and can manage in that setting.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/context.md",
+          "title": "Culture & power",
+          "appNode": "context",
+          "status": "stub",
+          "summary": "Consider the expectations, roles and unequal choices around an interaction.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/cultural-meanings.md",
+          "title": "Culture: meanings without stereotypes",
+          "appNode": "cultural-meanings",
+          "status": "stub",
+          "summary": "People can use different rules for respect, advice, privacy, duty and disagreement—even within the same family or community.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/familynorms.md",
+          "title": "Family expectations",
+          "appNode": "familynorms",
+          "status": "stub",
+          "summary": "Families differ in what they treat as ordinary involvement, duty, privacy and disagreement.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/grief.md",
+          "title": "Grief, loss & changing needs",
+          "appNode": "grief",
+          "status": "stub",
+          "summary": "Loss can change energy, attention, feelings and what kind of contact is welcome. It need not follow a fixed sequence or timetable.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/language-context.md",
+          "title": "Language, accent & communication context",
+          "appNode": "language-context",
+          "status": "stub",
+          "summary": "Fluency, speed, directness and pauses are imperfect guides to understanding, competence or honesty.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/later-life.md",
+          "title": "Later life: change without age stereotypes",
+          "appNode": "later-life",
+          "status": "stub",
+          "summary": "Age alone does not tell you someone’s competence, openness, motives or preferred amount of help.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/low-mood.md",
+          "title": "Low mood, withdrawal & support",
+          "appNode": "low-mood",
+          "status": "stub",
+          "summary": "Persistent low mood or loss of interest with difficulty in daily life deserves attention. Withdrawal alone does not establish depression.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/neurodiversity.md",
+          "title": "Neurodiversity & communication fit",
+          "appNode": "neurodiversity",
+          "status": "stub",
+          "summary": "People differ in how they process information, communicate and manage sensory demands. Ask about useful conditions without inferring a diagnosis.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/health-change.md",
+          "title": "New changes in behaviour or functioning",
+          "appNode": "health-change",
+          "status": "stub",
+          "summary": "A substantial change from someone’s usual behaviour can call for a health conversation rather than a personality explanation.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/history.md",
+          "title": "Relationship history",
+          "appNode": "history",
+          "status": "stub",
+          "summary": "Earlier agreements, disappointments or repairs can matter to a present interaction.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/structural-barriers.md",
+          "title": "Rules, exclusion & unequal access",
+          "appNode": "structural-barriers",
+          "status": "stub",
+          "summary": "A person’s options can be constrained by rules, costs, discrimination or inaccessible arrangements, rather than their motivation.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/capacity.md",
+          "title": "Time, resources & capacity",
+          "appNode": "capacity",
+          "status": "stub",
+          "summary": "Whether a person can carry out an action with the resources available.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/trauma-context.md",
+          "title": "Trauma, reminders & present safety",
+          "appNode": "trauma-context",
+          "status": "stub",
+          "summary": "Past frightening experiences can matter to current reactions, but a strong reaction does not reveal someone’s history.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/power.md",
+          "title": "Unequal power",
+          "appNode": "power",
+          "status": "stub",
+          "summary": "People differ in their ability to refuse, disagree or leave without serious consequences.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/audience.md",
+          "title": "Who else is present",
+          "appNode": "audience",
+          "status": "stub",
+          "summary": "The people watching an interaction may change its meaning or consequences.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        },
+        {
+          "source": "reference/anxiety-patterns.md",
+          "title": "Worry, avoidance & reassurance",
+          "appNode": "anxiety-patterns",
+          "status": "stub",
+          "summary": "Worry can be a response to a real problem. Persistent fear or avoidance that restricts life may also call for professional support.",
+          "keywords": "",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/04-beliefs-identity-history.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "responding-and-collaborating",
+      "title": "Responding & collaborating",
+      "description": "Listen, make requests, agree responsibilities, repair and review.",
+      "entries": [
+        {
+          "source": "reference/boundaries.md",
+          "title": "Boundaries",
+          "appNode": "boundaries",
+          "status": "stub",
+          "summary": "Decide what you will do when a behaviour affects you, without needing certainty about its motive.",
+          "keywords": "",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/alternatives.md",
+          "title": "Compare explanations",
+          "appNode": "alternatives",
+          "status": "stub",
+          "summary": "Ask what would look different if another explanation were true.",
+          "keywords": "",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/getting-support.md",
+          "title": "Getting support without needing a label",
+          "appNode": "getting-support",
+          "status": "stub",
+          "summary": "You can seek help for distress, changes in functioning or harmful treatment before knowing their cause.",
+          "keywords": "",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/clearrequest.md",
+          "title": "Make a clear request",
+          "appNode": "clearrequest",
+          "status": "stub",
+          "summary": "Specify the action, timing and scope of what you are asking, while allowing an answer.",
+          "keywords": "",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/shared-agreement.md",
+          "title": "Make a workable agreement",
+          "appNode": "shared-agreement",
+          "status": "stub",
+          "summary": "Specify responsibilities, constraints, timing and how either person can raise a problem.",
+          "keywords": "",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/appreciation.md",
+          "title": "Notice what helps",
+          "appNode": "appreciation",
+          "status": "stub",
+          "summary": "Describe a helpful action and its effect so that good experiences can be understood and remembered.",
+          "keywords": "",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/reciprocity.md",
+          "title": "Reciprocity & mutual consideration",
+          "appNode": "reciprocity",
+          "status": "stub",
+          "summary": "Making room for each person’s needs and contributions over time, without requiring every exchange to be identical.",
+          "keywords": "reciprocity mutual respect give and take one sided relationship healthy relationship",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/review.md",
+          "title": "Review what happened",
+          "appNode": "review",
+          "status": "stub",
+          "summary": "Return to the outcome of an action and revise your explanation where appropriate.",
+          "keywords": "",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/encouragement.md",
+          "title": "Support someone’s next step",
+          "appNode": "encouragement",
+          "status": "stub",
+          "summary": "Ask what support would help and offer a manageable contribution while preserving choice.",
+          "keywords": "",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/accountability.md",
+          "title": "Taking responsibility & making corrections",
+          "appNode": "accountability",
+          "status": "stub",
+          "summary": "Acknowledging one’s specific actions and their consequences, correcting errors and making realistic changes.",
+          "keywords": "accountability they own their mistakes taking responsibility admitting mistakes",
+          "foundation": [
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clinical-vocabulary",
+      "title": "Clinical vocabulary & support",
+      "description": "Understand terminology and distinctions without diagnosing yourself or another person.",
+      "entries": [
+        {
+          "source": "reference/pd-antisocial.md",
+          "title": "Antisocial personality disorder",
+          "appNode": "pd-antisocial",
+          "status": "stub",
+          "summary": "A clinical condition involving a pervasive disregard for others’ rights and consequences, assessed with the person’s developmental history and broader behaviour.",
+          "keywords": "antisocial personality disorder aspd sociopath psychopath",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-avoidant.md",
+          "title": "Avoidant personality disorder",
+          "appNode": "pd-avoidant",
+          "status": "stub",
+          "summary": "A clinical condition involving pervasive social inhibition, feelings of inadequacy and sensitivity to negative evaluation, with significant effects on life.",
+          "keywords": "avoidant personality disorder avpd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-borderline.md",
+          "title": "Borderline personality disorder (BPD)",
+          "appNode": "pd-borderline",
+          "status": "stub",
+          "summary": "A clinical condition involving persistent difficulties with emotional regulation, self-image, relationships and often impulsivity; assessment considers the full pattern and impact.",
+          "keywords": "borderline personality disorder borderline bpd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-dependent.md",
+          "title": "Dependent personality disorder",
+          "appNode": "pd-dependent",
+          "status": "stub",
+          "summary": "A clinical condition involving a pervasive, excessive need to be cared for, associated with difficulty acting independently and fear of separation.",
+          "keywords": "dependent personality disorder dpd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-histrionic.md",
+          "title": "Histrionic personality disorder",
+          "appNode": "pd-histrionic",
+          "status": "stub",
+          "summary": "A clinical condition involving a pervasive pattern of excessive emotional expression and attention-seeking, assessed in context and in relation to functioning.",
+          "keywords": "histrionic personality disorder hpd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-narcissistic.md",
+          "title": "Narcissistic personality disorder (NPD)",
+          "appNode": "pd-narcissistic",
+          "status": "stub",
+          "summary": "A clinical condition involving a pervasive pattern of grandiosity, need for admiration and difficulties with empathy, assessed in the context of functioning and history.",
+          "keywords": "narcissistic personality disorder npd narcissist",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/ocd.md",
+          "title": "Obsessive-compulsive disorder (OCD)",
+          "appNode": "ocd",
+          "status": "stub",
+          "summary": "A condition involving recurring obsessions, compulsions or both, often taking time, causing distress or interfering with daily life.",
+          "keywords": "obsessive compulsive disorder ocd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-ocpd.md",
+          "title": "Obsessive-compulsive personality disorder (OCPD)",
+          "appNode": "pd-ocpd",
+          "status": "stub",
+          "summary": "A clinical condition involving a pervasive preoccupation with order, perfectionism and control that reduces flexibility or interferes with functioning.",
+          "keywords": "obsessive compulsive personality disorder ocpd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-paranoid.md",
+          "title": "Paranoid personality disorder",
+          "appNode": "pd-paranoid",
+          "status": "stub",
+          "summary": "A clinical condition involving pervasive, unwarranted distrust and suspicion, including interpreting others’ motives as hostile or harmful.",
+          "keywords": "paranoid personality disorder ppd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/personality-disorders.md",
+          "title": "Personality disorders: what the term means",
+          "appNode": "personality-disorders",
+          "status": "stub",
+          "summary": "Clinical terms for enduring, pervasive difficulties in patterns of thinking, feeling, relating or responding, associated with significant distress or problems functioning.",
+          "keywords": "personality disorder personality disorders pd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-schizoid.md",
+          "title": "Schizoid personality disorder",
+          "appNode": "pd-schizoid",
+          "status": "stub",
+          "summary": "A clinical condition involving pervasive detachment from social relationships and limited outward emotional expression, assessed within the broader pattern of functioning.",
+          "keywords": "schizoid personality disorder schizoid",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/pd-schizotypal.md",
+          "title": "Schizotypal personality disorder",
+          "appNode": "pd-schizotypal",
+          "status": "stub",
+          "summary": "A clinical condition involving persistent difficulties with close relationships alongside unusual thinking, perceptions or behaviour, requiring assessment of the wider context.",
+          "keywords": "schizotypal personality disorder schizotypal stpd",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        }
       ]
     }
   ]

@@ -17,6 +17,7 @@ from book_navigation import ENTRIES, navigation, breadcrumbs, pagination as cont
 from build_confirmation_audio import render as render_confirmation_audio
 from build_listening_page import render as render_listening_page
 from build_reference import render as render_reference
+from build_reference_stubs import render as render_reference_stubs
 from build_bias_references import render as render_bias_references, content as bias_content
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -173,6 +174,7 @@ def practice_notes(match):
 
 
 def build():
+    render_reference_stubs()
     render_reference()
     render_bias_references()
     render_listening_page()

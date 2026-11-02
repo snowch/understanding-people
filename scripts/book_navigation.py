@@ -40,10 +40,10 @@ def section(source):
 
 
 def navigation(source, page, chapters):
-    def link(item, title, number=None, fragment=''):
+    def link(item, title, number=None, fragment='', stub=False):
         current = ' aria-current="page"' if item == source and not fragment else ''
         number_html = f'<span class="nav-number">{number}</span>' if number is not None else ''
-        return f'<li><a href="{href(item, page, fragment)}"{current}>{number_html}<span class="nav-title">{escape(title)}</span></a></li>'
+        return f'<li><a href="{href(item, page, fragment)}"{current}>{number_html}<span class="nav-title">{escape(title)}{' <small class="nav-stub">Stub</small>' if stub else ''}</span></a></li>'
 
     book = ''.join(link(s, t) for s, t in [('contents.md', 'Contents & reading routes'), ('how-to-use.md', 'How to use this book')])
     book += '<li><ol class="chapter-list">' + link('book.md', 'Introduction', '—')
@@ -55,7 +55,7 @@ def navigation(source, page, chapters):
         active = entry in group['entries'] if entry else False
         library += f'<li><details class="nav-library-group" data-topic="{escape(group["id"], quote=True)}"{" open" if active else ""}><summary>{escape(group["title"])}</summary><ul class="nav-children">'
         for child in group['entries']:
-            library += '<li class="nav-topic"><ul>' + link(child['source'], child['title'])
+            library += '<li class="nav-topic"><ul>' + link(child['source'], child['title'], stub=child.get('status')=='stub')
             if child['recordings']:
                 audio_active = any(a['source'] == source for a in child['recordings'])
                 library += f'<li><details class="nav-listening"{" open" if audio_active else ""}><summary>Listen <span class="nav-count">({len(child["recordings"])})</span><span class="sr-only"> to {escape(child["title"])}</span></summary><ul class="nav-recordings">'
@@ -112,17 +112,18 @@ def pagination(source, page, chapters):
 
 
 def render_library():
-    chunks = ['# Reference library', 'Find an explanation, compare possibilities and choose something to try. Each entry brings its reading, practice and any recordings together.',
-              '<div class="library-search" hidden><label for="library-query">Find a topic or behaviour</label><div class="library-search-controls"><input id="library-query" type="search" placeholder="Try beliefs, attribution or independence…" aria-describedby="library-result-count"><button type="button" id="library-clear" hidden>Clear search</button></div><p id="library-result-count" role="status" aria-live="polite"></p></div>',
+    chunks = ['# Reference library', f"Browse {len(ENTRIES)} topics: {sum(e.get('status')=='developed' for e in ENTRIES)} developed entries and {sum(e.get('status')=='stub' for e in ENTRIES)} stubs. Stubs are short introductions and writing outlines; their full explanations, evidence reviews and practice sections are still to be developed.",
+              '<div class="library-search" hidden><label for="library-query">Find a topic or behaviour</label><div class="library-search-controls"><input id="library-query" type="search" placeholder="Try beliefs, attribution or independence…" aria-describedby="library-result-count"><button type="button" id="library-clear" hidden>Clear search</button></div><label for="library-status">Show entries</label><select id="library-status"><option value="all">All entries</option><option value="developed">Developed entries</option><option value="stub">Stubs — full entries planned</option></select><p id="library-result-count" role="status" aria-live="polite"></p></div>',
               '<nav class="library-topics" aria-label="Reference topics">' + ''.join(f'<a href="#{g["id"]}">{escape(g["title"])}</a>' for g in GROUPS) + '</nav>']
     for group in GROUPS:
         chunks += [f'<section class="library-group" markdown="1">', f'## {group["title"]} {{#{group["id"]}}}', group['description']]
         for entry in group['entries']:
             search = ' '.join([group['title'], entry['title'], entry['summary'], entry['keywords']])
             file = href(entry['source'], Path('reference/index.html'))
-            chunks += [f'<article class="library-entry" data-library-search="{escape(search, quote=True)}"><h3><a href="{file}">{escape(entry["title"])}</a></h3><p>{escape(entry["summary"])}</p><p class="library-entry-formats">Read · Practise'+ (' · Listen' if entry['recordings'] else '') + '</p></article>']
+            formats = 'Stub — full entry planned' if entry.get('status')=='stub' else 'Developed entry · Read · Practise' + (' · Listen' if entry['recordings'] else '')
+            chunks += [f'<article class="library-entry" data-status="{entry.get('status','developed')}" data-library-search="{escape(search, quote=True)}"><h3><a href="{file}">{escape(entry["title"])}</a></h3><p>{escape(entry["summary"])}</p><p class="library-entry-formats">{formats}</p></article>']
         chunks += ['</section>']
-    chunks += ['<p id="library-empty" hidden>No matching entries yet. Try a broader term, browse the topics, or look in the <a href="../glossary.html">glossary</a>.</p>',
-               '## Looking for a starting point?', 'For a guided introduction, follow [the book’s chapters](../contents.md). For a short exercise, visit [Practice](../practice/index.md). The [glossary](../glossary.md) covers more terms than the detailed reference entries currently available.',
+    chunks += ['<p id="library-empty" hidden>No matching entries with these filters. Try All entries, a broader term, browse the topics, or look in the <a href="../glossary.html">glossary</a>.</p>',
+               '## Looking for a starting point?', 'For a guided introduction, follow [the book’s chapters](../contents.md). For a short exercise, visit [Practice](../practice/index.md). For short definitions, use the [glossary](../glossary.md). Use the entry filter to find developed explanations or browse the planned coverage.',
                '<script defer src="../assets/library.js"></script>']
     (ROOT/'reference/index.md').write_text('\n\n'.join(chunks)+'\n')
