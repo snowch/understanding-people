@@ -75,7 +75,7 @@ For each topic:
 
 Clinical and abuse-related entries should make their review status visible. Until appropriate specialist review has taken place, include this caveat:
 
-> This material provides general information and has not yet received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
+> This material provides general information and has not received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
 
 Specialist review remains a goal. This caveat makes the current limits clear; it does not replace careful sourcing or review. Automated checks can verify links and structure, but they cannot establish scientific accuracy.
 
