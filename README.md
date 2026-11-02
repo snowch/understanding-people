@@ -4,6 +4,8 @@ A science-informed guide to understanding what drives people—including ourselv
 
 [Read the book](https://snowch.github.io/understanding-people/) · [Contents](contents.md) · [Evidence standards](evidence.md)
 
+[Content development plan](docs/content-development-plan.md) — the agreed direction for revising the foundations, expanding the reference library, checking evidence and connecting practice with the app.
+
 This is a complete first editorial draft: an introduction, twelve developed chapters, a conclusion, reading routes, a practical worksheet, an annotated source list, a glossary, and reading, author and support pages. Chapters include one habit to practise, key takeaways and a compact practice section: recall, one fresh situation and one task for the week. Deeper exercises and selected earlier-chapter recalls are optional, under “More practice”. Local notes are optional too. It has not undergone external subject-matter review.
 
 The book draws on psychology, sociology, anthropology and decision science. Examples span work, friendship, family life, learning, public life and commercial decisions. Investigative interviewing and deception are assessed against evidence, including the limits of claims associated with the FBI.
