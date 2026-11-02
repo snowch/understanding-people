@@ -56,10 +56,6 @@ def navigation(source, page, chapters):
         library += f'<li><details class="nav-library-group" data-topic="{escape(group["id"], quote=True)}"{" open" if active else ""}><summary>{escape(group["title"])}</summary><ul class="nav-children">'
         for child in group['entries']:
             library += '<li class="nav-topic"><ul>' + link(child['source'], child['title'], stub=child.get('status')=='stub')
-            if child['recordings']:
-                audio_active = any(a['source'] == source for a in child['recordings'])
-                library += f'<li><details class="nav-listening"{" open" if audio_active else ""}><summary>Listen <span class="nav-count">({len(child["recordings"])})</span><span class="sr-only"> to {escape(child["title"])}</span></summary><ul class="nav-recordings">'
-                library += ''.join(link(a['source'], a['title']+' · '+a['duration']) for a in child['recordings']) + '</ul></details></li>'
             library += '</ul></li>'
         library += '</ul></details></li>'
     library += link('glossary.md', 'Glossary')

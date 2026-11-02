@@ -12,6 +12,7 @@ with sync_playwright() as pw:
     context=browser.new_context(service_workers='block')
     page=context.new_page();errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
     for source, _ in PAGES:
+        if source.startswith('audio/confirmation-'):continue
         path='index.html' if source=='book.md' else source.replace('.md','.html')
         page.goto(urljoin(base,path))
         expect(page.locator('.book-sidebar .nav-section')).to_have_count(4)
@@ -24,7 +25,7 @@ with sync_playwright() as pw:
             expect(page.locator('.book-sidebar [data-section="library"]')).to_have_attribute('open','')
             expect(page.locator('.breadcrumbs a').last).to_have_text('Confirmation bias')
             expect(page.locator('.pagination a')).to_have_attribute('href','../reference/confirmation-bias.html')
-            expect(page.locator('.book-sidebar .nav-recordings a[aria-current="page"]')).to_have_count(1)
+            expect(page.locator('.book-sidebar .nav-recordings')).to_have_count(0)
         if source.startswith('chapters/'):
             expect(page.locator('.book-sidebar .chapter-list [aria-current="page"]')).to_have_count(1)
     page.goto(base+'chapters/01-before-you-explain.html')
@@ -55,13 +56,7 @@ with sync_playwright() as pw:
         expect(page.locator('h1')).to_have_text('Declining help')
         if width<=800:page.locator('.mobile-nav > summary').click()
         expect(tree.locator('[data-topic="behaviour-and-relationships"]')).to_have_attribute('open','')
-        thinking.locator('> summary').click()
-        listening=thinking.locator('.nav-listening')
-        listening.locator('> summary').click()
-        listening.locator('.nav-recordings a').first.click()
-        expect(page.locator('h1')).to_contain_text('Confirmation bias')
-        if width<=800:page.locator('.mobile-nav > summary').click()
-        expect(tree.locator('.nav-listening')).to_have_attribute('open','')
+        expect(tree.locator('.nav-listening')).to_have_count(0)
         page.screenshot(path=str(shots/f'drilldown-{width}.png'))
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
         page.goto(base+'reference/index.html')
@@ -80,7 +75,7 @@ with sync_playwright() as pw:
         expect(page.locator('.library-entry:visible')).to_have_count(len(ENTRIES))
         page.evaluate('scrollTo(0,0)');page.screenshot(path=str(shots/f'library-{width}.png'))
         page.locator('.library-entry h3 a',has_text='Confirmation bias').click()
-        page.locator('main .reference-listenings a').first.click()
+        page.locator('.reference-formats a[href="#listen"]').click()
         expect(page.locator('h1')).to_contain_text('Confirmation bias')
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
         if width<=800:
@@ -95,7 +90,7 @@ with sync_playwright() as pw:
         else:
             page.screenshot(path=str(shots/f'audio-context-{width}.png'))
         page.goto(base+'audio/confirmation-bias-explained.html')
-        page.locator('.pagination a').click();expect(page.locator('h1')).to_have_text('Confirmation bias')
+        expect(page).to_have_url(base+'reference/confirmation-bias.html#listen-explanation');expect(page.locator('h1')).to_have_text('Confirmation bias')
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
     page.set_viewport_size({'width':1440,'height':1000});page.emulate_media(color_scheme='dark');page.goto(base+'reference/index.html');page.screenshot(path=str(shots/'library-dark.png'))
     nojs=browser.new_context(java_script_enabled=False,viewport={'width':390,'height':844});q=nojs.new_page();q.goto(base+'reference/index.html')
