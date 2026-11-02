@@ -73,7 +73,11 @@ For each topic:
 6. Have a separate reviewer challenge scientific accuracy, clarity and practical advice.
 7. Check the glossary, app connections and existing recordings for consistency.
 
-Clinical and abuse-related material should receive appropriate specialist review. Automated checks can verify links and structure; they cannot establish scientific accuracy.
+Clinical and abuse-related entries should make their review status visible. Until appropriate specialist review has taken place, include this caveat:
+
+> This material provides general information and has not yet received specialist review. It is not a diagnostic tool or an individual assessment of safety. For advice about your circumstances, seek appropriately qualified support.
+
+Specialist review remains a goal. This caveat makes the current limits clear; it does not replace careful sourcing or review. Automated checks can verify links and structure, but they cannot establish scientific accuracy.
 
 Use one canonical source for shared book/app content, extending the existing reference-sync approach. Follow the [writing conventions in the README](../README.md#writing) and the [evidence standards](../evidence.md). Preserve existing URLs, heading anchors and practice-note identifiers when revising content.
 
