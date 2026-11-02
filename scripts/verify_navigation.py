@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 from urllib.parse import urljoin
 from playwright.sync_api import sync_playwright, expect
-from book_navigation import ENTRIES
+from book_navigation import ENTRIES, GROUPS
 from build import CHAPTERS, PAGES
 base=sys.argv[1].rstrip('/')+'/'
 shots=Path('/tmp/book-navigation');shots.mkdir(exist_ok=True)
@@ -16,6 +16,8 @@ with sync_playwright() as pw:
         page.goto(urljoin(base,path))
         expect(page.locator('.book-sidebar .nav-section')).to_have_count(4)
         expect(page.locator('.book-sidebar .nav-section[open]')).to_have_count(1)
+        expect(page.locator('.book-sidebar .nav-library-group')).to_have_count(len(GROUPS))
+        expect(page.locator('.book-sidebar .nav-children > .nav-topic')).to_have_count(len(ENTRIES))
         # No unstructured resource list or independently promoted audio pages.
         expect(page.locator('.resource-list')).to_have_count(0)
         if source.startswith('audio/confirmation-'):
@@ -31,6 +33,37 @@ with sync_playwright() as pw:
     page.goto(base+'conclusion.html');expect(page.locator('.pagination [rel=next]')).to_have_count(0)
     for width in [320,390,834,1440]:
         page.set_viewport_size({'width':width,'height':950})
+        page.goto(base+'reference/index.html')
+        # Topic headings disclose real child links, on desktop and mobile.
+        if width<=800:
+            page.locator('.mobile-nav > summary').click()
+        tree=page.locator('.mobile-nav' if width<=800 else '.book-sidebar')
+        thinking=tree.locator('[data-topic="thinking-and-interpretation"]')
+        expect(thinking).not_to_have_attribute('open','')
+        thinking.locator('> summary').focus()
+        page.keyboard.press('Enter')
+        expect(thinking.get_by_role('link',name='Confirmation bias',exact=True)).to_be_visible()
+        expect(thinking.get_by_role('link',name='Correspondence bias',exact=True)).to_be_visible()
+        thinking.get_by_role('link',name='Correspondence bias',exact=True).click()
+        expect(page.locator('h1')).to_have_text('Correspondence bias')
+        if width<=800:page.locator('.mobile-nav > summary').click()
+        expect(tree.locator('[data-topic="thinking-and-interpretation"]')).to_have_attribute('open','')
+        expect(tree.get_by_role('link',name='Correspondence bias',exact=True)).to_have_attribute('aria-current','page')
+        behaviour=tree.locator('[data-topic="behaviour-and-relationships"]')
+        behaviour.locator('> summary').click()
+        behaviour.get_by_role('link',name='Declining help',exact=True).click()
+        expect(page.locator('h1')).to_have_text('Declining help')
+        if width<=800:page.locator('.mobile-nav > summary').click()
+        expect(tree.locator('[data-topic="behaviour-and-relationships"]')).to_have_attribute('open','')
+        thinking.locator('> summary').click()
+        listening=thinking.locator('.nav-listening')
+        listening.locator('> summary').click()
+        listening.locator('.nav-recordings a').first.click()
+        expect(page.locator('h1')).to_contain_text('Confirmation bias')
+        if width<=800:page.locator('.mobile-nav > summary').click()
+        expect(tree.locator('.nav-listening')).to_have_attribute('open','')
+        page.screenshot(path=str(shots/f'drilldown-{width}.png'))
+        assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
         page.goto(base+'reference/index.html')
         search=page.get_by_role('searchbox',name='Find a topic or behaviour')
         expect(page.locator('.library-entry:visible')).to_have_count(len(ENTRIES))
@@ -65,6 +98,10 @@ with sync_playwright() as pw:
     page.set_viewport_size({'width':1440,'height':1000});page.emulate_media(color_scheme='dark');page.goto(base+'reference/index.html');page.screenshot(path=str(shots/'library-dark.png'))
     nojs=browser.new_context(java_script_enabled=False,viewport={'width':390,'height':844});q=nojs.new_page();q.goto(base+'reference/index.html')
     expect(q.locator('.library-entry:visible')).to_have_count(3);expect(q.locator('.library-search')).to_be_hidden()
+    q.locator('.mobile-nav > summary').click()
+    q.locator('.mobile-nav [data-topic="thinking-and-interpretation"] > summary').click()
+    q.locator('.mobile-nav').get_by_role('link',name='Confirmation bias',exact=True).click()
+    expect(q.locator('h1')).to_have_text('Confirmation bias')
     q.locator('.mobile-nav > summary').click();q.locator('.mobile-nav [data-section="book"] > summary').click()
     q.locator('.mobile-nav').get_by_role('link',name='01 Why we misinterpret people',exact=True).click()
     expect(q.locator('h1')).to_have_text('Why we misinterpret people')

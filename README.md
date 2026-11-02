@@ -91,6 +91,8 @@ The confirmation-bias reference’s **Listen** section links to both a detailed 
 
 The sidebar has four sections: The book, Reference library, Practice, and About & sources. Only the current section opens automatically. Reference and audio pages show their current topic, recordings and breadcrumb; they are not added as global top-level links. Chapter Previous/Next links follow Introduction → chapters 1–12 → Conclusion. Audio pages link back to their reference entry. Existing URLs and practice-note IDs are preserved.
 
+Reference topic headings expand to show their child entries. Each entry with recordings has a nested Listen disclosure. The current entry's topic opens automatically; an audio page also opens its Listen branch. The same hierarchy works in the mobile menu, with keyboard controls and without JavaScript.
+
 `reference/catalog.json` defines the reference topics, entries, search descriptions and keywords. `scripts/book_navigation.py` builds the library index and contextual navigation. Recordings are read from each entry’s existing `listenings` metadata in `reference/biases.json`, so titles and durations remain shared with the app. Add a reference to the catalogue when publishing it; do not add individual entries or recordings to the global sidebar. The library is fully readable without JavaScript; `assets/library.js` filters the existing entries locally when available.
 
 Run `python scripts/build.py` for all local-link and fragment checks, then `python scripts/verify_navigation.py http://localhost:8767/understanding-people/` against a local preview. This checks topic search, four-section navigation, breadcrumbs, recording return links, chapter order, mobile layouts and the no-JavaScript fallback.

@@ -50,14 +50,18 @@ def navigation(source, page, chapters):
     book += ''.join(link(s, t, f'{i:02}') for i, (t, s) in enumerate(chapters, 1))
     book += link('conclusion.md', 'Conclusion', '—') + '</ol></li>'
     library = link('reference/index.md', 'Browse & search all entries')
-    library += ''.join(link('reference/index.md', g['title'], fragment='#'+g['id']) for g in GROUPS)
     entry = owner(source)
-    if entry:
-        library += '<li class="nav-topic"><p class="nav-context-label">CURRENT TOPIC</p><ul>'
-        library += link(entry['source'], entry['title'])
-        if entry['recordings']:
-            library += '<li><ul class="nav-recordings">' + ''.join(link(a['source'], a['title']+' · '+a['duration']) for a in entry['recordings']) + '</ul></li>'
-        library += '</ul></li>'
+    for group in GROUPS:
+        active = entry in group['entries'] if entry else False
+        library += f'<li><details class="nav-library-group" data-topic="{escape(group["id"], quote=True)}"{" open" if active else ""}><summary>{escape(group["title"])}</summary><ul class="nav-children">'
+        for child in group['entries']:
+            library += '<li class="nav-topic"><ul>' + link(child['source'], child['title'])
+            if child['recordings']:
+                audio_active = any(a['source'] == source for a in child['recordings'])
+                library += f'<li><details class="nav-listening"{" open" if audio_active else ""}><summary>Listen <span class="nav-count">({len(child["recordings"])})</span><span class="sr-only"> to {escape(child["title"])}</span></summary><ul class="nav-recordings">'
+                library += ''.join(link(a['source'], a['title']+' · '+a['duration']) for a in child['recordings']) + '</ul></details></li>'
+            library += '</ul></li>'
+        library += '</ul></details></li>'
     library += link('glossary.md', 'Glossary')
     practice = link('practice/index.md', 'Choose a practice') + link('worksheet.md', 'Situation worksheet')
     about = ''.join(link(s, t) for s, t in [('about.md', 'About the book & author'), ('evidence.md', 'How we use evidence'), ('references.md', 'Sources & further reading'), ('support.md', 'When to seek other help')])
