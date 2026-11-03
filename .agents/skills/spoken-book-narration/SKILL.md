@@ -5,7 +5,7 @@ description: Adapt Understanding people chapters and reference entries into spok
 
 # Spoken book narration
 
-Read `AGENTS.md`, `docs/page-narration.md`, and the canonical written entry first. Keep concepts before examples and preserve the qualifications attached to research and safety advice.
+Work from the repository root, three directories above this file. Project paths and commands below are relative to that root. Read [AGENTS.md](../../../AGENTS.md), [the production guide](../../../docs/page-narration.md), and the canonical written entry first. Keep concepts before examples and preserve the qualifications attached to research and safety advice.
 
 ## Write for a listener
 
