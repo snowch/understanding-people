@@ -81,8 +81,10 @@ def verify(base):
         for suffix, key in [('.mp3', 'audio_sha256'), ('.txt', 'transcript_sha256')]:
             assert hashlib.sha256((ROOT / media_path(source, suffix)).read_bytes()).hexdigest() == entry[key]
     with sync_playwright() as pw:
-        browser = pw.chromium.launch()
-        context = browser.new_context(service_workers='block', accept_downloads=True)
+        proxy_url = os.environ.get('HTTPS_PROXY') if base.startswith('https://') else None
+        proxy = {'server': proxy_url} if proxy_url else None
+        browser = pw.chromium.launch(proxy=proxy)
+        context = browser.new_context(service_workers='block', accept_downloads=True, proxy=proxy)
         page = context.new_page()
         errors, media = [], []
         page.on('pageerror', lambda error: errors.append(str(error)))
@@ -100,7 +102,7 @@ def verify(base):
             response = context.request.get(audio_url, headers={'Range': 'bytes=0-511'})
             assert response.status == 206, (source, response.status)
             assert len(response.body()) == 512
-            assert response.headers['content-type'].startswith('audio/mpeg')
+            assert response.headers['content-type'].split(';', 1)[0] in {'audio/mpeg', 'audio/mp3'}
             text = context.request.get(panel.get_by_role('link', name='Read transcript').evaluate('e=>e.href'))
             assert text.ok and hashlib.sha256(text.body()).hexdigest() == entry['transcript_sha256']
             for anchor in {s['anchor'] for s in entry['sections']}:
