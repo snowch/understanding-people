@@ -176,7 +176,13 @@ def render(source, title, body, page, manifest):
         return ""
     sections = speech_sections(title, body)
     entry = manifest["pages"].get(source)
-    assert entry and entry["text_sha256"] == fingerprint(sections), f"Narration is missing or stale for {source}. Run python scripts/synthesise_pages.py."
+    assert entry, f"Narration is missing for {source}; see docs/page-narration.md"
+    is_lesson = entry.get('mode') == 'spoken-lesson'
+    if is_lesson:
+        from spoken_narration import check_entry
+        check_entry(source, fingerprint(sections), entry)
+    else:
+        assert entry['text_sha256'] == fingerprint(sections), f"Narration is stale for {source}. Review an authored spoken adaptation; see docs/page-narration.md."
     for suffix, key in ((".mp3", "audio_sha256"), (".txt", "transcript_sha256")):
         path = ROOT / media_path(source, suffix)
         assert path.is_file() and hashlib.sha256(path.read_bytes()).hexdigest() == entry[key], f"Narration file checksum mismatch: {path}"
@@ -185,10 +191,12 @@ def render(source, title, body, page, manifest):
         return escape(Path(os.path.relpath(media_path(source, suffix), page.parent)).as_posix() + '?v=' + entry[key][:12], quote=True)
     practice_hint = ('Includes optional practice and example answers: pause when prompted. ' if 'class="answer-check"' in body
                      else 'Pause whenever you want to reflect or write. ' if 'class="reader-action"' in body else '')
+    if is_lesson:
+        practice_hint = 'A spoken adaptation. Full references and additional practice are on the written page. '
     jumps = "".join(f'<li><button type="button" hidden data-audio-seek="page-narration-audio" data-start="{s["start"]}">{stamp(s["start"])} · {escape(s["title"])}</button><a href="#{escape(s["anchor"], quote=True)}">Read {escape(s["title"])}</a></li>' for s in entry["sections"])
     return f'''<section class="page-narration audio-edition" aria-labelledby="page-narration-title">
-<div class="narration-heading"><h2 id="page-narration-title">Listen to this page</h2><span>{stamp(entry['duration'])}</span></div>
-<p class="audio-note">Andrew · Synthetic narration</p>
+<div class="narration-heading"><h2 id="page-narration-title">{'Listen to this lesson' if is_lesson else 'Listen to this page'}</h2><span>{stamp(entry['duration'])}</span></div>
+<p class="audio-note">Andrew · Synthetic narration{' · Spoken lesson' if is_lesson else ''}</p>
 <audio id="page-narration-audio" controls preload="none" aria-label="Listen to {escape(title, quote=True)}"><source src="{url('.mp3')}" type="audio/mpeg"></audio>
 <div class="audio-links"><a href="{url('.mp3')}" download>Download MP3</a><a href="{url('.txt')}">Read transcript</a><label hidden class="narration-speed">Speed <select data-audio-speed="page-narration-audio" aria-label="Page narration speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label></div>
 <details class="narration-sections"><summary>Choose a section</summary><ol class="audio-chapters">{jumps}</ol></details>

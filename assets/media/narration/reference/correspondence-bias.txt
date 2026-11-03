@@ -1,85 +1,33 @@
-Understanding people. Correspondence bias.
+Someone misses a task, and you think, they are lazy. Someone gives a short answer, and you think, they are rude. You have moved from an action to a description of the person. That explanation might be possible. The question is whether the information you have supports it.
 
-Treating someone’s behaviour as evidence of their character while giving too little weight to the circumstances. A character explanation may be possible without being established.
+Correspondence bias means giving someone's character too much weight while giving their circumstances too little. Checking for it does not mean excusing every action. It means asking what the person could realistically do in that situation, before deciding what the action says about them.
 
-Remember: Before deciding “that is what they are like”, compare what happens under different conditions.
+Psychologists Daniel Gilbert and Patrick Malone reviewed several ways this can happen. You may not know about a constraint. You may know about it but underestimate its effect. Or you may form an early character judgment and fail to revise it when more information arrives.
 
-Examples are fictional. The comparisons and practice steps are editorial suggestions, not a test that identifies bias in a person.
+Imagine a colleague answers you briefly while facing an urgent deadline. If you do not know about the deadline, you are missing part of the picture. If you know about it but still expect their usual relaxed response, you may not have allowed enough for its effect. The example is fictional; it illustrates a possibility to check.
 
-What it looks like.
+This can affect favourable judgments too. Someone answers every question correctly, but they wrote the questions and chose a subject they know well. Their performance may be impressive. Inferring broad brilliance without considering that advantage would still go beyond what the occasion establishes.
 
-A colleague gives a short reply and you decide they are rude. They may be; they might also be dealing with an urgent deadline. In this fictional example, the bias would be giving the character judgment more weight than the available information supports.
+A useful first step is to replace the character label with an action you could describe. Instead of they are unreliable, try they missed two agreed deadlines on this project. Now there is something more specific to investigate, and a clearer basis for discussing what needs to change.
 
-It can concern positive judgments too. Someone answers every question correctly, but they wrote the questions and chose a subject they know. Inferring broad brilliance without considering that advantage repeats the same kind of mistake.
+Ask what is known about the conditions. Was the task clear, feasible and agreed? Did the person have the time, information and resources it required? Include their choices and responsibilities too. A constraint is something to check, not a reason to assume that the person had no influence.
 
-Why does it happen?
+Next, compare a relevant occasion. Does the same difficulty occur when the instructions are clear and enough time is available? Do other people really have the same information, skills and choices? Saying anyone else would have managed is a claim that needs evidence as well.
 
-Gilbert and Malone’s review describes several routes. You may not know about a constraint. You may know about it but underestimate how strongly it shapes behaviour. Your expectations may colour what you think you saw. Or an early character judgment may remain even after circumstances become known.
+A difference between situations can weaken an always-like-this claim. It does not prove which condition caused the difference. And repetition in one setting may reflect a repeated constraint as well as a personal tendency. Keep both the pattern and what remains uncertain in view.
 
-For example, knowing that someone is under pressure does not mean you have allowed enough for its effect. Revising an initial judgment takes attention; a hurried observer may stop at the first explanation. These are possible mechanisms, not one universal account of every judgment.
+Do not replace a harsh judgment with an equally confident invented excuse. A deadline matters if it is known or worth asking about, not simply because it would be a comforting explanation. You can ask for a change, or set a boundary, while the cause remains uncertain.
 
-Research behind this explanation: Gilbert and Malone (1995).
+There is another tempting shortcut: the idea that we always explain other people through character and ourselves through circumstances. Bertram Malle's analysis of many studies did not support that as a general rule. Check the particular judgment, including your own, rather than assuming the shortcut explains everyone.
 
-How can I recognise it?
+Research gives some reason to practise. Training experiments by Carey Morewedge and colleagues included errors involving too little attention to circumstances. People improved on the tested judgment problems, with effects still found at least two months later. That does not establish a permanent change in everyday relationships from reading a page.
 
-Look for the jump from a specific action to a broad description of the person. Then compare what the description predicts with what you actually know.
+Our practical suggestion is a short pause before an important character judgment. Describe the action. Check a relevant constraint. Compare an occasion. Then review what happened next. If the behaviour continues despite a workable agreement, address that pattern. Understanding a difficulty does not make its impact disappear.
 
-A thought to examine: “They are lazy” after a missed task. A more useful check: Was the task clear, feasible and agreed? Compare similar tasks with enough time and resources.
+Here is a separate fictional example. Someone misses a task you asked them to do, and your first thought is, they are lazy. Before deciding that, what would you need to know? Choose one missing fact that could make your next conversation more useful. Pause the player if you want longer.
 
-A thought to examine: “They are unfriendly” after silence. A more useful check: Does this happen in small, familiar groups as well as public meetings? Check what differs; a difference alone does not tell you why.
+[Pause: 9 seconds. Pause the player for longer if helpful.]
 
-A thought to examine: “They are naturally helpful” after a polite service encounter. A more useful check: How much does the role require this response? A good interaction need not reveal behaviour outside that role.
+You might need to know whether they understood the task, agreed to it, or had the resources it needed. Those questions do not establish the answer. They help you choose a clearer request or comparison. You can still discuss the missed task and its impact.
 
-A thought to examine: “Anyone else would have managed.”. A more useful check: What evidence supports that comparison? Do others actually have the same information, choices, skills and constraints?.
-
-How much can a comparison tell me?
-
-The same person behaving differently in different conditions weakens an “always like this” claim. It does not prove which condition caused the difference. Repetition also deserves attention, but repetition in one setting may reflect a repeated constraint as well as a tendency.
-
-Do not replace “bad person” with an equally confident invented excuse. A deadline matters if it is known or worth checking, not just because it is a comforting possibility. You can request a change or set a boundary while the explanation remains uncertain.
-
-Do not assume you always excuse yourself and blame others. Malle’s analysis found that this proposed actor–observer pattern was not a general rule across studies. Correspondence bias is a more specific question about underweighting circumstances.
-
-Research behind this explanation: Malle (2006).
-
-Can it change?
-
-Aim to make your explanation more specific and better checked. Replace “They are unreliable” with “They missed two agreed deadlines on this project.” Name what you know about the conditions. Ask what a character explanation and a practical constraint would each predict next.
-
-Morewedge and colleagues’ training study included fundamental attribution error, a related label for underweighting situational influences. Training improved tested judgments, with effects still found at least two months later. It does not show that reading a page permanently changes how someone treats family or colleagues.
-
-Our practical suggestion is to build a pause into important judgments: describe the action, check constraints, compare an occasion and review. If the behaviour continues despite a workable agreement, address that pattern. Understanding a constraint does not make the impact disappear.
-
-Research behind this explanation: Morewedge et al.
-
-How is this different from confirmation bias?
-
-Correspondence bias is about the explanation: “This behaviour shows what sort of person they are.” Confirmation bias is about how you handle evidence for that explanation. You could do either without the other, or make a character judgment and then overlook everything that challenges it.
-
-Read the other bias · Return to Chapter 1.
-
-Put it into practice: check one character judgment.
-
-Choose an ordinary event where you thought “They are…” or “I am…”. Write the actual action and keep the character label separate.
-
-Identify one known circumstance and one useful comparison. Ask about a constraint or clarify an agreement where appropriate. You do not need to settle the person’s character.
-
-Review what happened next. Was your description more accurate? Did your request become more specific or workable? Record what remains uncertain and what response is still needed.
-
-Optional practice notes are available on the page. Pause the recording if you want to write.
-
-Continue in the app.
-
-Get the private app download (repository access required). Open version 0.12.0 or later, choose Start , then Explore the whole map, search for Correspondence bias, then select Read the full entry , then Work through my example. You can also reach the entry through the map’s text list.
-
-Record an observation, your answer and one check to try. Save it in My situations, then choose What happened when I tried? to record the outcome and how your explanation changed.
-
-This web page cannot open a downloaded HTML file directly. Without app access, use the notes above. Book notes and app notes are separate; they do not sync automatically.
-
-Sources and limits.
-
-Gilbert and Malone (1995). The correspondence bias. A review describing several routes to underweighting circumstances when judging a person. It does not establish that every character judgment is mistaken.
-
-Malle (2006). The actor–observer asymmetry in attribution: A (surprising) meta-analysis. A synthesis of 173 studies that challenges a blanket rule about explaining our own behaviour through situations and others’ through personality.
-
-Morewedge et al. (2015). Debiasing decisions: Improved decision making with a single training intervention. Two longitudinal experiments with games and instructional videos; gains on tested judgment problems persisted at least two months. This does not establish lasting improvement in family or workplace relationships from reading this entry.
+The distinction to remember is this: correspondence bias concerns the explanation you give an action. Confirmation bias concerns how you handle evidence for an explanation. You can do either, or both. The written entry has the research links, further comparisons and space to record what you try.

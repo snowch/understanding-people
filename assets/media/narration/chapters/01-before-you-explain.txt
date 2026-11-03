@@ -1,135 +1,37 @@
-Understanding people. Why we misinterpret people.
+Understanding someone starts with a distinction that is easy to miss. There is what they said or did. And there is the explanation you give it. When those become the same thing in your mind, a guess can start to feel like a fact.
 
-We see what someone does, then try to explain why. Mistakes happen when we treat a guess as a fact, overlook conflicting information, or judge the person without considering their circumstances.
+This lesson is about noticing that jump, checking an explanation fairly, and choosing what to do while some things remain uncertain. The brief examples are fictional. Keep one question in mind: what do I know, and what am I guessing?
 
-This chapter explains those mistakes and how to check them. The short examples below are fictional.
+[Pause: 3 seconds. Pause the player for longer if helpful.]
 
-One habit to practise.
+An observation describes something you saw or heard. An interpretation is the meaning you give it. Imagine a friend has not replied to your message for two days. You find yourself thinking, they don't care about me.
 
-When you feel sure why someone acted, ask: “What do I know, and what am I guessing?”
+The unanswered message is something you can describe. The reason for it is still uncertain. Your explanation might be right, but the silence alone does not establish it. Feeling hurt matters too. It tells you about your experience, rather than proving your friend's intention.
 
-Observation and interpretation.
+Another mistake can happen once you have an explanation. You start noticing the details that fit it and overlooking the ones that do not. That is confirmation bias. The problem is how you handle information, rather than simply having a belief.
 
-An observation describes what you saw or heard. An interpretation is the meaning or explanation you give it.
+Here is a different example. You think a colleague dislikes your ideas. Every criticism stands out, while their positive comments barely register. You may not realise you are doing it. Your belief then seems better supported because part of the picture has disappeared.
 
-Example: “My friend hasn't replied for two days” describes what happened. “They don't care about me” is an interpretation.
+Psychologist Raymond Nickerson reviewed research on this pattern across many kinds of reasoning. His review cannot decide whether this colleague dislikes your ideas. It gives you a useful place to check: what have I noticed that does not fit my explanation? Look for an actual exception, rather than inventing a reassuring possibility.
 
-Use it: Write the action and your explanation separately. This makes the explanation easier to question.
+A different mistake concerns the explanation itself. You treat an action as evidence of someone's character while giving too little weight to their circumstances. This is called correspondence bias.
 
-Limit: An interpretation can be right. Separating it from the observation means you can check it. Your feelings matter too: feeling hurt describes your experience, but does not establish the other person's intention.
+For example, someone gives a short reply and you decide they are rude. Perhaps they are. But if they are facing an urgent deadline, that circumstance matters too. Ask whether the behaviour happens across different situations, or mainly under particular conditions.
 
-Confirmation bias.
+Psychologists Gilbert and Malone reviewed research on this tendency. Their work does not mean every character judgment is wrong. Circumstances do not explain everything, and they do not excuse harmful behaviour. The aim is a better-supported explanation, not an automatic excuse.
 
-Definition.
+So how do you check? Start with a plausible alternative, including the possibility that you misunderstood something. Then ask what information would help you tell the explanations apart. A specific question, such as what still needs deciding, leaves more room for an answer than a question that already assumes a motive.
 
-Confirmation bias.
+Treat the answer as information to assess, not automatic proof. Compare it with relevant messages, agreements and what happens next. More than one reason may apply. You may learn enough to make a decision without settling every motive.
 
-Looking for information—or understanding it in a way—that supports what you already believe.
+You can also respond to the behaviour while its cause remains uncertain. If a conversation turns into insults, you can decide to end the call. You do not have to establish why the person insults you before setting that limit.
 
-Example: You think a colleague dislikes your ideas. You notice each criticism but overlook their positive comments, making your belief seem better supported. You may not realise you are doing it.
+Choose an action within your control and review what happens. If asking directly could expose you to harm, seek a safer source of support. You do not need to put yourself at risk to test an explanation.
 
-Use it: Ask, “What have I noticed that doesn't fit my explanation?” Look for an actual exception, rather than inventing a reassuring possibility.
+Let's try it on a separate fictional situation. Your sister says the outing you suggested sounds expensive. You think, she never wants to spend time with me. What did she actually say? What are you guessing? And what could you check? Take a moment. Pause the player if you want longer.
 
-Limit: Noticing this bias does not prove your conclusion is wrong. It gives you a reason to examine the information you used.
+[Pause: 9 seconds. Pause the player for longer if helpful.]
 
-Evidence: Psychologist Raymond Nickerson's 1998 review examined this pattern across earlier studies of reasoning. It cannot decide whether a particular colleague dislikes your ideas.
+You know she raised the cost. You are guessing she wants to avoid you. You could ask which cost concerns her and consider occasions when she accepted an invitation. Those details might change your explanation without settling everything about the relationship.
 
-Go deeper: Why confirmation bias happens, how to recognise it, and how to practise checking it. Includes a saved practice route in the app.
-
-Correspondence bias.
-
-Definition.
-
-Correspondence bias.
-
-Deciding that someone’s behaviour shows what they are like as a person, while giving too little weight to the situation they were in.
-
-Example: A colleague gives a short reply. You decide they are rude without considering that they are facing an urgent deadline. You have judged their character while overlooking a possible situational explanation.
-
-Use it: Ask, “Does this happen across situations, or mainly under particular conditions?” Compare ordinary occasions and exceptions.
-
-Limit: Circumstances do not explain everything or excuse harmful behaviour. A repeated pattern still matters.
-
-Evidence: Gilbert and Malone's 1995 review examined research on this bias. Confirmation bias concerns how you handle information; correspondence bias concerns how you explain behaviour.
-
-Go deeper: Why we overlook circumstances, how to check a character judgment, and what can change. Includes a saved practice route in the app.
-
-Check competing explanations.
-
-Consider a different explanation, including a misunderstanding of your own. Then look for information that could distinguish the possibilities.
-
-Example: A client delays a purchase. You suspect they are losing interest; they say the budget is awaiting approval. Asking when the decision is expected and comparing that answer with later events is more useful than treating the delay itself as proof of either explanation.
-
-Use it: Ask a specific question that lets the person explain, rather than assuming the motive: “What still needs deciding?”
-
-Limit: An answer is information to assess, not automatic proof. Several reasons may apply. You may learn enough to act without settling every motive.
-
-Respond while some things remain uncertain.
-
-You can make a request or set a limit based on what happened and how it affects you.
-
-Example: “If the conversation turns into insults, I will end the call.” You do not need to establish why the person insults you before setting that limit.
-
-Use it: Choose an action within your control, then review what happens. If asking directly could expose you to harm, consider a safer source of support.
-
-More evidence and its limits.
-
-In two experiments published in 1984, Lord, Lepper and Preston found that considering an opposing explanation reduced the particular judgment errors studied. This supports checking alternatives; it does not validate every exercise in this book.
-
-Malle's 2006 analysis of 173 studies did not support a general rule that we explain others through character and ourselves through circumstances. Results depended on the situation.
-
-Henrich, Heine and Norenzayan's 2010 review questioned generalisations based mainly on wealthy Western populations. Consider local expectations without assuming someone's nationality explains their actions.
-
-Key takeaways.
-
-Keep what happened separate from your explanation.
-
-Look for conflicting information and relevant circumstances.
-
-Check what you can, then choose a response you can review.
-
-Put it into practice.
-
-Recall.
-
-What three questions would help you check an explanation?
-
-Pause here to consider your answer before listening to the example answer.
-
-Show the three questions.
-
-What did they say or do?
-
-Why do I think they did it?
-
-How could I check?
-
-Try it.
-
-A separate fictional example: Your sister says your suggested outing sounds expensive. You think, “She never wants to spend time with me.”
-
-What is known, what is guessed, and what would help you check? Answer before opening the example.
-
-Pause here to consider your answer before listening to the example answer.
-
-Show an example answer.
-
-You know she raised the cost. You are guessing she wants to avoid you. Ask which cost concerns her; compare occasions when she accepted an invitation. Her answer and those exceptions may change your explanation, without settling everything about the relationship.
-
-Use it this week.
-
-Use the three questions on one ordinary situation. Make a useful, safe check. Afterwards, note what changed in your explanation and what you will do next.
-
-Optional practice notes are available on the page. Pause the recording if you want to write.
-
-For a longer worked example, see Declining help.
-
-Pause here to consider your answer before listening to the example answer.
-
-Earlier practice notes.
-
-Your previous notes remain available here.
-
-Optional practice notes are available on the page. Pause the recording if you want to write.
-
-Optional practice notes are available on the page. Pause the recording if you want to write.
+This week, try those same three questions on one ordinary situation. What did they say or do? Why do I think they did it? How could I check? Afterwards, notice what changed in your explanation and what you will do next. The written chapter has the research links, space for notes and further practice.

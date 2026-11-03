@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Explicit, resumable production of Andrew narration for every substantive page.
+"""Legacy whole-page narration inventory; default audio production is retired.
 
-Requires edge-tts==7.3.1 and FFmpeg/ffprobe. Only public, authored page text is
-sent to the Edge TTS service. Cache, retries and intermediate audio stay outside
-Git. The normal Pages build is offline and never invokes this producer.
+Use --plan for inspection. Historical functions remain for cache diagnostics.
+New production uses authored audio/spoken scripts and synthesise_spoken.py.
 """
 import argparse
 import asyncio
@@ -193,6 +192,8 @@ def main():
     parser.add_argument("--workers", type=int, default=8)
     args = parser.parse_args()
     assert 1 <= args.workers <= 32
+    if not args.plan:
+        parser.error('Verbatim whole-page production is retired after listening feedback. Author a spoken script and use scripts/synthesise_spoken.py; see .agents/skills/spoken-book-narration/SKILL.md. --plan remains available for inspection.')
     pages = plan()
     CACHE.mkdir(parents=True, exist_ok=True)
     (CACHE / "plan.json").write_text(json.dumps(pages, ensure_ascii=False, indent=2) + "\n")

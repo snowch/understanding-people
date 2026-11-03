@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "source": "reference/confirmation-bias.md",
+  "title": "Confirmation bias",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": ["reference/biases.json"],
+  "sections": [
+    {
+      "title": "Give a belief a fair test",
+      "anchor": "main",
+      "paragraphs": [
+        {"text": "Confirmation bias is a habit in the way we handle evidence. We look for information, notice it, or explain it in ways that favour what we already believe. The problem is giving an explanation an easier test than its alternatives.", "pause_after_ms": 900},
+        {"text": "You can have a strong belief and still check it fairly. You can also reach a correct conclusion through a poor checking process. So the useful question is not simply, am I right? It is, what would I have been willing to notice if I were wrong?", "pause_after_ms": 3000}
+      ]
+    },
+    {
+      "title": "Where information gets left out",
+      "anchor": "meaning",
+      "paragraphs": [
+        {"text": "Imagine you believe a friend only contacts you when they need a favour. You remember two requests. A message asking how you are slips out of the picture. That is a fictional example of selective attention. It does not settle whether the friendship is one-sided.", "pause_after_ms": 850},
+        {"text": "The same imbalance can enter at several points. You search only for requests. You remember the most irritating ones. Or you find a friendly message and immediately explain it away. Meanwhile, a message that fits your concern seems convincing without much scrutiny.", "pause_after_ms": 900},
+        {"text": "Raymond Nickerson's review brought together earlier research on these patterns across many kinds of reasoning. The point is broader than negative thinking. You could also overlook disagreement because you believe your team always supports you. Confidence, optimism and suspicion can each sit alongside an uneven test.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Why it can happen",
+      "anchor": "why",
+      "paragraphs": [
+        {"text": "There is no single cause. One route is looking where you expect a prediction to hold. If you suspect someone is selfish, you look for selfish acts. Looking for an expected result can sometimes be informative. The difficulty is treating a result that fits several explanations as proof of just one.", "pause_after_ms": 850},
+        {"text": "Psychologists Joshua Klayman and Young Won Ha examined this problem in their analysis of hypothesis testing. Their work points to a more useful question: where would the explanations make different predictions? Another example that fits all of them may tell you very little.", "pause_after_ms": 1000},
+        {"text": "Another route is wanting a particular answer. Admitting a mistake might threaten your pride, a relationship or a group commitment. Ziva Kunda's review describes how desired conclusions can influence which arguments people find acceptable. This need not involve deliberate dishonesty.", "pause_after_ms": 850},
+        {"text": "Wanting and expecting are different, though. You may dislike the thought that a friend does not care about you, yet still read their actions through that expectation. These are possible explanations for biased reasoning. Naming them does not tell you why a particular person overlooked a particular fact.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Notice an unequal standard",
+      "anchor": "recognise",
+      "paragraphs": [
+        {"text": "Start by examining your own checking process. What did you leave out? What would change your mind? Would you accept the same quality of evidence if it supported the opposite conclusion? These questions help you find a place to check. They do not give you a bias score.", "pause_after_ms": 3000},
+        {"text": "Returning to the friendship example, choose a defined period and include ordinary contact as well as requests. Decide beforehand which observations would strengthen your concern and which would weaken it. That is more useful than searching until you find another irritating message.", "pause_after_ms": 900},
+        {"text": "Notice the question you ask, too. Why do you only call for favours already assumes the conclusion. Could we make time to catch up when neither of us needs anything gives the person room to respond. What they say and do next is information to consider, not an automatic verdict.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Check fairly without dismissing a real concern",
+      "anchor": "limits",
+      "paragraphs": [
+        {"text": "A fair check does not mean treating every explanation as equally likely. Several supporting examples may be strong evidence. One friendly message does not cancel repeated mistreatment. Ask whether relevant contrary information received a fair hearing, and how much it actually changes the claim.", "pause_after_ms": 900},
+        {"text": "If you disagree with someone else, discuss the missing comparison rather than declaring that they have confirmation bias. Ask what observation would lead either of you to reconsider. Their refusal to agree with you is not, by itself, evidence that their reasoning is biased.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "What practice can change",
+      "anchor": "change",
+      "paragraphs": [
+        {"text": "Can this habit change? Experiments by Charles Lord and colleagues found that considering an opposing explanation reduced the judgment errors they studied. Later training experiments by Carey Morewedge and colleagues found improvements on tested reasoning tasks that were still present at least two months later.", "pause_after_ms": 900},
+        {"text": "That supports practice. It does not show that learning a definition removes the bias, or that reading this page permanently improves relationships. Our practical suggestion is to state a claim, compare an alternative, choose a useful check, and review what you learn. Sometimes the evidence will support your original concern.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Choose one check",
+      "anchor": "practice",
+      "paragraphs": [
+        {"text": "Try a small version now. Think of one belief about yourself or another person. What information have you been treating as support? What relevant exception, or missing comparison, would you need to consider? Take a moment to name one. Pause the player if you want longer.", "pause_after_ms": 10000},
+        {"text": "Choose a check you can make fairly, without snooping or provoking someone. After checking, you might keep your explanation, narrow it, or change it. The aim is a better-supported judgment and a more useful response. The written entry has the research sources, a place for notes and further exercises.", "pause_after_ms": 1400}
+      ]
+    }
+  ]
+}

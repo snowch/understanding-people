@@ -5,7 +5,7 @@
   "underlying_model": "Not exposed by the service metadata",
   "voice": "en-US-AndrewMultilingualNeural",
   "rate": "-2%",
-  "generated": "2026-11-03T02:48:20.931110+00:00",
+  "generated": "2026-11-03T23:14:24.359444+00:00",
   "normalisation": "-16 LUFS target, -1.5 dBTP target, mono 24 kHz MP3 at 96 kbps",
   "pages": {
     "book.md": {
@@ -240,86 +240,186 @@
     },
     "chapters/01-before-you-explain.md": {
       "title": "Why we misinterpret people",
-      "text_sha256": "bc0d686c274ec7d0f4a53d98aebcd8ca38db6da16f05844f9ba7a6756a8e0296",
-      "audio_sha256": "76954a64994aeaafa30e2d56e4048512ebc85f859fce4294b488a3e01fef340b",
-      "transcript_sha256": "46b5584f0e11b3c5e8816649a5600be57629fb781438d00c946388e744754418",
-      "words": 1005,
-      "duration": 424.416,
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/chapter-01.json",
+      "script_sha256": "98659e85aa344be4f928179b125081ddddd8b4bab03c51c0fca48c14a9db2f1d",
+      "page_text_sha256": "bc0d686c274ec7d0f4a53d98aebcd8ca38db6da16f05844f9ba7a6756a8e0296",
+      "source_hashes": {
+        "chapters/01-before-you-explain.md": "2d69af1b369eab8061971dba8efac97ce2f6c3f3f47747df08861b021b8cebe3"
+      },
+      "text_sha256": "98659e85aa344be4f928179b125081ddddd8b4bab03c51c0fca48c14a9db2f1d",
+      "audio_sha256": "f81191252f63e2be0e78b9c2e2f5a34f0a3a8bf9c255cfe320b35d30b4ff2f49",
+      "transcript_sha256": "49e743ccf22d51ac68e3d1d6b2c194d034c1bb1c14449c80c5164f442330fd9e",
+      "words": 724,
+      "duration": 294.576,
       "sections": [
         {
-          "title": "Why we misinterpret people",
+          "title": "What do you know, and what are you guessing?",
           "anchor": "main",
-          "start": 0.0,
-          "end": 22.248
+          "start": 0,
+          "end": 32.371
         },
         {
-          "title": "One habit to practise",
-          "anchor": "remember-this",
-          "start": 22.248,
-          "end": 28.752
-        },
-        {
-          "title": "Observation and interpretation",
+          "title": "Separate the event from its meaning",
           "anchor": "observation-and-interpretation",
-          "start": 28.752,
-          "end": 66.312
+          "start": 32.371,
+          "end": 63.161
         },
         {
-          "title": "Confirmation bias",
+          "title": "Notice an uneven test of a belief",
           "anchor": "confirmation-bias",
-          "start": 66.312,
-          "end": 127.392
+          "start": 63.161,
+          "end": 119.66
         },
         {
-          "title": "Correspondence bias",
+          "title": "Look at the situation as well as the person",
           "anchor": "correspondence-bias",
-          "start": 127.392,
-          "end": 194.928
+          "start": 119.66,
+          "end": 170.237
         },
         {
-          "title": "Check competing explanations",
+          "title": "Choose a useful check",
           "anchor": "check-competing-explanations",
-          "start": 194.928,
-          "end": 242.784
+          "start": 170.237,
+          "end": 206.418
         },
         {
-          "title": "Respond while some things remain uncertain",
+          "title": "Respond without needing a final verdict",
           "anchor": "respond-while-some-things-remain-uncertain",
-          "start": 242.784,
-          "end": 316.992
+          "start": 206.418,
+          "end": 233.808
         },
         {
-          "title": "Key takeaways",
-          "anchor": "key-takeaways",
-          "start": 316.992,
-          "end": 328.296
-        },
-        {
-          "title": "Put it into practice",
+          "title": "Try the three questions",
           "anchor": "put-it-into-practice",
-          "start": 328.296,
-          "end": 330.168
-        },
-        {
-          "title": "Recall",
-          "anchor": "can-you-use-it",
-          "start": 330.168,
-          "end": 344.568
-        },
-        {
-          "title": "Try it",
-          "anchor": "try-it",
-          "start": 344.568,
-          "end": 382.992
-        },
-        {
-          "title": "Use it this week",
-          "anchor": "practise-three-questions",
-          "start": 382.992,
-          "end": 424.368
+          "start": 233.808,
+          "end": 294.507
         }
       ],
-      "provider_words_verified": true
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 13.342625,
+          "end": 14.242625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 29.371,
+          "end": 32.371,
+          "requested_ms": 3000,
+          "verified_silence_ms": 2840
+        },
+        {
+          "paragraph": 2,
+          "start": 44.800041666666665,
+          "end": 45.65004166666667,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 3,
+          "start": 61.56066666666667,
+          "end": 63.160666666666664,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 4,
+          "start": 78.602875,
+          "end": 79.452875,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 5,
+          "start": 96.285125,
+          "end": 97.185125,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 6,
+          "start": 118.06029166666667,
+          "end": 119.66029166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 7,
+          "start": 131.94183333333334,
+          "end": 132.79183333333333,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 8,
+          "start": 148.59041666666667,
+          "end": 149.49041666666668,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 9,
+          "start": 168.63708333333332,
+          "end": 170.23708333333335,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 10,
+          "start": 188.78583333333333,
+          "end": 189.63583333333332,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 11,
+          "start": 204.81829166666665,
+          "end": 206.41829166666668,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 12,
+          "start": 218.94354166666668,
+          "end": 219.84354166666665,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 13,
+          "start": 232.20804166666667,
+          "end": 233.80804166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 14,
+          "start": 249.763,
+          "end": 258.763,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 15,
+          "start": 273.77070833333335,
+          "end": 274.77070833333335,
+          "requested_ms": 1000,
+          "verified_silence_ms": 840
+        },
+        {
+          "paragraph": 16,
+          "start": 293.106625,
+          "end": 294.506625,
+          "requested_ms": 1400,
+          "verified_silence_ms": 1240
+        }
+      ]
     },
     "chapters/02-what-counts-as-knowing.md": {
       "title": "What counts as knowing?",
@@ -2631,145 +2731,363 @@
     },
     "reference/confirmation-bias.md": {
       "title": "Confirmation bias",
-      "text_sha256": "101bccb8df754fd87ae74f98286ad8d5d6f0b1bf09ad7f0fd0792a10254663a5",
-      "audio_sha256": "1ffbb006cfe845947549071190fd4a211487a64b11869c1e1b7109eadbe3a0e1",
-      "transcript_sha256": "5e654e24f45f56ac28ec77985cd46c734700e0643abfdc772f1f7b8344f49a09",
-      "words": 1106,
-      "duration": 479.136,
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/confirmation-bias.json",
+      "script_sha256": "a95d38ab78d6d9ef362a9263b83af019142601653940eb4ef181401308a4b2db",
+      "page_text_sha256": "101bccb8df754fd87ae74f98286ad8d5d6f0b1bf09ad7f0fd0792a10254663a5",
+      "source_hashes": {
+        "reference/biases.json": "7ef77a9b7e5c8823616ac6da7f0eafc5a1ddf6eb89b63f27b084080ccc46d0ed"
+      },
+      "text_sha256": "a95d38ab78d6d9ef362a9263b83af019142601653940eb4ef181401308a4b2db",
+      "audio_sha256": "274d886a6e74e21b150af91f73df817a4201c7815cc0b41a29a0c18501eb07fb",
+      "transcript_sha256": "effe1ce56f60851587b19ae31f9e15a990ab11c2c42d21072487f3a3aab1dd9c",
+      "words": 820,
+      "duration": 347.016,
       "sections": [
         {
-          "title": "Confirmation bias",
+          "title": "Give a belief a fair test",
           "anchor": "main",
-          "start": 0.0,
-          "end": 28.728
+          "start": 0,
+          "end": 33.768
         },
         {
-          "title": "What it looks like",
+          "title": "Where information gets left out",
           "anchor": "meaning",
-          "start": 28.728,
-          "end": 66.936
+          "start": 33.768,
+          "end": 89.324
         },
         {
-          "title": "Why does it happen?",
+          "title": "Why it can happen",
           "anchor": "why",
-          "start": 66.936,
-          "end": 127.632
+          "start": 89.324,
+          "end": 167.028
         },
         {
-          "title": "How can I recognise it?",
+          "title": "Notice an unequal standard",
           "anchor": "recognise",
-          "start": 127.632,
-          "end": 188.664
+          "start": 167.028,
+          "end": 220.636
         },
         {
-          "title": "What is not enough to identify it?",
+          "title": "Check fairly without dismissing a real concern",
           "anchor": "limits",
-          "start": 188.664,
-          "end": 225.504
+          "start": 220.636,
+          "end": 260.058
         },
         {
-          "title": "Can it change?",
+          "title": "What practice can change",
           "anchor": "change",
-          "start": 225.504,
-          "end": 283.824
+          "start": 260.058,
+          "end": 300.558
         },
         {
-          "title": "How is this different from correspondence bias?",
-          "anchor": "distinguish",
-          "start": 283.824,
-          "end": 309.864
-        },
-        {
-          "title": "Put it into practice: give one belief a fair test",
+          "title": "Choose one check",
           "anchor": "practice",
-          "start": 309.864,
-          "end": 347.832
-        },
-        {
-          "title": "Continue in the app",
-          "anchor": "continue-in-the-app",
-          "start": 347.832,
-          "end": 392.328
-        },
-        {
-          "title": "Sources and limits",
-          "anchor": "sources-and-limits",
-          "start": 392.328,
-          "end": 479.088
+          "start": 300.558,
+          "end": 346.946
         }
       ],
-      "provider_words_verified": true
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 15.370291666666667,
+          "end": 16.270291666666665,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 30.768333333333334,
+          "end": 33.76833333333333,
+          "requested_ms": 3000,
+          "verified_silence_ms": 2840
+        },
+        {
+          "paragraph": 2,
+          "start": 48.79454166666667,
+          "end": 49.64454166666667,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 3,
+          "start": 66.51416666666667,
+          "end": 67.41416666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 87.72404166666666,
+          "end": 89.32404166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 5,
+          "start": 109.033875,
+          "end": 109.883875,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 6,
+          "start": 126.94554166666667,
+          "end": 127.94554166666667,
+          "requested_ms": 1000,
+          "verified_silence_ms": 840
+        },
+        {
+          "paragraph": 7,
+          "start": 146.60504166666666,
+          "end": 147.45504166666666,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 8,
+          "start": 165.42791666666668,
+          "end": 167.02791666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 181.87625,
+          "end": 184.87625,
+          "requested_ms": 3000,
+          "verified_silence_ms": 2840
+        },
+        {
+          "paragraph": 10,
+          "start": 202.26204166666668,
+          "end": 203.16204166666665,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 219.03579166666665,
+          "end": 220.63579166666668,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 12,
+          "start": 240.38754166666666,
+          "end": 241.28754166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 13,
+          "start": 258.45804166666665,
+          "end": 260.05804166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 14,
+          "start": 278.035,
+          "end": 278.935,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 15,
+          "start": 298.9585,
+          "end": 300.5585,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 16,
+          "start": 316.7764583333333,
+          "end": 326.7764583333333,
+          "requested_ms": 10000,
+          "verified_silence_ms": 9840
+        },
+        {
+          "paragraph": 17,
+          "start": 345.54566666666665,
+          "end": 346.9456666666667,
+          "requested_ms": 1400,
+          "verified_silence_ms": 1240
+        }
+      ]
     },
     "reference/correspondence-bias.md": {
       "title": "Correspondence bias",
-      "text_sha256": "02b77294b1aefbc935869311106135190d6b051d8c5f8575acca1c363300e6c3",
-      "audio_sha256": "b94c8de5a64b21dc596f4130718095f92dfa20a93ce2a5407839be5d0b559da6",
-      "transcript_sha256": "6c22c838ebd0a32271a7d6762478ed7617c796587fadda15db1719ecab338638",
-      "words": 1065,
-      "duration": 455.064,
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/correspondence-bias.json",
+      "script_sha256": "1ce34395642129860b2e02c13c5a5d783f00b7facaac46f6e15f745237bb1dde",
+      "page_text_sha256": "02b77294b1aefbc935869311106135190d6b051d8c5f8575acca1c363300e6c3",
+      "source_hashes": {
+        "reference/biases.json": "7ef77a9b7e5c8823616ac6da7f0eafc5a1ddf6eb89b63f27b084080ccc46d0ed"
+      },
+      "text_sha256": "1ce34395642129860b2e02c13c5a5d783f00b7facaac46f6e15f745237bb1dde",
+      "audio_sha256": "ce4efd8453a6f95f04ce24788c1b83566f56275a921490a418a05c224bac8683",
+      "transcript_sha256": "ee33f08301ae7fa3f75a97ba9ea42256a172c7db4a41b00027d2c3af2f2ff029",
+      "words": 757,
+      "duration": 321.768,
       "sections": [
         {
-          "title": "Correspondence bias",
+          "title": "An action is not a whole personality",
           "anchor": "main",
-          "start": 0.0,
-          "end": 30.192
+          "start": 0,
+          "end": 36.633
         },
         {
-          "title": "What it looks like",
-          "anchor": "meaning",
-          "start": 30.192,
-          "end": 61.488
-        },
-        {
-          "title": "Why does it happen?",
+          "title": "How circumstances get overlooked",
           "anchor": "why",
-          "start": 61.488,
-          "end": 105.288
+          "start": 36.633,
+          "end": 95.637
         },
         {
-          "title": "How can I recognise it?",
+          "title": "Make the description more specific",
           "anchor": "recognise",
-          "start": 105.288,
-          "end": 167.616
+          "start": 95.637,
+          "end": 153.048
         },
         {
-          "title": "How much can a comparison tell me?",
+          "title": "Keep the limits of the comparison",
           "anchor": "limits",
-          "start": 167.616,
-          "end": 225.312
+          "start": 153.048,
+          "end": 213.112
         },
         {
-          "title": "Can it change?",
+          "title": "Practise a different explanation process",
           "anchor": "change",
-          "start": 225.312,
-          "end": 288.432
+          "start": 213.112,
+          "end": 259.239
         },
         {
-          "title": "How is this different from confirmation bias?",
-          "anchor": "distinguish",
-          "start": 288.432,
-          "end": 311.28
-        },
-        {
-          "title": "Put it into practice: check one character judgment",
+          "title": "Try a more useful question",
           "anchor": "practice",
-          "start": 311.28,
-          "end": 349.92
-        },
-        {
-          "title": "Continue in the app",
-          "anchor": "continue-in-the-app",
-          "start": 349.92,
-          "end": 393.912
-        },
-        {
-          "title": "Sources and limits",
-          "anchor": "sources-and-limits",
-          "start": 393.912,
-          "end": 455.016
+          "start": 259.239,
+          "end": 321.7
         }
       ],
-      "provider_words_verified": true
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 15.965791666666666,
+          "end": 16.865791666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 35.03329166666666,
+          "end": 36.633291666666665,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 2,
+          "start": 53.6405,
+          "end": 54.5405,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 3,
+          "start": 74.92445833333333,
+          "end": 75.77445833333333,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 4,
+          "start": 94.036875,
+          "end": 95.636875,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 5,
+          "start": 112.78741666666667,
+          "end": 113.68741666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 6,
+          "start": 132.76095833333332,
+          "end": 133.66095833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 151.44754166666667,
+          "end": 153.04754166666666,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 171.92229166666667,
+          "end": 172.82229166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 9,
+          "start": 189.71895833333335,
+          "end": 190.61895833333332,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 211.51175,
+          "end": 213.11175,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 11,
+          "start": 235.37575,
+          "end": 236.27575,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 12,
+          "start": 257.63933333333335,
+          "end": 259.2393333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 13,
+          "start": 276.0407916666667,
+          "end": 285.0407916666667,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 14,
+          "start": 300.1363333333333,
+          "end": 301.03633333333335,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 15,
+          "start": 320.30008333333336,
+          "end": 321.70008333333334,
+          "requested_ms": 1400,
+          "verified_silence_ms": 1240
+        }
+      ]
     },
     "reference/identity.md": {
       "title": "Identity & beliefs",
@@ -3057,122 +3375,200 @@
     },
     "reference/declining-help.md": {
       "title": "Declining help",
-      "text_sha256": "8afb29f68658f4f8264672920c00f3c8625afa019ff7848ccde040a709708132",
-      "audio_sha256": "23a5c83140787062f046616174335619541d817f3141d2982c7abdab35f21f09",
-      "transcript_sha256": "9b31fe9bc0a8315c4738813b165f73eac41e32193caf60815794d57b822cf8e6",
-      "words": 1769,
-      "duration": 734.496,
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/declining-help.json",
+      "script_sha256": "dc4cbb0fa89fbf9c196663e8aab7d5126a1220aea8850e38eb8958610f6e8c04",
+      "page_text_sha256": "8afb29f68658f4f8264672920c00f3c8625afa019ff7848ccde040a709708132",
+      "source_hashes": {
+        "reference/declining-help.json": "7bc290ae687832c3527cd21284dde0e98e0c627e092caeece39a85dce9c1379d"
+      },
+      "text_sha256": "dc4cbb0fa89fbf9c196663e8aab7d5126a1220aea8850e38eb8958610f6e8c04",
+      "audio_sha256": "637862b1fb32bee29e0a13effa924a989ca9fd26b6ad6712bb0e369f222869d5",
+      "transcript_sha256": "c771a89601714155ef7db91a680ecccc568411da81f7b29cc262cb5b90e6661d",
+      "words": 843,
+      "duration": 353.52,
       "sections": [
         {
-          "title": "Declining help",
+          "title": "A refusal concerns an offer",
           "anchor": "main",
-          "start": 0.0,
-          "end": 17.64
+          "start": 0,
+          "end": 33.599
         },
         {
-          "title": "What a refusal tells you",
-          "anchor": "what-a-refusal-tells-you",
-          "start": 17.64,
-          "end": 57.288
-        },
-        {
-          "title": "Accepting help can preserve independence",
+          "title": "Help can preserve independence",
           "anchor": "independence",
-          "start": 57.288,
-          "end": 124.656
+          "start": 33.599,
+          "end": 84.823
         },
         {
-          "title": "Why an offer might be declined",
+          "title": "Compare what accepting would involve",
           "anchor": "compare-possibilities",
-          "start": 124.656,
-          "end": 140.76
+          "start": 84.823,
+          "end": 142.949
         },
         {
-          "title": "Keeping a decision or a chance to practise",
-          "anchor": "keeping-a-decision-or-a-chance-to-practise",
-          "start": 140.76,
-          "end": 165.24
-        },
-        {
-          "title": "The offer does not fit",
-          "anchor": "the-offer-does-not-fit",
-          "start": 165.24,
-          "end": 186.672
-        },
-        {
-          "title": "Obligation or previous experience",
-          "anchor": "obligation-or-previous-experience",
-          "start": 186.672,
-          "end": 211.008
-        },
-        {
-          "title": "Privacy, trust or embarrassment",
-          "anchor": "privacy-trust-or-embarrassment",
-          "start": 211.008,
-          "end": 234.144
-        },
-        {
-          "title": "Effort, stress or difficulty explaining the task",
-          "anchor": "effort-stress-or-difficulty-explaining-the-task",
-          "start": 234.144,
-          "end": 264.36
-        },
-        {
-          "title": "Personal preference, learned expectations or another reason",
-          "anchor": "personal-preference-learned-expectations-or-another-reason",
-          "start": 264.36,
-          "end": 293.376
-        },
-        {
-          "title": "One refusal or a recurring pattern?",
+          "title": "Look for a pattern and its exceptions",
           "anchor": "patterns-and-exceptions",
-          "start": 293.376,
-          "end": 344.712
+          "start": 142.949,
+          "end": 177.297
         },
         {
           "title": "Could it run in a family?",
           "anchor": "family",
-          "start": 344.712,
-          "end": 429.0
+          "start": 177.297,
+          "end": 239.488
         },
         {
-          "title": "When you are the one declining",
-          "anchor": "my-part",
-          "start": 429.0,
-          "end": 468.168
-        },
-        {
-          "title": "How to respond when someone declines",
+          "title": "Respect the answer and your own responsibilities",
           "anchor": "responding",
-          "start": 468.168,
-          "end": 569.232
+          "start": 239.488,
+          "end": 293.416
         },
         {
-          "title": "Key takeaways",
-          "anchor": "key-takeaways",
-          "start": 569.232,
-          "end": 595.248
-        },
-        {
-          "title": "Connect this with the foundations",
-          "anchor": "connect-this-with-the-foundations",
-          "start": 595.248,
-          "end": 629.448
-        },
-        {
-          "title": "Research and limits",
-          "anchor": "research-and-limits",
-          "start": 629.448,
-          "end": 667.248
-        },
-        {
-          "title": "Put it into practice",
+          "title": "Choose a response you can review",
           "anchor": "try-and-review",
-          "start": 667.248,
-          "end": 734.448
+          "start": 293.416,
+          "end": 353.467
         }
       ],
-      "provider_words_verified": true
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 15.518083333333333,
+          "end": 16.418083333333332,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 31.999125,
+          "end": 33.599125,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 2,
+          "start": 52.6545,
+          "end": 53.5545,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 3,
+          "start": 66.98433333333334,
+          "end": 67.83433333333333,
+          "requested_ms": 850,
+          "verified_silence_ms": 690
+        },
+        {
+          "paragraph": 4,
+          "start": 83.22291666666666,
+          "end": 84.82291666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 5,
+          "start": 105.44495833333333,
+          "end": 106.44495833333333,
+          "requested_ms": 1000,
+          "verified_silence_ms": 840
+        },
+        {
+          "paragraph": 6,
+          "start": 124.73558333333334,
+          "end": 125.63558333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 141.34866666666667,
+          "end": 142.94866666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 158.91691666666668,
+          "end": 159.81691666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 9,
+          "start": 175.69725,
+          "end": 177.29725,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 10,
+          "start": 195.32658333333333,
+          "end": 196.22658333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 218.14283333333333,
+          "end": 219.14283333333333,
+          "requested_ms": 1000,
+          "verified_silence_ms": 840
+        },
+        {
+          "paragraph": 12,
+          "start": 237.88841666666667,
+          "end": 239.48841666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 13,
+          "start": 255.518125,
+          "end": 256.418125,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 14,
+          "start": 270.9137083333333,
+          "end": 271.81370833333335,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 15,
+          "start": 291.816375,
+          "end": 293.416375,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 16,
+          "start": 308.46383333333335,
+          "end": 318.46383333333335,
+          "requested_ms": 10000,
+          "verified_silence_ms": 9840
+        },
+        {
+          "paragraph": 17,
+          "start": 333.45816666666667,
+          "end": 334.35816666666665,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 18,
+          "start": 352.0665416666667,
+          "end": 353.46654166666667,
+          "requested_ms": 1400,
+          "verified_silence_ms": 1240
+        }
+      ]
     },
     "reference/acknowledging.md": {
       "title": "Acknowledging another perspective",

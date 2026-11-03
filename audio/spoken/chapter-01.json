@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "source": "chapters/01-before-you-explain.md",
+  "title": "Why we misinterpret people",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": ["chapters/01-before-you-explain.md"],
+  "sections": [
+    {
+      "title": "What do you know, and what are you guessing?",
+      "anchor": "main",
+      "paragraphs": [
+        {"text": "Understanding someone starts with a distinction that is easy to miss. There is what they said or did. And there is the explanation you give it. When those become the same thing in your mind, a guess can start to feel like a fact.", "pause_after_ms": 900},
+        {"text": "This lesson is about noticing that jump, checking an explanation fairly, and choosing what to do while some things remain uncertain. The brief examples are fictional. Keep one question in mind: what do I know, and what am I guessing?", "pause_after_ms": 3000}
+      ]
+    },
+    {
+      "title": "Separate the event from its meaning",
+      "anchor": "observation-and-interpretation",
+      "paragraphs": [
+        {"text": "An observation describes something you saw or heard. An interpretation is the meaning you give it. Imagine a friend has not replied to your message for two days. You find yourself thinking, they don't care about me.", "pause_after_ms": 850},
+        {"text": "The unanswered message is something you can describe. The reason for it is still uncertain. Your explanation might be right, but the silence alone does not establish it. Feeling hurt matters too. It tells you about your experience, rather than proving your friend's intention.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Notice an uneven test of a belief",
+      "anchor": "confirmation-bias",
+      "paragraphs": [
+        {"text": "Another mistake can happen once you have an explanation. You start noticing the details that fit it and overlooking the ones that do not. That is confirmation bias. The problem is how you handle information, rather than simply having a belief.", "pause_after_ms": 850},
+        {"text": "Here is a different example. You think a colleague dislikes your ideas. Every criticism stands out, while their positive comments barely register. You may not realise you are doing it. Your belief then seems better supported because part of the picture has disappeared.", "pause_after_ms": 900},
+        {"text": "Psychologist Raymond Nickerson reviewed research on this pattern across many kinds of reasoning. His review cannot decide whether this colleague dislikes your ideas. It gives you a useful place to check: what have I noticed that does not fit my explanation? Look for an actual exception, rather than inventing a reassuring possibility.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Look at the situation as well as the person",
+      "anchor": "correspondence-bias",
+      "paragraphs": [
+        {"text": "A different mistake concerns the explanation itself. You treat an action as evidence of someone's character while giving too little weight to their circumstances. This is called correspondence bias.", "pause_after_ms": 850},
+        {"text": "For example, someone gives a short reply and you decide they are rude. Perhaps they are. But if they are facing an urgent deadline, that circumstance matters too. Ask whether the behaviour happens across different situations, or mainly under particular conditions.", "pause_after_ms": 900},
+        {"text": "Psychologists Gilbert and Malone reviewed research on this tendency. Their work does not mean every character judgment is wrong. Circumstances do not explain everything, and they do not excuse harmful behaviour. The aim is a better-supported explanation, not an automatic excuse.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Choose a useful check",
+      "anchor": "check-competing-explanations",
+      "paragraphs": [
+        {"text": "So how do you check? Start with a plausible alternative, including the possibility that you misunderstood something. Then ask what information would help you tell the explanations apart. A specific question, such as what still needs deciding, leaves more room for an answer than a question that already assumes a motive.", "pause_after_ms": 850},
+        {"text": "Treat the answer as information to assess, not automatic proof. Compare it with relevant messages, agreements and what happens next. More than one reason may apply. You may learn enough to make a decision without settling every motive.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Respond without needing a final verdict",
+      "anchor": "respond-while-some-things-remain-uncertain",
+      "paragraphs": [
+        {"text": "You can also respond to the behaviour while its cause remains uncertain. If a conversation turns into insults, you can decide to end the call. You do not have to establish why the person insults you before setting that limit.", "pause_after_ms": 900},
+        {"text": "Choose an action within your control and review what happens. If asking directly could expose you to harm, seek a safer source of support. You do not need to put yourself at risk to test an explanation.", "pause_after_ms": 1600}
+      ]
+    },
+    {
+      "title": "Try the three questions",
+      "anchor": "put-it-into-practice",
+      "paragraphs": [
+        {"text": "Let's try it on a separate fictional situation. Your sister says the outing you suggested sounds expensive. You think, she never wants to spend time with me. What did she actually say? What are you guessing? And what could you check? Take a moment. Pause the player if you want longer.", "pause_after_ms": 9000},
+        {"text": "You know she raised the cost. You are guessing she wants to avoid you. You could ask which cost concerns her and consider occasions when she accepted an invitation. Those details might change your explanation without settling everything about the relationship.", "pause_after_ms": 1000},
+        {"text": "This week, try those same three questions on one ordinary situation. What did they say or do? Why do I think they did it? How could I check? Afterwards, notice what changed in your explanation and what you will do next. The written chapter has the research links, space for notes and further practice.", "pause_after_ms": 1400}
+      ]
+    }
+  ]
+}
