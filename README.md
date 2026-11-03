@@ -26,6 +26,8 @@ The left-hand contents lists the introduction and all twelve numbered chapters a
 
 The header's install icon opens the native browser prompt when available, with manual installation instructions otherwise. It is hidden in an installed app. The manifest and PNG icons support installation and home-screen shortcuts; the service worker saves the book for offline reading after its first successful online load. Navigation prefers the network, with the saved edition as an offline fallback. Each build versions its cache from the generated contents and worker code; obsolete caches belonging to this book are removed when the updated worker activates after the old reading windows close. Other books' caches are left alone.
 
+The header's star link opens this project's GitHub repository in a new tab, where readers can use GitHub's Star button (sign-in may be required). It uses a compact, labelled star icon on small screens and works without JavaScript; no GitHub widgets or tracking requests load with the book.
+
 App icons are checked in. To regenerate them from `assets/app-icon.svg`, install Playwright and Chromium, then run `python3 scripts/generate_icons.py`. Normal builds do not need Playwright. The footer uses the same notice as Digital Design: © 2026 Christopher Snow.
 
 The unnumbered conclusion, “What to take with you”, follows Chapter 12 in the chapter navigation and reading sequence. It recaps the course, links back to all twelve chapters and offers one short self-check. Keep it separate from the supporting reading tools and preserve the twelve chapter numbers. The earlier illustrated introduction video is retained in source, with the other earlier videos paused in the revised edition.

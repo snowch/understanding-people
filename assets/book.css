@@ -68,6 +68,10 @@ footer { margin-top: 55px; padding-top: 20px; border-top: 1px solid var(--line);
 
 .header-actions { display: flex; align-items: center; gap: 24px; }
 .header-actions a { text-decoration: none; }
+.github-star { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 0 12px; border: 1px solid var(--line); border-radius: 8px; color: var(--accent); white-space: nowrap; }
+.github-star:hover { background: var(--wash); }
+.github-star svg { flex-shrink: 0; }
+@media (max-width: 800px) { .header-actions { gap: 8px; flex-shrink: 0; } .github-star { width: 44px; padding: 0; } .github-star span { display: none; } .brand { min-width: 0; } }
 .install-button { display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; padding: 0; border: 1px solid var(--line); border-radius: 8px; background: transparent; color: var(--accent); cursor: pointer; flex-shrink: 0; }
 .install-button[hidden] { display: none; }
 .install-button:hover { background: var(--wash); }
