@@ -198,3 +198,17 @@ Reviews how desired conclusions can affect reasoning. Supports one possible rout
 **Morewedge, C. K., Yoon, H., Scopelliti, I., Symborski, C. W., Korris, J. H., & Kassam, K. S. (2015).** Debiasing decisions: Improved decision making with a single training intervention. *Policy Insights from the Behavioral and Brain Sciences, 2*(1), 129–140. [Open research record](https://openaccess.city.ac.uk/id/eprint/12324/).
 
 Two longitudinal experiments support improvement on tested judgment tasks after structured training. They do not validate this book's exercises or establish improvement in personal relationships from reading them.
+
+## Additional research used in the revised foundations
+
+**Michie, van Stralen & West (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions.** [Research record](https://pubmed.ncbi.nlm.nih.gov/21513547/).
+
+Susan Michie and colleagues reviewed behaviour-change frameworks and proposed COM-B: capability, opportunity and motivation as interacting conditions for behaviour. They examined its use in tobacco-control and obesity policy. It is a framework for analysing and designing change, not a diagnostic test or proof that one identified barrier caused an action. Used in [Chapter 3](chapters/03-needs-motives-goals.md).
+
+**Roberts and colleagues (2017). A systematic review of personality trait change through intervention.** [Research record](https://pubmed.ncbi.nlm.nih.gov/28054797/).
+
+Brent Roberts and colleagues reviewed 207 intervention studies tracking personality measures, mainly in clinical settings. Trait scores could change, especially emotional stability, and some changes persisted at follow-up. Study designs varied. This does not show that wishing, a short exercise or changing a relative will produce the same result. Used in [Chapter 6](chapters/06-personality-habits-situations.md).
+
+**Lewicki, Polin & Lount (2016). An Exploration of the Structure of Effective Apologies.** [Research record](https://doi.org/10.1111/ncmr.12073).
+
+Roy Lewicki and colleagues ran two studies of how people judged apologies after hypothetical trust violations. Apologies differed in perceived effectiveness depending on what they contained and the kind of violation. Judging a scenario differs from rebuilding trust after real harm. No apology formula obliges forgiveness or renewed access. Used in [Chapter 11](chapters/11-conflict-manipulation-boundaries.md).

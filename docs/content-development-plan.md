@@ -29,7 +29,7 @@ Several app nodes may belong in one reference entry. A graph node should not aut
 | Practice | One compact exercise per chapter, with optional deeper work and an app route. |
 | Audio | Optional explanations and listening exercises based on stable, checked text. |
 
-Keep the twelve-chapter structure initially. Rewrite Chapters 2–12 around concepts, using short examples where they clarify something. Move specialist detail into references rather than continually expanding chapters.
+Keep the twelve-chapter structure initially. Chapters 2–12 were rewritten around concepts on 3 November 2026, using short examples where they clarify something; see [the revision record](chapter-content-revision.md). Move specialist detail into references rather than continually expanding chapters.
 
 Keep the existing topic-based reference navigation. Entries and recordings belong under their topics, not in an ever-growing list of top-level pages.
 

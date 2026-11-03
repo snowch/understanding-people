@@ -1,18 +1,6 @@
 # Beliefs, identity and personal history
 
-<figure class="chapter-video">
-<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-04/poster.png" aria-label="Beliefs, identity and personal history: Chapter 4 video" aria-describedby="chapter-video-caption">
-<source src="../assets/media/chapter-04/explanation.mp4" type="video/mp4">
-<track src="../assets/media/chapter-04/captions.vtt" kind="captions" srclang="en" label="English">
-<p><a href="../assets/media/chapter-04/explanation.mp4">Download the Chapter 4 video</a>.</p>
-</video>
-<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
-</figure>
-<p class="video-links"><a href="../assets/media/chapter-04/transcript.txt">Read the video transcript</a> · 3 minutes 23 seconds</p>
-
-In a group chat, Maya offers to pay for her friend Dev's train ticket to a reunion. She means, “I want you there.” Dev hears, “You cannot manage your own life.” He declines sharply. Maya is hurt: she thought she was being generous.
-
-Maya means to offer help. Dev hears criticism. To understand the disagreement, they need to find out what accepting the money would mean to each of them.
+A disagreement can concern a fact, a practical cost, a value or what a choice seems to say about a person. **Ask what the issue means before explaining someone through their identity or past.** Include yourself: wanting to be fair, competent or right can affect how you judge an answer.
 
 <section class="remember-cue" markdown="1" aria-labelledby="remember-this">
 
@@ -22,22 +10,15 @@ When admitting a mistake feels uncomfortable, ask: **“What do I want to be tru
 
 </section>
 
-## What does Dev think accepting the money would mean? {#find-the-belief-underneath-the-reaction}
+## Separate the proposal from its meaning {#find-the-belief-underneath-the-reaction}
 
-A **belief** is something you think is true: “If I accept, she will expect a favour.” A **value** is something that matters to you, such as independence or generosity. Your **identity** includes how you see yourself: “I am the person others can rely on.” Dev could be worried about any of these things.
+A practical offer may carry another meaning for its recipient: support, interference, a debt or a judgment about competence. Treat these as possibilities to ask about. Do not assume that the meaning you intended is the one the other person received.
 
-Separating them makes an apparently simple rejection less mysterious:
+**Brief fictional example:** A parent offers to arrange an adult child’s appointments. The child welcomes transport but wants to manage bookings. The issue may be decision ownership, not a rejection of care.
 
-| Possible concern | A question that might clarify it |
-| --- | --- |
-| An expectation of repayment | “Would it help to be explicit about whether this is a gift or a loan?” |
-| Discomfort with a public offer | “Would you prefer we discuss this privately?” |
-| A wish to make one's own arrangements | “Would you rather choose another way to join us?” |
-| No wish to attend the reunion | “Do you actually want to come?” |
+Ask what the person wants to retain, what concerns them and which part of the offer matters. They can understand your intention and still prefer a different arrangement.
 
-These are alternatives to ask about, not hidden meanings to announce. Dev may simply dislike reunions. A rich psychological explanation can be less accurate than an ordinary preference.
-
-## Does wanting to be right affect what you believe? {#notice-when-a-conclusion-has-something-to-protect}
+## Notice the conclusion you want to defend {#notice-when-a-conclusion-has-something-to-protect}
 
 <section class="definition" markdown="1" aria-label="Definition: Motivated reasoning">
 <p class="definition-label">Definition</p>
@@ -47,15 +28,13 @@ These are alternatives to ask about, not hidden meanings to announce. Dev may si
 </dl>
 </section>
 
-In a 1990 paper, psychologist Ziva Kunda examined earlier research on how our wishes can influence reasoning. She distinguished trying to find an accurate answer from trying to reach an answer we want. People can favour a conclusion they can justify to themselves; they cannot simply believe anything at will. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/2270237/).
+Ziva Kunda’s 1990 review examined how desired conclusions can influence the reasons people search for and find persuasive. It does not show that every strong belief is false or that disagreement reveals a hidden motive. [Research record](https://pubmed.ncbi.nlm.nih.gov/2270237/).
 
-In this example, Maya wants to see herself as a considerate friend. That could make it harder to hear that her offer felt embarrassing. Dev may value self-reliance and interpret assistance through that concern. Both possibilities deserve examination; neither is established by the exchange.
+Ask yourself: “Would I judge this evidence differently if it made me look good?” Then identify a relevant fact that could weaken your explanation. Apply the same standard to information you welcome and information you dislike.
 
-Because Maya made the offer in a group chat, other friends saw it. If Dev says it embarrassed him, she may have to admit that the public offer embarrassed him. If Dev wants to attend but cannot afford the trip, he might find that difficult to say. Either admission could be uncomfortable. That is a reason to ask what matters to them, rather than assuming you already know.
+## Invite an account of the past; do not invent one {#personal-history-matters-but-it-is-not-yours-to-invent}
 
-## Ask about someone’s past rather than guessing it {#personal-history-matters-but-it-is-not-yours-to-invent}
-
-Dev might have experienced gifts that later became obligations. He might have no such history. Maya cannot infer a past betrayal, childhood experience or trauma from one refusal.
+Earlier experience can shape expectations, but current behaviour does not reveal a biography. Someone may decline money because of a previous unwanted condition, a current budget preference or another reason. Relatives can act similarly for different reasons.
 
 <section class="definition" markdown="1" aria-label="Definition: Narrative identity">
 <p class="definition-label">Definition</p>
@@ -65,39 +44,33 @@ Dev might have experienced gifts that later became obligations. He might have no
 </dl>
 </section>
 
-In a 2013 paper, McAdams and McLean brought together research on how people describe and make sense of their lives. They also identified questions that research had not settled, including what causes the links with wellbeing and how culture shapes these stories. Dev’s account could help Maya understand him, but it would still be his recollection rather than a verified record of every event. [Read the paper](https://doi.org/10.1177/0963721413475622).
+Dan McAdams and Kate McLean’s 2013 review discusses how people connect past experience with present identity and future aims. It also identifies unanswered causal and cultural questions. A person’s account helps you understand their meaning; it does not independently verify every event. [Read the paper](https://doi.org/10.1177/0963721413475622).
 
-Maya could ask, “Is there something about this kind of offer that you want me to understand?” Dev can decide how much to share. “I prefer to keep money separate from friendships” gives Maya useful information without requiring him to discuss private experiences.
+Ask what accepting the offer would mean to them, allowing a private or incomplete answer. They do not have to disclose a painful history to justify a reasonable limit.
 
-Now try a separate example about yourself. Suppose you say, “I was never good at learning languages.” Which classes or experiences are you remembering? Are you leaving out times when you did learn something? You can check whether the description is fair without pretending every experience was good.
+## Acknowledge meaning while checking facts {#translate-meaning-without-surrendering-facts}
 
-## Explain what you meant and listen to what they heard {#translate-meaning-without-surrendering-facts}
+Understanding why an offer felt embarrassing differs from agreeing on what was promised. Separate the reported effect, the disputed fact and the practical request.
 
-Return to Maya and Dev. Maya could say: “I wanted you there. I should have asked you privately whether you wanted help with the ticket. I’m sorry. Would you like to make a different plan?”
+**A separate brief example:** A friend says a public offer of financial help exposed something private. You can acknowledge the disclosure and ask what privacy they want, while separately clarifying whether repayment was ever agreed. Empathy does not settle the terms of a loan.
 
-Maya explains her intention, apologises for making the offer publicly and asks what Dev wants. She can do that while still believing that offering help can be a kind thing to do.
+## Leave room for a revised self-description {#leave-room-for-a-person-to-change-their-account}
 
-Dev could respond: “I do want to come. I don't want an expensive trip to become something I owe you for.” That gives Maya information she did not have. They might agree to meet locally or clarify a gift. They might still disagree about money and remain friends.
+“I prefer to do this myself” need not become “I can never accept help.” “I made an unreliable commitment” need not become “I am an unreliable person.” Encourage descriptions specific enough to revise, including your own.
 
-They should still check any disputed facts. If Dev says Maya demanded repayment last time, they can look at what was agreed. If they cannot settle that, they can make any future terms clear. If Maya really did add a condition she had not mentioned, she needs to acknowledge that and agree fair terms.
+A useful result may be a narrower offer, clearer terms or an honest refusal. You need not persuade someone to abandon an identity before arranging a respectful next step.
 
-## Let people change how they see themselves {#leave-room-for-a-person-to-change-their-account}
+## Go deeper {#go-deeper}
 
-Avoid using someone's past self-description as a contract: “You always said you were independent, so why are you asking for help?” A person can value independence and seek assistance. They can also revise a belief after a new experience.
-
-Here is another setting: a discussion about public policy. “What evidence supports this policy?” asks about the claim. “What sort of person would believe that?” judges the person. Work out whether you disagree about the facts, what might happen or what matters most.
-
-Back in Maya and Dev’s friendship, a private invitation and an affordable plan may be enough. Maya does not need to explain Dev’s whole personality. Nor should “That is just who I am” excuse repeated hurtful behaviour; the person still needs to address what they do.
+[Identity and beliefs](../reference/identity.md) · [Learned expectations](../reference/learned.md) · [Relationship history](../reference/history.md) · [Confirmation bias](../reference/confirmation-bias.md).
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
 
-- The same event can carry different meanings about respect, obligation and belonging.
-- Distinguish beliefs about what is true, values about what matters and accounts of who someone is.
-- Ask why it would be uncomfortable to admit that your explanation is wrong.
-- Ask what someone wants you to understand about their past, and let them choose what to share.
-- Listen to how the exchange affected them, check disputed facts and discuss what needs to change.
+- The same proposal can carry different meanings.
+- What you want to be true can affect your judgment.
+- Ask about personal history without inventing it, and keep meanings distinct from disputed facts.
 
 </section>
 
@@ -109,25 +82,23 @@ Back in Maya and Dev’s friendship, a private invitation and an affordable plan
 
 ### Recall {#can-you-use-it}
 
-Without looking back, what question helps when you feel a need to defend your view?
+When you strongly want your account to be right, what could help you check it?
 
-<details class="answer-check" markdown="1">
-<summary>Show the question to remember</summary>
+<details class="answer-check" markdown="1"><summary>Show the useful distinction</summary>
 
-**“What do I want to be true?”** Your wording can differ; keep the same idea.
+Name what you want to be true, then identify evidence that could challenge it. Wanting a conclusion does not prove it wrong; it is a reason to check your standard.
 
 </details>
 
 ### Try it {#try-it}
 
-**A new fictional situation:** You correct a friend’s pronunciation in front of others. They say it embarrassed them. You think, “I was helping. They are being oversensitive.”
+**A new fictional situation:** A colleague challenges your plan in a meeting. You immediately decide they want you to fail, partly because you had promised the plan would work.
 
-What might you want to believe about yourself? What could you ask, and what could you change? Say or write your answer before opening the example.
+What should you separate before responding? Say or write your answer before opening the example.
 
-<details class="answer-check" markdown="1">
-<summary>Show an example answer</summary>
+<details class="answer-check" markdown="1"><summary>Show an example answer</summary>
 
-Wanting to see yourself as helpful could make you dismiss the complaint. Ask what bothered your friend without inventing a story about their past. You can ask whether and how they want corrections, even if the pronunciation advice was accurate.
+Separate the criticism’s content from your interpretation of motive and your own stake in success. Ask which part is unworkable and check it. A useful objection can be delivered awkwardly; an accurate correction need not determine your worth.
 
 </details>
 
@@ -135,22 +106,26 @@ Wanting to see yourself as helpful could make you dismiss the complaint. Ask wha
 
 ### Use it this week {#check-meaning}
 
-Notice a moment when being wrong would mean apologising or changing a plan. Name the conclusion you want and give one piece of contrary information a fair hearing. Record what you decide afterwards.
+This week, notice one conclusion you feel driven to defend. Ask **“What do I want to be true?”** Make one fair check and record whether it changed the factual claim, the meaning you attached to it or neither.
 
 <!-- practice-notes: week-04 | Notice an answer you want to defend -->
 
-<details class="answer-check more-practice" markdown="1">
-<summary>More practice</summary>
+<span id="chapter-video-caption"></span>
+<span id="name-stake"></span>
 
-<section class="deeper-practice" markdown="1" aria-labelledby="name-stake">
+<details class="answer-check more-practice" markdown="1"><summary>More practice (optional)</summary>
 
-#### Why would it be hard to admit you were wrong? {#name-stake}
+#### Another comparison
 
-Choose a disagreement from your own life and finish: **“If my explanation is wrong, I might have to accept…”**
+**A separate fictional situation:** A friend says, “I don’t accept loans.” What could you ask without assuming a troubled past?
 
-Would you need to apologise, change a plan or admit that you hurt someone? Ask whether wanting to avoid that has made you dismiss information you should consider.
+<details class="answer-check" markdown="1"><summary>Show what to consider</summary>
 
-</section>
+Ask what concerns them about this offer or what terms they want. Respect a refusal. A past unwanted obligation is one possibility, not a history established by that sentence.
+
+</details>
+
+
 
 </details>
 

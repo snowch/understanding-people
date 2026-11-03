@@ -2,7 +2,7 @@
 
 The chapters follow a shared process of understanding people. Family, work, education, friendship, public life and purchasing decisions provide examples throughout; they do not define separate audiences or sections.
 
-**Draft status:** all twelve chapters are available. This is a complete first draft, with linked research, worked examples, practical exercises and chapter takeaways. It has not undergone external subject-matter review.
+**Draft status:** all twelve chapters are available. This is a complete first draft, with concepts explained before brief supporting examples, linked research, practical exercises and chapter takeaways. It has not undergone external subject-matter review.
 
 ## Part I · Seeing clearly
 
@@ -11,7 +11,7 @@ The chapters follow a shared process of understanding people. Family, work, educ
 
 ## Part II · What shapes behaviour?
 
-3. <span id="chapter-03"></span>**[Needs, motives and competing goals](chapters/03-needs-motives-goals.md)** — Explore the difference between wanting to do something and being able to do it, through a community-volunteering example and questions about your own plans.
+3. <span id="chapter-03"></span>**[Needs, motives and competing goals](chapters/03-needs-motives-goals.md)** — Explore the difference between wanting to do something and being able to do it, by separating reasons, practical conditions and competing aims, then applying the distinctions to everyday plans.
 4. <span id="chapter-04"></span>**[Beliefs, identity and personal history](chapters/04-beliefs-identity-history.md)** — Expectations, self-image, values, personal history and why the same event can mean different things to different people.
 5. <span id="chapter-05"></span>**[Emotion, stress and coping](chapters/05-emotion-stress-coping.md)** — Explore how stress can affect thinking and why looking calm does not tell us how someone feels.
 6. <span id="chapter-06"></span>**[Personality, habits and situations](chapters/06-personality-habits-situations.md)** — Understand personality as a set of tendencies, notice how situations change behaviour, and see how habits develop.
@@ -57,7 +57,7 @@ The chapters follow a shared process of understanding people. Family, work, educ
 | When should I set a limit? | [Conflict, manipulation and boundaries](chapters/11-conflict-manipulation-boundaries.md) | [Support](support.md); [worksheet](worksheet.md#choose-a-response) |
 | How do I bring the ideas together? | [Putting understanding to work](chapters/12-putting-understanding-to-work.md) | [Situation worksheet](worksheet.md) |
 
-Each chapter has an illustrated explanation video and a worked example with relevant research. After the key takeaways, one compact practice section asks you to recall the main question, try a fresh situation and apply it once during the week. “More practice” offers optional deeper exercises and selected earlier-chapter recalls. Notes are optional and save in your browser. The text distinguishes what the evidence supports from practical judgment.
+Each chapter explains concepts before using short fictional examples, with relevant research and links into the deeper reference library. Earlier chapter videos are paused while their story-led scripts differ from the revised text. After the key takeaways, one compact practice section asks you to recall the main question, try a fresh situation and apply it once during the week. “More practice” offers optional deeper exercises and selected earlier-chapter recalls. Notes are optional and save in your browser. The text distinguishes what the evidence supports from practical judgment.
 
 ## Go deeper into a concept
 

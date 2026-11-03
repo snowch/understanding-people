@@ -1,18 +1,6 @@
 # Emotion, stress and coping
 
-<figure class="chapter-video">
-<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-05/poster.png" aria-label="Emotion, stress and coping: Chapter 5 video" aria-describedby="chapter-video-caption">
-<source src="../assets/media/chapter-05/explanation.mp4" type="video/mp4">
-<track src="../assets/media/chapter-05/captions.vtt" kind="captions" srclang="en" label="English">
-<p><a href="../assets/media/chapter-05/explanation.mp4">Download the Chapter 5 video</a>.</p>
-</video>
-<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
-</figure>
-<p class="video-links"><a href="../assets/media/chapter-05/transcript.txt">Read the video transcript</a> · 3 minutes 29 seconds</p>
-
-At the end of a difficult day, Noor's brother sends a message asking when they can discuss a weekend visit to their parents. She replies, “I can't deal with this now.” He hears rejection. Noor has spent the afternoon arranging an urgent repair, missed lunch and is still waiting for a call. She wants to see her family, but another decision feels like too much.
-
-We know about Noor’s difficult day because this is a fictional example. Her brother does not yet know. In a real conversation, he would need to ask rather than assume that stress explained her reply. He can also tell her that her reply upset him.
+Emotions affect an interaction, but **feeling, visible expression and chosen action are different things**. You cannot reliably infer an inner state from a sharp answer or a calm face. Start with the actual difficulty and choose a response that could help without excusing harmful conduct.
 
 <section class="remember-cue" markdown="1" aria-labelledby="remember-this">
 
@@ -22,15 +10,13 @@ When a conversation becomes difficult, ask: **“Would a different time or a sma
 
 </section>
 
-## What did Noor do, and how might she be feeling? {#separate-feeling-expression-and-action}
+## Separate feeling, expression and action {#separate-feeling-expression-and-action}
 
-Her brother read Noor’s short reply as sharp. He may guess that she is angry. If he then concludes that she does not care about the family, he has made another guess. The tone of her reply does not establish either explanation.
+A person may feel angry and speak carefully, or sound abrupt while concentrating or tired. Ask about their experience where appropriate, and describe conduct specifically when it affects you.
 
-A person can also report several feelings: pleased about a visit, worried about the expense and irritated by the timing. There is no need to find one emotion that explains everything. Ask what they can tell you, while recognising that they may need time or may prefer not to discuss it.
+**Brief fictional example:** A relative answers a planning question sharply. You know the wording and its effect on you. Stress, disagreement and an earlier hurt are possible explanations; the answer alone does not distinguish them.
 
-Here is a separate example. A friend feels hurt because they did not receive an invitation. You can say, “I understand that you felt left out,” and then check why the invitation did not reach them. Taking the hurt seriously does not require you to assume someone deliberately excluded them.
-
-## Stress can make some tasks harder {#stress-can-change-what-is-manageable}
+## Stress can change what is manageable {#stress-can-change-what-is-manageable}
 
 <section class="definition" markdown="1" aria-label="Definitions: Working memory, Cognitive flexibility">
 <p class="definition-label">Definitions</p>
@@ -42,60 +28,46 @@ Here is a separate example. A friend feels hurt because they did not receive an 
 </dl>
 </section>
 
-In a 2016 paper, Shields, Sazma and Yonelinas combined results from studies of short-term stress and thinking tasks. On average, stress made working-memory and mental-switching tasks harder. Its effects on stopping or controlling responses were mixed and depended on what was tested. These results do not tell us exactly what Noor was experiencing. [Read the research summary](https://pubmed.ncbi.nlm.nih.gov/27371161/).
+Grant Shields and colleagues’ 2016 meta-analysis combined studies of short-term stress. Stress tended to impair working memory and switching between approaches; effects on holding back an immediate response were more mixed. These group results cannot explain a particular reply or remove responsibility for an insult. [Research record](https://pubmed.ncbi.nlm.nih.gov/27371161/).
 
-Return to Noor and her brother. He could make the request easier to answer: “Would it help if I sent two possible dates and you replied tomorrow?” That may help without him knowing exactly why she struggled.
+Check demands and resources: sleep, time, interruptions, pain, access and competing responsibilities. Reduce a real burden rather than treating all overload as a personal failure to cope.
 
-He can still say, “I can wait. Your reply felt sharp to me.” Noor can explain that she had a difficult day and apologise. Stress may help explain a response without making it acceptable.
+## Match the response to the difficulty {#choose-a-response-that-fits-the-problem}
 
-## Choose a response that fits the problem
+| If the difficulty concerns… | A possible response |
+| --- | --- |
+| Too many decisions now | Discuss one decision or agree another time. |
+| Cost, access or a missing skill | Address that practical barrier. |
+| An unclear or hurtful meaning | Clarify the request or hear the concern. |
+| Persistent distress or changed functioning | Seek suitable support or assessment. |
 
-In a 2013 paper, Bonanno and Burton examined research on coping with stress and managing emotions. They argued that a useful response depends on the situation. People may need several ways to cope and a way to notice when one is not helping. Their paper proposes an explanation based on existing research; it does not provide a proven formula for every person. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/26173226/).
+These are editorial options, not a way to diagnose the cause. George Bonanno and Charles Burton’s 2013 review argues for coping that responds to context and feedback rather than one strategy being best everywhere. [Read the review](https://pubmed.ncbi.nlm.nih.gov/26173226/).
 
-In Noor’s example, the helpful response depends on what is making the visit difficult:
+## Reconsider an interpretation without forcing reassurance {#reconsider-an-interpretation-without-forcing-reassurance}
 
-| What might be happening? | A practical option to consider | What to check afterwards |
-| --- | --- | --- |
-| Too many decisions at once | Reduce the choice to two dates and a reply time | Did that make responding manageable? |
-| A real cost problem | Discuss a cheaper visit or share travel arrangements | Is the arrangement affordable? |
-| Hurt about a previous visit | Set aside time to hear what happened | Has the concern been understood and addressed? |
-| A mistaken assumption about the invitation | Clarify what was meant and what is optional | Does the new information change the concern? |
+Ask whether you have heard a demand where a choice was intended, or offered reassurance where a practical change was needed. Reframing should fit the facts; it should not require pretending something harmful was harmless.
 
-These options are our application to the example. They are not interchangeable: encouragement will not pay a fare, and rescheduling will not repair an insult that nobody acknowledges.
+**A separate brief example:** You hear “Can we talk tonight?” as an emergency. Asking what the conversation concerns may resolve that uncertainty. If the person reports a genuine problem, the next step is to address it, not insist on a positive interpretation.
 
-## Check whether you misunderstood the request {#reconsider-an-interpretation-without-forcing-reassurance}
+## Make a pause useful {#make-a-pause-specific-enough-to-be-useful}
 
-Suppose Noor reads her brother’s message again. She notices that he asked when they could discuss the visit, rather than demanding a decision tonight. She may have read urgency into the message because she was already feeling overwhelmed.
+A pause can reduce immediate demands while leaving the issue unresolved. Where safe, agree when and how to return: one question tomorrow, a written outline or a suitable time together. Respect a request to stop an unsafe exchange.
 
-She could reply, “I read this as something I had to decide tonight. I can talk tomorrow evening.” She has found a specific reason to reconsider what she thought he meant. She does not have to find a reassuring explanation for every upsetting exchange.
+<span id="review-the-effect-including-your-contribution"></span>
 
-Now consider a different possibility: her brother has repeatedly pushed for an answer after she said she was unavailable. Rereading one message would not solve that pattern. They would need to agree on when to talk, or Noor might need to set a limit.
+Review what improved: the timing, the task, understanding or the way you responded. If you snapped, acknowledge the effect as well as explaining the load. Persistent impairment or a sudden serious change needs appropriate help; [support routes](../support.md) can matter more than better wording.
 
-## If you pause the conversation, agree when to return {#make-a-pause-specific-enough-to-be-useful}
+## Go deeper {#go-deeper}
 
-“I need a break” can protect a difficult conversation from escalating, but an indefinite disappearance may leave the other person unable to plan. In an ordinary, safe disagreement, agree on what happens next: “I can talk tomorrow after dinner. If that changes, I'll message you.”
-
-Noor’s brother may also have a deadline. If tickets must be booked tonight, he can explain the deadline and make his own arrangements if she cannot decide. Giving someone time does not require suspending every other need.
-
-If someone remains very distressed, struggles with ordinary daily activities or feels unsafe, a better conversation may not be enough. The [support page](../support.md) suggests ways to get other help. Irritability, quietness or one stressful week cannot tell you whether someone has a mental-health condition.
-
-## Did the change help, and what part did you play? {#review-the-effect-including-your-contribution}
-
-Suppose Noor responds warmly the next day. That suggests the later conversation worked better on that occasion. It does not establish a general rule that all sharp responses are stress, or that her brother must always absorb them.
-
-If the visit is still difficult to discuss the next day, timing may not explain enough. Ask whether Noor has a concern about the visit itself. If she does not want to go, discuss that answer rather than treating it as a feeling she needs to get rid of.
-
-When thinking about your own response, ask both “What was making this difficult for me?” and “How did I treat the other person?” You may need support and also need to apologise or change something.
+[Stress and overload](../reference/stress.md) · [Capacity](../reference/capacity.md) · [Withdrawal and pauses](../reference/withdraw.md) · [Changes in health or functioning](../reference/health-change.md).
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
 
-- Distinguish what someone feels, what they express and how they act.
-- Short-term stress can make some thinking tasks harder. Research averages do not tell you exactly what one person is experiencing.
-- Find out whether the problem needs a different time, practical help, a clearer explanation or an apology.
-- Notice what was difficult for you, while taking responsibility for how you treated the other person.
-- Review whether a pause or adjustment helped, and seek appropriate support when distress or safety is the central concern.
+- An expression does not identify its cause.
+- Different difficulties need different responses; stress does not excuse harm.
+- A pause needs a return route where appropriate, and the result needs review.
 
 </section>
 
@@ -107,25 +79,23 @@ When thinking about your own response, ask both “What was making this difficul
 
 ### Recall {#can-you-use-it}
 
-Without looking back, what could you ask when a conversation becomes difficult?
+Why might changing the time of a conversation help in one case but fail in another?
 
-<details class="answer-check" markdown="1">
-<summary>Show the question to remember</summary>
+<details class="answer-check" markdown="1"><summary>Show the useful distinction</summary>
 
-**“Would a different time or a smaller request help?”** Your wording can differ; keep the same idea.
+Timing may reduce overload but cannot resolve a cost, inaccessible task or unacknowledged hurt by itself. Ask what the difficulty actually is.
 
 </details>
 
 ### Try it {#try-it}
 
-**A new fictional situation:** After a noisy journey home, Amir gives a short answer when a housemate asks him to choose between six holiday options. The housemate decides Amir is angry with them.
+**A new fictional situation:** A friend declines a day trip. You suggest discussing it when they are less stressed. They explain that they cannot afford the fare.
 
-What can the housemate know from Amir’s short answer? What adjustment could they offer and review? Say or write your answer before opening the example.
+What should change in your explanation and response? Say or write your answer before opening the example.
 
-<details class="answer-check" markdown="1">
-<summary>Show an example answer</summary>
+<details class="answer-check" markdown="1"><summary>Show an example answer</summary>
 
-The short answer does not establish anger. Ask whether fewer options or a later conversation would help. Afterwards, check both whether choosing became easier and whether they resolved the holiday decision. Stress does not make hurtful words irrelevant.
+The reported barrier is financial. Ask whether another affordable plan is wanted, while respecting a no. More reassurance or a later conversation would not itself make the fare affordable.
 
 </details>
 
@@ -133,12 +103,24 @@ The short answer does not establish anger. Ask whether fewer options or a later 
 
 ### Use it this week {#choose-adjustment}
 
-In one ordinary, safe conversation, agree a different time or a smaller request. If you pause, arrange when to return. Afterwards, note whether it helped with the actual problem and how you treated the other person.
+This week, use **“Would a different time or a smaller request help?”** on one ordinary difficulty. Check whether it fits the actual problem, agree a change if wanted and review the effect. Do not use the exercise for an unsafe exchange or an urgent health concern.
 
 <!-- practice-notes: week-05 | Change one conversation’s timing or demands -->
 
-<details class="answer-check more-practice" markdown="1">
-<summary>More practice</summary>
+<span id="chapter-video-caption"></span>
+<span id="check-demand"></span>
+
+<details class="answer-check more-practice" markdown="1"><summary>More practice (optional)</summary>
+
+#### Another comparison
+
+**A separate fictional situation:** You made an insulting comment while exhausted. What belongs in a useful repair?
+
+<details class="answer-check" markdown="1"><summary>Show what to consider</summary>
+
+Acknowledge the comment and its effect, then address the load or arrangement that needs changing. Exhaustion can be relevant without making the insult another person’s responsibility.
+
+</details>
 
 <section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
 
@@ -152,16 +134,6 @@ This is a separate example. Before looking back, answer aloud or in your own not
 Ask whether you still want to call and what makes doing it difficult. A clash of schedules is different from a lack of interest. Look for a workable time. [Revisit the explanation](03-needs-motives-goals.md#wanting-choosing-and-doing-are-different-questions).
 
 </details>
-
-</section>
-
-<section class="deeper-practice" markdown="1" aria-labelledby="check-demand">
-
-#### Could you make the request easier to answer? {#check-demand}
-
-Think of a conversation of your own that went badly. What were you asking the other person to do: **remember details, make a decision, explain themselves, change plans or manage several tasks at once**?
-
-Would it help to ask later, write down the options or discuss one thing at a time? Check yourself too: would a pause help you listen more carefully?
 
 </section>
 

@@ -2,6 +2,7 @@
 # Copyright © 2026 Christopher Snow
 """Verify practice and local notes in a served book; requires Playwright/Chromium."""
 import sys
+import os
 from pathlib import Path
 from urllib.parse import urljoin
 from playwright.sync_api import sync_playwright
@@ -35,12 +36,7 @@ with sync_playwright() as pw:
         assert page.locator('details.more-practice[open]').count() == 0
         assert page.locator('.practice-notes[open]').count() == 0
         assert page.locator('#key-takeaways').evaluate("e => !!(e.compareDocumentPosition(document.querySelector('#put-it-into-practice')) & Node.DOCUMENT_POSITION_FOLLOWING)")
-        if source == CHAPTERS[0][1]:
-            assert page.locator('video,audio').count() == 0
-        else:
-            assert page.locator('video[controls][playsinline][preload="metadata"]').count() == 1
-            assert page.locator('video track[kind="captions"][srclang="en"]').count() == 1
-            assert page.locator('#chapter-video-caption').inner_text() == 'The examples in this video are fictional.'
+        assert page.locator('video,audio').count() == 0
         assert page.locator('.recall-practice').count() == page.locator('.more-practice .recall-practice').count()
         question_count += questions.count()
         recall_count += page.locator('.recall-practice').count()
@@ -117,12 +113,14 @@ with sync_playwright() as pw:
     assert notes.locator('.notes-controls').is_hidden()
     assert page.locator('.practice-check .answer-check').first.locator('li').first.is_visible()
     assert page.locator('.practice-check .answer-check').nth(1).locator('p').first.is_visible()
-    page.pdf(path='/tmp/understanding-people-practice.pdf', format='A4')
+    if not os.environ.get('PEOPLE_NO_SCREENSHOTS'):
+        page.pdf(path='/tmp/understanding-people-practice.pdf', format='A4')
     page.emulate_media(media='screen', color_scheme='dark')
     reveal_more(page)
     notes.locator('summary').click()
     assert notes.get_by_label('What happened?', exact=True).is_visible()
-    page.screenshot(path='/tmp/practice-dark.png', full_page=False)
+    if not os.environ.get('PEOPLE_NO_SCREENSHOTS'):
+        page.screenshot(path='/tmp/practice-dark.png', full_page=False)
     page.emulate_media(color_scheme='light')
     # Cancelled deletion preserves notes. Confirmed deletion touches only one key.
     page.once('dialog', lambda dialog: dialog.dismiss())
@@ -181,4 +179,4 @@ with sync_playwright() as pw:
     assert on.get_by_label('What happened?', exact=True).input_value() == 'Written offline.'
     assert not errors, errors
     browser.close()
-print('Passed: 12 compact chapter checks (24 answer reveals) and 11 captioned videos, 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')
+print('Passed: 12 compact chapter checks (24 answer reveals) with chapter media paused, 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')

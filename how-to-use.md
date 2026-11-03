@@ -6,11 +6,11 @@ Read with a situation in mind, including one involving your own behaviour. The a
 
 Use **The book** for the chapters in order. Use the [Reference library](reference/index.md) to look up a particular idea or behaviour; each entry brings together its explanation, practice and available recordings. [Practice](practice/index.md) helps you choose an exercise. **About & sources** contains the evidence standards, sources and information about the author.
 
-On a phone, open **Browse the book & library** above the page. The breadcrumb above each title shows where you are; recordings also have a link back to their reference entry.
+On a phone, open **Browse the book & library** above the page. The breadcrumb above each title shows where you are; reading, listening and practice belong within their reference entry.
 
 ## Follow the explanation, then try it
 
-Start with the chapter’s illustrated explanation video or read the worked example. The video has English captions and a transcript; the text gives fuller explanations and research links. **One habit to practise** gives you a question to remember and a moment when it could help.
+Start with the chapter’s main question and concept explanations. Short fictional examples reinforce particular points; the linked reference entries provide more depth. Earlier chapter recordings are paused because they follow the previous story-led text. **One habit to practise** gives you a question to remember and a moment when it could help.
 
 After the **Key takeaways**, a green **Put it into practice** panel offers one short sequence: recall the question, try a new situation, then choose one action for the week. Its wording and checklist icon also identify it without colour.
 
@@ -52,7 +52,7 @@ Research claims have nearby source links and a description of the relevant limit
 
 All named scenarios are fictional teaching examples. They show how an explanation might develop; they are not case-study evidence that an approach succeeds.
 
-We brought together the five-step method and worksheet from the ideas in the book. Researchers have not tested them as a complete method. They are learning tools, not a way to diagnose or treat a condition, test personality or establish guilt. If someone is struggling with daily life or may be unsafe, use the [support page](support.md) to consider what help is needed.
+We brought together the practical framework and worksheet from the ideas in the book. Researchers have not tested them as a complete method. They are learning tools, not a way to diagnose or treat a condition, test personality or establish guilt. If someone is struggling with daily life or may be unsafe, use the [support page](support.md) to consider what help is needed.
 
 ## Use uncertainty without getting stuck
 
@@ -62,6 +62,6 @@ Likewise, an alternative explanation does not have to be a reassuring one. Consi
 
 ## Read the current edition as a draft
 
-All [twelve chapters](contents.md) are available as a complete first draft. Each has one explanation video, **Key takeaways**, compact practice and optional deeper exercises. This edition has not undergone external subject-matter review, and its source list is selective rather than a systematic review of all relevant research.
+All [twelve chapters](contents.md) are available as a complete first draft. Each explains concepts before using brief examples, with **Key takeaways**, compact practice, optional deeper exercises and links to the reference library. Earlier chapter and overview videos are not part of this revised text edition; the existing confirmation-bias recordings remain with that reference entry. This edition has not undergone external subject-matter review, and its source list is selective rather than a systematic review of all relevant research.
 
 The most useful feedback identifies a passage: what claim seems unsupported, what explanation needs clarification, or what question the example leaves unanswered. Sources and revision history are available through the page-source links.

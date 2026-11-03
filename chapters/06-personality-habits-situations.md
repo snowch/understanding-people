@@ -1,18 +1,6 @@
 # Personality, habits and situations
 
-<figure class="chapter-video">
-<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-06/poster.png" aria-label="Personality, habits and situations: Chapter 6 video" aria-describedby="chapter-video-caption">
-<source src="../assets/media/chapter-06/explanation.mp4" type="video/mp4">
-<track src="../assets/media/chapter-06/captions.vtt" kind="captions" srclang="en" label="English">
-<p><a href="../assets/media/chapter-06/explanation.mp4">Download the Chapter 6 video</a>.</p>
-</video>
-<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
-</figure>
-<p class="video-links"><a href="../assets/media/chapter-06/transcript.txt">Read the video transcript</a> · 3 minutes 26 seconds</p>
-
-“I am just an introvert,” says Alex, declining a crowded birthday party. The next afternoon, Alex spends hours talking at a small repair club. A friend sees a contradiction: surely an introvert would dislike both.
-
-Alex uses “introvert” to describe a preference for quieter social settings. A crowded party and a familiar repair club differ in size, noise and purpose. Liking one and avoiding the other does not necessarily conflict with that preference.
+A personality description summarises a pattern; a habit describes a learned response in a recurring setting. **Neither should become a complete explanation of a person.** Look across occasions, notice exceptions and ask which conditions make a useful action easier.
 
 <section class="remember-cue" markdown="1" aria-labelledby="remember-this">
 
@@ -22,7 +10,7 @@ When you describe yourself or someone else with a fixed label, ask: **“When do
 
 </section>
 
-## A personality label cannot predict everything someone will do {#use-traits-as-dimensions-not-compartments}
+## Traits describe dimensions, not fixed types {#use-traits-as-dimensions-not-compartments}
 
 <section class="definition" markdown="1" aria-label="Definitions: Personality trait, Big Five">
 <p class="definition-label">Definitions</p>
@@ -34,33 +22,19 @@ When you describe yourself or someone else with a fixed label, ask: **“When do
 </dl>
 </section>
 
-Researchers Soto and John developed and tested a personality questionnaire called the Big Five Inventory–2, or BFI-2. Their 2017 paper describes five broad areas: extraversion, agreeableness, conscientiousness, negative emotionality and open-mindedness. These cover tendencies in being outgoing, cooperative, organised, prone to distress and open to new ideas. Each includes more specific traits. The research supports this questionnaire; it does not make a casual impression equivalent to a measured score. [Read their paper](https://pubmed.ncbi.nlm.nih.gov/27055049/).
+Christopher Soto and Oliver John’s 2017 studies developed and tested the Big Five Inventory–2 personality questionnaire, covering five broad dimensions and more specific features. It supports descriptions across scales, not assigning someone a type from one incident. We do not administer or reproduce its questionnaire. [Research record](https://pubmed.ncbi.nlm.nih.gov/27055049/).
 
-Think of each dimension as a scale. You can be more or less outgoing, rather than fitting one of two fixed types. Even that summary leaves things out: someone might enjoy company but rarely take the lead in a group.
+A considerate person can disagree; a sociable person can want quiet. A trait is not a moral score or clinical diagnosis. For specific dimensions, use the [personality references](../reference/index.md#personality).
 
-Ask whether the description helps you make a useful choice. “Alex prefers small groups with a shared activity” helps you plan an invitation. “Alex is an introvert” tells you less about which invitation they would enjoy.
+## Compare consistency with variation {#look-for-both-consistency-and-variation}
 
-This chapter therefore uses dimensions and concrete patterns rather than a type quiz. A familiar type label may start a conversation, but it should not decide someone's competence, honesty or eligibility for an opportunity.
+William Fleeson’s 2001 studies repeatedly asked people about their everyday behaviour. People varied considerably across occasions while showing stable differences in their average patterns. Brief observations therefore need context. [Research record](https://pubmed.ncbi.nlm.nih.gov/11414368/).
 
-## Notice when someone behaves differently {#look-for-both-consistency-and-variation}
+**Brief fictional example:** A colleague speaks little in fast meetings but contributes clear written ideas afterward. The format, preparation time or language demands may matter. Quietness in one setting does not establish a global lack of confidence or interest.
 
-In three studies reported in 2001, William Fleeson asked people to describe their current behaviour several times a day for two to three weeks. People varied considerably from one occasion to another, while their average patterns were more stable. Someone could generally be less outgoing than others and still have talkative moments. These short studies do not establish how Alex behaves over a lifetime. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/11414368/).
+Family resemblance can involve inherited tendencies, learning and shared conditions. Tinca Polderman and colleagues’ 2015 twin-study meta-analysis concerns variation across studied populations, not the genetic percentage of one person’s action. Similar refusals in relatives cannot separate genes from upbringing. [Research record](https://pubmed.ncbi.nlm.nih.gov/25985137/).
 
-Remember the exceptions as well as the usual pattern. If you remember only the parties Alex declined, you miss the repair club. In a separate workplace example, seeing a colleague only in competitive meetings gives you little information about how they behave elsewhere.
-
-Here are three separate examples of making a description more specific:
-
-| Initial label | More useful description | What remains to learn? |
-| --- | --- | --- |
-| “Unsociable” | Often declines large gatherings; enjoys familiar small groups | Which features make an invitation appealing? |
-| “Disorganised” | Misses appointments changed at short notice | Are changes reaching the same calendar? |
-| “Controlling” | Insists on checking shared spending | What authority was agreed, and can others disagree freely? |
-
-A more precise description does not automatically make conduct acceptable. The last example could involve an ordinary budgeting agreement or harmful control. Context helps distinguish them; a trait label alone does not.
-
-## Could the action be a habit? {#ask-whether-repetition-is-being-mistaken-for-intention}
-
-Now consider a different part of Alex’s life. Alex wants to read in the evening but often picks up the phone on sitting down. That could be a habit, rather than a new decision each evening that reading does not matter.
+## Repetition may involve habit—or an ongoing reason {#ask-whether-repetition-is-being-mistaken-for-intention}
 
 <section class="definition" markdown="1" aria-label="Definition: Habit">
 <p class="definition-label">Definition</p>
@@ -70,41 +44,33 @@ Now consider a different part of Alex’s life. Alex wants to read in the evenin
 </dl>
 </section>
 
-In their 2016 paper, Wood and Rünger examined research on how habits form and how they work alongside deliberate choices. Repeating an action in a familiar setting can make it more automatic. Doing it repeatedly does not necessarily mean you still want the result. [Read their research summary](https://pubmed.ncbi.nlm.nih.gov/26361052/).
+Wendy Wood and Dennis Rünger’s 2016 review describes how repetition in recurring settings can make responses more automatic. Repeated conduct can also reflect a continuing demand, preference or lack of alternatives. [Research record](https://pubmed.ncbi.nlm.nih.gov/26361052/).
 
-Watch the order of events in Alex’s example: arrive home, sit down, see the phone, open an app. What differs on evenings when Alex reads? Perhaps the book is already open or the phone is charging elsewhere. That suggests a change to try, without proving why it would work.
+Ask what usually precedes the action and what follows it. Include occasions when it does not happen. A routine explanation should not erase deliberate choices or responsibility.
 
-Alex could instead be deliberately waiting for an important message. Or poor lighting could make reading difficult. Moving the phone would not solve every possible problem. Ask what is happening before deciding what to change.
+## Change a relevant condition and learn from it {#change-the-arrangement-then-observe}
 
-## Try changing where things are kept {#change-the-arrangement-then-observe}
+Choose a change related to an actual obstacle: a clearer cue, accessible tool, useful instruction or realistic task size. Agree changes that affect another person. Do not rearrange their environment secretly as a test.
 
-Alex chooses to leave the phone on a nearby shelf and put a book beside the sofa for three evenings. Essential calls remain audible. This is an agreed, modest experiment in their own routine, not a test imposed by a friend.
+**A separate brief example:** You check your phone whenever a conversation pauses. Putting it aside for one agreed conversation and asking a follow-up question gives you an alternative to practise. It does not establish that all checking was automatic.
 
-The outcome might be more reading. It might instead be discovering that Alex is too tired to read at that time. Either result supplies information for another decision: keep the arrangement, choose a different time or reconsider the goal.
+## Keep responsibility and the possibility of change {#make-room-for-responsibility-without-making-it-a-character-verdict}
 
-Do not promise that a habit will form in a fixed number of days. For now, choose a routine Alex can try again and note what makes it easier or harder. Missing one evening does not prove anything about Alex’s character.
+A pattern can be understandable and still need changing. Specify the action and effect rather than declaring someone permanently unreliable or uncaring.
 
-## A habit can explain a problem without excusing it {#make-room-for-responsibility-without-making-it-a-character-verdict}
+Brent Roberts and colleagues’ 2017 intervention review found that personality measures could change, especially in clinical work. That does not show that a short exercise—or your pressure—will change a relative’s traits. Aim for a useful, observable improvement and appropriate support. [Research record](https://pubmed.ncbi.nlm.nih.gov/28054797/).
 
-Here is a separate example. A housemate repeatedly leaves the front door unlocked. Saying “I am forgetful” does not solve the problem. The household needs a reliable way to keep the door secure, perhaps a visible reminder or a suitable lock, with everyone’s access and safety considered.
+## Go deeper {#go-deeper}
 
-“If you cared, you would remember” assumes you know why they forgot. Instead, agree on a way to secure the door, check whether it works and decide what to do if it does not. You can require a reliable result without proving a motive.
-
-For yourself, a personality description can help you choose useful support. It need not decide what you are allowed to try. If large groups are tiring, you might practise a new skill in a smaller group and see how that goes.
-
-## Follow one example into practice
-
-[Declining help](../reference/declining-help.md) follows a fictional offer from an initial guess through a conversation and a review. It connects these foundations with an observation–action–review journey in the app, or with notes you can keep in the book.
+[Habits](../reference/habits.md) · [Agreeableness](../reference/agreeableness.md) · [Conscientiousness](../reference/conscientiousness.md) · [Declining help](../reference/declining-help.md).
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
 
-- Personality dimensions describe tendencies; a label does not dictate every action.
-- Look for patterns across occasions and for the conditions behind exceptions.
-- People sometimes repeat actions out of habit, even when they want a different result.
-- Describe when you struggle and when you do well, rather than stopping at a label about yourself.
-- Adjusting a routine and expecting responsible conduct can go together.
+- Traits are dimensions and patterns, not fixed compartments.
+- Compare occasions and exceptions before explaining repeated conduct.
+- Change an agreed condition, retain responsibility and review actual behaviour.
 
 </section>
 
@@ -116,25 +82,23 @@ For yourself, a personality description can help you choose useful support. It n
 
 ### Recall {#can-you-use-it}
 
-Without looking back, what should you ask before deciding that someone is “just disorganised”?
+What would you look for before describing someone as consistently unreliable or uncaring?
 
-<details class="answer-check" markdown="1">
-<summary>Show the question to remember</summary>
+<details class="answer-check" markdown="1"><summary>Show the useful distinction</summary>
 
-**“When does this happen, and when does it not?”** Your wording can differ; keep the same idea.
+Comparable occasions, the actual commitment and conditions, exceptions and the person’s account. Ask **“When does this happen, and when does it not?”**
 
 </details>
 
 ### Try it {#try-it}
 
-**A new fictional situation:** Lee says, “I am hopelessly disorganised.” Lee misses appointments sent through several apps but usually attends those entered in one calendar.
+**A new fictional situation:** A relative declines advice about money but asks you for help repairing a bicycle. You think they never accept help.
 
-How could Lee describe the pattern more precisely? What small change could Lee choose to try? Say or write your answer before opening the example.
+How should the second observation affect that claim, and what could you ask? Say or write your answer before opening the example.
 
-<details class="answer-check" markdown="1">
-<summary>Show an example answer</summary>
+<details class="answer-check" markdown="1"><summary>Show an example answer</summary>
 
-“I often miss appointments when their details are spread across apps” leaves room for occasions when Lee manages well. Lee could choose one calendar and a regular time to check it. Better days would show that arrangement helped then, not prove a permanent personality change.
+It contradicts the claim that all help is refused. Ask what differs about decisions, privacy, expertise or the offer. It does not establish one independence trait or the cause of every refusal.
 
 </details>
 
@@ -142,33 +106,28 @@ How could Lee describe the pattern more precisely? What small change could Lee c
 
 ### Use it this week {#test-arrangement}
 
-Notice one label you use about yourself. Write an example and an exception, then try one small change to your routine or surroundings. Record what helped without treating the result as a personality test.
+This week, replace one fixed label about yourself with a pattern: when, where and under what conditions the action occurs. Include an exception. Try one useful adjustment and review its effect without treating one result as proof of a trait.
 
 <!-- practice-notes: week-06 | Replace one label with a pattern -->
 
-<details class="answer-check more-practice" markdown="1">
-<summary>More practice</summary>
+<span id="chapter-video-caption"></span>
+<span id="follow-one-example-into-practice"></span>
+<span id="another-question"></span>
+<span id="replace-label"></span>
 
-#### Another question
+<details class="answer-check more-practice" markdown="1"><summary>More practice (optional)</summary>
 
-**Here is a separate example: a housemate repeatedly leaves a door unlocked. Does calling it a habit solve the problem?**
+#### Another comparison
 
-<details class="answer-check" markdown="1">
-<summary>Show an example answer</summary>
+**A separate fictional situation:** An agreed storage change reduces misplaced tools for one week. What has the result shown?
 
-No. It may help explain the action, but the household still needs a reliable way to secure the door. Agree a practical change and check whether it works, while considering everyone’s access and safety. [Revisit the explanation](#make-room-for-responsibility-without-making-it-a-character-verdict).
+<details class="answer-check" markdown="1"><summary>Show what to consider</summary>
+
+The arrangement helped in those conditions. It has not established that habit was the only cause or that the effect will persist. Review whether it remains useful and whether responsibility is fairly shared.
 
 </details>
 
-<section class="deeper-practice" markdown="1" aria-labelledby="replace-label">
 
-#### Describe when the behaviour happens {#replace-label}
-
-Think of a label you use about yourself, such as “I am disorganised.” Replace it with a specific description: **“I often miss appointments when the time changes at short notice.”** Then remember a time when this did not happen. What was different?
-
-Choose a change that might help, such as putting changed appointments into one calendar. A few examples do not amount to a personality test.
-
-</section>
 
 </details>
 

@@ -1,14 +1,6 @@
 # Understanding people
 
-<figure class="chapter-video">
-<video controls playsinline preload="metadata" width="1280" height="720" poster="assets/media/introduction/poster.png" aria-label="Start here: Understanding people course overview" aria-describedby="overview-video-caption">
-<source src="assets/media/introduction/overview.mp4" type="video/mp4">
-<track src="assets/media/introduction/captions.vtt" kind="captions" srclang="en" label="English">
-<p><a href="assets/media/introduction/overview.mp4">Download the course overview video</a>.</p>
-</video>
-<figcaption id="overview-video-caption">The examples in this video are fictional.</figcaption>
-</figure>
-<p class="video-links"><a href="assets/media/introduction/transcript.txt">Read the overview transcript</a> · 1 minute 40 seconds</p>
+<span id="overview-video-caption"></span>
 
 <p class="book-tagline">What drives us.<br>What we can know.<br>How to respond.</p>
 
@@ -50,9 +42,9 @@ Keep that example in mind as you read. The green action panels offer small ways 
 
 ## Connect the person to their circumstances
 
-In the [motivation chapter](chapters/03-needs-motives-goals.md), someone repeatedly misses a community activity they wanted to join. Personal interest is only part of the explanation. The chapter also examines belonging, caring responsibilities, how the activity is organised and the gap between a plan and a workable next step.
+The [motivation chapter](chapters/03-needs-motives-goals.md) separates wanting an outcome, having a workable opportunity and carrying out an action. It explains choice, capability, connection and competing commitments before using brief examples to show why different obstacles call for different responses.
 
-Psychology, sociology and decision research contribute different questions to that example. Other chapters examine [beliefs and identity](chapters/04-beliefs-identity-history.md), [emotion](chapters/05-emotion-stress-coping.md), [personality and habits](chapters/06-personality-habits-situations.md), and [culture and power](chapters/07-culture-groups-power.md), including cross-cultural and anthropological research. The final section turns these perspectives into decisions about [cooperation](chapters/10-motivation-influence-cooperation.md), [boundaries](chapters/11-conflict-manipulation-boundaries.md) and [everyday action](chapters/12-putting-understanding-to-work.md).
+Psychology, sociology and decision research contribute different questions to understanding behaviour. Other chapters examine [beliefs and identity](chapters/04-beliefs-identity-history.md), [emotion](chapters/05-emotion-stress-coping.md), [personality and habits](chapters/06-personality-habits-situations.md), and [culture and power](chapters/07-culture-groups-power.md), including cross-cultural and anthropological research. The final section turns these perspectives into decisions about [cooperation](chapters/10-motivation-influence-cooperation.md), [boundaries](chapters/11-conflict-manipulation-boundaries.md) and [everyday action](chapters/12-putting-understanding-to-work.md).
 
 ## Read with a purpose
 

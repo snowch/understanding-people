@@ -4,6 +4,7 @@ Read the editing and build guidance in `README.md` before changing book content 
 
 ## Concepts first, examples in support
 
+- Chapters 2–12 now use the concise concept-first edition recorded in `docs/chapter-content-revision.md`. Keep their earlier published anchors and saved-note IDs (see `docs/chapter-revision-anchors.json`), and update glossary examples in the same change when a definition changes. Earlier story-led chapter/overview players are paused; do not automatically regenerate or republish narration when editing the text. Voice auditions requested separately are evaluation artifacts and do not select or publish a new book narrator.
 - Apply this approach to chapters and reference entries: explain the concept in plain English first, then use a brief, clearly labelled example where it helps readers understand or apply that point.
 - The main explanation must stand on its own. As an editorial check, remove the examples mentally: the reader should still understand the concept, its practical use and its limits. Do not make readers reconstruct the explanation from a fictional story.
 - Explain what each example illustrates when the connection could be missed. Explicitly identify a new scenario or a return to an earlier one. Examples illustrate ideas; they are not research evidence.

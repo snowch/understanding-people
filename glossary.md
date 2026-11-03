@@ -158,7 +158,7 @@ A question worded in a way that suggests the answer the questioner expects.
 
 In this book, influencing someone in a way that makes it harder for them to choose freely with the information they need.
 
-**Example:** Imagine a version of the family example where you agreed only to bring food. Martin knows this, but tells the family you agreed to organise the whole gathering. He is using their expectation to pressure you into taking on work you did not choose.
+**Example:** A relative knows you agreed only to bring food, but tells others you will organise the entire gathering. They use the expectation they created to pressure you into extra work.
 
 [Read in Chapter 11](chapters/11-conflict-manipulation-boundaries.md#definition-manipulation).
 

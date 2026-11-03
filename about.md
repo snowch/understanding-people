@@ -21,6 +21,6 @@ These comparisons explain the book's focus; they are not full reviews of the oth
 
 The book’s explanations should be judged against their sources. Traceable references, accurate explanations, explicit limitations and corrections are central to the project. The [evidence standards](evidence.md) describe that commitment.
 
-The current edition is a complete first draft of twelve chapters, with supporting research, worked examples, exercises and takeaways. It has not yet undergone external subject-matter review. Future revisions will refine the explanations and source coverage in response to evidence and specific feedback.
+The current edition is a complete first draft of twelve chapters, with concepts explained first, brief supporting examples, linked research, exercises and takeaways. The deeper reference library provides further detail. It has not undergone external subject-matter review. Future revisions will refine the explanations and source coverage in response to evidence and specific feedback.
 
 Read the [sources](references.md), inspect the [repository](https://github.com/snowch/understanding-people), or use its [issues page](https://github.com/snowch/understanding-people/issues) to suggest a specific correction. Please avoid posting private details about identifiable people.

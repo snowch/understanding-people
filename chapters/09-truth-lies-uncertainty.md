@@ -1,18 +1,6 @@
 # Truth, lies and uncertainty
 
-<figure class="chapter-video">
-<video controls playsinline preload="metadata" width="1280" height="720" poster="../assets/media/chapter-09/poster.png" aria-label="Truth, lies and uncertainty: Chapter 9 video" aria-describedby="chapter-video-caption">
-<source src="../assets/media/chapter-09/explanation.mp4" type="video/mp4">
-<track src="../assets/media/chapter-09/captions.vtt" kind="captions" srclang="en" label="English">
-<p><a href="../assets/media/chapter-09/explanation.mp4">Download the Chapter 9 video</a>.</p>
-</video>
-<figcaption id="chapter-video-caption">The examples in this video are fictional.</figcaption>
-</figure>
-<p class="video-links"><a href="../assets/media/chapter-09/transcript.txt">Read the video transcript</a> · 3 minutes 38 seconds</p>
-
-A contractor says a replacement part was ordered on Monday. When you ask for an update, they hesitate and look away. You suspect they are lying.
-
-The delay matters, but looking away does not tell you why it happened. Start with what you need to find out: was the part ordered, when was it ordered, and when is it expected to arrive?
+Checking an account and detecting a lie are different tasks. **Establish what is claimed, what the evidence supports and what remains uncertain about knowledge or intent.** Someone can be inaccurate without deliberately misleading you; confidence and nervousness do not settle either question.
 
 <section class="remember-cue" markdown="1" aria-labelledby="remember-this">
 
@@ -24,22 +12,13 @@ When an answer matters to a decision, ask: **“What would help me check that?�
 
 ## What lie-detection research can tell us
 
-In a 2006 paper, Bond and DePaulo combined findings from 206 research reports involving 24,483 people making truth-or-lie judgments. Participants judged statements without the independent records an investigation might provide. On average, they were right about **54 times out of 100**. They were better at recognising truths than lies:
+Charles Bond and Bella DePaulo’s 2006 meta-analysis combined 206 research reports involving 24,483 judges. When people judged truth and lies without special aids, average accuracy was about 54%. Truths were classified correctly about 61% of the time and lies about 47%. These averages do not give the probability that a particular person is lying. [Research record](https://pubmed.ncbi.nlm.nih.gov/16859438/).
 
-| Kind of statement | Correctly classified, on average |
-| --- | --- |
-| Truths | About 61 out of 100 |
-| Lies | About 47 out of 100 |
+Aldert Vrij, Maria Hartwig and Pär Granhag’s 2019 review found known nonverbal deception cues faint and unreliable. Eye contact, fidgeting and confidence do not make a dependable lie test, even when several uncertain cues are combined. [Research record](https://pubmed.ncbi.nlm.nih.gov/30609913/).
 
-One possible reason for the difference is a tendency to believe statements, but these figures alone do not prove that explanation. They also do not tell you the chance that this contractor is lying. [Read the research summary](https://pubmed.ncbi.nlm.nih.gov/16859438/).
+**Brief fictional example:** A contractor looks away while discussing a delay. Check the claimed order date and delivery information rather than treating the movement as evidence of dishonesty.
 
-In a 2019 paper, Vrij, Hartwig and Granhag examined research on body language and deception. They found that known bodily signs of lying were weak and unreliable. Looking nervous or avoiding eye contact does not establish dishonesty. Combining several uncertain gestures does not make a reliable lie test. [Read the paper](https://pubmed.ncbi.nlm.nih.gov/30609913/).
-
-You can notice discomfort and respond to it without deciding what caused it: “Would it help to check the order details and come back to me?”
-
-## Check what the contractor says happened {#evaluate-the-account}
-
-Notice the difference between how confidently someone speaks, what they say happened and what other evidence supports it.
+## Evaluate the account and its support {#evaluate-the-account}
 
 <section class="definition" markdown="1" aria-label="Definition: Corroboration">
 <p class="definition-label">Definition</p>
@@ -49,46 +28,44 @@ Notice the difference between how confidently someone speaks, what they say happ
 </dl>
 </section>
 
-| Question | What it can establish |
-| --- | --- |
-| What exactly is being claimed? | The event, timing and details that need checking. |
-| What information is available? | An order confirmation, supplier update or other relevant record. |
-| Does the record address the claim? | A quote may show an enquiry; it does not necessarily show a completed order. |
-| What still needs explaining? | A difference between the account and the record that could have more than one cause. |
+Ask four questions:
 
-Records can be incomplete, wrong or misleading too. Check where they came from and what they actually show. A dated order confirmation from the supplier may answer your question better than the contractor’s confident tone.
+1. What event, timing or agreement is being claimed?
+2. What relevant independent information is available?
+3. Does it address that claim, or merely something nearby?
+4. What discrepancy or uncertainty remains?
+
+A supplier’s quote can show an enquiry without showing that an order was completed. Records can also be incomplete or misleading, so check their origin and meaning. Multiple people repeating one source are not independent confirmation.
 
 ## What about FBI approaches?
 
-In 2016, the High-Value Detainee Interrogation Group, managed by the FBI, published *Interrogation: A Review of the Science*. The report brings together research on questioning people. It supports building cooperation and gathering information without coercion, rather than using threats or force. It draws on experiments and studies of real investigations, many in law enforcement. [Read the 2016 report](https://www.fbi.gov/file-repository/reports-and-publications/hig-report-interrogation-a-review-of-the-science-september-2016.pdf/view).
+The FBI-managed High-Value Detainee Interrogation Group’s 2016 *Interrogation: A Review of the Science* brings together investigative research, including rapport-based, noncoercive information gathering. Its setting differs from an ordinary conversation. [Official report](https://www.fbi.gov/file-repository/reports-and-publications/hig-report-interrogation-a-review-of-the-science-september-2016.pdf/view).
 
-The report is a reason to examine particular interviewing methods. It does not prove that everything sold as an “FBI technique” works, or that an investigative method will work unchanged with a child, friend or customer. A former investigator’s story is different from a study comparing outcomes.
+An agency name or former investigator’s anecdote does not establish a method’s effectiveness. Ask whether the research measured more talk, more accurate information or more confessions: those are different outcomes. Do not import coercion, traps or a body-language checklist into family or business relationships.
 
-Ask what the method was shown to improve. Did people talk more, provide more facts, give more accurate facts, or confess more often? Those are different results. More conversation or more confessions does not necessarily mean more truth.
+## Check your own stake {#include-your-own-stake-in-the-answer}
 
-The outcome you need may be a reliable delivery plan. You can request evidence and set a deadline without winning an argument about the contractor's honesty.
+Wanting reassurance can make weak evidence feel enough. Earlier betrayal can make a new discrepancy feel decisive. Name what you hope or fear, then apply the same standard to welcome and unwelcome information.
 
-## What do you want to believe? {#include-your-own-stake-in-the-answer}
+**A separate brief example:** You want a purchase to succeed because you recommended it. That is a reason to inspect delivery evidence carefully, not a reason to discount the buyer’s concern or assume the seller lied.
 
-Before judging the contractor, ask what you want the answer to be. If family are visiting soon, you might accept vague reassurance because you need the repair finished. If a previous contractor let you down, you might be quick to suspect this one. Neither feeling is evidence about whether this order was placed.
+## Turn uncertainty into a practical decision {#do-not-turn-uncertainty-into-an-accusation}
 
-## A difference in the accounts does not automatically mean a lie {#do-not-turn-uncertainty-into-an-accusation}
+A date mismatch may reflect a mistake, a different meaning of “ordered” or deception. A plausible explanation is not proof either. Make the next arrangement depend on a relevant check, clear terms or a safeguard where appropriate.
 
-If the dates do not match, ask why. It could be a misunderstanding, an error or a lie. A smooth explanation is not proof of truth either. Look for information that helps you tell those possibilities apart.
+You can change supplier, clarify a deadline or set a limit without obtaining a confession. Where threats, control or a formal dispute are involved, use [appropriate support](../support.md) rather than conducting an amateur investigation.
 
-You may never know why the contractor missed a commitment. If it keeps happening, you can still change the arrangement. The same principle applies in relationships: repeated harmful behaviour can justify a limit even when you cannot prove the person’s intention.
+## Go deeper {#go-deeper}
 
-The useful result is a decision you can explain using the available information—for example, asking for a confirmed delivery date or choosing another supplier.
+[Truth, lies and uncertainty](../reference/deception.md) · [Denying an event](../reference/denial.md) · [Comparing explanations](../reference/alternatives.md) · [Difficulty trusting](../reference/difficulty-trusting.md).
 
 <section class="key-takeaways" markdown="1" aria-labelledby="key-takeaways">
 
 ## Key takeaways {#key-takeaways}
 
-- In the research described here, people judging truth and lies without independent evidence were right only a little more often than chance would predict.
-- Nervousness, gaze and movement are unreliable guides to deception.
-- Check the specific statement against other evidence. Ask where a record came from and what it actually shows.
-- Ask whether you would seek the same evidence for an answer you wanted to hear.
-- A difference in accounts is not proof of a lie. You can still make a practical decision or set a limit.
+- Accuracy, knowledge and intention are separate questions.
+- Demeanour and agency-associated branding do not establish truth.
+- Use relevant independent checks and make proportionate decisions under uncertainty.
 
 </section>
 
@@ -100,25 +77,23 @@ The useful result is a decision you can explain using the available information�
 
 ### Recall {#can-you-use-it}
 
-Without looking back, what question is more useful than judging someone’s confidence or eye contact?
+Why is a confident or nervous delivery weak grounds for deciding whether someone is lying?
 
-<details class="answer-check" markdown="1">
-<summary>Show the question to remember</summary>
+<details class="answer-check" markdown="1"><summary>Show the useful distinction</summary>
 
-**“What would help me check that?”** Your wording can differ; keep the same idea.
+Known behavioural cues are unreliable and can have several causes. Ask **“What would help me check that?”** and focus on the particular claim.
 
 </details>
 
 ### Try it {#try-it}
 
-**A new fictional situation:** A seller says a used bicycle was serviced last week. They speak confidently but have not shown you a service record. You want the bicycle for a trip tomorrow.
+**A new fictional situation:** A seller says an item was dispatched on Monday. Tracking shows the carrier received it on Wednesday.
 
-What could you check about the bicycle? What would that evidence leave uncertain, and how might your trip affect your judgment? Say or write your answer before opening the example.
+What could the discrepancy establish, and what remains uncertain? Say or write your answer before opening the example.
 
-<details class="answer-check" markdown="1">
-<summary>Show an example answer</summary>
+<details class="answer-check" markdown="1"><summary>Show an example answer</summary>
 
-Ask for a dated service record identifying the bicycle and work done, and check its source. It may support the service claim without proving the bicycle is safe in every respect. Wanting it for tomorrow could make reassurance appealing. You can decline without proving a lie.
+The dates need clarification: label creation, packing and carrier receipt may be different events. Ask what “dispatched” meant and compare the actual terms. The discrepancy matters but does not by itself establish what the seller knew or intended.
 
 </details>
 
@@ -126,12 +101,24 @@ Ask for a dated service record identifying the bicycle and work done, and check 
 
 ### Use it this week {#same-check}
 
-Check one ordinary claim that matters to a decision. Note what the evidence supports and what remains uncertain. Ask whether you would seek the same evidence for an answer you disliked. Avoid surveillance or unnecessary personal information.
+This week, choose one ordinary claim you strongly want to believe or disbelieve. State it precisely and make one legitimate, relevant check. Record what it established and how it changed your decision. Do not secretly monitor someone, set a trap or test a threatening situation.
 
 <!-- practice-notes: week-09 | Check a claim you want to believe -->
 
-<details class="answer-check more-practice" markdown="1">
-<summary>More practice</summary>
+<span id="chapter-video-caption"></span>
+<span id="check-account"></span>
+
+<details class="answer-check more-practice" markdown="1"><summary>More practice (optional)</summary>
+
+#### Another comparison
+
+**A separate fictional situation:** Two friends repeat the same person’s account of an event. Do you now have three independent sources?
+
+<details class="answer-check" markdown="1"><summary>Show what to consider</summary>
+
+No. The reports may share one origin. Establish who witnessed what before treating repeated accounts as independent corroboration.
+
+</details>
 
 <section class="recall-practice" markdown="1" aria-labelledby="recall-earlier">
 
@@ -145,20 +132,6 @@ This is a separate example. Before looking back, answer aloud or in your own not
 No. Only 3 of 12 flagged parcels are late; 9 are false alarms. Look at how often a warning is wrong before treating it as proof. [Revisit the explanation](02-what-counts-as-knowing.md#count-the-ordinary-cases-as-well-as-the-striking-ones).
 
 </details>
-
-</section>
-
-<section class="deeper-practice" markdown="1" aria-labelledby="check-account">
-
-#### Try this with the contractor example: check the order {#check-account}
-
-Imagine you are speaking to the contractor. Use these questions to find out about the order. They are suggested wording for this everyday example, not a tested interrogation method:
-
-1. **Ask what happened.** “Can you talk me through what happened with the order?”
-2. **Ask for a detail you do not know.** “What confirmation did you receive?”
-3. **Check your understanding.** “You submitted the request on Monday, but the supplier hasn't confirmed it—is that right?”
-4. **Ask for a record that supports the answer.** “Please forward the confirmation when it arrives.”
-5. **Agree on a decision.** “If we have no confirmed delivery date by Friday, let's discuss another option.”
 
 </section>
 
