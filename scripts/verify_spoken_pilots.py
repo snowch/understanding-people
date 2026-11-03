@@ -58,7 +58,10 @@ def verify(base):
             assert any(p['requested_ms'] >= 8000 for p in entry['pauses'])
             spoken_text = context.request.get(panel.get_by_role('link', name='Read transcript').evaluate('e=>e.href'))
             assert spoken_text.text() == transcript(data)
-            assert not automatic, automatic
+            # A previous, explicitly played clip may finish buffering after the
+            # next navigation. Check the current page's players for preloading.
+            current_media = set(page.locator('audio source').evaluate_all('nodes=>nodes.map(n=>n.src)'))
+            assert not [url for url in automatic if url in current_media], automatic
             for width in [320, 390, 834, 1440]:
                 page.set_viewport_size({'width': width, 'height': 950})
                 assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
