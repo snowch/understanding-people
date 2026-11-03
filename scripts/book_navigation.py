@@ -116,7 +116,7 @@ def render_library():
         for entry in group['entries']:
             search = ' '.join([group['title'], entry['title'], entry['summary'], entry['keywords']])
             file = href(entry['source'], Path('reference/index.html'))
-            formats = 'Stub — full entry planned' if entry.get('status')=='stub' else 'Developed entry · Read · Practise' + (' · Listen' if entry['recordings'] else '')
+            formats = 'Stub — full entry planned' if entry.get('status')=='stub' else 'Developed entry · Read · Listen · Practise'
             chunks += [f'<article class="library-entry" data-status="{entry.get('status','developed')}" data-library-search="{escape(search, quote=True)}"><h3><a href="{file}">{escape(entry["title"])}</a></h3><p>{escape(entry["summary"])}</p><p class="library-entry-formats">{formats}</p></article>']
         chunks += ['</section>']
     chunks += ['<p id="library-empty" hidden>No matching entries with these filters. Try All entries, a broader term, browse the topics, or look in the <a href="../glossary.html">glossary</a>.</p>',

@@ -17,7 +17,7 @@ Examples are fictional. The comparisons and practice steps are editorial suggest
 Why confirmation bias happens, how to notice an uneven test, and what can help. Audio loads when you choose to play or select a recording section.
 
 <section class="audio-edition" aria-label="Detailed explanation of confirmation bias">
-<p class="audio-note">10:30 · Synthetic narration · Examples are fictional</p>
+<p class="audio-note">10:30 · Sonia · Synthetic narration · Examples are fictional</p>
 <audio id="audio-explanation" controls preload="none" aria-label="Detailed explanation of confirmation bias"><source src="../assets/media/audio/confirmation-bias-explained/explanation.mp3" type="audio/mpeg"></audio>
 <div class="audio-links"><a href="../assets/media/audio/confirmation-bias-explained/explanation.mp3" download>Download MP3</a><a href="../assets/media/audio/confirmation-bias-explained/transcript.txt">Plain-text transcript</a><select hidden data-audio-speed="audio-explanation" aria-label="Playback speed"><option value="0.75">0.75× speed</option><option value="1" selected>1× speed</option><option value="1.25">1.25× speed</option><option value="1.5">1.5× speed</option></select></div>
 <p class="audio-status" role="status"></p>
@@ -203,7 +203,7 @@ Confirmation bias concerns how you handle evidence. Correspondence bias concerns
 Hear the same fictional message twice. Compare the evidence you noticed and the evidence you dismissed.
 
 <section class="audio-edition" aria-label="Confirmation bias listening exercise">
-<p class="audio-note">3:50 · Synthetic narration · Examples are fictional</p>
+<p class="audio-note">3:50 · Sonia and Ryan · Synthetic narration · Examples are fictional</p>
 <audio id="listening-exercise" controls preload="none" aria-label="Confirmation bias listening exercise"><source src="../assets/media/audio/confirmation-bias-exercise/exercise.mp3" type="audio/mpeg"></audio>
 <div class="audio-links"><a href="../assets/media/audio/confirmation-bias-exercise/exercise.mp3" download>Download MP3</a><a href="../assets/media/audio/confirmation-bias-exercise/transcript.txt">Plain-text transcript</a></div>
 <p class="audio-status" role="status"></p>

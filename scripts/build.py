@@ -20,6 +20,7 @@ from build_reference import render as render_reference
 from build_reference_stubs import render as render_reference_stubs
 from build_reference_entries import render as render_reference_entries, content as reference_entries
 from build_bias_references import render as render_bias_references, content as bias_content
+from page_narration import load_manifest as load_narration_manifest, render as render_narration
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site"
@@ -193,7 +194,7 @@ def practice_notes(match):
 </details>'''
 
 
-def build():
+def build(include_narration=True):
     render_reference_entries()
     render_reference_stubs()
     render_reference()
@@ -216,6 +217,8 @@ def build():
         shutil.rmtree(OUT / "assets" / retired, ignore_errors=True)
     shutil.copyfile(ROOT / "manifest.webmanifest", OUT / "manifest.webmanifest")
     css_hash = hashlib.sha256((ROOT / "assets/book.css").read_bytes()).hexdigest()[:12]
+    audio_hash = hashlib.sha256((ROOT / "assets/audio.js").read_bytes()).hexdigest()[:12]
+    narration_manifest = load_narration_manifest() if include_narration else None
 
     for name, label in PAGES:
         title, text = sources[name]
@@ -227,6 +230,10 @@ def build():
         body = re.sub(r'\b(href|src)="([^"]*)"', rewrite_link, body)
         body = body.replace("<table>", '<div class="table-scroll" role="region" aria-label="Comparison table" tabindex="0"><table>')
         body = body.replace("</table>", "</table></div>")
+        body = re.sub(r'(src="[^"]*assets/audio\.js)(?:\?[^"]*)?"', rf'\1?v={audio_hash}"', body)
+        narration_html = render_narration(name, title, body, page, narration_manifest)
+        narration_script = (f'<script defer src="{relative(Path("assets/audio.js"), page)}?v={audio_hash}"></script>'
+                            if narration_html and 'assets/audio.js' not in body else '')
         nav_html = book_navigation(name, page)
         pagination_html = context_pagination(name, page, CHAPTERS)
         breadcrumb_html = breadcrumbs(name, page, title)
@@ -251,6 +258,7 @@ def build():
 <link rel="stylesheet" href="{relative(Path('assets/book.css'), page)}?v={css_hash}">
 <script defer src="{relative(Path('assets/install.js'), page)}"></script>
 {notes_script}
+{narration_script}
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -267,7 +275,7 @@ def build():
 <aside class="book-sidebar"><p class="nav-label">READ & EXPLORE</p><p class="sidebar-title">Understanding<br>people</p><nav aria-label="Book navigation">{nav_html}</nav></aside>
 <main id="main" tabindex="-1">{breadcrumb_html}<article>
 <header class="chapter-header"><p class="eyebrow">{eyebrow}</p><h1>{escape(title)}</h1></header>
-{contents}<div class="prose">{body}</div>
+{narration_html}{contents}<div class="prose">{body}</div>
 </article>
 <nav class="pagination" aria-label="Continue reading">{pagination_html}</nav>
 <footer><div><span>Understanding people · Draft edition</span><p class="copyright">© 2026 Christopher Snow</p></div><a href="https://github.com/snowch/understanding-people/blob/main/{name}">Page source</a></footer>

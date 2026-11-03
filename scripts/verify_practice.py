@@ -36,7 +36,8 @@ with sync_playwright() as pw:
         assert page.locator('details.more-practice[open]').count() == 0
         assert page.locator('.practice-notes[open]').count() == 0
         assert page.locator('#key-takeaways').evaluate("e => !!(e.compareDocumentPosition(document.querySelector('#put-it-into-practice')) & Node.DOCUMENT_POSITION_FOLLOWING)")
-        assert page.locator('video,audio').count() == 0
+        assert page.locator('video').count() == 0
+        assert page.locator('.page-narration audio[preload="none"]').count() == 1
         assert page.locator('.recall-practice').count() == page.locator('.more-practice .recall-practice').count()
         question_count += questions.count()
         recall_count += page.locator('.recall-practice').count()
@@ -179,4 +180,4 @@ with sync_playwright() as pw:
     assert on.get_by_label('What happened?', exact=True).input_value() == 'Written offline.'
     assert not errors, errors
     browser.close()
-print('Passed: 12 compact chapter checks (24 answer reveals) with chapter media paused, 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')
+print('Passed: 12 compact chapter checks (24 answer reveals) with on-demand Andrew narration, 6 later recalls, 13 weekly exercises and the three-question practice; keyboard, local notes, export/delete, storage failures, no-JS, offline, responsive and print checks.')

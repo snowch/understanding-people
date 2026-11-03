@@ -5,7 +5,7 @@ It creates no screenshots or audio/video recordings.
 """
 import json,sys
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin,urlsplit
 from playwright.sync_api import sync_playwright,expect
 ROOT=Path(__file__).resolve().parents[1]
 base=sys.argv[1].rstrip('/')+'/'
@@ -23,7 +23,7 @@ for e in authored:
 with sync_playwright() as pw:
     b=pw.chromium.launch();context=b.new_context(service_workers='block');page=context.new_page();errors=[];media=[]
     page.on('pageerror',lambda e:errors.append(str(e)))
-    page.on('request',lambda r:media.append(r.url) if r.url.endswith(('.mp3','.mp4','.webm','.wav')) else None)
+    page.on('request',lambda r:media.append(r.url) if urlsplit(r.url).path.endswith(('.mp3','.mp4','.webm','.wav')) else None)
     page.goto(base+'reference/index.html');expect(page.locator('.library-entry')).to_have_count(111)
     expect(page.locator('.nav-stub')).to_have_count(0)
     for e in entries:

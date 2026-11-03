@@ -1,5 +1,5 @@
 """Check the published exercise, exact replay, player and answer persistence."""
-import hashlib,json,subprocess,sys
+import hashlib,json,subprocess,sys,os
 from pathlib import Path
 from playwright.sync_api import sync_playwright,expect
 ROOT=Path(__file__).resolve().parents[1];base=sys.argv[1].rstrip('/')+'/'
@@ -24,7 +24,7 @@ with sync_playwright() as pw:
  assert p.locator('.practice-notes img').count()==0
  for width in [320,390,1024,1440]:
   p.set_viewport_size({'width':width,'height':950});assert p.evaluate('document.documentElement.scrollWidth<=innerWidth')
-  if width in [390,1440]:
+  if width in [390,1440] and not os.environ.get('PEOPLE_NO_SCREENSHOTS'):
    p.evaluate('scrollTo(0,0)');p.screenshot(path=f'/tmp/book-listening-{width}.png',full_page=False)
  assert not errors,errors
  b.close()

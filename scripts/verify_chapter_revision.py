@@ -9,7 +9,9 @@ with sync_playwright() as pw:
  b=pw.chromium.launch();page=b.new_page(service_workers='block');errors=[];page.on('pageerror',lambda e:errors.append(str(e)));definitions=[]
  for n,e in archive.items():
   page.goto(urljoin(base,e['path'].replace('.md','.html')))
-  expect(page.locator('main video,main audio')).to_have_count(0)
+  expect(page.locator('main video')).to_have_count(0)
+  expect(page.locator('main audio')).to_have_count(1)
+  expect(page.locator('.page-narration audio')).to_have_attribute('preload','none')
   expect(page.locator('.remember-cue')).to_have_count(1)
   expect(page.locator('main .compact-practice')).to_have_count(1)
   expect(page.locator('main .more-practice[open]')).to_have_count(0)
@@ -28,7 +30,7 @@ with sync_playwright() as pw:
  page.goto(base+'glossary.html');glossary=' '.join(page.locator('main').inner_text().split())
  for d in definitions:assert ' '.join(d.split()) in glossary,d
  page.goto(base+'index.html');expect(page.locator('main video')).to_have_count(0)
- page.goto(base+'reference/confirmation-bias.html');expect(page.locator('main audio')).to_have_count(2)
+ page.goto(base+'reference/confirmation-bias.html');expect(page.locator('main audio')).to_have_count(3)
  page.goto(base+'chapters/11-conflict-manipulation-boundaries.html');expect(page.locator('main')).to_contain_text('Support or protection need not wait');expect(page.locator('main')).to_contain_text('do not provoke a response')
  assert not errors,errors;b.close()
-print('Passed: Chapters 2–12, all earlier section/definition anchors, compact practice, reference links, restored/edited notes for every chapter, matching glossary definitions, responsive layouts, paused chapter/overview media and retained reference audio. No screenshots or recordings created.')
+print('Passed: Chapters 2–12, all earlier section/definition anchors, compact practice, reference links, restored/edited notes for every chapter, matching glossary definitions, responsive layouts, Andrew page narration, paused earlier videos and retained reference audio. No screenshots or recordings created.')

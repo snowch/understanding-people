@@ -1,0 +1,215 @@
+Understanding people. Sources and further reading.
+
+The sources below support the twelve chapters. The expanded reference library has its own annotated research sources and access log, including what was read, selected findings and limits. Each annotation states what the source contributes and where its use stops. This is a selected reading list, not a systematic review of the entire field. Chapter links place the evidence beside the claims it supports. Research records and bibliographic details for this draft were checked on 27 October 2026; that check does not make older findings the latest evidence on a topic.
+
+Interpreting behaviour and checking your own judgment.
+
+Gilbert, D. T., and Malone, P. S. (1995). The correspondence bias. Psychological Bulletin, 117(1), 21–38. Research record. DOI: 10.1037/0033-2909.117.1.21.
+
+Examines earlier research on why people can mistake behaviour in one situation for a lasting feature of someone’s character. Chapter 1 uses this explanation without claiming that every judgment about character is wrong.
+
+Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175–220. Publisher record.
+
+Examines earlier studies of how people seek or interpret information in ways that support what they already believe. Supports the explanation of confirmation bias; the workplace example illustrates the idea and is not a finding from the paper.
+
+Lord, C. G., Lepper, M. R., and Preston, E. (1984). Considering the opposite: A corrective strategy for social judgment. Journal of Personality and Social Psychology, 47(6), 1231–1243. Research record. DOI: 10.1037/0022-3514.47.6.1231.
+
+Reports two experiments in which asking people to consider an opposing possibility reduced bias in the judgment tasks studied. The book’s conversation exercise applies the idea; it is not the procedure tested in those experiments.
+
+Malle, B. F. (2006). The actor–observer asymmetry in attribution: A (surprising) meta-analysis. Psychological Bulletin, 132(6), 895–919. Research record. DOI: 10.1037/0033-2909.132.6.895.
+
+Combines results from 173 studies. Challenges the broad claim that we explain our own actions through circumstances but other people’s actions through character. Included so Chapter 1 does not present that familiar claim as a rule that always holds.
+
+Motivation, opportunity and action.
+
+Ryan, R. M., and Deci, E. L. (2020). Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions. Contemporary Educational Psychology, 61, 101860. Publisher record; author-hosted article.
+
+Explains self-determination theory and reviews research on motivation, especially in education. Supports the distinctions and three psychological needs in Chapter 3. The chapter says when it applies these ideas to volunteering, beyond the paper’s main setting.
+
+Howard, J. L., Bureau, J., Guay, F., Chong, J. X. Y., and Ryan, R. M. (2021). Student motivation and associated outcomes: A meta-analysis from self-determination theory. Perspectives on Psychological Science, 16(6), 1300–1323. Research record. DOI: 10.1177/1745691620966789.
+
+Combines studies of how different kinds of student motivation relate to learning and well-being. Helps distinguish valuing an activity from enjoying it. These links do not by themselves show cause and effect, or prove that the garden example will work.
+
+Webb, T. L., and Sheeran, P. (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. Psychological Bulletin, 132(2), 249–268. Research record. DOI: 10.1037/0033-2909.132.2.249.
+
+Forty-seven experimental tests support distinguishing changes in intention from changes in action. They do not identify why a particular person's plan failed.
+
+Wilson, J. (2000). Volunteering. Annual Review of Sociology, 26, 215–240. Author's university record. DOI: 10.1146/annurev.soc.26.1.215.
+
+A sociological review that brings social ties, organisations and resources into the explanation of volunteering, alongside individual motives. Used to widen the questions asked about participation.
+
+Wilson, J. (2012). Volunteerism research: A review essay. Nonprofit and Voluntary Sector Quarterly, 41(2), 176–212. Publisher record.
+
+Reviews what leads people to volunteer, what volunteering is like and what follows from it, drawing largely on surveys. Identifies questions still to be answered about volunteers’ experiences. It does not prove that a particular change to an organisation will improve attendance.
+
+Hagger, M. S., and Luszczynska, A. (2014). Implementation intention and action planning interventions in health contexts: State of the research and proposals for the way forward. Applied Psychology: Health and Well-Being, 6(1), 1–47. Research record. Publisher record.
+
+Examines studies that tested plans for health-related actions, including their different results and weaknesses. The garden’s if–then plan is a suggestion adapted from this work; the review did not test that garden plan.
+
+Cultural coverage.
+
+Henrich, J., Heine, S. J., and Norenzayan, A. (2010). The weirdest people in the world? Behavioral and Brain Sciences, 33(2–3), 61–83. Research record. DOI: 10.1017/S0140525X0999152X.
+
+Examines which populations behavioural researchers study and whether their findings apply more widely. Encourages readers to check who took part in a study. It does not tell us an individual’s character from the culture they belong to.
+
+Deception judgments and investigative interviewing.
+
+Bond, C. F., Jr., and DePaulo, B. M. (2006). Accuracy of deception judgments. Personality and Social Psychology Review, 10(3), 214–234. Research record. DOI: 10.1207/s15327957pspr1003_2.
+
+Combines research on how accurately people distinguish truth from lies without special aids. Supports the overall, truth-only and lie-only accuracy figures in Chapter 9. These averages do not tell us whether a particular speaker is lying.
+
+Vrij, A., Hartwig, M., and Granhag, P. A. (2019). Reading lies: Nonverbal communication and deception. Annual Review of Psychology, 70, 295–317. Research record. DOI: 10.1146/annurev-psych-010418-103135.
+
+Examines research on body language and deception. Finds limited grounds for confidently deciding that someone is lying from how they look or behave. This does not mean body language tells us nothing at all.
+
+High-Value Detainee Interrogation Group (2016). Interrogation: A Review of the Science. September 2016. Official FBI report page.
+
+Brings together research for the FBI-administered High-Value Detainee Interrogation Group. Used for its discussion of gathering information and building a cooperative relationship during questioning. Its investigative setting differs from everyday relationships; it does not establish that everything called an “FBI technique” works.
+
+Evidence, probability and causal reasoning.
+
+Rohrer, J. M. (2018). Thinking clearly about correlations and causation: Graphical causal models for observational data. Advances in Methods and Practices in Psychological Science, 1(1), 27–42. Article.
+
+Explains how researchers reason about cause and effect when they observe events rather than run experiments. Chapter 2 uses it to explain why two things happening together need not mean one caused the other. The neighbourhood example was written for this book.
+
+Gigerenzer, G., and Hoffrage, U. (1995). How to improve Bayesian reasoning without instruction: Frequency formats. Psychological Review, 102(4), 684–704. Article; research record.
+
+Reports experiments on how presenting probabilities as counts can help people reason about them. Chapter 2’s screening numbers are invented to show the arithmetic; they are not results from this paper or a real screening test.
+
+Beliefs and identity.
+
+Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 108(3), 480–498. Research record. DOI: 10.1037/0033-2909.108.3.480.
+
+Examines earlier research on how what people want to believe can affect their reasoning, while still needing reasons they find convincing. Chapter 4 uses it to ask what we want to be true, without assuming that disagreement reveals a hidden motive.
+
+McAdams, D. P., and McLean, K. C. (2013). Narrative identity. Current Directions in Psychological Science, 22(3). Article.
+
+Examines how people tell and revise stories about their lives. Identifies unanswered questions about cause and effect and cultural differences. Chapter 4 uses the idea to invite someone’s own account, rather than guess their history from their behaviour.
+
+Emotion, stress and coping.
+
+Shields, G. S., Sazma, M. A., and Yonelinas, A. P. (2016). The effects of acute stress on core executive functions: A meta-analysis and comparison with cortisol. Neuroscience and Biobehavioral Reviews, 68, 651–668. Research record. DOI: 10.1016/j.neubiorev.2016.06.038.
+
+Combines studies of short-term stress and tasks involving memory, changing approaches and holding back a response. Results differ across tasks and conditions. Chapter 5 explains why these findings cannot tell us why one person answered sharply.
+
+Bonanno, G. A., and Burton, C. L. (2013). Regulatory flexibility: An individual differences perspective on coping and emotion regulation. Perspectives on Psychological Science, 8(6), 591–612. Research record. DOI: 10.1177/1745691613504116.
+
+Brings together research and proposes that effective coping involves noticing the situation, having several ways to respond and adjusting when a response is not helping. It questions advice that one coping strategy always works; the chapter’s examples are practical suggestions.
+
+Personality and habits.
+
+Soto, C. J., and John, O. P. (2017). The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power. Journal of Personality and Social Psychology, 113(1), 117–143. Research record. DOI: 10.1037/pspp0000096.
+
+Reports the development and testing of the Big Five Inventory–2 personality questionnaire. Chapter 6 explains its broad scales and narrower features without administering or scoring the questionnaire. The research record notes a correction to references to McCrae and Costa.
+
+Fleeson, W. (2001). Toward a structure- and process-integrated view of personality: Traits as density distributions of states. Journal of Personality and Social Psychology, 80(6), 1011–1027. Research record. DOI: 10.1037/0022-3514.80.6.1011.
+
+Reports three studies that asked people repeatedly about their behaviour over several weeks. People varied from occasion to occasion while also showing stable average differences. Brief observations alone cannot establish a lifelong pattern.
+
+Wood, W., and Rünger, D. (2016). Psychology of habit. Annual Review of Psychology, 67, 289–314. Research record. DOI: 10.1146/annurev-psych-122414-033417.
+
+Examines how repeating an action in familiar settings can make it more automatic, and how habits relate to goals. The reading-routine example applies these ideas; it is not a tested programme, and not all repeated behaviour is a habit.
+
+Culture, institutions and anthropology.
+
+Vignoles, V. L., and colleagues (2016). Beyond the “East–West” dichotomy: Global variation in cultural models of selfhood. Journal of Experimental Psychology: General, 145(8), 966–1000. Research record. DOI: 10.1037/xge0000175.
+
+Reports two surveys across multiple nations. Finds more variation in how people see themselves than a simple division between “independent Westerners” and “interdependent Easterners” suggests. Chapter 7 uses this finding to question broad cultural labels.
+
+Lareau, A. (2002). Invisible inequality: Social class and childrearing in Black families and white families. American Sociological Review, 67(5). Article.
+
+Draws on observing and interviewing families in the United States to examine how everyday family practices affect encounters with schools and other institutions. Shows how advantages can arise. It does not describe every family or test the chapter’s proposed changes to a residents’ meeting.
+
+Henrich, J., and colleagues (2005). “Economic man” in cross-cultural perspective: Behavioral experiments in 15 small-scale societies. Behavioral and Brain Sciences, 28(6). Author's university record.
+
+Reports games involving economic decisions in 15 small-scale societies and examines the findings alongside local ways of living and working. Broadens the evidence on cooperation. Differences between groups do not prove what changing an institution would cause, or rank cultures by moral worth.
+
+Questions, listening and memory.
+
+Eyal, T., Steffel, M., and Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. Journal of Personality and Social Psychology, 114(4), 547–571. Research record. DOI: 10.1037/pspa0000115.
+
+Reports experiments comparing imagining someone’s thoughts with getting information from them. Chapter 8 explains the tasks and their limits. A conversation can help without guaranteeing that an answer reveals everything someone thinks.
+
+Itzchakov, G., Kluger, A. N., and Castro, D. R. (2017). I am aware of my inconsistencies but can tolerate them: The effect of high quality listening on speakers' attitude ambivalence. Personality and Social Psychology Bulletin, 43(1), 105–120. Research record. DOI: 10.1177/0146167216675339.
+
+Reports four laboratory experiments on how attentive listening affects speakers’ anxiety and recognition of mixed feelings about an issue. Supports a limited claim about listening; it does not promise agreement or repair of a relationship.
+
+Loftus, E. F. (2005). Planting misinformation in the human mind: A 30-year investigation of the malleability of memory. Learning and Memory, 12(4), 361–366. Research record. DOI: 10.1101/lm.94705.
+
+Examines research on how misleading information given after an event can affect what people later remember. Supports care with questions that suggest an answer. It does not prove that a particular memory is false or justify dismissing an account of harm.
+
+Supporting performance and reviewing action.
+
+Cerasoli, C. P., Nicklin, J. M., and Ford, M. T. (2014). Intrinsic motivation and extrinsic incentives jointly predict performance: A 40-year meta-analysis. Psychological Bulletin, 140(4), 980–1008. Research record. DOI: 10.1037/a0035661.
+
+Combines studies of motivation, rewards and performance, distinguishing quality from quantity. Chapter 10 uses these distinctions to question claims that rewards always help or always harm. It does not test rewards for the fictional music group.
+
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., and Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4–58. Research record. DOI: 10.1177/1529100612453266.
+
+Assesses ten learning techniques, including practising recall and spreading study across sessions. The study example applies these findings; the review does not guarantee grades or directly test the music group’s rehearsal plan.
+
+Harkin, B., and colleagues (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198–229. Research record. DOI: 10.1037/bul0000025.
+
+Combines 138 experiments testing whether checking progress helps people reach goals. It helped on average. Chapter 12 distinguishes this finding from its household example and the book’s complete method, which has not been tested.
+
+Gaslighting and harmful control.
+
+Sweet, P. L. (2019). The sociology of gaslighting. American Sociological Review, 84(5), 851–875. Article.
+
+Uses accounts of domestic violence to examine how gaslighting can exploit power and social inequalities. Chapter 11 uses it to explain how this can happen, not to diagnose anyone or call every disputed memory abuse.
+
+Support guidance.
+
+National Institute of Mental Health. Caring for your mental health. Public guidance on seeking professional help, including distress and difficulty with usual activities. Its service information is US-specific.
+
+National Health Service (NHS). Domestic violence and abuse. Public guidance on recognising abuse and obtaining support, including digital-safety considerations. Its services are UK-specific. These guidance pages inform When this book is the wrong tool; they are separate from research claims about everyday behaviour.
+
+Neighbouring books.
+
+Galef, J. (2021). The Scout Mindset. Publisher page.
+
+Gladwell, M. (2019). Talking to Strangers. Author's book page.
+
+These books help explain the project's positioning on the about page. They are not used as substitutes for the research cited in the chapters.
+
+Declining-help reference pilot.
+
+Ryan, R. M., and Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78. Research record.
+
+A review of autonomy, competence and relatedness. The declining-help entry uses this framework to form questions; the review cannot identify the reason for a particular refusal.
+
+Polderman, T. J. C., et al. (2015). Meta-analysis of the heritability of human traits based on fifty years of twin studies. Nature Genetics, 47, 702–709. Research record.
+
+Combines twin studies across many traits. It supports genetic contributions to variation in studied populations, not an inherited label for a family's refusals or the cause of a particular action.
+
+Keeping the evidence accountable.
+
+The list includes influential earlier work and later research; it does not cover every relevant study. Future revisions should check new research, studies in everyday settings, researchers’ attempts to repeat findings, and corrections or challenges to earlier claims. Including a source does not prove that the book’s whole method or every exercise works. Suggest a specific correction through the repository.
+
+Further evidence for the bias reference entries.
+
+Klayman, J., and Ha, Y.-w. (1987). Confirmation, disconfirmation, and information in hypothesis testing. Psychological Review, 94(2), 211–228. Publisher record.
+
+Explains why testing where a prediction should hold can be useful; this is not equivalent to always favouring a conclusion. Used to distinguish a testing strategy from biased treatment of evidence.
+
+Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 108(3), 480–498. Research record.
+
+Reviews how desired conclusions can affect reasoning. Supports one possible route to bias, not an inference about a particular person's motives.
+
+Morewedge, C. K., Yoon, H., Scopelliti, I., Symborski, C. W., Korris, J. H., and Kassam, K. S. (2015). Debiasing decisions: Improved decision making with a single training intervention. Policy Insights from the Behavioral and Brain Sciences, 2(1), 129–140. Open research record.
+
+Two longitudinal experiments support improvement on tested judgment tasks after structured training. They do not validate this book's exercises or establish improvement in personal relationships from reading them.
+
+Additional research used in the revised foundations.
+
+Michie, van Stralen and West (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions. Research record.
+
+Susan Michie and colleagues reviewed behaviour-change frameworks and proposed COM-B: capability, opportunity and motivation as interacting conditions for behaviour. They examined its use in tobacco-control and obesity policy. It is a framework for analysing and designing change, not a diagnostic test or proof that one identified barrier caused an action. Used in Chapter 3.
+
+Roberts and colleagues (2017). A systematic review of personality trait change through intervention. Research record.
+
+Brent Roberts and colleagues reviewed 207 intervention studies tracking personality measures, mainly in clinical settings. Trait scores could change, especially emotional stability, and some changes persisted at follow-up. Study designs varied. This does not show that wishing, a short exercise or changing a relative will produce the same result. Used in Chapter 6.
+
+Lewicki, Polin and Lount (2016). An Exploration of the Structure of Effective Apologies. Research record.
+
+Roy Lewicki and colleagues ran two studies of how people judged apologies after hypothetical trust violations. Apologies differed in perceived effectiveness depending on what they contained and the kind of violation. Judging a scenario differs from rebuilding trust after real harm. No apology formula obliges forgiveness or renewed access. Used in Chapter 11.
