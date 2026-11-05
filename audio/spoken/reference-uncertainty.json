@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/uncertainty.md",
+  "title": "Uncertainty",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/thinking-and-interpretation.json"
+  ],
+  "sections": [
+    {
+      "title": "Which question is unsettled?",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Uncertainty means the available information does not settle a question. That question might concern what happened, why someone acted, whether it will happen again, or what response will help. You can have a clear account of an event and still be unsure of its cause. Different parts of the situation can carry different amounts of uncertainty.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "You may also be able to choose a useful action before all those questions are answered. The cue for this lesson is: decide what you need to know to act. This helps turn a search for complete certainty into a practical decision.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "When another check helps",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Unknowns can feel especially difficult when the outcome matters or seems outside your control. Asking another person, rereading a message or searching for one more explanation may bring brief relief. It can also leave you facing exactly the same decision, with no new information that would change it.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Further inquiry can still be worthwhile. The distinction is whether it could supply something relevant to your choice. Ask yourself what answer would change your next step. If every possible answer leads to the same step, another round of checking may offer little practical benefit.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What research can and cannot tell us",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Sarah Shihata and colleagues reviewed what researchers knew, and still did not know, about intolerance of uncertainty across emotional disorders. Finding uncertainty difficult does not imply a disorder. Their review does not establish how much uncertainty someone else should accept, especially when the consequences fall mainly on that person.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "George Bonanno and Charles Burton reviewed coping and emotion regulation. Their framework emphasises noticing context, having several response options and adjusting to feedback. It has acknowledged measurement limits. It supports thinking about flexibility, rather than proving that one tactic or this lesson's exercise will work in every setting.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Uncertainty is compatible with a firm decision",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Not knowing for sure does not mean all explanations are equally supported. You can give greater weight to a well-supported account while recognising a gap. Accepting a gap also does not mean ignoring danger. Preparing for a harmful possibility is different from announcing that it is certain to happen.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a fictional project, you do not know whether a colleague will finish by Friday. A Wednesday progress check and a fallback plan address the delivery risk. They may be optimistic, overloaded or embarrassed; the project arrangement does not require you to settle which explanation fits.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make the next step bounded",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Choose one useful question, relevant record or reversible arrangement. Decide when to review it and when to stop checking. Include ordinary and reassuring occasions alongside alarming ones when evaluating a pattern. Otherwise, the information you collect may reflect what frightened you rather than the full range of experience.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Sometimes the stakes exceed your knowledge and getting advice is the sensible action. If uncertainty is consuming time or disrupting everyday life, support may help more than another explanation of someone else's behaviour. Seeking that help does not require establishing a diagnosis or proving your worries unreasonable.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Set a review point",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Name a small decision you face. What particular fact would change it? Choose one bounded check, or a reversible next step if no useful check is available. Decide when you will review it. Take a moment, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For example, you might ask for confirmation by tomorrow and then make another arrangement. At review, ask whether you gained information or repeated the same uncertainty. The written entry has space for notes and further practice. You can dislike not knowing while still knowing enough for your next decision.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

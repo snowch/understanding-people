@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/later-life.md",
+  "title": "Later life: change without age stereotypes",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "Start with the individual",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Later life can bring changes in work, health, relationships, resources and priorities. Age alone cannot explain how someone behaves. People of a similar age may differ greatly in abilities, interests and support needs. Compare a change with this person's earlier functioning and current circumstances.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask about the person, not an age stereotype. That means taking both preferences and genuine difficulties seriously. Assuming incapacity can remove choices unnecessarily; avoiding every question about a possible health difficulty can leave a need unaddressed. Good support starts with what has actually changed.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What becomes possible or important",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Retirement, bereavement, caregiving or access to transport and technology may change someone's options. A person may also choose to spend time differently without losing ability. These are possible explanations to explore through their account, not reasons to assume that older people all become cautious, dependent or withdrawn.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Laura Carstensen and colleagues developed a theory about how perceived time horizons can shape social goals. Their work reviewed evidence concerning younger and older people. It suggests useful questions about priorities, but it is not a rule that age determines what any individual wants. Perceived time horizons can change at different ages.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Stereotypes and health",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Hu and colleagues reviewed observational studies of ageism and health. Age-related stereotypes, discrimination and self-perceptions were associated with several health outcomes. The measures differed, and observational associations cannot establish the cause of one person's difficulty. The review supports care about stereotypes without settling an individual explanation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Keep everyday distinctions precise. An unfamiliar digital task is not the same as cognitive impairment, and preferring an established method does not demonstrate inability to learn. Low mood, pain, hearing or vision difficulties, medication effects and other health concerns may deserve assessment when functioning changes.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check access before taking over",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional father who stops booking appointments online after a website makes its text smaller. Checking the display and offering an accessible route addresses a possible barrier. Concluding that age has made him unable to manage appointments would skip the question of what changed in the task.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask what matters to him, when the difficulty started and what support he wants. Compare performance under suitable conditions, rather than testing only through an inaccessible interface. Include the person's own account before relying entirely on a relative's interpretation, and keep decisions with them wherever appropriate.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Respond to health changes",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Offer specific support and clarify which responsibilities are shared. For persistent or marked changes, seek suitable advice or assessment with the person involved as appropriate. Respect for independence does not require ignoring a health concern, just as concern does not justify automatically taking over someone's life.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Sudden new confusion needs urgent medical assessment. NHS public guidance treats it as an urgent concern because several medical causes are possible; it should not be dismissed as normal ageing. The service details are specific to the United Kingdom, so use the appropriate urgent medical service where you are.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review access and ownership",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose an ordinary changed activity, with no urgent health concern. What does the person say has become difficult, and what wanted adjustment might improve access while keeping their decisions theirs? Take a moment, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "In the booking example, an accessible display or another booking route could be useful. Review whether the task became manageable and whether the person retained appropriate control. If a difficulty persists, consider suitable health advice. Age is context; this person's experience, choices and changes still need their own attention.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

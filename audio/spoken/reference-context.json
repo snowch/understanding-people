@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/context.md",
+  "title": "Culture & power",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "Meaning and choice both depend on the setting",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Culture concerns learned meanings and practices. Power concerns unequal ability to affect resources, choices or consequences. Both belong to the setting in which people interpret and respond to one another. Neither tells you exactly what an individual thinks, but either can change what an action means or what alternatives are realistically available.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The cue is: ask what the setting makes possible or costly. Silence in a discussion can look different when disagreement affects someone's shifts, family support or access to information. Your own position may make those costs easier or harder to notice.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "A group description cannot speak for an individual",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Vivian Vignoles and colleagues conducted two multinational surveys. Ways of being independent and connected varied across several dimensions, beyond a simple East–West division. Those group patterns do not reveal one person's values. National averages are not instructions for how to treat an individual.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Sociologist Annette Lareau observed and interviewed particular US families, examining how class-related practices affected interactions with institutions. This was not a universal classification of parenting or an explanation of every family. The work encourages attention to practices and access while leaving individual accounts and local conditions important.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask how a decision is experienced",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Jason Colquitt and colleagues combined organisational-justice studies. Fair outcomes, procedures, interpersonal treatment and information emerged as related but distinguishable aspects of perceived fairness. Most evidence concerned organisations. It does not establish one correct allocation or show that disagreement about fairness is dishonest.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A formal hierarchy also does not mean every disagreement is coercion. Relevant expertise, role responsibilities and genuine safety constraints need distinguishing from arbitrary control. At the same time, an apparently shared agreement can hide very different consequences for refusing. Examine both the rule and its everyday operation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "A public yes can leave preference uncertain",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. A junior worker agrees to an extra shift in front of the manager who assigns their hours. The yes may be sincere, pressured or both. A private, genuinely penalty-free route to discuss capacity could provide better information than assuming the public answer expressed a full preference.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Identify who decides, who supplies resources, who can disagree and what might happen if they do. Ask those affected how they understand the arrangement. Include less visible barriers such as transport, language, time, care responsibilities and access to information. A formal invitation to participate may leave some of those barriers untouched.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Change the process you influence",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Provide relevant information, make decision criteria explicit and allow suitable ways to contribute. Protect a legitimate route for concerns. If you hold power, do not make other people responsible for reassuring you that it has no effect. Their freedom to answer should be supported by the arrangement, rather than demanded through a declaration of openness.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If your choices are constrained, appropriate advice or support may help more than another attempt to improve the wording of your request. Some difficulties concern access or consequences rather than communication alone. You can recognise these conditions while still investigating the specific problem and your own options.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make an honest answer more possible",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of an ordinary interaction involving unequal control over a resource or decision. Who could refuse, and at what cost? Name one process change or support route that might make an honest answer more possible. Pause here, and pause the player for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Review actual participation and consequences after the change. The written entry has research links and further practice. Better wording can help, but understanding the setting also means looking at what people are able to do with the answer they give.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

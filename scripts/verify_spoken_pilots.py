@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Check the four authored listening pilots, including actual delivered MP3 gaps.
+"""Check authored lessons, including actual delivered MP3 gaps.
 
-With no URL, starts a local range server. Does not record screenshots or claim
-that technical checks establish naturalness or pronunciation.
+Defaults to the original four pilots. --all checks complete authored coverage;
+--lessons selects named scripts. No URL starts a local range server.
 """
+import argparse
 import copy
 import functools
 import hashlib
@@ -16,18 +17,27 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 from playwright.sync_api import sync_playwright, expect
-from build import destination
+from build import destination, PAGES
 from page_narration import ROOT, MANIFEST
 from spoken_narration import scripts, fingerprint, transcript
 from synthesise_spoken import verify_gaps
 from verify_page_narration import RangeHandler, ThreadingHTTPServer
 
 
-def verify(base):
+def verify(base, all_lessons=False, lessons=None):
     base = base.rstrip('/') + '/'
     registry = scripts()
     manifest = json.loads(MANIFEST.read_text())
-    assert len(registry) == 4
+    if all_lessons:
+        assert set(registry) == {s for s, _ in PAGES if not s.startswith('audio/')}
+    elif lessons:
+        names = set(lessons)
+        registry = {source: item for source, item in registry.items() if item[0].stem in names}
+        assert {p.stem for p, _ in registry.values()} == names
+    else:
+        pilots = {'chapters/01-before-you-explain.md', 'reference/confirmation-bias.md', 'reference/correspondence-bias.md', 'reference/declining-help.md'}
+        registry = {source: item for source, item in registry.items() if source in pilots}
+        assert set(registry) == pilots
     with sync_playwright() as pw, tempfile.TemporaryDirectory() as folder:
         proxy = {'server': os.environ['HTTPS_PROXY']} if base.startswith('https://') and os.environ.get('HTTPS_PROXY') else None
         b = pw.chromium.launch(proxy=proxy)
@@ -43,10 +53,13 @@ def verify(base):
             panel = page.locator('.page-narration')
             expect(panel.get_by_role('heading', name='Listen to this lesson')).to_be_visible()
             expect(panel).to_contain_text('Spoken lesson')
-            expect(panel).to_contain_text('Full references and additional practice')
+            expect(panel).to_contain_text('A spoken adaptation')
             expect(panel.locator('audio')).to_have_attribute('preload', 'none')
-            assert page.locator('.prose a[href^="https://"]').count() >= 1
-            assert page.locator('.prose .practice-notes textarea').count() >= 4
+            if source.startswith('reference/') and source not in {'reference/index.md', 'reference/sources.md'}:
+                assert page.locator('.prose a[href^="https://"]').count() >= 1
+            notes = page.locator('.prose .practice-notes')
+            if notes.count():
+                assert notes.locator('textarea').count() >= 4
             audio_url = panel.locator('audio source').evaluate('e=>e.src')
             assert entry['audio_sha256'][:12] in audio_url
             response = context.request.get(audio_url)
@@ -55,7 +68,8 @@ def verify(base):
             delivered.write_bytes(response.body())
             verify_gaps(delivered, copy.deepcopy(entry['pauses']))
             assert len(entry['pauses']) == sum(len(s['paragraphs']) for s in data['sections'])
-            assert any(p['requested_ms'] >= 8000 for p in entry['pauses'])
+            if notes.count():
+                assert any(p['requested_ms'] >= 8000 for p in entry['pauses'])
             spoken_text = context.request.get(panel.get_by_role('link', name='Read transcript').evaluate('e=>e.href'))
             assert spoken_text.text() == transcript(data)
             # A previous, explicitly played clip may finish buffering after the
@@ -66,8 +80,9 @@ def verify(base):
                 page.set_viewport_size({'width': width, 'height': 950})
                 assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
             panel.locator('.narration-sections > summary').click()
-            start = entry['sections'][2]['start']
-            panel.locator('[data-audio-seek]').nth(2).click()
+            selected = min(2, len(entry['sections']) - 1)
+            start = entry['sections'][selected]['start']
+            panel.locator('[data-audio-seek]').nth(selected).click()
             page.wait_for_function('(start)=>{let a=document.querySelector("#page-narration-audio");return !a.paused&&a.currentTime>=start&&a.currentTime<start+6}', arg=start)
             assert abs(panel.locator('audio').evaluate('e=>e.duration') - entry['duration']) < .25
             panel.locator('audio').evaluate('e=>e.pause()')
@@ -75,16 +90,22 @@ def verify(base):
             print('Passed delivered lesson:', data['title'], f"({len(entry['pauses'])} measured pauses)", flush=True)
         assert not errors, errors
         b.close()
-    print('Passed: four authored lessons, exact delivered audio/transcripts, actual paragraph/topic/reflection silence after MP3 encoding, source links and note fields, no preload, cold section playback and responsive layouts. Listening quality still needs a listening judgment.')
+    print(f'Passed: {len(registry)} authored lessons, exact delivered audio/transcripts, actual paragraph/topic/reflection silence after MP3 encoding, source links and applicable note fields, no preload, cold section playback and responsive layouts. Technical checks do not establish listening quality.')
 
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        verify(sys.argv[1])
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('base', nargs='?')
+    choices = parser.add_mutually_exclusive_group()
+    choices.add_argument('--all', action='store_true')
+    choices.add_argument('--lessons', nargs='+')
+    args = parser.parse_args()
+    if args.base:
+        verify(args.base, args.all, args.lessons)
     else:
         server = ThreadingHTTPServer(('127.0.0.1', 0), functools.partial(RangeHandler, directory=str(ROOT / '_site')))
         threading.Thread(target=server.serve_forever, daemon=True).start()
         try:
-            verify(f'http://localhost:{server.server_port}/understanding-people/')
+            verify(f'http://localhost:{server.server_port}/understanding-people/', args.all, args.lessons)
         finally:
             server.shutdown()

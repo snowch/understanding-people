@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/repairing.md",
+  "title": "Repair after a misunderstanding",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Find where the meanings separated",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Repair after a misunderstanding begins with locating what went wrong. Perhaps a word meant different things, an expectation went unspoken, or one person answered an intention they had inferred. A useful repair makes a correction. Simply resuming as though nothing happened can leave the original confusion in place.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "You do not have to decide that one person was entirely at fault. Both can contribute to confusion while a particular harmful action remains someone’s responsibility. The aim is to return to the missed meaning and identify what needs to change. The example that follows is fictional.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate confusion from a broken agreement",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "A misunderstanding is different from knowing an agreement and breaking it. It is also different from understanding each other perfectly and disagreeing about values. Calling every repeated problem a misunderstanding can obscure what needs addressing. Ask what each person understood at the time, rather than assuming that a softer label explains the event.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Imagine someone says they support your idea. You take that to mean they will recommend it at a meeting. They mean it has promise but still needs work. Those different meanings make a specific repair possible: clarify the remaining work and say explicitly what support will involve next time.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Conversation adds information",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Tal Eyal and colleagues studied how accurately people predicted others’ responses. Imagining their perspective did not consistently improve accuracy. In a final experiment, obtaining information through conversation helped. That supports asking what was understood, while leaving an important limit: particular prediction tasks cannot guarantee honesty, safety or complete understanding in a relationship.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Roy Lewicki and colleagues studied people’s judgments of apologies in hypothetical trust violations. Apology content affected perceived effectiveness. That is different from demonstrating restored trust after real harm. No apology formula requires forgiveness, continued contact or renewed access, and clarification does not settle every consequence.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Own a precise correction",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Return to the exact words, expectation or action. What did you assume, and what did the other person actually promise? Relevant messages or agreements may help. You can acknowledge an unsupported inference without accepting a sweeping accusation about your character. Equally, explaining your intention does not erase an effect you caused.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A useful correction might be, I assumed your support meant speaking at the meeting; I now understand that you meant reviewing the proposal first. If a commitment really was missed, go beyond wording. Ask what practical repair is needed and what would prevent the same gap recurring.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Judge repair partly by what follows",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Thomas Webb and Paschal Sheeran combined experimental tests where intentions changed. Changes in behaviour were generally smaller than changes in intention. That is a reason to distinguish a promise from follow-through, rather than a way to decide why a particular person did not act.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Agree a feasible next action and review it later. Did the promised correction happen? Did the next conversation use clearer expectations? A smooth discussion can be encouraging without proving that trust is restored. The affected person may still need time or a limit, and repeated dismissal may call for a different response.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Try a repair you can own",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose one ordinary misunderstanding. Where might the meanings have diverged, and what correction can you make or clarification can you ask? Keep your answer specific. Take a moment, and pause the player for longer if you would like.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "You might ask, when you said you would help, which part did you mean? Or correct an assumption you made yourself. Afterwards, review whether the next agreement and later conduct became clearer. Repair is more useful when it changes what can be understood or done next.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

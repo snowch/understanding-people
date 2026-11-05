@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/trauma-context.md",
+  "title": "Trauma, reminders & present safety",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "Present needs, uncertain history",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Trauma-related responses can follow serious threat or harm, but experiences and recovery vary. Reminders may affect distress, attention, trust or a sense of safety. An action alone cannot establish someone's trauma history, and experiencing a traumatic event does not necessarily mean developing post-traumatic stress disorder, or PTSD.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Respond to present needs without inventing a past. This lesson offers general information and has not received specialist review. It cannot assess an individual's health or safety. You can respect a request and support a person without requiring disclosure of the experiences that may lie behind it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Present danger may still be real",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "A current situation may resemble an earlier danger, or the danger may still be present. Relationships, practical resources and other circumstances can affect the response. A plausible account of past learning should remain a possibility, rather than becoming a factual history you assign to the person.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The United States National Institute of Mental Health explains that reactions after trauma differ, and persistent difficulties affecting life may warrant assessment and treatment. Not everyone exposed to trauma develops PTSD. Professional assessment considers a broader pattern and impact; an observer cannot infer the history from one behaviour.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Similar difficulties, different explanations",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Stress, anxiety, grief, sensory overload and physical health can produce overlapping difficulties. These possibilities are not an exhaustive list. They remind us that the same outward response can have different meanings. A lack of disclosure does not justify dismissing distress or insisting that someone recount a painful experience.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A trauma explanation also does not excuse harmful conduct. Needs and effects on others still matter. If ongoing threat or abuse is the concern, attention belongs on present safety and appropriate support, rather than focusing only on changing the person's reaction to circumstances that may remain dangerous.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Respect the request without testing its origin",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. A friend asks you not to touch them unexpectedly. Respecting that request does not require deciding whether it reflects trauma, sensory needs or a straightforward preference. The useful action is already clear, even if the origin stays private.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask what would make the current interaction more manageable and what choices the person wants. Clear information and a way to pause or decline may help. Do not surprise someone with a supposed trigger to test or cure a response. Ordinary support must not become an improvised treatment experiment.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Adapt support and recognise its limits",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "George Bonanno and Charles Burton reviewed research on coping and managing emotion. Their framework emphasises context, several response options and adjustment through feedback. It has measurement limits and does not establish that any particular response here will work. A practical application is to ask whether an agreed adjustment actually helps.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "NHS abuse guidance describes emotional, physical, sexual and economic harm and confidential support routes. Its services are specific to the United Kingdom, and it cannot assess personal safety. Seek support appropriate to your location and circumstances. For persistent difficulties, qualified professionals can assess needs and discuss suitable treatment.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a present adjustment",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Consider a present request or difficulty without constructing a history. What wanted adjustment or support question would preserve choice and make the situation more manageable? Take a moment. Pause the player if you would like longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the friend in the example, agreeing to ask before touching directly respects the request. Later, review whether the arrangement fits, and whether any current danger requires further help. If you seek support yourself, you can describe current difficulties without having a complete account. Present needs deserve attention while private history remains private.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/extraversion.md",
+  "title": "Extraversion",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/personality.json"
+  ],
+  "sections": [
+    {
+      "title": "More than how much someone talks",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Extraversion describes tendencies involving sociability, assertiveness and energy in engaging with the world. These aspects do not have to move together in every situation. A person might enjoy company while disliking speaking to a large group, or lead a discussion confidently and then want quiet time. Introversion is neither a disorder nor a measure of social skill.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The useful question is: what kind of participation works? That question directs attention toward contribution and conditions, instead of treating visible enthusiasm or the amount of speech as a standard everyone must meet.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What a trait description summarises",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Christopher Soto and Oliver John developed and tested a questionnaire describing five broad personality dimensions and narrower aspects. These are dimensions, not fixed types. This lesson does not administer the questionnaire or score you. A description should help you understand a pattern rather than place you inside a permanent box.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "William Fleeson studied repeated reports of everyday behaviour. Individuals varied considerably across occasions while differing in their average patterns. The self-reports and settings sampled have limits. One quiet evening or lively meeting is not enough to establish a person's typical style across their life.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Quietness leaves several questions open",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Someone may be quiet because they are listening, tired, unfamiliar with the language, unsure whether they are welcome, or preferring a smaller conversation. Those are possibilities rather than a complete list. Talkativeness can likewise reflect enthusiasm, a role requirement or discomfort with silence. Neither style settles competence, honesty or care.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Compare a longstanding preference with a new change in participation. Someone who has always preferred a small gathering may need a different conversation from someone who has recently stopped joining anything. Ask about the person's experience rather than deciding the meaning of their quietness for them.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare the setting",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional workplace example. A colleague says little during a fast group discussion, then sends a clear analysis afterwards. Giving them the question in advance and making time for written input could test whether the format was limiting contribution. It does not establish introversion or an anxiety diagnosis.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Look at group size, familiarity, time to prepare and the medium being used. Include your own habits. Do you credit the fastest speaker with the best idea? Do you read someone else's need for solitude as rejection? Your expectations can shape which participation you notice and reward.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Support contribution without demanding a makeover",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Where feasible, offer advance information, a turn to speak, written comments or a smaller conversation. Ask which would help rather than assigning a format from a personality label. Different options should be legitimate ways to contribute, not consolation prizes for failing to speak most often.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Sometimes public speaking is an actual requirement. Be explicit about that task and discuss preparation or support. If you want to develop your own participation, choose a particular skill, such as making one clear point, while preserving the amount of social contact that suits you. More talk is not automatically a better contribution.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Try a format change",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of two settings where your participation differs. What changes between them: group size, language, preparation or something else? Choose one format change you could reasonably request or try. Pause for a moment, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Afterwards review whether your contribution was useful and how comfortable the arrangement felt. You may learn that preparation helps, or that a smaller group simply suits the task. The written entry has research links and notes. Ask what kind of participation works before deciding what quietness means.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

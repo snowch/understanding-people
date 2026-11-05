@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/security.md",
+  "title": "Feeling safe",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "Feeling safe and being safe",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Security concerns protection from harm and enough stability to make choices and act. It can involve money, housing, work, physical safety or a dependable relationship. It is easy to focus on how worried someone sounds while overlooking the conditions that make their caution understandable.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Feeling safe and being safe are related, but different. Reassurance might ease a feeling without reducing a risk. A calm person may still need a practical safeguard. The question is therefore twofold: what harm might occur, and what would actually make the situation more dependable?",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Clarify the vulnerability",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Ask about the concrete threat and the cost of being wrong. Someone dependent on an uncertain job may have reasons to hesitate before disagreeing with a manager. Someone considering a housing change may need to know where they could live if it fails. These are material questions as well as emotional ones.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A past experience may influence caution, but do not invent a history to explain someone’s reaction. Compare what is known, what remains uncertain and what options are available. Visible anxiety alone cannot tell you whether a danger is current, exaggerated or underestimated by the people around them.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What guidance can contribute",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Susan Michie and colleagues’ behaviour-change framework draws attention to opportunity and practical conditions alongside motivation and ability. It can help organise questions about a proposed action. It does not establish why someone is cautious or provide an individual assessment of safety.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Public guidance from the US National Institute of Mental Health recommends considering persistent distress and interference with daily activities when seeking help. NHS guidance describes abuse and routes to confidential support. The service details are specific to their countries. These resources guide support; they do not diagnose a person or assess your particular risk.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Replace a vague promise with a safeguard",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional client choosing a transport service for regular appointments. If a cancellation would leave them stranded, repeating that everything will be fine offers little information. Written cancellation terms and a credible alternative address something concrete. Their hesitation need not reveal a suspicious personality.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The wider lesson is to promise only what you can control. Explain remaining uncertainty honestly. Depending on the issue, a useful safeguard might be advance notice, written terms or independent advice. Check whether the change reduced the vulnerability, rather than measuring success only by how reassured the person sounds.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Preserve choice and safety",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Wanting to feel secure does not entitle someone to monitor another person’s movements or restrict their relationships. Privacy, predictability and control are different things. If you are seeking reassurance, ask whether the thing you are requesting changes a real risk or mainly removes someone else’s freedom.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Where there are threats, coercion or possible immediate harm, seek appropriate local support rather than testing the relationship. You need not provoke a reaction or prove that you are frightened enough. This book’s safety discussion has not received specialist review, and persistent distress despite reasonable safeguards may also warrant professional support.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a proportionate source of help",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "For an ordinary, manageable uncertainty, name the specific harm you want to prevent. What would reduce that risk: clearer information, a practical fallback, or advice from someone qualified? Take a moment to identify one step within your control. Pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "If the concern involves coercion or danger, make your step a support question instead of an experiment: who can help me assess my options safely? Review what actually became safer and what remains unknown. You can take a precaution or seek help before you have a complete explanation of anyone’s motives.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

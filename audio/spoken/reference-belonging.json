@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/belonging.md",
+  "title": "Belonging",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "Connection with room for difference",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Belonging means feeling that you have a place in a relationship or a group. It concerns acceptance and connection, rather than simply being surrounded by people. You can attend every gathering and still feel that your contribution does not count. A few dependable relationships can offer something a crowded calendar does not.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The distinction matters when we interpret another person’s absence or disagreement. Someone can care about a group while declining an event or challenging its plans. Connection does not require constant availability. Keep this cue in mind: connection should leave room for difference.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What research can tell us",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Psychologists Roy Baumeister and Mark Leary reviewed evidence that people widely seek stable interpersonal attachments. That supports taking connection seriously as a possible concern in an interaction. It does not mean everyone wants the same amount of company, or that anyone should maintain an unsafe relationship.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Richard Ryan and Edward Deci also reviewed a theory of motivation that distinguishes connection, choice and feeling capable. Those ideas can help organise questions. They cannot establish why your friend missed dinner. We still need information about the particular person, the invitation and the circumstances.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Inclusion is more than attendance",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. A community choir meets in a room reached only by stairs. One member stops coming. Describing them as uninterested skips a practical question: can they get into the room? An invitation can be warm while participation remains difficult.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Now consider a different possibility. The room is accessible, but suggestions from newer members are routinely dismissed. More invitations would not address that problem either. Look at who can participate, whose ideas receive consideration, and whether disagreement brings a threat of exclusion. These are different conditions to check.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check your part in the relationship",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Ask what feeling included would look like to the person, without requiring them to explain private circumstances to the whole group. Perhaps they want an affordable meeting, a chance to speak, or less pressure to attend. Their answer is useful information, alongside what actually happens.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Include yourself in the inquiry. Do you treat a slow reply as a test of affection? Do people have to accept your proposal to remain welcome? You can prefer more contact and say so, while recognising that another person’s privacy or different preference does not settle how much they care.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make a practical opening",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Offer something specific with a real option to decline. You might suggest a short walk and ask whether another time or format would work better. If someone declines, avoid turning the answer into a demand for proof of loyalty. A useful invitation opens a possibility rather than creating a debt.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Where the problem is exclusion from decisions, address the decision process. A friendly message alone does not show that things have changed. You also retain limits of your own: belonging does not entitle anyone to unlimited access to you, and leaving a harmful group can make healthier connections possible.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Try one change in access or choice",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of one ordinary invitation or group activity in your life. Is the difficulty getting there, having a meaningful say, or wanting a different amount of contact? Choose one question you could ask without assuming the answer. Take a moment, and pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For example, you could ask whether a quieter venue would make joining easier, while leaving the person free to decline. Later, review both participation and their account of how it felt. More attendance alone is not the whole measure. The written entry offers research links and space to continue your reflection.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

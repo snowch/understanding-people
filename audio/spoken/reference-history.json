@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/history.md",
+  "title": "Relationship history",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "History informs a judgment without fixing it forever",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Relationship history includes agreements, responses, repairs, harms and ordinary experiences between people. It can inform what you reasonably expect now. The same delay may mean something different after a dependable pattern than after repeated broken promises. Relevant history is part of the evidence, rather than an inconvenience to ignore.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The cue is: use history as evidence, not a permanent verdict. You do not have to erase previous harm to notice change, and you do not have to make every new event confirm one story about the person. Trust can also be specific to a particular arrangement.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Distinguish the memory from the prediction",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "People learn what seems safe or worthwhile in a relationship. Earlier help with unwanted conditions can make a new offer harder to accept; commitments kept can support confidence in another request. These are possibilities to investigate. Do not invent childhood experiences or events in other relationships to fill gaps in this one's record.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Elizabeth Loftus reviewed experiments on misinformation after an event. Later suggestions can change what people report remembering. That does not establish that a particular memory is false or justify dismissing an account of harm. Mark uncertainty about details without concluding that nothing happened.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Repetition may involve several processes",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Wendy Wood and Dennis Rünger reviewed habit research showing how repetition in recurring contexts can make responses more automatic alongside deliberate goals. Not every repeated interaction is a habit. Current decisions, constraints or coercion may also sustain a pattern, so repetition alone does not establish its cause.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Tal Eyal and colleagues studied interpersonal predictions. Imagining another person's perspective did not consistently improve accuracy; conversation helped in a final experiment. These specific tasks do not show that talking guarantees truth, understanding or safety. Asking can add information when appropriate, but does not make your existing record irrelevant.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare occasions and attempted repair",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Include ordinary exchanges, exceptions, attempted repairs and what happened after promises to change. Ask whether the circumstances and responsibilities were comparable. Separate what you witnessed from what someone reported and what remains uncertain. A familiar-looking action may have a new explanation, or may indeed belong to a continuing pattern.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Check your own weighting. Do positive events always become exceptions while negative ones reveal the person's true nature? Or do you excuse every harmful event while one kind gesture settles the relationship? A fair comparison considers relevance and weight, rather than counting every incident as equal evidence.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Set a limit on the actual arrangement",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. A friend who has missed several repayments asks to borrow again. You can decline or propose different terms based on that record without assigning a personality disorder. A later kind act may matter to the friendship while leaving the separate question of financial reliability unresolved.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Use relevant history to choose proportionate expectations and safeguards. You may trust someone with one task while declining another arrangement. Discuss a current need without requiring the past to be declared irrelevant. If harm or coercion continues, support and protection may matter more than another attempt to reinterpret the person's intentions.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review evidence without erasing it",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Compare two relevant, ordinary occasions. What is similar, what changed, and how certain is your account? Choose a current request, safeguard or limit that fits the actual pattern. Pause for a moment, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "When new information arrives, add it without erasing earlier events or forcing it into a permanent story. The written entry has sources and further practice. A more precise expectation may be more useful than deciding whether a whole person can or cannot ever be trusted.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

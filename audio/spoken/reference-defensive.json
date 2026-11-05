@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/defensive.md",
+  "title": "Responding defensively",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Look at what is being defended",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A defensive response can involve justification, denial, counterattack or shifting attention to the critic’s faults. It describes something happening in an exchange. It does not prove that the criticism is true, that the person lacks care, or that a reasonable defence against an inaccurate accusation is wrong.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Before deciding how to reply, separate the actual concern from the broader judgment someone may have heard. Did the criticism identify an action, or suggest that the whole person is incompetent? Both the accuracy of the concern and the way it was raised remain open to examination.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "An explanation can obscure the issue",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Criticism may feel like a threat to competence or worth, particularly when harsh or public. A person might be protecting an identity, disputing facts, avoiding shame or resisting responsibility. Those are possible influences, not a method for reading minds. Your own explanation can also become defensive without you noticing.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Imagine a fictional exchange about an update you agreed to send. Instead of checking whether you sent it, you list the other person’s late replies. Their conduct may need discussion. But it cannot settle your specific responsibility, and introducing it now may prevent that question from being addressed.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Research suggests distinctions, not verdicts",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "June Tangney and colleagues reviewed moral emotions, including the difference between evaluating your whole self and evaluating an action. That distinction can keep feedback specific. The review does not let you identify shame, guilt or remorse from someone’s expression, and emotions can have different effects in different contexts.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Psychologist Ziva Kunda reviewed motivated reasoning: desired conclusions can influence which reasons people seek and find convincing. That applies to your reasoning as well as someone else’s. Disagreement does not prove a hidden motive, and a conclusion someone wants can still be correct.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep context and responsibility together",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Correcting an error, explaining circumstances and refusing abuse differ from evading responsibility. Instant agreement is not proof of openness. The critic may be mistaken, vague or controlling. At the same time, a justified objection to tone does not decide whether the underlying issue still needs a response.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask whether both people can describe the disputed action and its effect. Does the discussion turn to unrelated faults before addressing them? Compare responses to specific, private feedback where appropriate. These observations help you assess the exchange without treating a single tense reaction as a stable trait.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make one part discussable",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Separate the factual claim, the effect and the requested change. You can acknowledge a missed update without agreeing that you never care about anyone. If the criticism is vague, request a concrete example. If you were mistaken about the accusation, say which action you now understand differently and what you will do.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Guy Itzchakov and colleagues found benefits from attentive listening in laboratory tasks, including lower speakers’ social anxiety and greater recognition of mixed attitudes. Those experiments do not guarantee agreement or relationship repair. A calmer exchange helps only if the issue remains discussable. Insults or threats may require a pause or suitable support.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check your next reply",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall one ordinary criticism. What factual claim did it make, and what global judgment did you hear? Choose a clarification or one action you can own without accepting an inaccurate label. Take a moment, and pause the player for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A reply might be, I did miss that update; let us agree when I will send it. A separate issue can wait for its own discussion. Afterwards, review whether the concern was addressed and whether your reply left room to learn. Check what is being defended before choosing your response.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

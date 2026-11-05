@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/punish.md",
+  "title": "Trying to punish",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "An effect and an intention are different",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Trying to punish is a possible intention to impose a cost after an unwanted action. Sometimes the intention is explicit. Sometimes people suspect it because access, contact or resources disappear after disagreement. An unpleasant consequence alone does not establish that punishment was intended.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "It still matters that the cost occurred. You can examine an arrangement and protect yourself without first resolving another person’s inner motive. The useful cue is to look at the imposed cost. What happened, who controls it, and what would make it stop?",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Distinguish a limit from a penalty",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Ending a call because someone is shouting can be a limit on your participation. Threatening unrelated financial harm because they disagreed is a different action. Simply calling either one a boundary would hide important questions about relevance, proportionality and the other person’s freedom.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Formal responsibilities and natural consequences also need separate consideration. A missed deadline might mean an event can no longer be booked, without someone choosing that loss as punishment. Conversely, a person may call an imposed harm a lesson or self-protection. The description does not settle whether the action is acceptable.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make the sequence concrete",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional employee who raises a concern, then loses access to an email chain needed for their work. The timing is worth recording, but it does not alone prove retaliation. A relevant question is why access changed and whether the same explanation fits comparable decisions.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Check what rule or agreement applied, whether it was clear and whether the response was consistent. Can the affected person question the decision safely? Include your own conduct too. Are you protecting a reasonable limit, or choosing an unrelated loss because you want someone to suffer for disappointing you?",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What the sources establish",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Home Office guidance describes patterns of controlling or coercive behaviour, including threats and restrictions that affect everyday freedom. It concerns law and practice in England and Wales. The US Equal Employment Opportunity Commission also discusses harassment and retaliation within the laws it administers. Legal coverage varies, and this lesson cannot establish that an offence occurred.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Jason Colquitt and colleagues combined organisational-justice studies that distinguished outcomes, procedures, respectful treatment and information. Most evidence concerns organisations. These distinctions help organise a concern about a sanction; they do not reveal a motive or determine a single fair consequence. This book’s abuse-related material has not received specialist review.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Respond without testing a threat",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "For a genuinely shared agreement, consequences should be relevant, proportionate and transparent, with a route to repair or review. Humiliation and unrelated deprivation are not made acceptable by a claim of good intention. A person’s disappointment with your choice does not automatically justify whatever cost they impose.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If dependence or threats make refusal unsafe, seek appropriate support instead of testing whether the penalty will be carried out. You do not need to provoke retaliation to obtain proof. Harmful or unfair conduct can warrant attention even when it falls outside a specific legal definition or no diagnosis explains it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Describe the cost before the motive",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "For a manageable past situation, describe the triggering event and the concrete consequence without assigning intent. What relevant agreement or source of advice could help you assess it? If there is a current threat, choose a support question instead of an experiment. Pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful account might say that access changed after a complaint and explain what work became impossible. That keeps the sequence and effect visible while leaving the motive open. Review access, fairness and safety after the next step. You can take consequences seriously without turning an uncertain explanation into a fact.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

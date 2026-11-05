@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "source": "reference/sources.md",
+  "title": "Using research sources for the reference library",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "A source list is a way to inspect a claim",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A reference is useful when it lets you inspect the claim beside it. This source log identifies the research records, abstracts and public guidance used in the library. It also records what was accessed and what the evidence cannot establish. This recording explains how to read the log, rather than reciting the bibliography.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The selection is not a systematic review of every relevant study. A working link, a familiar institution or a long source list cannot by itself establish that an explanation is accurate. Start with the particular claim you want to check and follow the source attached to it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask what kind of work the source describes",
+      "anchor": "anthropology",
+      "paragraphs": [
+        {
+          "text": "Different methods answer different questions. Ethnographic observation and interviews can illuminate how people experience institutions in particular settings. Sociologist Annette Lareau used those methods to examine family practices and social class. That work is not a universal parenting typology or a way to explain a family you have never studied.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "An observational association can show that two things occur together without identifying the cause. An experiment can test an intervention under specified conditions without showing that the same effect holds everywhere. When a review combines studies, the quality, measures and coverage of those studies still matter.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep the result within its scope",
+      "anchor": "deception",
+      "paragraphs": [
+        {
+          "text": "A synthesis of deception judgments can tell us how accurately people performed on the tasks studied. It cannot decide whether a particular person is lying to you. The useful link is between a defined research result and a proportionate claim, not between an academic name and certainty about an individual.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Notice when a proposed application goes beyond the finding. A study about a reasoning task may support a practical question worth trying. It does not automatically validate a relationship worksheet or promise lasting improvement in collaboration. The library distinguishes findings, interpretations and editorial suggestions for that reason.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Distinguish research from public guidance",
+      "anchor": "nhs-abuse",
+      "paragraphs": [
+        {
+          "text": "Public guidance has another role. The NHS describes domestic-abuse concerns and support routes in the United Kingdom. Home Office guidance concerns controlling or coercive behaviour within law and practice in England and Wales. These can inform support and vocabulary without deciding the facts, safety or legal status of an individual situation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Use services and qualified advice appropriate to where you are. The clinical and abuse-related material has not received specialist review. Do not turn a guidance page into a diagnostic checklist or delay seeking support while you try to prove a label.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check access and generalisation",
+      "anchor": "weird",
+      "paragraphs": [
+        {
+          "text": "The log states whether the source was consulted through a research record, an abstract or a public-guidance section. An abstract is not a full-text review. That access limit should remain visible when judging the strength and detail of an explanation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Also ask who was studied and in what setting. Research based on a narrow population can leave important questions about other groups and circumstances open. When checking one library claim, identify the method, the studied group, the finding and the limitation. If the proposed conclusion needs more than that evidence supplies, keep the conclusion provisional.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

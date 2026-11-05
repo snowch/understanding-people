@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "source": "chapters/12-putting-understanding-to-work.md",
+  "title": "Putting understanding to work",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "chapters/12-putting-understanding-to-work.md"
+  ],
+  "sections": [
+    {
+      "title": "Use the smallest useful set of questions",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "You do not need a complete theory of someone before making an arrangement clearer or choosing a better next step. Notice what happened, check a relevant uncertainty, respond and review. Use the smallest set of questions that can improve a real decision.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When several explanations remain possible, ask what useful step you can take with what you know. The answer may involve a conversation, a practical change, a refusal or support. Agreement is one possible outcome, but it is not the only sign that you understood the situation better.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Begin with the decision",
+      "anchor": "begin-with-the-decision-then-describe-the-event",
+      "paragraphs": [
+        {
+          "text": "Start by asking what needs to become clearer or more workable. A broad question about why someone is inconsiderate offers little direction. Asking how to share a task without repeated last-minute rescue identifies a practical need you can examine.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Describe what was said or done, how you know, and what effect needs attention. Keep your proposed explanation separate. Include your own words, actions and circumstances, as well as the other person’s. A few relevant occasions may be sufficient; more logging does not automatically produce better understanding.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "This keeps the scale of your investigation connected to the decision. You are trying to choose a useful response, not assemble a permanent verdict about someone. If more information would not change that response, further analysis may add little.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a question that could change your action",
+      "anchor": "bring-in-a-lens-when-it-produces-a-different-question",
+      "paragraphs": [
+        {
+          "text": "The book’s perspectives are useful when they produce a different question. If the uncertainty concerns evidence, ask what is established and what might be missing. If it concerns motivation or capacity, ask what matters to the person and what makes action difficult.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If meaning is unclear, ask what each person understood. If recurring conditions matter, examine timing, demands or familiar cues. If power matters, ask what each person can choose and what refusal would cost. You do not have to apply every idea to every conversation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "These questions are an editorial synthesis of the book, not a validated assessment. Use the reference library for depth on a relevant concept. The test of usefulness here is whether an answer could change your next step.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Act sensibly under several explanations",
+      "anchor": "choose-an-action-that-remains-sensible-under-several-explanations",
+      "paragraphs": [
+        {
+          "text": "Clarifying a responsibility may help whether earlier difficulty involved misunderstanding, overload or a different routine. You can ask about conditions and agree a feasible step without settling every past motive. Changes affecting another person should involve them, rather than becoming a secret experiment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Here is a fictional example. Housemates disagree about keeping the kitchen usable. One needs space for breakfast; another finishes work late. Agreeing which space needs to be clear and by what time addresses the practical issue without deciding that either person is lazy.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A useful next step might instead mean accepting a refusal, ending an unsuitable arrangement or seeking support. A product can be wrong for your needs without a complete explanation of its seller. A friend can decline without disclosing every reason.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review the outcome and the cost",
+      "anchor": "make-the-review-small-and-informative",
+      "paragraphs": [
+        {
+          "text": "Before acting, identify what you hope will improve and when you will check. Afterwards, review what you tried, what happened and what remains uncertain. Include clarity, workload, choice, feedback and your own follow-through, rather than counting only whether the other person complied.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Benjamin Harkin and colleagues combined a hundred and thirty-eight experiments on checking progress. On average, helping people monitor progress improved their chances of reaching a goal. This does not validate the book’s complete method or justify surveillance of another person.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "One improvement does not prove the cause of the original difficulty. Keep, adjust or stop the approach according to useful evidence and its costs. If you keep notes, preserve the original observation and add later learning separately. Record only what serves a useful purpose and protect private information.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Stop or change route when further checking will not change the decision, discussion is declined, reflection adds no information, or safety, health or formal rights need appropriate support. These are practical stopping considerations, not a research-tested formula.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Complete one small cycle",
+      "anchor": "put-it-into-practice",
+      "paragraphs": [
+        {
+          "text": "Try a separate fictional situation. Two colleagues each believe the other owns a weekly update. You cannot establish why their assumptions differed. What can you do now, and what would you review? Pause the player if you would like longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Clarify the purpose, owner and deadline, along with a way to give early warning if capacity changes. Then review whether the next update is useful and the workload is fair. Earlier uncertainty need not prevent a clearer current responsibility.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "This week, choose one ordinary situation. Describe the event, identify one uncertainty that could change your action, choose or agree a feasible step, and set a review point. Afterwards, notice what you learned about the circumstances and your own contribution. The worksheet and written chapter can support that small cycle.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

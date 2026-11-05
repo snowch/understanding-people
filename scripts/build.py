@@ -219,6 +219,12 @@ def build(include_narration=True):
     css_hash = hashlib.sha256((ROOT / "assets/book.css").read_bytes()).hexdigest()[:12]
     audio_hash = hashlib.sha256((ROOT / "assets/audio.js").read_bytes()).hexdigest()[:12]
     narration_manifest = load_narration_manifest() if include_narration else None
+    if narration_manifest is not None:
+        from spoken_narration import scripts as spoken_scripts
+        expected_spoken = {name for name, _ in PAGES if not name.startswith('audio/')}
+        assert set(spoken_scripts()) == expected_spoken, 'Every reading page needs an authored spoken script before publication'
+        unfinished = [name for name in expected_spoken if narration_manifest['pages'].get(name, {}).get('mode') != 'spoken-lesson']
+        assert not unfinished, f'Authored narration is incomplete: {sorted(unfinished)}'
 
     for name, label in PAGES:
         title, text = sources[name]
@@ -232,6 +238,12 @@ def build(include_narration=True):
         body = body.replace("</table>", "</table></div>")
         body = re.sub(r'(src="[^"]*assets/audio\.js)(?:\?[^"]*)?"', rf'\1?v={audio_hash}"', body)
         narration_html = render_narration(name, title, body, page, narration_manifest)
+        if narration_html:
+            # The entry's primary Listen link should reach its current lesson;
+            # older optional recordings retain their own anchors/bookmarks.
+            body = re.sub(r'(<nav class="reference-formats"[^>]*>)(.*?)(</nav>)',
+                          lambda match: match[1] + match[2].replace('href="#listen"', 'href="#page-narration-title"') + match[3],
+                          body, flags=re.S)
         narration_script = (f'<script defer src="{relative(Path("assets/audio.js"), page)}?v={audio_hash}"></script>'
                             if narration_html and 'assets/audio.js' not in body else '')
         nav_html = book_navigation(name, page)

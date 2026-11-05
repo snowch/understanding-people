@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "source": "chapters/09-truth-lies-uncertainty.md",
+  "title": "Truth, lies and uncertainty",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "chapters/09-truth-lies-uncertainty.md"
+  ],
+  "sections": [
+    {
+      "title": "Checking accuracy and judging intent",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Checking an account and detecting a lie are different tasks. Begin with what someone claims, what supports that claim, and what remains uncertain about their knowledge or intention. An inaccurate statement can result from error, misunderstanding or deliberate deception. Accuracy alone does not settle intent.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When an answer matters to a decision, ask what would help you check it. That question directs attention to relevant information. Confidence, nervousness or a convincing delivery cannot establish whether the account is true.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What lie-detection studies show",
+      "anchor": "what-lie-detection-research-can-tell-us",
+      "paragraphs": [
+        {
+          "text": "Charles Bond and Bella DePaulo combined two hundred and six research reports involving more than twenty-four thousand judges. Without special aids, people judging truths and lies averaged about fifty-four correct answers out of a hundred. Truths were identified correctly about sixty-one percent of the time, and lies about forty-seven percent.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "These averages describe performance in those studies. They do not give the probability that a particular person is lying to you. They also do not turn your confidence in a judgment into evidence for it.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Aldert Vrij, Maria Hartwig and Pär Granhag reviewed research on nonverbal deception cues and found known cues faint and unreliable. Eye contact, fidgeting and confidence do not make a dependable lie test. Combining several uncertain cues does not resolve that basic difficulty.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Here is a fictional example. A contractor looks away while explaining a delay. The movement could have several meanings. Checking the claimed order date and delivery information is more relevant to the account than treating the movement as evidence of dishonesty.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check the exact claim",
+      "anchor": "evaluate-the-account",
+      "paragraphs": [
+        {
+          "text": "State the event, timing or agreement being claimed. Then ask what relevant independent information is available, whether it addresses that claim, and what uncertainty remains. Additional supporting evidence, especially from an independent source, is called corroboration.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For the contractor’s account, a supplier’s order confirmation could support the statement that a part was ordered. A quote might establish only that an enquiry was made. A document can look relevant while answering a nearby but different question.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Records can also be incomplete or misleading, so ask where they came from and what they mean. Several people repeating one account are not independent confirmation. You need to know who witnessed what, rather than counting how many times a version was repeated.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Agency names do not validate a technique",
+      "anchor": "what-about-fbi-approaches",
+      "paragraphs": [
+        {
+          "text": "The FBI-managed High-Value Detainee Interrogation Group produced a review of investigative research, including rapport-based, noncoercive information gathering. Its setting differs from an ordinary conversation with a friend, family member or supplier.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "An agency name, or an anecdote from a former investigator, cannot establish effectiveness. Ask what research measured. More talk, more accurate information and more confessions are different outcomes. A technique’s reputation is not a substitute for evidence about the outcome you need.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Do not import coercion, traps or a body-language checklist into everyday relationships. Where a formal dispute, threat or controlling situation is involved, appropriate support matters more than conducting your own investigation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Include your hopes and make a decision",
+      "anchor": "include-your-own-stake-in-the-answer",
+      "paragraphs": [
+        {
+          "text": "Wanting reassurance can make weak support feel sufficient. A previous betrayal can make a new discrepancy seem decisive. Name what you hope or fear, then apply a comparable standard to information that pleases you and information that does not.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a separate fictional situation, you recommended a purchase and want it to succeed. That is a reason to examine delivery evidence carefully. It does not justify discounting the buyer’s concern, and it does not establish that the seller lied.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A discrepancy might reflect a mistake, different meanings or deception. A plausible explanation is not proof either. You can make an arrangement depend on a relevant check, clarify terms, change supplier or set a limit without obtaining a confession. Proportionate action can coexist with uncertainty about intent.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Try one legitimate check",
+      "anchor": "put-it-into-practice",
+      "paragraphs": [
+        {
+          "text": "Consider a fresh fictional situation. A seller says an item was dispatched on Monday. Tracking shows the carrier received it on Wednesday. What needs clarification, and what does the discrepancy leave uncertain? Pause the player if you would like longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Packing, creating a label and carrier receipt may be different events. Ask what dispatched meant and compare the agreed terms. The dates matter, but the difference alone does not establish what the seller knew or intended.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "This week, choose one ordinary claim you strongly want to believe or disbelieve. State it precisely and make one legitimate, relevant check. Review what it established and how it changed your decision. Do not secretly monitor someone, set a trap or test a threatening situation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "source": "reference/financial-control.md",
+  "title": "Control of money & resources",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Who has access and a real choice?",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Handling money for someone and controlling their freedom through money are different arrangements. Harmful control can restrict access to essentials, spending, work or support in ways that impose dependence. The question is not only who pays the bills. It is who can understand the situation, obtain resources and genuinely choose.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Apparent agreement can conceal a lack of practical alternatives. At the same time, not every financial disagreement or refusal to lend money is abuse. This is general information, without specialist review or an individual safety assessment. We will use fictional comparisons to clarify what deserves attention.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare arrangements, not just job titles",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "In one fictional household, one partner handles bills because both prefer that division. Both can inspect the information, discuss decisions and obtain necessities. In a different household, essential funds are withheld after disagreement. Both arrangements might be described as one person managing money, but access and the consequences of refusal differ substantially.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Limited resources, legitimate account protections and agreed safeguards also need consideration. A difficult budget does not automatically mean one person is imposing dependence. Conversely, providing an income does not confer unlimited authority over another adult's contacts, movements or personal decisions. Rights and responsibilities depend on the arrangement and location.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Notice restrictions without creating new risk",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Using information already available, where safe, consider who can see accounts, understand debts, earn money and obtain essentials. Can decisions be questioned? What happens after disagreement? A claim of expertise, care or careful budgeting does not settle whether the arrangement leaves meaningful choice.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Do not test a restriction by provoking conflict. Nor should a general suggestion about keeping records lead you to collect sensitive documents or change account access when that could expose you to harm. You can ask for advice without a complete record, a final label or proof of the other person's intention.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Guidance and research have different jobs",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Home Office statutory guidance describes coercive behaviour as an unfolding pattern, including economic abuse, threats and restrictions affecting everyday freedom. It concerns law and practice in England and Wales. The NHS also describes economic and other domestic abuse and confidential UK support routes. These are guidance sources, not individual risk assessments or proof that an offence occurred.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Research can offer distinctions without deciding the case. Jason Colquitt and colleagues combined organisational fairness studies and distinguished fair outcomes, procedures, treatment and information. Most evidence came from organisations. It does not establish one correct household allocation or show that an argument about fairness is dishonest. Access and safety still require attention in their own right.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Match the response to the circumstances",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "For an ordinary shared budget, clarifying decision rights, information access and when to review the arrangement may help. The arrangement should be discussed rather than assumed from who earns more or has more financial knowledge. A chosen division of work can be useful when the people involved retain meaningful participation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Where access, rights or safety are at issue, an appropriate confidential financial, legal or domestic-abuse service can discuss options. Avoid treating confrontation or opening another account as universally safe or legally straightforward. Qualified local advice can consider circumstances a general lesson cannot. You do not need a diagnosis of anyone involved before seeking it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose an advice question",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "If it is safe to reflect, choose one concrete concern about access, information or a financial responsibility. Which kind of confidential advice could help, and what privacy concern would you need to mention? Pause the player for longer if useful. There is no need to test a restriction.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful question might be about understanding a debt or accessing necessities, rather than proving a hidden motive. Review whether you know more about available options and how to seek advice privately. Leave unresolved legal questions to advice suited to your location and arrangement.",
+          "pause_after_ms": 950
+        },
+        {
+          "text": "Remember the central comparison: financial management by agreement differs from imposed dependence. Ask who can access resources and genuinely choose. Full guidance links and support information remain on the written pages.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

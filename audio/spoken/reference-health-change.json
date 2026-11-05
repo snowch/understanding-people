@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/health-change.md",
+  "title": "New changes in behaviour or functioning",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "A change needs its own question",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A new change in behaviour or functioning should be compared with a person's earlier pattern and current circumstances. Difficulties with concentration, sleep, communication, self-care or usual activities can have several explanations. A change is not automatically a previously hidden personality trait revealing itself.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "One distinction needs attention straight away: sudden new confusion requires urgent medical assessment. Do not wait for a communication exercise or assume normal ageing. This lesson gives general information and has not received specialist review. It cannot diagnose the cause of a change or assess an individual's safety.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Consider health and circumstances",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Illness, pain, sensory changes, stress, substance effects and other factors may affect ordinary demands. Someone may also face a real change in their life or an arrangement that has become inaccessible. These are possibilities for appropriate assessment, not a list from which to select a diagnosis. Several influences may coexist.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A longstanding preference differs from a departure from usual behaviour. Gradual difficulty and a sudden acute change may need different responses. Compare with the person's own earlier functioning, rather than with an age stereotype or an expectation about how people ought to behave.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Public guidance and urgency",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "NHS guidance treats sudden new confusion as urgent because several medical causes are possible. Its service details are specific to the United Kingdom; use the appropriate urgent medical service where you are. A serious acute change calls for medical attention, rather than an attempt to discover a psychological motive.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The United States National Institute of Mental Health recommends considering distress, persistence and interference with usual activities when seeking support. Its depression guidance describes effects that can extend beyond visible mood. Neither source can establish the cause of one person's change from quietness or withdrawal alone; local services and urgency matter.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Describe timing and impact",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Imagine a fictional relative who suddenly becomes confused about routes they normally know well. The change calls for urgent medical assessment. Treating it as stubbornness, or gathering incidents to prove a personality label, would miss the important distinction between familiar behaviour and a new difficulty.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Useful information includes what changed, when it began and its effects on daily life. Include the person's account where possible and relevant circumstances, such as recent illness, changed medication or lost sleep. Keep the account concise and avoid unnecessary private details. Recording information should not delay urgent care.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Support within your role",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "For a concerning persistent change, encourage or arrange an appropriate health conversation with consent and within your role. A clinician can assess possible causes and advise on care. Do not stop prescribed treatment or change medication on the basis of this lesson or an explanation you have constructed yourself.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Practical help can begin while the explanation is being assessed. Ask which immediate task needs assistance and what the person wants to retain control over. That does not require assuming the change is permanent. Equally, maintaining independence should not become a reason to ignore a serious new need.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Prepare a useful support question",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "For a non-urgent concern, consider how you would describe the change without assigning its cause. What timing and practical effect would help an appropriate health conversation? Take a moment, and pause the player if useful. If sudden confusion is happening now, seek urgent medical help instead.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A concise account could describe an activity that became difficult and when the change was first noticed. Review whether assessment and practical support were accessed, and update your understanding with professional advice. The cue is a new change needs a new question, with the response matched to its urgency.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

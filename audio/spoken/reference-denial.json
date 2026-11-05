@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "source": "reference/denial.md",
+  "title": "Denying an event or agreement",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "A contradiction needs checking",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "When someone denies an event or agreement, they are saying it did not happen or did not mean what another person reports. Their denial might be accurate, mistaken, partial or deliberately misleading. The existence of disagreement does not tell you which. Start with what each account claims and what information could clarify it.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "This is general information, without specialist review or an assessment of your circumstances. You do not need to settle every contradiction before seeking support about harm. For ordinary disputes, the cue is to check accuracy before claiming deliberate distortion. Our example is fictional.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check the scope of the agreement",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Imagine remembering that a friend promised to help on Saturday. They say they never committed. A message reads, possibly, if work finishes. That record supports a conditional offer, rather than the definite promise you remembered. It can change your conclusion without establishing everything about the conversation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A different message with a clear commitment would support a different conclusion. The point is not to prefer the reassuring explanation. It is to compare the actual wording with each account, including the conditions and what a record leaves out. Your own confidence is relevant to your experience, but cannot settle the fact by itself.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Memory can change without every memory being false",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Elizabeth Loftus reviewed experiments on misinformation after an event. Later suggestions can affect what people report remembering. That finding cannot tell you that this particular memory is false, and it does not justify dismissing an account of harm. Fallibility is a reason for careful checking, not blanket disbelief.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Charles Bond and Bella DePaulo combined studies of unaided truth and lie judgments. Average accuracy was around fifty-four percent, with truths recognised more accurately than lies. That average is not the probability that the person in front of you is lying. Their confidence or apparent discomfort does not replace relevant information.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Look beyond the isolated disputed detail",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Identify how each person knows what they report. Several people repeating one account are not several independent witnesses. Use relevant records you can legitimately access, and keep clear what those records establish. Notice whether clarification brings correction, continuing uncertainty or attacks on your general credibility.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Sociologist Paige Sweet analysed domestic-violence accounts to explain gaslighting in relation to power and structural inequalities. This qualitative analysis is not a checklist for classifying any disagreement. One disputed memory cannot establish a systematic pattern of discrediting; ambiguity in one event also cannot rule such a pattern out.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a safeguard without requiring a confession",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "In an ordinary disagreement, clarify what can be established and make the next agreement more explicit. State the task, conditions and time. You can decide on a practical safeguard even if you never agree on why the earlier misunderstanding happened. Extracting a confession is not required for every useful decision.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If contradictions occur alongside intimidation, restricted choices or repeated attempts to undermine your credibility, consider appropriate support. Record-keeping should be safe and suited to your circumstances. Repeatedly arguing for acknowledgment can consume attention without increasing your options, and no general lesson can tell you whether confrontation is safe.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate findings from remaining uncertainty",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose a low-stakes disputed agreement. Describe the two accounts and one legitimate source that could clarify a detail, or a clearer future agreement. What would that information still leave unknown? Pause the player if you would like longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the fictional Saturday offer, the message clarifies the condition. It does not establish whether someone deliberately misremembered or explain every later interaction. After your own check, distinguish what you established, what remains uncertain and what practical arrangement you now need.",
+          "pause_after_ms": 950
+        },
+        {
+          "text": "The useful outcome is a better-supported understanding and a workable response. It need not be a verdict that one person is entirely trustworthy and the other entirely unreliable. Full sources and support links remain on the written page.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

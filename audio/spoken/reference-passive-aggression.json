@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "source": "reference/passive-aggression.md",
+  "title": "Indirect resistance & passive aggression",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Describe the indirect action first",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Passive aggression is an everyday label for indirect resistance or hostility, such as pointed comments or obstructive conduct. It is an interpretation, rather than a category this book can validate from a few incidents. Begin with what happened and the problem it created, rather than assuming the label reveals hidden anger.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A practical obstacle, forgetfulness, privacy or legitimate refusal may be misread as covert hostility. Repeated obstruction can also make an arrangement unworkable even without an admission of anger. This lesson offers general information, without specialist review or an individual safety assessment. The brief scenario is fictional.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Clarify the task before explaining the attitude",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Imagine a housemate agreeing to a chore but repeatedly leaving it unfinished while making jokes about your standards. There are at least two concrete issues: what outcome was agreed and what the comments communicate. Asking whether they still agree to the task gives you more usable information than demanding why they are passive-aggressive.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Compare similar occasions, including tasks that were completed. Was the required outcome clear? Was there enough time or access? An indirect complaint may contain a real concern about the arrangement. Listening to that concern need not mean accepting repeated failures or jokes that leave the practical burden with you.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make explicit disagreement possible",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Indirect resistance may arise when disagreement feels costly, someone lacks a way to raise it or anger remains unspoken. These are possibilities, not findings about the housemate. Notice your own response to an honest no. Punishing explicit disagreement while criticising indirect resistance can leave little room for a clear answer.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Power may affect that room. Dacher Keltner, Deborah Gruenfeld and Cameron Anderson reviewed connections between power, opportunities, threats and behavioural tendencies. Their broad framework is not a rule that explains every powerful or less powerful person. It encourages attention to consequences of speaking openly, without allowing you to infer a motive from status alone.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask for information and review conduct",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Tal Eyal and colleagues studied interpersonal predictions. Imagining another perspective did not consistently improve accuracy, while obtaining information through conversation helped in a final experiment. This supports asking about the practical problem when appropriate. It does not guarantee an honest answer, complete understanding or a safe exchange.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Thomas Webb and Paschal Sheeran combined intention-change experiments and found that behaviour generally changed less than intention. A renewed yes and actual completion therefore remain different information. The finding cannot tell you why the earlier task failed, or establish that a later promise is dishonest. Follow-through still needs review.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Address the consequence within your control",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "For an ordinary issue, invite a clear answer, clarify the required result and make the next agreement realistic. You can discuss a different division of tasks if the first one is not workable. This process is an editorial suggestion to assess, rather than a proven cure for every indirect conflict.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If the same consequences continue, consider changing the arrangement or using an appropriate process. You do not have to keep debating an inferred attitude. Politeness does not establish an absence of harm, and a strong accusation does not establish motive. Where direct discussion could expose you to threats or retaliation, use suitable support rather than testing whether honesty will be tolerated.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review the arrangement, not a confession",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose an ordinary indirect action that caused a concrete problem. Describe the action without the label, and form one question about agreement or a barrier. Notice whether you are willing to hear a real answer. Pause the player for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the fictional chore, an answer might clarify which result and timing the housemate accepts, rather than ask them to confess hostility. After the next appropriate step, review completion, the burden on others and whether the arrangement needs changing. A motive admission is not the measure of success.",
+          "pause_after_ms": 950
+        },
+        {
+          "text": "Remember the useful distinction: uncertain intention does not erase recurring consequences. Name the indirect action, make room for explicit disagreement where safe and decide what arrangement you can realistically rely on.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

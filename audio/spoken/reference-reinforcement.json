@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/reinforcement.md",
+  "title": "Consequences that sustain a pattern",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/emotion-and-learning.json"
+  ],
+  "sections": [
+    {
+      "title": "Look at what becomes more likely",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Reinforcement is a learning process in which a consequence makes a response more likely in similar circumstances. The important part is what happens on later occasions, rather than whether someone meant to encourage the action. One pleasant result does not by itself demonstrate reinforcement.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Positive reinforcement adds something; negative reinforcement removes something unpleasant. Positive and negative mean addition and removal here, not good and bad. Both concern an increase in responding. Punishment concerns a decrease. Our practical cue is: ask what follows the action, and what happens next time.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Immediate relief can have a later cost",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "An action might continue because it gains attention, secures an outcome or brings relief. Avoiding a difficult conversation can remove discomfort immediately while leaving the original problem for later. That is a possible sequence to investigate, not proof of what maintains any particular person's behaviour.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Wendy Wood and Dennis Rünger reviewed habit research showing how repetition in recurring settings can make responses more automatic alongside deliberate goals. Repetition alone does not identify a habit or reinforcement. A repeated action can also reflect a necessary duty, a current choice or circumstances offering no safe alternative.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Safety is not something to withdraw as a test",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Relief after escaping genuine danger is not a reason to remove protection. Stefan Hofmann and Angela Hay reviewed avoidance in anxiety treatment, including situations where avoidance can be adaptive. Actual danger and the function of the response matter. Their review does not authorise you to conduct exposure treatment or remove someone's safety arrangements.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Support following distress also does not prove that someone created distress to gain attention. What an action accomplishes and what the person intended are different questions. Do not withhold necessary care, basic support or safety to test an explanation of learning.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Follow an ordinary sequence",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example about your own choices. You accept every invitation because declining feels awkward. Saying yes brings immediate relief, but later leaves you overloaded. Practising a brief, honest answer on a low-stakes occasion offers a different response to the same discomfort. The aim is a sustainable choice, not guaranteeing that discomfort disappears.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Notice what came before your action, what happened immediately after it and whether the sequence repeats. Include exceptions. Your own response may also be part of a shared pattern, such as taking over whenever disagreement becomes uncomfortable. Ask whether that transfers the work rather than resolving it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make an alternative workable",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Susan Michie and colleagues reviewed behaviour-change frameworks and proposed considering capability, opportunity and motivation together. This helps organise possible barriers to an alternative action; it does not diagnose the cause of a pattern. Someone may need a practical option, not another lecture about what they should do.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For an ordinary pattern you want to change, make a constructive alternative easier and worthwhile. Agree the change with affected people. If responsibilities are shared, clarify ownership so that one person's relief does not depend on another person's invisible labour. Repeated criticism alone supplies little guidance about the next useful action.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare several occasions",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose a small recurring action of your own. What happens just before it, what follows it, and what alternative could meet the legitimate need with fewer unwanted costs? Take a moment, and pause the player for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Try the alternative in an ordinary, safe setting and compare later occasions, including misses and exceptions. The written entry has research links and further practice. Treat your explanation as something to review over time, rather than turning one outcome into a theory about another person's motives.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

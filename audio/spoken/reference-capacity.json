@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/capacity.md",
+  "title": "Time, resources & capacity",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "A plan needs resources",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Capacity concerns what someone can realistically take on under current conditions. Time, money, health, information, tools, access and existing responsibilities all matter. Capacity differs from willingness, and reliable performance in the past cannot guarantee the same capacity today. A person can care about a task and still be unable to fit it in.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Keep the cue in mind: a plan needs resources, not just goodwill. A useful conversation makes trade-offs visible. It asks what this task needs, what is already committed and what would have to change, rather than turning busyness into a judgment about devotion or character.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Count the work you cannot immediately see",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Overcommitment can happen when each request is considered separately. Planning, travel, coordination, caregiving and recovery may not appear in the visible task time. Saying no can also carry costs. A requester may assume tools or access are available without checking, then mistake a practical barrier for reluctance.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Susan Michie and colleagues reviewed behaviour-change frameworks and proposed examining capability, opportunity and motivation together. Their framework helps organise an inquiry into what is feasible. It is not a diagnostic test or proof that one barrier caused a particular missed action. More than one influence can operate at once.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "An intention does not supply the missing resource",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Thomas Webb and Paschal Sheeran combined forty-seven experimental tests in which intentions changed. Behaviour changes were generally smaller than changes in intention. That supports separating a promise from follow-through. It does not establish why an individual failed to act, or imply that every unfulfilled promise was insincere.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Jason Colquitt and colleagues combined organisational-justice studies distinguishing fairness of outcomes, procedures, treatment and information. Most evidence concerned organisations. It does not establish one correct allocation of work. A capacity conversation can still consider several kinds of fairness without becoming a competition over who is most exhausted or deserving.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Different activities can require different capacity",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional friendship example. Someone caring for a relative can meet locally for twenty minutes but cannot manage a distant evening event. Those answers are compatible because the demands differ. Adjusting the form of contact may preserve the relationship without requiring them to account for every hour of their day.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A stated limit may be accurate, incomplete or a polite refusal. That uncertainty does not justify intrusive demands for proof. Distinguish a skill gap, temporary overload and a different priority where useful. In shared work, a reasonable explanation still leaves the practical consequence of an unmet responsibility to address.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make the trade-off explicit",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Adjust scope, timing, resources or ownership. Ask for an early warning when a commitment becomes unrealistic. If you are at capacity, state what you can offer and what would need to move or stop. A narrower, dependable commitment can be more useful than another generous promise that cannot fit.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Notice whether someone else has become the automatic backup. Revising an arrangement should not simply transfer the burden to that person without discussion. Compare a narrower request or an easier occasion, and ask whether the new plan has the resources it needs rather than relying on another round of goodwill.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check feasibility and the burden",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose one commitment of your own. What are its actual requirements, including invisible work, and what responsibilities compete with it? Name one adjustment to scope, timing or ownership. Pause now, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "At review, ask whether the commitment became feasible and whether work was silently transferred to someone else. The written entry has research links and further practice. The useful outcome is a realistic arrangement, rather than a verdict about how hard everyone is trying.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

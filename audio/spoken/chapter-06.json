@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "source": "chapters/06-personality-habits-situations.md",
+  "title": "Personality, habits and situations",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "chapters/06-personality-habits-situations.md"
+  ],
+  "sections": [
+    {
+      "title": "Describe a pattern without fixing a person",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A personality description summarises a pattern across occasions. A habit describes a learned response in a recurring setting. Both can be useful, but neither is a complete explanation of a person. Ask when the behaviour happens and when it does not.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "That question matters when you describe yourself as disorganised or someone else as uncaring. Make the action specific, look for exceptions, and compare the conditions. You can address an important pattern without assuming it defines every part of the person or will never change.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Traits are dimensions",
+      "anchor": "use-traits-as-dimensions-not-compartments",
+      "paragraphs": [
+        {
+          "text": "A personality trait is a tendency in how someone thinks, feels or behaves across occasions. The Big Five is a way to describe personality on five broad scales. These are dimensions, not five types of people, and a position on one scale does not determine the others.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For a brief fictional example, Alex might be less outgoing than a friend while being similarly organised. Alex can usually prefer a quiet gathering and occasionally enjoy a large party. The exception does not make the general tendency meaningless; it helps show what the description does and does not cover.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Christopher Soto and Oliver John developed and tested the Big Five Inventory–2 questionnaire, covering broad dimensions and more specific features. That research supports descriptions across scales, not assigning a type from one incident. The book does not administer the questionnaire. Traits are neither moral scores nor clinical diagnoses.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare occasions and exceptions",
+      "anchor": "look-for-both-consistency-and-variation",
+      "paragraphs": [
+        {
+          "text": "William Fleeson repeatedly asked people about their everyday behaviour. People varied considerably across occasions while showing stable differences in their average patterns. This allows both observations to be true: people differ from one another, and the same person can behave differently in different settings.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a separate fictional example, a colleague speaks little in rapid meetings but contributes clear written ideas afterwards. Preparation time, format or language demands may matter. Quietness during that meeting does not establish a general lack of interest or confidence.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Family resemblance also needs care. Inherited tendencies, learning and shared conditions can all matter. Tinca Polderman and colleagues combined twin studies, examining variation across studied populations. Their work does not assign a genetic percentage to an individual action. Relatives declining similar offers cannot separate genes from upbringing.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Repetition is not automatically habit",
+      "anchor": "ask-whether-repetition-is-being-mistaken-for-intention",
+      "paragraphs": [
+        {
+          "text": "A habit is a learned tendency to respond fairly automatically when a familiar situation occurs. Repeatedly scrolling on the sofa could eventually make sitting there a cue to reach for the phone before you have decided what to do.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Wendy Wood and Dennis Rünger reviewed how repetition in recurring settings can make responses more automatic. But repeated conduct can also reflect an ongoing demand, a continuing preference or a lack of alternatives. Seeing an action often does not settle which explanation fits.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask what usually happens before the action and what follows it. Include occasions when it does not occur. A routine explanation should leave room for choices and responsibilities, rather than treating everything repeated as outside someone’s influence.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Change an agreed condition",
+      "anchor": "change-the-arrangement-then-observe",
+      "paragraphs": [
+        {
+          "text": "Choose a change connected to an actual obstacle. That could mean a clearer cue, an accessible tool, useful instruction or a realistic task size. Agree changes involving another person. Secretly rearranging their surroundings as a test would take away their part in the decision.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Here is another fictional example. You notice that you check your phone whenever conversation pauses. For one agreed conversation, you put it aside and practise asking a follow-up question. That gives you an alternative action to try. It does not prove that all earlier checking was automatic.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A pattern can be understandable and still need to change. Brent Roberts and colleagues reviewed interventions and found that personality measures could change, particularly in clinical work. That does not show that a short exercise or pressure from you will change a relative’s traits. Aim for useful observable behaviour and appropriate support.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Replace one fixed label",
+      "anchor": "put-it-into-practice",
+      "paragraphs": [
+        {
+          "text": "Consider a new fictional situation. A relative declines financial advice but asks for help repairing a bicycle. You had thought they never accepted help. What does the second observation change, and what remains uncertain? Take a moment; pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "It contradicts the claim that all help is refused. You could ask what differs about privacy, decisions, expertise or the offer. It does not establish the cause of every refusal or reveal one underlying independence trait.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "This week, replace one fixed label about yourself with a specific pattern. Describe when, where and under what conditions the action occurs, including an exception. Try one useful adjustment and review what happened without treating one result as proof of a trait.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

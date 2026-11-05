@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/ocd.md",
+  "title": "Obsessive-compulsive disorder (OCD)",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/clinical-vocabulary.json"
+  ],
+  "sections": [
+    {
+      "title": "More than tidiness",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Obsessive-compulsive disorder, or OCD, involves recurring intrusive obsessions, compulsions or both, with potentially substantial distress or interference in daily life. Obsessions are unwanted recurring mental experiences; compulsions can involve visible actions or mental routines. Calling a preference for tidiness OCD misses that clinical meaning.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "One distinction is especially important: unwanted thoughts and chosen intentions are different. Mental content does not by itself reveal what someone wants to do. This lesson is general information, has not received specialist review, and cannot diagnose a person or provide an individual assessment of safety.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Understand the person's experience",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Someone may feel driven to seek certainty or reduce distress through checking, reassurance or rituals. What the activity means to the person, and what it does in their life, matter. Seeing repeated handwashing or hearing about one unwanted thought cannot establish OCD from the outside.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The United States National Institute of Mental Health describes intrusive obsessions, compulsions and their possible effects on everyday activities, as well as available treatment approaches. This is public clinical guidance. It does not turn cleanliness, caution or an upsetting thought into a diagnostic questionnaire.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Similar words, different questions",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Ordinary checking, genuine safety requirements, general worry and other health conditions need to be considered in assessment. Obsessive-compulsive personality disorder, called OCPD, is a separate condition involving a broader personality pattern. The MSD Manual's guidance on that condition helps make the vocabulary distinction clear.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A person can have both conditions, and people vary in their insight and presentation. A simple contrast between enjoying neatness and disliking it is therefore not a diagnostic method. Attention belongs on distress, time spent and interference with daily life, without trying to classify someone through appearances.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Notice impact without scoring symptoms",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional friend who repeatedly asks whether they locked a door, and says checking consumes hours. Their report gives a clear reason to discuss support. Helping them arrange a clinical conversation addresses the difficulty. Mocking the routine or secretly altering the door would not be an assessment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For your own support conversation, describe what feels compulsory, how much time it takes and what it interrupts. When someone tells you they have OCD, ask what support is appropriate. You do not need to collect examples of rituals to decide whether their reported diagnosis is genuine.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Support an agreed plan",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Qualified professionals can assess OCD and discuss treatment options. In a relationship, clarify a plan with the person and, where appropriate and with consent, their clinician. Do not abruptly remove rituals, offer repeated certainty as improvised treatment, or stage exposure exercises yourself. Practical limits can still be discussed respectfully.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The National Institute of Mental Health recommends considering distress, persistence and disruption of usual activities when seeking help. Its service information is specific to the United States, so support routes need adapting to where you live and to urgency. General guidance cannot determine the right care for an individual.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask about support",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think about a reported difficulty rather than a symptom score. What question would help identify an assessment route, or clarify your part in an existing care plan? Take a moment. You can pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "You might ask whether help arranging an appointment would be useful, or what support the person has agreed with their clinician. Later, review whether support was accessed and which practical needs remain. Remember both distinctions: OCD is more than tidiness, and an unwanted thought alone does not establish an intention.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

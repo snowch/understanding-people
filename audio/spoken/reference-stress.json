@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/stress.md",
+  "title": "Stress & overload",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/emotion-and-learning.json"
+  ],
+  "sections": [
+    {
+      "title": "Demands and resources belong in the same picture",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Stress describes responses to demands or threats that strain available resources. It can affect attention, memory, decisions, bodily arousal and interaction. People may become reactive, quiet, rushed or rigid, but those actions alone cannot establish stress or its cause. Outward calm does not prove that someone is coping easily either.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Keep this cue in mind: reduce avoidable load before judging capacity. You can investigate what has changed in demands and resources while addressing the effects of a response. Understanding a difficult period and taking responsibility for conduct can happen together.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What acute-stress research tells us",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Grant Shields and colleagues combined studies of acute stress and core executive functions, such as holding information in mind and switching flexibly between tasks. Stress tended to impair working memory and flexible switching. Findings concerning inhibition were more mixed. These are research averages, not a complete explanation of an individual's sharp reply.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A task can become harder under interruptions, too many decisions or competing responsibilities. Sleep, pain, health and support can matter as well. Some demands are temporary, while others are built into work or caregiving arrangements. Calling the result stress should not turn an unfair workload into one person's obligation to cope better.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate an explanation from an excuse",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "A harsh response might involve disagreement, habit, poor communication or deliberate hostility. Stress may contribute without explaining everything. When someone else's behaviour affects you, describe the specific action and its impact. You do not need to prove how stressed they were before asking for a change or maintaining a limit.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A sudden or persistent change in functioning also deserves attention rather than an automatic assumption about temperament. Depending on the change and urgency, support or medical assessment may be appropriate. A personality description cannot settle a new health concern.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make support reduce the actual work",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional caregiving week. You keep snapping at routine questions while coordinating appointments and meals. Agreeing on one place for updates, and asking a relative to own a particular task, may reduce interruptions. You can apologise for snapping while explaining the arrangement you need next.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Notice what is urgent, what can wait and what requires concentrated attention. Compare difficult occasions with more manageable ones. An offer of help can still add work if you must organise every detail. Check whether the support changes the demand rather than simply creating another conversation to coordinate.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose and review a response",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "George Bonanno and Charles Burton reviewed coping and emotion regulation. Their framework emphasises understanding context, having several response options and adjusting to feedback. It has measurement limits and does not establish a universally best coping strategy. A pause may help in one setting; clearer priorities or practical assistance may matter more in another.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Try reducing one unnecessary demand, clarifying an expectation or arranging a pause with a return point. The US National Institute of Mental Health advises considering distress, persistence and interference with daily activities when seeking help. Use support suited to local services and urgency when distress or impaired functioning continues. Urgent health changes deserve appropriate attention.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Change one avoidable demand",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a difficult period and one response you would like to handle differently. Which avoidable demand could you reduce, or what specific task could someone else own? Take a moment, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "After the change, review workload, recovery and effects on other people. If functioning remains impaired, consider further support rather than repeatedly asking more of the same person. The written entry has research links and space for notes. Useful support changes conditions as well as acknowledging feelings.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

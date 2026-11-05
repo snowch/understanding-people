@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "source": "about.md",
+  "title": "About the book and author",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "about.md"
+  ],
+  "sections": [
+    {
+      "title": "A practical question across different situations",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Understanding people is a self-published web book created and maintained by Christopher Snow. It began with a practical question: how can we understand what drives somebody across very different situations, while checking our own assumptions? That includes the explanations we give our own behaviour.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The intended reader is a curious adult without specialist training in behavioural science. You may arrive with a relationship question, a shared project or a difficult decision. The book offers concepts and questions to examine an explanation and choose what to do, rather than a method for reading another person's mind.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Why the book takes several perspectives",
+      "anchor": "why-this-book",
+      "paragraphs": [
+        {
+          "text": "The individual matters, but so do relationships and wider circumstances. A person's goals are useful to consider alongside who controls a timetable, what an activity costs and whether refusal is a real option. Explaining behaviour solely through personality can miss those conditions.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "There is overlap with books that explore revising beliefs and the difficulty of understanding unfamiliar people. This project focuses on ordinary, recurring situations, including familiar people and ourselves, then connects explanation to support, conversations and boundaries. Those comparisons describe its focus; its scientific claims rely on the research cited in the chapters.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Judge the explanation against its sources",
+      "anchor": "authorship-and-accountability",
+      "paragraphs": [
+        {
+          "text": "The current book is a first draft, with twelve chapters and a deeper reference library. It has not undergone external subject-matter review. Traceable sources, accurate explanations, explicit limits and corrections are central to how it should be assessed. A confident voice or polished page is not a substitute for that accountability.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If something seems wrong, identify the particular explanation, the evidence or limitation that concerns you, and a correction that could be checked. The public repository provides a route for feedback. Avoid posting private information about identifiable people. The aim is a clearer, better-supported book that helps you notice more accurately and act more thoughtfully.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

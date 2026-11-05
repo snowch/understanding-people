@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/child-development.md",
+  "title": "Children: ability, learning & expectations",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "Match the request to this child and this setting",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Children develop abilities in communication, movement, play, learning and responding to other people. Expectations need to fit both current skills and the conditions of a task. Behaviour that frustrates an adult does not, by itself, establish deliberate defiance, a stable trait or a developmental condition.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The cue is: match the expectation to the skill and setting. That means asking what the child can currently do, how the request was explained and what support makes participation possible. It also means taking concerns seriously without treating one missed task as a diagnosis.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What is difficult about the action?",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "A child may not understand an instruction, remember several steps, manage the sensory demands or know an alternative action. They may also want choice, need rest or disagree. These are possibilities to investigate through communication, behaviour and appropriate guidance, not a list that automatically explains the moment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Susan Michie and colleagues reviewed behaviour-change frameworks and proposed examining capability, opportunity and motivation together. That framework can organise questions about a request, but it is not a diagnostic test or proof that one barrier caused the behaviour. Adult expectations and the environment belong in the inquiry too.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Use developmental resources within their limits",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "The US Centers for Disease Control and Prevention provide public guidance on development in play, learning, communication, action and movement. They recommend discussing developmental concerns or lost skills with a clinician. Their milestone resources do not replace validated screening and cannot diagnose a child from one missed task.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Variation in development is not a reason to ignore recurring concerns or loss of skills. Seek appropriate advice rather than waiting to settle a theory about the child's personality. This educational material has not received specialist developmental review, and care or school arrangements need to fit actual needs and local responsibilities.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "A clearer instruction supplies information",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. An adult says, tidy up everything, and a child does not clear the table. The adult then names one action, putting cups on a tray, and demonstrates it. This makes the request clearer. The child's response supplies information about that task without settling every explanation for earlier difficulties.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Inability, uncertainty and unwillingness are different questions and can coexist. Watching an adult demonstrate something does not guarantee that a child can do it independently in another setting. Compare a shorter instruction, a quieter place or a different time where appropriate, and include successful participation as well as difficult moments.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Support learning without shame",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Richard Ryan and Edward Deci reviewed theory and evidence concerning autonomy, competence and connection. Their framework suggests asking about choice and support without claiming to identify the cause of a particular refusal. A manageable choice can coexist with a clear responsibility and appropriate safety limits.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Provide a clear instruction and, when needed, an appropriate alternative action. Seek the child's view in a way they can use. Avoid shaming them or turning the task into a test of affection. If concerns recur, discuss them with a suitable clinician or educational service rather than repeatedly increasing pressure.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose clarification or advice",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of one task expected of a child. What exact skill does it require, and how was the request explained? Choose an appropriate clarification or support. If you are concerned about development or lost skills, consider which service could advise you. Pause now, and pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Review what the child could do, what helped and what support remains necessary. Keep successes in the account. The written entry has guidance links and further practice. The useful outcome is a better-fitting expectation and timely help where needed, rather than a verdict about the child's intentions.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

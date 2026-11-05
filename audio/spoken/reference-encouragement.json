@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/encouragement.md",
+  "title": "Support someone’s next step",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/responding-and-collaborating.json"
+  ],
+  "sections": [
+    {
+      "title": "Support effort without promising success",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Encouragement supports someone’s effort or next action while recognising their own goals and choices. It can include practical help, useful information, confidence or noticing progress. It differs from guaranteeing success, dismissing difficulty or making your approval depend on the result. The person can need help without needing a larger motivational speech.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Someone may value an aim while finding the next step unclear or inaccessible. Another person’s enthusiasm might help, but it can also add pressure to sound confident. Begin by asking what they want to achieve, what part is difficult and whether support is wanted.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Identify the missing condition",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "The task may require a demonstration, time, equipment, an accommodation or a more realistic plan. Encouragement cannot replace those things. A person might also prefer a different goal from the one you hoped for. That choice does not by itself establish a motivation defect.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Look for a step small enough to attempt and informative enough to learn from. Ask which decisions remain with the person and which responsibilities are genuinely shared. Include your own hopes: are you helping them move towards their aim, or rewarding movement towards an ambition you have chosen for them?",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What frameworks and student research support",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Richard Ryan and Edward Deci reviewed autonomy, competence and connection in motivation and well-being. Susan Michie and colleagues’ framework considers capability, opportunity and motivation as interacting conditions for behaviour. These frameworks organise questions. They cannot identify the cause of a particular hesitation or show which support one person needs.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Joshua Howard and colleagues combined studies of student motivation and outcomes. Different forms of motivation showed different links with learning and well-being. Many links were not causal, and applying them outside education needs care. Enjoying the activity, valuing its outcome and responding to external incentives remain distinguishable reasons for acting.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Give help the person can use",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. Maya wants to learn a piece of music but stops at the same difficult passage. Her friend asks what would help. Maya chooses to practise a short section slowly while the friend marks the rhythm. The attempt supplies information about the difficulty while keeping the learning hers.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The friend can identify what became steadier and what still needs practice. That is different from saying Maya can do anything if she tries. Notice effort and progress that actually occurred, and keep feedback specific enough to use. A revised plan can count as progress when the earlier plan was unrealistic.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Use incentives honestly and keep choice visible",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Christopher Cerasoli and colleagues combined research on motivation, incentives and performance. Intrinsic motivation and external incentives both mattered, with differences between quality and quantity. Rewards are not universally helpful or harmful, and performance findings cannot identify one person’s values. An incentive cannot be assumed to address every need.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Where you control resources or approval, take particular care with refusal. Let someone report a difficulty without having to perform confidence for you. Agree a review point if you share responsibility, but avoid taking over every decision. The cue is to help the next step belong to the person taking it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Offer one specific kind of support",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of an ordinary goal someone has chosen and shared with you. What next-step difficulty could you ask about, and what support could you offer without assuming it is wanted? Take a moment to frame the question. Pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "You might ask whether finding a demonstration or practising one small part would help, while leaving room for no. Afterwards, review learning, feasibility and ownership. Confidence in the conversation is not the only measure. The useful question is whether support fitted the task and left appropriate choices with the person doing it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

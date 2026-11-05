@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/retaliation.md",
+  "title": "Retaliation after a refusal or complaint",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "A sequence raises a question",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Retaliation involves an adverse response to someone refusing a demand, raising a concern, asserting a right or taking another disapproved action. In law, its definition depends on the setting and jurisdiction. In ordinary life, a suspected penalty can still matter before its legal or psychological explanation is settled.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Timing deserves attention without being proof by itself. An unwanted event after a complaint may have another cause. This general material has not received specialist review or assessed your safety. Suitable confidential advice can help examine the sequence and practical consequences without requiring certainty about someone’s motive.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Power changes what a penalty means",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "A cost may be imposed to discourage challenge or express anger. Dependence can make even an implied consequence influential: losing shifts, money, housing access or support may affect whether a person feels able to speak again. These are possibilities to examine in context, not conclusions established by the feeling of being punished.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A consistently applied consequence of an actual agreement differs from a penalty for raising a legitimate concern. Disagreement about that distinction may need formal advice. Harmful conduct can also fall outside a particular legal definition. The absence of a clear legal label does not make its practical effects disappear.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Sources separate several questions",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "The US Equal Employment Opportunity Commission describes harassment and retaliation within the employment laws it administers. Coverage, definitions and procedures vary by jurisdiction. Home Office guidance discusses controlling patterns in England and Wales, including threats and restrictions. Neither source makes this lesson a decision about a particular workplace or relationship.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Jason Colquitt and colleagues combined studies of organisational fairness, distinguishing outcomes, procedures, interpersonal treatment and information. These related aspects help frame questions about a decision. The evidence mainly concerns organisations; a disagreement about fairness cannot itself prove dishonesty, a retaliatory motive or one objectively correct outcome.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep observations and causes distinct",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Where safe, describe the original concern or refusal, what happened afterwards, the timing and any stated reason. Relevant comparisons may matter too. Use information you already legitimately have. Avoid risky collection or exposing confidential material, and remember that a perfect record is not a prerequisite for seeking advice.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Here is a fictional workplace example. After you raise a scheduling concern, your access to useful shifts changes. That sequence, previous allocation and the explanation given are worth discussing with an appropriate adviser. The timing alone does not decide what caused the change or whether it was unlawful.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a route suited to the setting",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "A workplace process, advocate, local legal adviser or domestic-abuse service may be relevant in different circumstances. Ask about confidentiality and the practical consequences of proposed next steps. A process can have limits, and choosing one should reflect the actual rights, dependencies and risks in the situation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Do not repeat or escalate a complaint simply to see whether another penalty follows. That would turn uncertainty into an unnecessary test with possible costs. If immediate danger is present, use appropriate urgent local help rather than waiting to establish a pattern or obtain an admission about intent.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask what the existing information can support",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "If safe, consider an existing sequence and its practical cost. What do you know about the decision, and what causal explanation remains uncertain? Choose one question for a suitable adviser. Pause the player for longer if useful, and avoid notes on a device that may not be private.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Your question might concern the applicable process, the confidentiality of a report or an explanation for changed access. Review whether advice clarified rights, risks and a practical next step. Document the sequence where safe, while keeping the conclusion about its cause open to relevant evidence.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

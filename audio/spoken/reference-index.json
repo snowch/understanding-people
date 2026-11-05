@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "source": "reference/index.md",
+  "title": "Using the reference library",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/catalog.json"
+  ],
+  "sections": [
+    {
+      "title": "Start with a description, not a verdict",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "The reference library helps when you have a particular behaviour, question or concept in mind. You might notice repeated criticism, want to make a clearer request, or wonder what autonomy means. Start with a description you can check. A search term is a starting point for learning, not a verdict about a person.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The written library groups its entries by topic and lets you search locally. This audio explains how to use that structure rather than reading every entry aloud. A developed reference contains an explanation, selected evidence and practical suggestions. Developed does not mean exhaustive, clinically validated or specialist-reviewed.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check the explanation you brought with you",
+      "anchor": "thinking-and-interpretation",
+      "paragraphs": [
+        {
+          "text": "The thinking and interpretation section asks how you form a judgment. Observation and interpretation, confirmation bias, correspondence bias and uncertainty are useful when an account has started to feel obvious. They help you inspect your own reasoning as well as someone else's.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Imagine a friend has not replied and you search only for signs that they are uncaring. Before collecting more examples, you could look at what counts as evidence and what a fair comparison would involve. This fictional situation illustrates a way to use the library, not an explanation of your friendship.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Follow a behaviour toward several possibilities",
+      "anchor": "behaviour-and-relationships",
+      "paragraphs": [
+        {
+          "text": "Behaviour entries describe actions and recurring interactions. Needs and intentions offer possible goals to explore. Context, development, personality, emotion and learning help you consider other influences. More than one influence may matter, and a link between topics does not show that one caused the event you noticed.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If someone declines help, for instance, compare the offer, timing and decisions involved before inferring distrust. You might then read about choice, relationship history or a clear request. Keep the distinctions that fit the information you actually have, and leave room for a reason the library has not named.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a response within your influence",
+      "anchor": "responding-and-collaborating",
+      "paragraphs": [
+        {
+          "text": "The responding and collaborating section concerns actions: listening, making a clear request, agreeing responsibilities, setting a boundary and reviewing what happened. These are alternatives to trying to settle the other person's entire personality before doing anything useful.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Include your own contribution. Did your request leave a real choice? Was the agreement clear? Did the next interaction become more workable? A result can improve understanding without producing agreement or proving that your first explanation was correct.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Use clinical vocabulary with the right limits",
+      "anchor": "clinical-vocabulary",
+      "paragraphs": [
+        {
+          "text": "Clinical entries explain terms and support boundaries. They are not tools for assigning a diagnosis from an account of difficult behaviour. A diagnosis is not proof of abuse, and harmful conduct does not require a diagnosis before it deserves attention. This material has not received specialist review.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Where there is fear, control or a serious change in functioning, start with suitable support rather than investigating labels. The written support page explains routes and limits. For ordinary learning, choose one entry, consider a fair comparison, and use its practice to decide what you might try and later review.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -192,7 +192,8 @@ def render(source, title, body, page, manifest):
     practice_hint = ('Includes optional practice and example answers: pause when prompted. ' if 'class="answer-check"' in body
                      else 'Pause whenever you want to reflect or write. ' if 'class="reader-action"' in body else '')
     if is_lesson:
-        practice_hint = 'A spoken adaptation. Full references and additional practice are on the written page. '
+        practice_hint = ('A spoken adaptation. Full references and additional practice are on the written page. '
+                         if 'reader-action' in body else 'A spoken adaptation. The written page has the full text and links. ')
     jumps = "".join(f'<li><button type="button" hidden data-audio-seek="page-narration-audio" data-start="{s["start"]}">{stamp(s["start"])} · {escape(s["title"])}</button><a href="#{escape(s["anchor"], quote=True)}">Read {escape(s["title"])}</a></li>' for s in entry["sections"])
     return f'''<section class="page-narration audio-edition" aria-labelledby="page-narration-title">
 <div class="narration-heading"><h2 id="page-narration-title">{'Listen to this lesson' if is_lesson else 'Listen to this page'}</h2><span>{stamp(entry['duration'])}</span></div>

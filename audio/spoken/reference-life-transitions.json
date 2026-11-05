@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/life-transitions.md",
+  "title": "Changing roles & life transitions",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "A changed life needs a changed arrangement",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A life transition changes roles, routines, resources or relationships. Moving home, retirement, parenthood, separation and changing care needs can all reshape daily life. Behaviour during the change may reflect those new conditions rather than reveal a fixed character that was hidden before.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Remember the cue: update the arrangement as well as the expectations. Asking everyone to behave as they did before can overlook work, choices and support that have changed. A transition can be welcome and still demanding; mixed feelings do not have to disappear before practical help begins.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Find what changed beneath the visible behaviour",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Familiar cues and support can disappear while new decisions and responsibilities arrive. Identity, belonging and a sense of competence may change too. Richard Ryan and Edward Deci reviewed theory and evidence concerning autonomy, competence and connection. Their framework suggests useful distinctions, but cannot identify the cause of a particular response.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask about actual tasks, decision rights, money, daily rhythm and support. Did an old responsibility become unowned, or continue by default even though the person carrying it has much less time? Look at what people are now doing before concluding that their attitude is the main thing that changed.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Patterns can change with conditions",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Wendy Wood and Dennis Rünger reviewed how repetition in recurring contexts can make responses more automatic alongside deliberate goals. A transition may remove the setting that supported a routine. But not every repeated action is a habit, and current duties or constraints may still explain why a pattern continues.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "William Fleeson's repeated reports of everyday behaviour found considerable variation within individuals alongside stable differences in average patterns. These reports and settings have limits. They support comparing circumstances, rather than turning a few difficult occasions into a lifelong description. Keep the earlier baseline in view without expecting everyone to return to it unchanged.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate needs from control",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional household example. After retirement, one partner starts reorganising how everything is done. They may want a meaningful contribution, while the other experiences unwanted control. Discussing which tasks and decisions are shared addresses the arrangement without requiring either inferred motive to be settled first.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Adjustment, grief, overload, a health change and a longstanding relationship problem can coexist. A transition does not make harmful conduct acceptable or guarantee it is temporary. Avoid imposing one timetable for settling in, or assuming the same event means the same thing to everyone involved.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Renegotiate one concrete responsibility",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "George Bonanno and Charles Burton reviewed coping and emotion regulation. Their framework emphasises recognising context, having several options and adjusting to feedback. With its acknowledged measurement limits, it does not establish one correct response to every transition or validate this lesson's practical suggestions.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Preserve useful support, clarify a new responsibility and agree a review after some experience. Make space for mixed feelings while changing something tangible. If distress or functional difficulties persist, or a health change is marked, seek suitable support rather than assuming more time alone will resolve it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Update one agreement",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose a transition affecting you or someone you share responsibilities with. Which task, resource or decision changed? Name one arrangement that could be renegotiated, and a realistic point for reviewing it. Pause here, and pause the player for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "At review, consider workload, choice and support as well as whether people feel settled. The written entry offers research links and further practice. A workable adjustment may be small, but it should fit the present situation rather than ask everyone to maintain an old agreement under new conditions.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

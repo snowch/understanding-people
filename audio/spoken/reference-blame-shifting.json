@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/blame-shifting.md",
+  "title": "Shifting responsibility",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Keep each action visible",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Shifting responsibility means redirecting accountability for an action towards another person or circumstance. It becomes useful to examine when an explanation repeatedly leaves the actor with nothing to own. Context can matter, and a problem can have several contributors. Neither fact requires erasing a particular person’s action.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The question is who did what, which choices they controlled and what responsibility belonged to them. This general material has not received specialist review or assessed individual safety. In situations involving abuse, the person harmed is not responsible for someone else choosing abuse because a disagreement preceded it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Context can explain without cancelling",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Someone may be avoiding shame, disputing facts, misunderstanding their role or identifying a genuine contributor. You can do the same when you focus entirely on what provoked you. These possibilities do not reveal a motive from one reply. Check whether the explanation can include both circumstances and a concrete acknowledgment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a fictional workplace situation, an unclear brief contributes to a difficult task and you reply with an insult. The brief may need improving. You still own the insulting response. Revising the process and apologising for the reply address different responsibilities rather than forcing a choice between them.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Research does not make an apology a verdict",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Roy Lewicki and colleagues studied judgments of apologies after hypothetical trust violations. Their content influenced how effective they seemed, but hypothetical judgments do not demonstrate rebuilt trust after real harm. June Tangney and colleagues also reviewed moral emotions, distinguishing judgments of a whole self from judgments of an action. You cannot read remorse from a face.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Jason Colquitt and colleagues combined organisational-fairness studies, separating outcomes, procedures, treatment and information. That supports examining several aspects of responsibility, mainly in organisational settings. It cannot settle every allocation. NHS abuse guidance also points towards confidential support, with UK-specific services; it does not assess an individual situation or determine a motive.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check roles rather than global accusations",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "A system failure can have several owners. Someone can also be blamed for a task outside their role or control. Check relevant agreements and information: what was each person expected and able to do? A broad accusation, including one you make yourself, is not a substitute for this account.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask what would need to change to prevent recurrence. Include occasions when responsibility was accepted and acted on, rather than selecting only failures. Acknowledging your part should become more precise as evidence improves. It does not mean accepting a false claim that everything was your fault.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Respond without trading accusations",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Own a specific action and make a feasible correction. When another person redirects attention, return to the particular duty while allowing a separate discussion of relevant contributions. For example, the brief needs revision, and the insult needs an acknowledgment. Neither response has to wait until the other person admits every mistake.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A different boundary applies if you are pressed to accept responsibility for threats or harm done to you. Seek suitable support rather than negotiating over how you supposedly caused another person’s abuse. Nobody has to behave perfectly to deserve safety. Relevant context does not transfer ownership of another person’s chosen harmful conduct.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review ownership and follow-through",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose one ordinary event, or a support question if the situation involves harm. What was within each person’s control? What concrete correction belongs to you, and what belongs elsewhere? Take a moment, and pause the player for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "An answer could name a process change you can request and an apology you can make. Review whether those actions happened and whether the account retained context without erasing ownership. Separate each person’s action and responsibility instead of using one mistake to cancel another.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

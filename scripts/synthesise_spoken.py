@@ -12,6 +12,7 @@ import hashlib
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 import wave
@@ -24,6 +25,24 @@ import spoken_narration as spoken
 from page_narration import MANIFEST, ROOT, fingerprint as page_fingerprint, media_path, speech_sections
 
 CACHE = Path(os.environ.get('BOOK_SPOKEN_CACHE', '/workspace/book-spoken-cache'))
+
+
+def atomic_text(path, text):
+    pending = path.with_name(path.name + '.partial')
+    try:
+        pending.write_text(text)
+        pending.replace(path)
+    finally:
+        pending.unlink(missing_ok=True)
+
+
+def atomic_copy(source, destination):
+    pending = destination.with_name(destination.name + '.partial')
+    try:
+        shutil.copyfile(source, pending)
+        pending.replace(destination)
+    finally:
+        pending.unlink(missing_ok=True)
 
 
 def norm(text):
@@ -88,16 +107,19 @@ def verify_gaps(mp3, pauses):
         pause['verified_silence_ms'] = round(len(values) * 1000 / spoken.SAMPLE_RATE)
 
 
-async def synthesise(data, workers):
-    network = asyncio.Semaphore(workers)
-    locks = {}
+async def synthesise(data, workers, network=None, locks=None):
+    network = network if network is not None else asyncio.Semaphore(workers)
+    locks = locks if locks is not None else {}
 
     async def take(text):
         signature = hashlib.sha256(json.dumps({'voice': data['voice'], 'rate': data['rate'], 'text': text}, sort_keys=True).encode()).hexdigest()
         async with locks.setdefault(signature, asyncio.Lock()):
             path, meta = CACHE / (signature + '.mp3'), CACHE / (signature + '.json')
             if path.exists() and meta.exists():
-                saved = json.loads(meta.read_text())
+                try:
+                    saved = json.loads(meta.read_text())
+                except (OSError, ValueError):
+                    saved = {}
                 if saved.get('sha256') == spoken.sha(path) and saved.get('text') == text and saved.get('words_verified'):
                     return path
             for attempt in range(6):
@@ -114,7 +136,7 @@ async def synthesise(data, workers):
                     assert norm(' '.join(words)) == norm(text), 'Provider did not return the complete spoken paragraph'
                     await asyncio.to_thread(probe, part)
                     part.replace(path)
-                    meta.write_text(json.dumps({'text': text, 'words': words, 'words_verified': True, 'sha256': spoken.sha(path)}, ensure_ascii=False))
+                    atomic_text(meta, json.dumps({'text': text, 'words': words, 'words_verified': True, 'sha256': spoken.sha(path)}, ensure_ascii=False))
                     print('Paragraph ready:', text[:65], flush=True)
                     return path
                 except Exception as error:
@@ -125,7 +147,11 @@ async def synthesise(data, workers):
                     await asyncio.sleep(min(2 ** attempt, 16))
 
     paragraphs = [p for s in data['sections'] for p in s['paragraphs']]
-    return await asyncio.gather(*(take(p['text']) for p in paragraphs))
+    outcomes = await asyncio.gather(*(take(p['text']) for p in paragraphs), return_exceptions=True)
+    failures = [outcome for outcome in outcomes if isinstance(outcome, BaseException)]
+    if failures:
+        raise RuntimeError(f'{len(failures)} spoken paragraphs need retry; other completed takes are cached') from failures[0]
+    return outcomes
 
 
 def page_binding(data):
@@ -139,12 +165,20 @@ def page_binding(data):
     return page_fingerprint(speech_sections(unescape(title), body))
 
 
-async def produce(selected, workers):
+async def produce(selected, workers, page_workers=1):
+    assert len({data['source'] for _, data in selected}) == len(selected), 'Each lesson may be scheduled only once'
     manifest = json.loads(MANIFEST.read_text())
     updated = copy.deepcopy(manifest)
     catalogue = await edge_tts.list_voices(proxy=os.environ.get('HTTPS_PROXY'))
     assert all(data['voice'] in {v['ShortName'] for v in catalogue} for _, data in selected)
-    for path, data in selected:
+    network = asyncio.Semaphore(workers)
+    pages = asyncio.Semaphore(page_workers)
+    encoders = asyncio.Semaphore(3)
+    checkpoint = asyncio.Lock()
+    locks = {}
+
+    async def lesson(path, data):
+      async with pages:
         source = data['source']
         signature = spoken.fingerprint(data)
         binding = page_binding(data)
@@ -152,27 +186,29 @@ async def produce(selected, workers):
         old = updated['pages'].get(source, {})
         if (old.get('mode') == 'spoken-lesson' and old.get('script_sha256') == signature
                 and old.get('source_hashes') == dependencies and old.get('page_text_sha256') == binding
+                and (ROOT / media_path(source, '.mp3')).is_file() and (ROOT / media_path(source, '.txt')).is_file()
                 and old.get('audio_sha256') == spoken.sha(ROOT / media_path(source, '.mp3'))
                 and old.get('transcript_sha256') == spoken.sha(ROOT / media_path(source, '.txt'))):
             print('Already current:', path.stem, flush=True)
-            continue
-        takes = await synthesise(data, workers)
+            return
+        print('Recording:', path.stem, flush=True)
+        takes = await synthesise(data, workers, network=network, locks=locks)
         wav = CACHE / (signature + '.wav')
-        sections, pauses = await asyncio.to_thread(assemble, data, takes, wav)
         output = ROOT / media_path(source, '.mp3')
         temporary = CACHE / (signature + '-final.mp3')
-        await asyncio.to_thread(subprocess.run, ['ffmpeg', '-nostdin', '-hide_banner', '-v', 'error', '-y', '-i', str(wav), '-af', 'loudnorm=I=-16:TP=-1.5:LRA=11', '-ar', str(spoken.SAMPLE_RATE), '-ac', '1', '-b:a', '96k', '-metadata', 'title=' + data['title'], '-metadata', 'artist=Understanding people', '-metadata', 'comment=Authored spoken lesson. Synthetic narration: ' + data['voice'], '-metadata', 'copyright=Copyright 2026 Christopher Snow', str(temporary)], check=True)
-        await asyncio.to_thread(verify_gaps, temporary, pauses)
+        async with encoders:
+            sections, pauses = await asyncio.to_thread(assemble, data, takes, wav)
+            await asyncio.to_thread(subprocess.run, ['ffmpeg', '-nostdin', '-hide_banner', '-v', 'error', '-y', '-i', str(wav), '-af', 'loudnorm=I=-16:TP=-1.5:LRA=11', '-ar', str(spoken.SAMPLE_RATE), '-ac', '1', '-b:a', '96k', '-metadata', 'title=' + data['title'], '-metadata', 'artist=Understanding people', '-metadata', 'comment=Authored spoken lesson. Synthetic narration: ' + data['voice'], '-metadata', 'copyright=Copyright 2026 Christopher Snow', str(temporary)], check=True)
+            await asyncio.to_thread(verify_gaps, temporary, pauses)
         duration = await asyncio.to_thread(probe, temporary)
         assert abs(duration - sections[-1]['end']) < .25
         text = spoken.transcript(data)
         text_cache = CACHE / (signature + '-transcript.txt')
         text_cache.write_text(text)
         # Publish the selected page files only after all spoken paragraphs/gaps verify.
-        import shutil
         output.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copyfile(temporary, output)
-        (ROOT / media_path(source, '.txt')).write_text(text)
+        atomic_copy(temporary, output)
+        atomic_text(ROOT / media_path(source, '.txt'), text)
         entry = {'title': data['title'], 'mode': 'spoken-lesson', 'script_source': path.relative_to(ROOT).as_posix(),
                  'script_sha256': signature, 'page_text_sha256': binding, 'source_hashes': dependencies,
                  'text_sha256': signature, 'audio_sha256': spoken.sha(output),
@@ -180,31 +216,42 @@ async def produce(selected, workers):
                  'words': sum(len(p['text'].split()) for s in data['sections'] for p in s['paragraphs']),
                  'duration': duration, 'sections': sections, 'provider_words_verified': True,
                  'pause_engine_version': spoken.ENGINE_VERSION, 'pauses_verified': True, 'pauses': pauses}
-        updated['pages'][source] = entry
         # Each verified page is a resumable checkpoint; no unchanged page is re-rendered.
-        updated['generated'] = datetime.now(timezone.utc).isoformat()
-        part = MANIFEST.with_suffix('.partial.json')
-        part.write_text(json.dumps(updated, ensure_ascii=False, indent=2) + '\n')
-        part.replace(MANIFEST)
+        async with checkpoint:
+            updated['pages'][source] = entry
+            updated['generated'] = datetime.now(timezone.utc).isoformat()
+            atomic_text(MANIFEST, json.dumps(updated, ensure_ascii=False, indent=2) + '\n')
         print(f'Lesson ready: {path.stem}, {duration / 60:.1f} minutes; {len(pauses)} verified pauses', flush=True)
+
+    results = await asyncio.gather(*(lesson(path, data) for path, data in selected), return_exceptions=True)
+    failed = [{'lesson': path.stem, 'error': type(result).__name__} for (path, _), result in zip(selected, results) if isinstance(result, BaseException)]
+    if failed:
+        (CACHE / 'failed-lessons.json').write_text(json.dumps(failed, indent=2))
+        raise RuntimeError(f'{len(failed)} lessons need retry; completed lessons and paragraphs are cached: {failed}')
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('lessons', nargs='+', help='Explicit script stems; no automatic whole-library production')
+    parser.add_argument('lessons', nargs='*', help='Explicit authored script stems')
+    parser.add_argument('--all', action='store_true', help='Explicitly produce all authored scripts; never extracts page text')
     parser.add_argument('--workers', type=int, default=6)
+    parser.add_argument('--page-workers', type=int, default=1)
     parser.add_argument('--plan', action='store_true')
     args = parser.parse_args()
-    assert 1 <= args.workers <= 8
+    assert 1 <= args.workers <= 24 and 1 <= args.page_workers <= 8
+    if not args.all and not args.lessons:
+        parser.error('Select script names, or explicitly use --all for the authorized authored-script rollout')
+    if args.all and args.lessons:
+        parser.error('Use named scripts or --all, not both')
     catalogue = {p.stem: (p, data) for p, data in spoken.scripts().values()}
-    selected = [catalogue[name] for name in args.lessons]
+    selected = list(catalogue.values()) if args.all else [catalogue[name] for name in dict.fromkeys(args.lessons)]
     for path, data in selected:
         print(path.stem, sum(len(p['text'].split()) for s in data['sections'] for p in s['paragraphs']), 'words; pauses explicitly authored', flush=True)
     if args.plan:
         return
     CACHE.mkdir(parents=True, exist_ok=True)
     build.build(include_narration=False)
-    asyncio.run(produce(selected, args.workers))
+    asyncio.run(produce(selected, args.workers, args.page_workers))
     build.build()
 
 

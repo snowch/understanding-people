@@ -23,7 +23,7 @@ Work from the repository root, three directories above this file. Project paths 
 - Keep each spoken paragraph as its own synthesis input. Never flatten several paragraphs into whitespace-separated text or split a request in the middle of a sentence.
 - Insert PCM silence explicitly. Typical gaps are 800–1,000 ms between thoughts, 1,500–1,800 ms between topics, about 3,000 ms after a reflection question and at least 8,000 ms for a short exercise. Explain that listeners can pause the player for longer. Choose gaps for meaning, not a large constant delay after every sentence.
 - Keep natural pauses inside each paragraph. Trim only excess leading/trailing silence, retaining guards around speech. Do not remove internal silences or use punctuation as a substitute for actual timing.
-- Use `scripts/synthesise_spoken.py SLUG ...`. Its output updates only explicitly selected, authored lessons. Caches and raw takes stay outside Git. Normal builds must not call the speech service.
+- Use `scripts/synthesise_spoken.py SLUG ...` for a focused update, or explicit `--all` only for an authorized rollout of authored scripts. It never substitutes page extraction for writing. Use one producer process per checkout and its bounded request/page concurrency for long runs; cache, interruption recovery and final-file publication must remain safe. Caches and raw takes stay outside Git. Normal builds must not call the speech service.
 - Bind the script, its canonical written sources, its rendered-page fingerprint, the audio and transcript with checksums. Preserve section anchors and existing practice-note IDs.
 
 ## Review the result

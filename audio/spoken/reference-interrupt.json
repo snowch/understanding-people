@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "source": "reference/interrupt.md",
+  "title": "Interrupting",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Ask what the overlap does",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Interrupting means entering someone else's turn before they have finished. But not every overlap does the same thing. An urgent warning, an enthusiastic addition and a repeated takeover have different functions and effects. To understand an interruption, notice what happens to the original speaker's opportunity to contribute.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Quietness does not prove respectful listening, just as overlap does not automatically establish disrespect. The practical cue is to notice what the overlap does to the conversation. The brief examples in this lesson are fictional, and the possible explanations are questions to explore rather than labels to assign.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare pace with participation",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Excitement, conversational pace, language, attention and learned habits can all influence turn-taking. Some groups tolerate more overlap than others. Someone may also need an accessible way to signal a thought before it is lost. These possibilities do not remove the need to examine whose contribution repeatedly disappears.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In one fictional conversation, two friends briefly overlap, then return to the first friend's unfinished point. In a different group discussion, one person's contributions are repeatedly displaced and never recovered. Counting every overlap as equivalent would miss the difference in participation. Ask about the speaker's experience rather than relying only on your own tolerance.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Notice whose turn returns",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Compare who interrupts, who is interrupted and how people respond to a request to finish. Does the group return the floor, or ridicule the request? Include your own habits: finishing sentences, offering solutions early or treating a pause as an invitation to change the subject can cut across a contribution you meant to support.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Do not infer ADHD, aggression or a personality type from interrupting alone. An urgent intervention can be necessary, while a polite speaker can still monopolise discussion. A more useful description says which point was lost and what opportunity is needed now. That keeps attention on participation rather than an assumed identity.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What research can and cannot explain",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Guy Itzchakov and colleagues varied listening quality in laboratory experiments. Attentive, nonjudgmental listening reduced social anxiety and helped speakers recognise mixed attitudes in those tasks. It did not establish that listening guarantees agreement. Tal Eyal and colleagues' interpersonal prediction experiments also support obtaining information rather than assuming that an imagined perspective is accurate, without guaranteeing honesty or safety.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A review by Dacher Keltner and colleagues connects power with opportunities, threats and behavioural tendencies, but offers no universal rule about every person. Vivian Vignoles and colleagues' multinational surveys found varied forms of independence and connection beyond a simple East-West division. Group averages cannot tell you an individual's conversation preferences. Ask, and examine the actual exchange.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Return the floor with a brief repair",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "If you interrupted, a short repair may be enough: I cut across you; please finish. A long explanation of your good intentions can take still more of the other person's turn. You can return the floor now and examine your recurring habit afterwards, without making the speaker manage your discomfort first.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If you need to finish, name that practical need. Groups can use turn-taking arrangements that fit the task and access needs, rather than assume one rigid style suits everyone. These are practical suggestions, not guaranteed solutions. If requests repeatedly bring retaliation or ridicule, consider the wider pattern and an appropriate support or group process.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review whether participation improves",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall one ordinary interruption, including one of your own. What happened to the original point, and what would return the opportunity to contribute? Choose a brief repair or a clear request. Pause the player for longer if you would like time to think.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful answer might be to return to a friend's unfinished account before telling your related story. At the next appropriate exchange, try that small adjustment. Review whether the original contribution was heard and whether participation improves across later conversations, rather than simply counting fewer overlaps.",
+          "pause_after_ms": 950
+        },
+        {
+          "text": "The question is what the overlap does. Preserve necessary warnings and access while making room for people whose contributions are being lost. The written entry contains fuller research links and practice notes.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

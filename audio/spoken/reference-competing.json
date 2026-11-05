@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/competing.md",
+  "title": "Competing goals",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "Sincere aims can collide",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Competing goals are things a person wants that cannot all be fully pursued with the same time, resources or action. Wanting to see a friend and needing an evening alone can both be sincere. A conflict between them does not automatically mean one wish was false.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "This matters because we often judge commitment from one decision. A refusal may reveal a trade-off rather than indifference. But recognising a trade-off does not erase an agreement or its consequences. The useful task is to make the conflict clear enough to decide what can actually happen.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Look beyond the single request",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Several requests can each sound manageable when considered separately. Together they may fill the same evening or use the same money. Someone can keep saying yes without seeing that the combined plan is impossible. Pressure for another yes leaves that conflict waiting for later.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Check your own requests as well as theirs. You may see the hour of help you asked for, while missing travel, preparation, care responsibilities or recovery. You do not need an intrusive account of someone’s life to recognise that the visible task may be only part of its cost.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Evidence gives questions rather than a verdict",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Susan Michie and colleagues proposed capability, opportunity and motivation as interacting conditions for action. Their framework encourages attention to the setting as well as the person’s reasons. It can organise an investigation of a difficult commitment, but it cannot prove that a particular cancellation resulted from competing goals.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Thomas Webb and Paschal Sheeran combined forty-seven experiments that changed intentions. Behaviour generally changed less than intentions did. Richard Ryan and Edward Deci’s review also distinguishes choice, connection and competence as relevant to motivation. Together these sources support careful questions, rather than assuming a promise supplies everything needed for action.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate the conflict from its consequences",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. Lena keeps cancelling long evening visits because she cares for a relative. Her friend might suggest a short daytime meeting. That could preserve both contact and care. It is also reasonable for the friend to ask for notice, because their time has been affected.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The explanation is still open to checking. A person’s stated priority may be accurate, incomplete or convenient. There may also be unclear expectations, missing skills or a task they do not want. Avoid deciding that the choice you would make is the only reasonable one, or that every explanation excuses repeated disruption.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Negotiate the trade-off",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Ask what needs preserving and which part of the plan can change. Could the timing move, the task become smaller, or someone else contribute? If two aims cannot both be met, say what will take priority and who needs to know. A plan should make the sacrifice visible rather than hiding it.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Include your own limits in that conversation. You can respect another person’s commitment while saying the current arrangement does not work for you. If neither of you can provide what is needed, another arrangement may be more useful than repeatedly arguing about who cares more. Capacity and reliability both deserve attention.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Name what gives way",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a manageable commitment in your own life that feels pulled in two directions. What are the two aims? If both matter, what could change in timing, scope or method? Name one trade-off rather than promising more effort. Pause the player for longer if you need it.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For instance, you could offer a shorter visit and agree when you will confirm it. After trying the change, review whether you followed through and whether the plan was sustainable. Another person’s account matters too. Remember: a person can want two incompatible things, and still need to make a workable decision.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

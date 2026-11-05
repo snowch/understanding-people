@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/competence.md",
+  "title": "Feeling capable",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "Ability and confidence need separate checks",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Feeling capable means experiencing yourself as able to act effectively and develop useful skills. That feeling is related to what you can actually do, but the two are not identical. You can have a skill and feel uncertain in a new setting. Confidence can also run ahead of ability.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "This distinction matters when offering help. Encouragement may be welcome, yet it will not supply a missing technique. Taking over may complete the task while removing the chance to learn. Keep this cue in mind: support progress without taking over. First find out what progress and support would mean here.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Find the difficult part",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Ask what is already manageable and where the difficulty begins. Looking at a particular attempt is more useful than describing someone as gifted, lazy or hopeless. Clear instructions, appropriate tools and a chance to ask questions can help distinguish missing knowledge from a difficult environment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Notice your own feedback. Does it explain what to adjust, or mainly communicate whether you approve? Repeated correction in front of others may make questions harder to ask, even if the correction is accurate. That is a possibility to check with the learner, rather than a reason to assume every correction damages confidence.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What the evidence supports",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Richard Ryan and Edward Deci reviewed self-determination theory and research concerning competence, autonomy and connection in motivation and well-being. This makes feeling effective a useful concern to consider. The framework cannot identify the cause of a particular hesitation or refusal, and it does not show that encouragement alone solves a learning difficulty.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Susan Michie and colleagues reviewed behaviour-change frameworks and proposed capability, opportunity and motivation as interacting conditions for action. Their work helps widen the inquiry beyond confidence. A person may need a skill, an accessible setting, a different opportunity, or reconsideration of the goal. The framework itself does not establish which explanation is correct.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Help with the part the learner chooses",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. Amir wants to cook a meal he has never made before. His housemate offers to finish it for him. Amir declines because he wants to learn. Asked what would help, he requests a demonstration of one technique, then continues with the rest himself.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The useful distinction is between helping someone perform and replacing their performance. The right balance depends on the task and the learner’s wishes. There are also real safety limits. Where an error could cause serious harm, preserve appropriate supervision or safeguards rather than treating every independent attempt as beneficial.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Distinguish uncertainty from other obstacles",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "I do not know how, I cannot do it under these conditions, and I do not want this outcome are different answers. Difficulty starting does not settle which one applies. Limited time, unclear instructions or an unwanted task can look like a confidence problem from the outside.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If you are the learner, make a specific request for information or a demonstration. Being unsure about one step does not establish that you are generally incapable. If you are helping, agree a manageable challenge and check that the person wants it. Support can include reducing a barrier or changing the task, rather than urging more confidence.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Plan the next attempt",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose a skill you are learning, or one you have been asked to support. Name one part already manageable and one part that needs help. What support would leave a meaningful part for the learner to try? Take a moment. You can pause the player for longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "An example answer might be a demonstration followed by a supervised attempt. After trying it, review understanding, actual progress and what help the next attempt needs. The aim is not simply a happier feeling or a finished task. It is a better match between the challenge, the support and the person’s growing ability.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

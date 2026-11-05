@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "worksheet.md",
+  "title": "Work through a situation",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "worksheet.md"
+  ],
+  "sections": [
+    {
+      "title": "Choose one situation and keep it concrete",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "This worksheet helps you move from an event to a response without pretending to know every motive. Choose one ordinary situation involving you or someone else, and keep that same situation through the exercise. Use paper or your own notes. The written worksheet provides spaces you can print and fill in.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Choose something safe to think about and discuss. If the concern involves fear, retaliation or abuse, support may be more useful than another attempt to analyse the person. You can stop this exercise, skip a question or seek help. A worksheet is not a safety assessment.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Describe the event before explaining it",
+      "anchor": "describe-event",
+      "paragraphs": [
+        {
+          "text": "Begin with what you saw or heard, when it happened and how it affected somebody. Separate first-hand information from what you were told. If you remember a conversation, say whether you know the exact words or only the general meaning.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For example, I missed two sessions describes events. I am unreliable is a judgment about what those events mean. This fictional comparison applies to your own behaviour as well as another person's. Specific actions are easier to examine than a whole-person label.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Examine the explanation you brought",
+      "anchor": "examine-account",
+      "paragraphs": [
+        {
+          "text": "Now write why you think it happened. Include the answer you would like to be true and the one you would find hard to accept. Wanting a conclusion does not prove it is wrong, but it can affect which details you are willing to consider.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask about your part without assuming that responsibility is always shared equally. Something you expected, said or did may matter. You can explain a missed commitment and still recognise its impact on someone else. Considering your contribution does not make another person's harmful conduct your fault.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare possibilities and choose a fair check",
+      "anchor": "compare-explanations",
+      "paragraphs": [
+        {
+          "text": "Write another plausible explanation. A goal or concern, a practical difficulty and a misunderstanding are useful possibilities, but not an exhaustive list. More than one may apply. Include an explanation you would rather not believe, as well as one that feels reassuring.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Then choose a question that leaves room for an unexpected answer, or a fact you can check fairly. A shared calendar or an agreed deadline may be more informative than guessing a motive. Decide beforehand what would strengthen or weaken each explanation. Do not snoop, provoke or impose an experiment on somebody else.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose an action within your influence",
+      "anchor": "choose-a-response",
+      "paragraphs": [
+        {
+          "text": "You might clarify an agreement, ask for an explanation, offer a different form of support, set a limit or check a fact. State what you can do and whose agreement is needed. Decide what you will do if the difficulty occurs again, and how and when you will check whether your action helped.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A reversible action can be useful while the explanation remains uncertain. If a direct question could expose you to harm, consider support or distance instead. You do not need a final verdict on someone's inner state before responding to a practical effect.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review what changed",
+      "anchor": "review-outcome",
+      "paragraphs": [
+        {
+          "text": "Take a moment to choose one safe situation and one fact or comparison that would matter to your next step. You are not trying to settle the person's whole character. Pause the player for longer if you want to write.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "After taking the step, record what happened. Did it weaken your first explanation, narrow it, or support it? Did your own response help or make things harder? Decide whether to try again, change the plan or stop. The useful outcome is what you learned and what you can now do more fairly or effectively.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

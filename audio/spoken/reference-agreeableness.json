@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/agreeableness.md",
+  "title": "Agreeableness",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/personality.json"
+  ],
+  "sections": [
+    {
+      "title": "Cooperation can include saying no",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Agreeableness describes broad tendencies in how people approach others, including compassion, respectfulness and trust. It concerns patterns across occasions. It does not tell you whether someone will accept your current request. A considerate person can disagree firmly, while someone who says yes may be afraid, under pressure or simply finding agreement convenient.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Keep this distinction close: cooperation and agreement are different. Before using a personality word, ask whether you are describing how someone handles other people's interests or merely whether they do what you want. Those are very different judgments.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "A dimension rather than a fixed type",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Christopher Soto and Oliver John developed and tested a personality questionnaire across three studies. It organised descriptions into five broad dimensions with narrower aspects. Agreeableness is one of those dimensions. This lesson does not administer that questionnaire, score anybody or identify a clinical condition.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "William Fleeson used repeated reports of everyday behaviour in three studies. People varied considerably from one occasion to another while showing stable differences in their average patterns. That supports looking across situations. The reports and sampled settings have limits, and a few memorable conflicts cannot establish a lifelong trait.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Context and family resemblance",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Someone may trust a reliable friend and be cautious with a supplier who repeatedly breaks agreements. Both responses can make sense in their settings. Treating agreeableness as a summary of tendencies leaves room to investigate those differences; treating it as a hidden cause can stop the investigation too early.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Tinca Polderman and colleagues combined twin-study findings across many human traits. Genetic contributions to population variation were widespread. Heritability does not specify the genetic percentage of one person's action. Seeing a resemblance among relatives cannot separate inherited tendencies from shared learning, and gives you no gene-based explanation of a particular refusal.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Look at how disagreement happens",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. A daughter declines the career her parent recommends. She listens to the concern, explains her reasons and offers to discuss the practical risks. Her refusal does not establish a lack of care. How she handles the disagreement is more informative than whether she takes the advice.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Compare situations involving competing interests, opportunities to help and conflicting needs. Include exceptions. If one person describes themselves as considerate while another disagrees, ask which situations each sees. Neither self-description nor someone else's frustration automatically settles the pattern.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a concrete way to cooperate",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "For collaboration, discuss what respectful disagreement looks like, how decisions will be made and what each person can realistically offer. Social confidence, obedience and avoiding conflict are distinct from consideration. You may need a fair decision process more than an agreement about anyone's personality.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If you want to develop consideration yourself, try acknowledging a concern before answering while preserving an honest no. And if conduct is harmful, address that conduct directly. A label does not remove responsibility, and you do not need to decide where someone falls on a trait dimension before setting a limit.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Try consideration without compulsory agreement",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall one disagreement and one cooperative exchange involving yourself. What did you do that showed attention to the other person's needs? Choose one act of consideration that would preserve your honest answer next time. Pause now, and pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "You might summarise a concern before declining a request. Afterwards review whether you understood each other better, rather than treating agreement as the only successful outcome. The written entry has research links and further practice. Cooperation can become clearer even when the decision remains no.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

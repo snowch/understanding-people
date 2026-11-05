@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/identity.md",
+  "title": "Identity & beliefs",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/thinking-and-interpretation.json"
+  ],
+  "sections": [
+    {
+      "title": "What a belief can mean",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A disagreement can concern more than the question being argued. A belief may connect someone to a role, a value or people whose acceptance matters to them. Identity means how a person understands who they are. An opinion about a family routine might therefore feel connected to being a caring parent, even when the immediate question is practical.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "That connection is a possibility to explore, not an explanation you can assign from the outside. A strongly defended belief may simply have good evidence behind it. Keep a short cue in mind: ask what the issue means to them.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Why changing a position can feel costly",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Revising a decision can seem to threaten belonging or self-respect, especially after someone has recommended it publicly. Include yourself here. If you persuaded friends to support a plan, evidence against it may be harder to welcome because admitting the problem also means admitting your part.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Psychologist Ziva Kunda reviewed research on motivated reasoning. Desired conclusions can influence which reasons people seek and find persuasive. This does not establish a hidden motive in any particular disagreement. Wanting an answer to be true also does not make it false.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask about the person rather than the category",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "People who share a religion, nationality or family role can understand its meaning differently. Vivian Vignoles and colleagues conducted two multinational surveys showing that independence and connection vary along several dimensions, beyond a simple division between East and West. Those group findings cannot tell you what one individual values.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask which concern matters here. Is the disagreement about a factual claim, the cost of a plan, a commitment to fairness, or something else? More than one answer may apply. The person's own explanation gives you information to consider alongside what happens.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate the method from the value",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional family example. A father objects to his daughter's new study routine. She assumes he dislikes change, then asks what worries him. He says it removes the time they usually spend together. That answer creates two questions: whether the study routine helps, and how they want to protect time together.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "They might revise the routine without abandoning either learning or connection. The example does not prove that every objection hides a relationship concern. It shows why asking can reveal a different problem from the one you were preparing to argue about.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make revision possible",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Where there is a shared aim, examine whether the proposed action serves it. Let someone correct a decision without needless public humiliation, while keeping responsibility for its consequences. Respecting the person does not require agreeing with their belief or accepting harmful conduct.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Check your own reasoning as well. Would the same evidence seem stronger if it came from someone you admired? Separating the value from the method should help both people examine the proposal, rather than becoming a technique for getting the other person to concede.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Try one separation",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a belief you are defending. What factual question is involved, and what would changing your position seem to say about you? Name a value you could retain even if your proposed method changed. Take a moment, and pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "You might keep a commitment to being reliable while admitting that a particular schedule is unworkable. Choose one fair comparison or question, then review whether it changed your understanding. The written entry offers research links and space for notes. Ask what the issue means before deciding what the disagreement means about the person.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

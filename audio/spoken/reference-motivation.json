@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/motivation.md",
+  "title": "Motivation",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "Reasons and conditions for action",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Motivation concerns what directs and sustains action. Enjoying an activity, valuing a result, wanting approval and avoiding a penalty are different reasons for doing something. Several can be present together, and they can change as a person discovers more about the task or its costs.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Understanding those reasons is useful, but action also requires skills and workable circumstances. Someone can care deeply about an outcome and lack a feasible next step. Someone else can have everything needed and decline the goal. Remember this question: what matters, and what makes action possible?",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Avoid reading commitment from enthusiasm",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "A warm conversation about a project is not necessarily an agreement to complete a particular task. Before judging follow-through, clarify what was actually agreed, what doing it requires and what other aims compete. Helping might take time someone needs for rest; studying might compete with paid work.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Include yourself in the question. Are you trying to understand their priorities, or trying to find the argument that will make them adopt yours? A clear account can leave disagreement intact. Equally, recognising obstacles does not mean every obstacle is external or that an existing commitment carries no responsibility.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What broad frameworks support",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Richard Ryan and Edward Deci reviewed a theory that distinguishes autonomy, competence and connection in motivation and well-being. Susan Michie and colleagues’ framework adds questions about capability and opportunity alongside motivation. These frameworks help organise an inquiry. Neither identifies the cause of one person’s delayed action.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Joshua Howard and colleagues combined studies of student motivation and outcomes. Different forms of motivation had different associations with learning and well-being. Many of those links do not establish cause, and moving from education to other settings needs care. The evidence does not justify a universal formula for making someone act.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Rewards have more than one possible role",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Christopher Cerasoli and colleagues combined research on intrinsic motivation, incentives and performance. Enjoyment or interest and external incentives both mattered, with differences between the quality and quantity of performance. Rewards are neither helpful in every situation nor harmful in every situation. Performance results do not reveal one person’s values.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A payment may make a task worth the time without making it enjoyable. Praise may be welcome without creating lasting commitment. If you use incentives, make the arrangement transparent. Do not treat dependence on the reward, or a response to pressure, as proof that the person now freely values your goal.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Match support to the difficulty",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Imagine a fictional student, Ellis, who wants to pass an exam but keeps postponing revision. Asked about the next step, Ellis says they cannot tell which topics they understand. A few practice questions might reveal a manageable learning task. Another speech about the importance of the exam would miss that uncertainty.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "That is an illustration of one barrier, not an explanation for every delay. A skill gap may call for instruction; inaccessible equipment may call for another route; overload may require a smaller plan. Conflicting priorities may require a different agreement. Compare actual attempts and ask what changed before choosing more pressure.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a check you can learn from",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose one ordinary action that has stalled, preferably your own. What value does the outcome have, what does the next step require, and what competes with it? Identify one question or adjustment that could distinguish two possible obstacles. Pause the player for longer if you need it.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Perhaps clearer instructions will help, or perhaps you discover you have not chosen the outcome. Review what happened after the adjustment and what you learned. Sounding motivated is different from finding a workable route. The written page offers more research detail and a place to record your next step.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

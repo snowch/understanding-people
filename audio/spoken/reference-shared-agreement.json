@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/shared-agreement.md",
+  "title": "Make a workable agreement",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/responding-and-collaborating.json"
+  ],
+  "sections": [
+    {
+      "title": "Goodwill needs a workable plan",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A workable agreement makes responsibilities clear enough for people to act and recognise when a change is needed. It identifies the outcome, who owns the work, when it will happen and what resources it needs. An informal agreement can do that. A long document can still leave important work undefined.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "People may sincerely agree while imagining different tasks, standards or decision rights. A plan may depend on someone who was never consulted. The useful cue is to agree the outcome, ownership and review. Goodwill matters, but it cannot silently supply the same meaning for everyone.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Include the work behind the task",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional household agreeing that each person will cook twice this week. The plan leaves shopping, ingredients and deciding which nights unowned. If one person does that coordination automatically, the cooking count will miss part of the workload. Clarifying it is more useful than deciding who cares more.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask each person what they will do and what they need from others. Identify dependencies and what counts as complete. Decide when a difficulty should be raised, including a change in capacity. Invisible planning and reminders are work too; leaving them unnamed can make an apparently equal arrangement misleading.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What the evidence contributes",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Thomas Webb and Paschal Sheeran combined forty-seven experimental tests in which intentions changed. Behaviour generally changed less than intentions did. This supports separating wanting an outcome from carrying out its steps. It does not explain why an individual failed to act, or prove that a detailed agreement will solve the problem.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Martin Hagger and Aleksandra Luszczynska reviewed planning interventions in health settings, including variation in results and study quality. Those findings do not validate a household or workplace agreement. Jason Colquitt and colleagues’ organisational-justice review also distinguishes outcomes, procedures, respect and information. These sources inform questions about feasibility and fairness, rather than a guaranteed method.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Confirm the agreement, not just the enthusiasm",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Silence, politeness and private encouragement are not automatically commitments. Make a short account of what people actually agreed, then check it with those affected. Include a review date and a way to correct misunderstandings. You need enough detail to coordinate, rather than a transcript of every feeling expressed.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A written plan does not prove that consent was free or the terms fair. A shared document can clarify work or become a tool for blame and surveillance. Ask whether someone can honestly decline or renegotiate without threats. Where legal, employment or care obligations apply, obtain appropriate advice rather than relying entirely on informal agreement.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make an early warning useful",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "If a person cannot provide the hoped-for contribution, repeated rescue may hide an unworkable plan. Reconsider the scope, timing or arrangement. That does not remove responsibility for a broken commitment. It lets you address the consequences while changing something that can affect the next attempt.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Include your own coordination style. Do you ask people to warn you early, then treat an early warning as a moral failure? A useful warning route should lead to a decision or adjustment. If conditions change, amend the agreement openly rather than rewriting what was previously promised.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Give one task an owner and a review",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose one recurring shared task. What result is needed, who owns each part, and which dependency is currently easy to overlook? Name one missing decision to clarify with the people involved. Take a moment. Pause the player if you would like longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "You might agree who buys ingredients and when a change of plan should be raised. At review, examine both completion and the coordination burden. Did the work become achievable and fairly understood? A workable agreement helps people act and adapt; it does not require pretending that every preference or constraint has disappeared.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

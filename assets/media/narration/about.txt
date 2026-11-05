@@ -1,25 +1,11 @@
-Understanding people. About the book.
+Understanding people is a self-published web book created and maintained by Christopher Snow. It began with a practical question: how can we understand what drives somebody across very different situations, while checking our own assumptions? That includes the explanations we give our own behaviour.
 
-Understanding people is a self-published web book created and maintained by Christopher Snow (GitHub: snowch). It began with a practical question: how can we understand what drives someone across very different situations, while checking our own assumptions?
+The intended reader is a curious adult without specialist training in behavioural science. You may arrive with a relationship question, a shared project or a difficult decision. The book offers concepts and questions to examine an explanation and choose what to do, rather than a method for reading another person's mind.
 
-The intended reader is a curious adult without specialist training in behavioural science. You might arrive with a question about yourself, a relationship, a shared project or a difficult decision. The book offers questions you can use in each setting to check your explanation and choose what to do.
+The individual matters, but so do relationships and wider circumstances. A person's goals are useful to consider alongside who controls a timetable, what an activity costs and whether refusal is a real option. Explaining behaviour solely through personality can miss those conditions.
 
-Why this book?
+There is overlap with books that explore revising beliefs and the difficulty of understanding unfamiliar people. This project focuses on ordinary, recurring situations, including familiar people and ourselves, then connects explanation to support, conversations and boundaries. Those comparisons describe its focus; its scientific claims rely on the research cited in the chapters.
 
-The aim is to help you understand why someone might act as they do, and what you can do next. That requires attention to the individual, the relationship and the wider circumstances. Understanding a person's goals is useful, but so is noticing who controls a timetable, what an activity costs and whether the person has a real choice.
+The current book is a first draft, with twelve chapters and a deeper reference library. It has not undergone external subject-matter review. Traceable sources, accurate explanations, explicit limits and corrections are central to how it should be assessed. A confident voice or polished page is not a substitute for that accountability.
 
-Two other books cover related questions:
-
-Book: Julia Galef's The Scout Mindset. Area of overlap: Examining beliefs and being willing to revise them. What this project aims to develop: Apply that discipline to explanations of behaviour, then to conversations, support and boundaries.
-
-Book: Malcolm Gladwell's Talking to Strangers. Area of overlap: The difficulty of interpreting unfamiliar people. What this project aims to develop: Work through ordinary, recurring situations involving both familiar people and ourselves, with reusable questions and practical exercises.
-
-These comparisons explain the book's focus; they are not full reviews of the other books. Our scientific claims rely on the research cited in the chapters.
-
-Authorship and accountability.
-
-The book’s explanations should be judged against their sources. Traceable references, accurate explanations, explicit limitations and corrections are central to the project. The evidence standards describe that commitment.
-
-The current edition is a complete first draft of twelve chapters, with concepts explained first, brief supporting examples, linked research, exercises and takeaways. The deeper reference library provides further detail. It has not undergone external subject-matter review. Future revisions will refine the explanations and source coverage in response to evidence and specific feedback.
-
-Read the sources, inspect the repository, or use its issues page to suggest a specific correction. Please avoid posting private details about identifiable people.
+If something seems wrong, identify the particular explanation, the evidence or limitation that concerns you, and a correction that could be checked. The public repository provides a route for feedback. Avoid posting private information about identifiable people. The aim is a clearer, better-supported book that helps you notice more accurately and act more thoughtfully.

@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/personality-disorders.md",
+  "title": "Personality disorders: what the term means",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/clinical-vocabulary.json"
+  ],
+  "sections": [
+    {
+      "title": "A clinical description of a broader pattern",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Personality disorders are clinical descriptions of enduring difficulties in thinking, feeling, relating and responding, associated with substantial distress or problems functioning. The term concerns a broad pattern in someone's life. It is not another way to say that a person is difficult, disliked or abusive.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "People with the same diagnosis can have different strengths, experiences and support needs. Understand the term without assigning it to someone. This lesson is general information and has not received specialist review; it cannot replace professional assessment or determine an individual's safety.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Development is complex",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Inherited tendencies, learning, relationships and wider circumstances may contribute to development. A family story cannot separate their influences. Tinca Polderman and colleagues combined findings from twin studies across many traits. Genetic contributions to differences were widespread, but that does not identify a genetic percentage of one person's action.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Family resemblance can reflect learning as well as inheritance. A diagnosis is therefore not a complete causal biography. Professional assessment considers persistence, context, the person's own experience and other possible explanations. NHS clinical guidance describes that broader approach and the role of support and treatment.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Patterns differ from memorable moments",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "William Fleeson studied repeated reports of everyday behaviour. Individuals varied considerably from one occasion to another, while differing in their average patterns. The research used self-reports in particular settings, so its reach has limits. It does not turn a few memorable incidents into evidence of a lifelong trait.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Clinical systems also describe personality difficulties differently. NHS guidance notes movement toward descriptions of severity and traits, while familiar named categories remain widely used in other diagnostic material. A word's meaning depends partly on that context. Asking what a proposed diagnosis means is more useful than assuming all labels work alike.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep the practical issue visible",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "An ordinary trait, a stressful period, another health condition and a personality disorder are different possibilities. A diagnosis also cannot determine whether a particular action was intended or abusive. Behaviour can require a response while the clinical question remains open, and a condition does not explain every event.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Here is a fictional example. Repeated arguments over housework lead someone to say their partner has a personality disorder. The arguments may reveal a serious practical problem, but do not provide an assessment of the partner's wider life. Responsibilities, effects and workable limits can still be discussed.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask what the label is meant to explain",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "When a label is suggested, ask what difficulty it refers to and who assessed it. A diagnosis reported by the person differs from a term used by a relative or an online video. Describe impacts and changes rather than adding incidents until you feel you have reached your own diagnostic threshold.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For your own persistent difficulties, discuss goals, alternatives and available support with a qualified professional. For someone else, attend to observable conduct, practical needs and your limits. Treatment and support can help, but the form and likely benefits depend on assessment. Neither hopelessness nor guaranteed recovery follows from a label.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "A question that opens support",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a difficulty or impact you can describe without assigning a disorder. What support question or practical adjustment fits your role? You might ask what help is available for the difficulty itself. Take a moment, and pause the player for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Review what the conversation or adjustment clarified, and what still needs assessment. In the housework example, clearer responsibilities might address part of the problem while other needs remain. You do not have to finish a diagnosis before making a useful change. Understand the vocabulary, preserve the person's individuality, and keep support concrete.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

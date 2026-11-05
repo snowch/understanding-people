@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "source": "chapters/08-questions-listening-disagreement.md",
+  "title": "Questions, listening and disagreement",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "chapters/08-questions-listening-disagreement.md"
+  ],
+  "sections": [
+    {
+      "title": "Let new information change the picture",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Understanding another person usually requires new information, not an increasingly detailed guess about their mind. Ask a useful question, listen for correction, and locate the actual disagreement. A conversation can improve understanding without guaranteeing honesty, agreement or a solution.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "After someone explains a concern, pause before responding. Ask whether you have understood them correctly. The question matters when you are prepared to use the correction, rather than treating your summary as another way to make your own argument.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask instead of only imagining",
+      "anchor": "get-information-instead-of-refining-a-guess",
+      "paragraphs": [
+        {
+          "text": "Your own experience can suggest possibilities, but it cannot reveal another person’s thoughts. Tal Eyal and colleagues asked people to predict others’ thoughts, feelings or preferences in experiments. Imagining another perspective did not consistently improve accuracy. A final experiment found a benefit from obtaining information through conversation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Those tasks do not establish that every direct question is safe or sufficient. They support a useful distinction between imagining an answer and getting relevant information. You still have to assess what you hear and choose an appropriate setting.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Here is a fictional example. A friend delays deciding about a holiday. Asking what remains to be decided can reveal questions about cost, dates or someone else’s approval. Assuming they do not want to travel with you settles the explanation before they have had a chance to describe it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Start open, then become precise",
+      "anchor": "start-open-then-make-the-uncertainty-specific",
+      "paragraphs": [
+        {
+          "text": "An open question invites someone to explain in their own words. What do you still need to decide about the holiday gives room for an answer you did not predict. You can then use a precise question to clarify the relevant date, cost or commitment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Yes-or-no questions can be appropriate for a specific decision. The aim is useful information, not making every sentence open-ended. Ask one manageable question at a time and avoid building an accusation into it. Asking why someone never cares assumes both a pattern and its meaning.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A good follow-up addresses an uncertainty that could change your next step. If the concern is cost, clarifying an affordable amount may help. Repeating why the trip will be enjoyable may leave the actual concern untouched.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Summarise for correction",
+      "anchor": "listen-for-correction-not-just-your-turn-to-speak",
+      "paragraphs": [
+        {
+          "text": "Listening includes briefly saying what you understood and leaving room for correction. For the holiday example, you might say that your friend wants to meet but the proposed cost is too high, then ask whether you understood. Their correction could change both your explanation and the options you offer.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Guy Itzchakov and colleagues studied listening in laboratory experiments. High-quality listening could reduce speakers’ social anxiety and help them recognise contradictions in their views on the topics studied. Those findings do not promise agreement or repair of a relationship.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Understanding a concern also differs from endorsing a disputed fact or agreeing to a request. You can accurately hear what matters to someone while still having a limit, a different recollection or a responsibility to consider.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep questions and disagreements clear",
+      "anchor": "keep-memory-questions-free-of-unnecessary-suggestion",
+      "paragraphs": [
+        {
+          "text": "A leading question suggests the answer the questioner expects. Asking, “You promised on Tuesday, didn’t you?” suggests both that there was a promise and when it was made. Ask what they remember before offering the wording or timing you expect, and keep an approximate recollection separate from a direct record.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Elizabeth Loftus reviewed research on how later misinformation can affect memory reports. This is a reason to ask carefully. It does not prove that a particular memory, or a report of harm, is false. A neutral opening cannot guarantee accuracy either.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Once you have heard the account, identify the disagreement. A factual dispute may need a relevant record. A disagreement over meaning needs each person’s understanding. Conflicting values need their priorities made clear. A practical arrangement needs attention to constraints and responsibilities. More facts may not resolve a value conflict.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A person can decline to disclose more. Stop when questions become repetitive, unsafe or outside your role, and consider support or an appropriate formal process. Curiosity does not justify interrogation, surveillance or a demand for someone’s history.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask one question that could change your action",
+      "anchor": "put-it-into-practice",
+      "paragraphs": [
+        {
+          "text": "Try a separate fictional situation. A teammate says a deadline is difficult, and you start explaining why the project matters. What question could you ask first, and how would you check your understanding? Pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Ask which part of the deadline or work is difficult. Summarise what you hear and clarify the relevant constraint. The teammate might value the project while lacking capacity. If so, another explanation of its importance would not resolve the obstacle.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "This week, choose one ordinary conversation. Ask something whose answer could change your next step, then check whether you understood correctly. Notice the correction you receive and what you do with it. Respect a refusal and choose a different route if the setting is unsafe.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

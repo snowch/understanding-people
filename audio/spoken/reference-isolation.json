@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/isolation.md",
+  "title": "Restricting contact with other people",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Distance can be chosen or imposed",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Choosing time alone is different from having contact restricted by someone else. Imposed isolation can interfere with friendships, family, work or services. It may reduce access to information, support and independent choices. The question is how contact has become difficult and what happens when the person tries to maintain it.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A person can reasonably choose distance from someone harmful. No relationship automatically entitles another adult to decide all their contacts. This general material has not received specialist review and cannot assess individual safety. If restriction may be part of danger or coercion, suitable confidential support can help consider options.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "The restriction may become less visible",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "A restriction might be explained as protection, loyalty, a practical inconvenience or concern about another relationship. The explanation could be genuine, incomplete or part of control. Look at what the arrangement does in practice. You cannot decide that from the stated feeling or from a relationship label alone.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Someone may stop asking to visit friends because previous attempts brought consequences. Fewer explicit bans can then make the situation look freer from outside, while options have already narrowed. This is one reason to attend to the affected person’s account and practical access rather than only listening for direct prohibitions.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What the sources can tell us",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Home Office guidance describes controlling or coercive patterns, including isolation and restrictions on everyday freedom. Its legal and practice context is England and Wales. NHS public guidance describes forms of abuse and confidential support, with UK-specific services. Neither source allows this lesson to decide a legal offence or an individual safety plan.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Roy Baumeister and Mark Leary reviewed evidence for a widespread motivation to maintain stable attachments. People differ in the amount and kind of contact they want. Their review does not oblige anyone to preserve an unsafe relationship. Connection matters without making every missed visit proof of imposed isolation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Look at access as well as words",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Using existing information where safe, consider which contacts or services have become difficult to reach. Who controls transport, money, communication tools or necessary care? What has happened after contact or disagreement? A serious restriction can deserve attention immediately; you need not wait to compile a long pattern.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Consider this fictional situation. A partner repeatedly creates a crisis before visits to friends, then threatens to remove access to money if visits continue. The question concerns restricted contact and consequences. Asking only whether the partner feels lonely would leave those practical effects unaddressed.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Support without adding pressure",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "If you support someone else, offer a dependable and nonjudgmental route. Do not demand confrontation or insist that they leave on your timetable. Ask privately only when circumstances permit it. A phone, message thread or device is not automatically confidential simply because you meant the contact to be discreet.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For an ordinary disagreement about plans, clarify the specific concern and preserve meaningful choice. Where restriction may be coercive or dangerous, seek appropriate support rather than arranging a loyalty test. If you recognise your own restricting conduct, someone else’s continued relationships are not something they must surrender to manage your discomfort.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask about safe access",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "If safe, consider an existing difficulty reaching people or services. Is it chosen distance, a practical obstacle or an imposed restriction? You do not need to decide a motive. Think of a confidential support question, and pause the player for longer if useful. Avoid keeping notes where they may be exposed.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A next question might be how to maintain contact without exposing private communication. Review whether the support increased choice and access, rather than whether someone finally admitted control. Distinguish chosen distance from restricted contact, and make the next step fit the circumstances.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

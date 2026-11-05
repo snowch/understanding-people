@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/approval-seeking.md",
+  "title": "Seeking approval",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "When approval directs the answer",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Seeking approval means acting or paying attention in ways aimed at acceptance, praise or avoiding disapproval. Caring about another person’s view is an ordinary part of relationships. The concern is whether that view repeatedly crowds out your own needs, judgment, values or practical limits.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "You may freely choose generosity even when it costs you something. You may also say yes so quickly that you never consider whether you can sustain it. The question is not whether you care what others think. It is whether their reaction leaves room for an answer that belongs to you.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Look before and after the yes",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Before agreeing, did you understand the request, notice your preference and check your capacity? Afterwards, do you repeatedly resent a commitment you did not want? Compare an ordinary setting where refusal feels safe with one where it has a real cost. The difference may matter.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Do not invent someone’s past to explain their agreement. Earlier criticism or exclusion could be relevant, but so could current authority or dependence. Apparent eagerness does not prove freedom to choose. If you are making the request, leave space for an honest answer without requiring reassurance that you are a good person.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What the evidence can and cannot identify",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Richard Ryan and Edward Deci reviewed research on choice, connection and competence in motivation. Roy Baumeister and Mark Leary reviewed evidence for a widespread desire for stable interpersonal attachments. These sources make belonging and choice useful concerns to consider. They do not tell us why one person said yes.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Geraldine Downey and Scott Feldman used several studies to examine anxious expectations of rejection, interpretations of ambiguous behaviour and relationship outcomes. Their findings cannot determine that your fear of rejection is mistaken, or score your sensitivity from this lesson. A possibility of expected rejection is different from an assessment of your actual circumstances.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a sustainable contribution",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional example. Noor is asked to help with a weekend event. She usually agrees immediately, then cancels her own plans. This time she says she will check her calendar and reply that evening. She discovers she can offer one hour rather than the whole day.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The pause does not guarantee a pleasant response. The organiser may be disappointed. That disappointment alone does not establish that Noor’s limit is wrong. What matters is whether the answer is honest, the offer is feasible and any existing responsibility is addressed. Cooperation and a limit can exist together.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Distinguish feedback from permission to matter",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Approval can be useful information in an evaluated role. Asking whether a piece of work meets a stated standard differs from asking whether you are acceptable as a person. A specific question gives the other person something answerable and gives you information you can use.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If retaliation is likely, a firmer sentence may not solve the underlying problem. Seek support and consider the options actually available. The goal is not to demonstrate independence by refusing for its own sake. It is to weigh another person’s views alongside your judgment and limits, with attention to consequences and safety.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make room before answering",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a recent ordinary agreement. What did you prefer, what could you manage, and what did you expect would happen if you declined? Name one difference between those three answers. Take a moment, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "In a safe situation this week, try a brief pause or a specific limit before agreeing. Afterwards, ask whether your answer was more honest and sustainable, rather than whether everyone approved. If you are the requester, notice whether you accepted an answer that differed from your preference. Check whether the yes belongs to the person giving it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/emotionality.md",
+  "title": "Negative emotionality",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/personality.json"
+  ],
+  "sections": [
+    {
+      "title": "Feelings and chosen actions differ",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Negative emotionality describes broad tendencies toward experiences such as worry, sadness or emotional volatility. Negative names a range of emotional experiences; it is not a criticism of the person. The dimension is not a diagnosis. Strong feelings can coexist with thoughtful action, and outward calm cannot tell you how someone feels inside.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For practical understanding, notice recovery as well as reaction. How long someone takes to recover, what supports them and how they respond can matter alongside the intensity of the first feeling. The aim is useful understanding rather than a judgment about whose emotions are legitimate.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "A pattern includes different kinds of days",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Emotions vary with perceived stakes, uncertainty, sleep, previous experience and present demands. Typical differences among people can coexist with substantial change within one person. Family resemblance cannot tell you how much an individual's response reflects inheritance or learning, and one stressful event cannot settle those contributions either.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Christopher Soto and Oliver John tested a personality questionnaire organised around broad dimensions and narrower aspects. William Fleeson's repeated everyday reports also found variation across occasions alongside differences in average patterns. These findings support looking across time and settings, with limits from self-report and the situations sampled. They do not identify a trait from a difficult day.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Distinguish distress from an explanation of character",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "A difficult period may differ from a longstanding tendency. Grief, physical health changes, anxiety or depression can affect emotional experience and functioning, but guessing a condition is not a useful substitute for attending to duration and impact. Emotional sensitivity is not equivalent to manipulation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Calmness does not establish fairness either. Someone can speak evenly while dismissing another person's needs. If another person's reaction affects you, address the concrete conduct. You can recognise distress and still ask for respectful treatment; you do not have to decide whether the person has a particular personality pattern first.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Notice a more workable response",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example about your own response. An ambiguous email triggers strong worry. Instead of sending several anxious replies, you wait, identify the uncertain sentence and ask one clarification. The worry may remain. The change is that your action becomes more deliberate and easier for the other person to answer.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When reviewing your own pattern, include the trigger, intensity, recovery time and what helped. Include ordinary days and occasions you handled well. If you are concerned about someone else, ask about their experience and needs rather than scoring their emotions from the outside.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Seek useful improvement and support",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Brent Roberts and colleagues reviewed intervention studies, mainly in clinical settings. Personality measures could change, especially emotional stability, and some changes persisted. Study designs varied. This does not establish that a short exercise will change a trait, or that you can change someone else by repeatedly urging them to calm down.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Try a manageable change in your response or support: reduce an avoidable demand, clarify a question or pause before sending a message. Public guidance from the US National Institute of Mental Health recommends considering persistence, distress and interference with daily activities when seeking help. Use support suited to local options and urgency when difficulties persist or worsen.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review recovery rather than demanding no feeling",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall one emotional reaction and its circumstances. What did you do, and what helped you recover? Choose one manageable adjustment in your response or support arrangements. Take a few seconds, and pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "At review, consider daily functioning, recovery and effects on others. Feeling nothing is not the required outcome. Being able to respond more deliberately may itself be useful progress. The written entry has research links, further practice and room for notes.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

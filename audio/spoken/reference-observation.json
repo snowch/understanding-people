@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/observation.md",
+  "title": "Observation & interpretation",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/thinking-and-interpretation.json"
+  ],
+  "sections": [
+    {
+      "title": "Keep the event and its meaning distinct",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "An observation is an account of something said, done or recorded. An interpretation explains what it means. Saying that someone left before you finished speaking describes an action. Saying they wanted to humiliate you adds an explanation of intent. You may need both an account and a working explanation, but they carry different uncertainties.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The useful cue is: describe it before explaining it. You can revise your interpretation while keeping the event and its effects in view. Being uncertain about why something happened does not mean pretending it never happened.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Notice how the story gets completed",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "We rarely have a complete account of an interaction. Expectations and earlier experiences help fill the gaps, sometimes so smoothly that the whole story feels directly witnessed. Even an observation has limits. Remembering approximate words differs from reading a message, and hearing a friend's account differs from being there.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Daniel Gilbert and Patrick Malone reviewed research on correspondence bias, in which people can give too little weight to circumstances when explaining someone else's behaviour. Their review gives a reason to check the situation. It does not establish that your particular judgment of someone's character is mistaken.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check what a record can establish",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "A message might settle wording or timing without settling intention. A recording can leave out what happened before or afterwards. Several witnesses may share an interpretation rather than independently confirm it. Ask what each source actually establishes instead of treating a record as a complete explanation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The reverse matters too. Missing documentation does not make an experience unreal. You can describe what you remember, mark wording as approximate and acknowledge uncertainty without withdrawing the concern. Your experience of being hurt is also different from a claim about what the other person meant to cause.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Use a question that could change the account",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional example. You sent a friend a request on Monday and have no reply by Wednesday. You think, they ignored me. Before making that your explanation, ask whether they saw the message and understood when you needed an answer. The unanswered request remains part of the account whatever you learn.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Tal Eyal and colleagues tested predictions about other people. Imagining their perspective did not consistently improve accuracy; obtaining information through conversation helped in a final experiment. These were particular prediction tasks. Conversation does not guarantee honesty, complete understanding or safety, so asking is one source of information rather than a final verdict.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Respond to the action and its effect",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Describe the event in words someone could understand without first accepting your character judgment. A request such as, please tell me by Tuesday whether you can come, is clearer than a demand to stop being inconsiderate. You can ask for a change while intent remains unresolved.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If you were the person whose action caused difficulty, explain relevant circumstances and acknowledge the effect. Good intentions do not erase the effect on someone else. If asking for clarification could expose you to harm, use a safer support route; checking an interpretation does not require a risky confrontation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make one small account",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose an ordinary interaction. Say what happened, how you know, and what meaning you gave it. Which missing detail could change that meaning? Take a few seconds, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Choose a legitimate, proportionate check or a practical request. Afterwards keep your original account and add what you learned, including anything still uncertain. The written entry has further practice and notes. Remember three things can remain distinct: what happened, its effect on you, and why you think the person did it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

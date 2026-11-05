@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/habits.md",
+  "title": "Habits & situations",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/emotion-and-learning.json"
+  ],
+  "sections": [
+    {
+      "title": "A familiar response can outlast its purpose",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A habit is a response that becomes more automatic through repetition in recurring circumstances. Habits can make daily life easier, but a familiar response can continue after your goal changes. Deciding to listen more carefully, for instance, may leave the usual interruption cue unchanged.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Automatic does not mean inevitable, always unconscious or outside responsibility. A repeated action is not necessarily a habit either. For a pattern you want to change, remember this cue: change the cue and the easy next action. A clearer setting can support an intention that determination alone has not carried through.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Notice what the setting invites",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "A time, place, object or preceding action can become a cue. You might reach for your phone whenever a conversation pauses, or take over a shared task whenever someone hesitates. Deliberate goals and automatic responses can coexist. You can genuinely value attention while repeatedly choosing the response that is closest to hand.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Wendy Wood and Dennis Rünger reviewed research on habits. Repetition in recurring contexts can make responses more automatic, alongside deliberate goals. Their review does not show that every recurring action is habitual. Ongoing duties, decisions, constraints and coercion can produce repetition too.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Leave other explanations open",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "A repeated task may remain necessary. An action that avoids real danger may serve current safety rather than an outdated routine. A new pattern can also reflect a change in health or circumstances. Someone's difficulty giving a satisfying explanation does not authorise you to call their behaviour automatic.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Susan Michie and colleagues proposed a framework examining capability, opportunity and motivation together after reviewing behaviour-change approaches. It is useful for asking what makes an alternative possible. It is not a diagnostic test, and identifying one barrier does not prove that it caused the action.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Practise a specific alternative",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional friendship. Whenever your friend pauses, you rush in with advice. You agree to ask whether they want ideas or just a listener before proposing a solution. The pause still occurs, but now there is a clear alternative response to practise. The example illustrates a possible change, rather than a guaranteed method.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Compare when the response happens with occasions when it is easier not to do it. Notice fatigue, access and the social arrangement as well as the immediate outcome. If the pattern belongs to someone else, ask whether they experience it as habitual instead of diagnosing it from outside.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make the replacement easy to repeat",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Adjust a small part of the setting. You might put a phone out of reach for an agreed conversation, or place a needed item beside an existing routine. Choose an alternative simple enough to try repeatedly. If others are affected, agree a useful cue without appointing them to police you indefinitely.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Martin Hagger and Aleksandra Luszczynska reviewed action-planning interventions in health settings, with varying results and study quality. That research does not validate a particular family or workplace arrangement. A concrete plan is a practical proposal to review, not a promise that a newly chosen response will become effortless.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Look at several opportunities",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose one ordinary action you want to change. Name the specific cue that comes before it, then a replacement you could make easy in that setting. Take a moment, and pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Review several occasions rather than judging yourself after one success or miss. If the alternative is too demanding, adjust its size or the cue. The written entry has further practice and research links. A goal change becomes more workable when the setting also makes room for a different next action.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

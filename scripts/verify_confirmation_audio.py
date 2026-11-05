@@ -9,7 +9,7 @@ assert 8*60<m['duration']<13*60
 subprocess.run(['ffmpeg','-v','error','-i',str(ROOT/'assets/media/audio/confirmation-bias-explained/explanation.mp3'),'-f','null','-'],check=True)
 with sync_playwright() as pw:
  b=pw.chromium.launch();p=b.new_page(service_workers='block');errors=[];media=[];p.on('pageerror',lambda e:errors.append(str(e)));p.on('request',lambda r:media.append(r.url) if urlsplit(r.url).path.endswith('.mp3') else None)
- p.goto(base+'reference/confirmation-bias.html');expect(p.locator('.reference-formats a')).to_have_count(3);expect(p.locator('.nav-listening')).to_have_count(0)
+ p.goto(base+'reference/confirmation-bias.html');expect(p.locator('.reference-formats a')).to_have_count(3);expect(p.locator('.reference-formats a[href="#page-narration-title"]')).to_have_text('Listen');expect(p.locator('.nav-listening')).to_have_count(0)
  for width in [320,390,1440]:
   p.set_viewport_size({'width':width,'height':950});assert p.evaluate('document.documentElement.scrollWidth<=innerWidth')
   p.locator('#listen').scroll_into_view_if_needed()

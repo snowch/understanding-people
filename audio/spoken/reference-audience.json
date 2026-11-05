@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/audience.md",
+  "title": "Who else is present",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "The same person can answer differently in different settings",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Who else is present can change what people say, notice or feel able to do. Public and private exchanges may differ because of privacy, recognition, role expectations, consequences or a need to coordinate. A difference gives you information about context. It does not by itself prove that one answer was insincere.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Keep this cue in mind: compare the setting without assuming a performance. Look at the actual question, information and commitment in each exchange. A private expression of encouragement may never have been a promise to recommend the plan publicly.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Consider what the audience changes",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "A comment can feel more like criticism when other people hear it. A request can become harder to refuse in front of someone with authority. The group discussion can also provide new information. Include your own part: have you presented a friendly private comment as a settled public commitment without checking?",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Cameron Anderson and colleagues reviewed evidence about the desire for respect, admiration and voluntary deference, distinguishing status from power, money and belonging. A broad motive does not explain every interruption or disagreement. Wanting recognition is one possible consideration, not evidence that someone is performing for an audience.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "A framework cannot decide the motive",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Dacher Keltner, Deborah Gruenfeld and Cameron Anderson reviewed theory and evidence connecting power with opportunities, threats and behavioural tendencies. Their framework is broad rather than a universal rule about every individual. Notice who controls a decision and what disagreement could cost, without using the theory to read a person's mind.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Tal Eyal and colleagues tested interpersonal predictions. Imagining another person's perspective did not consistently improve accuracy; conversation helped in a final experiment. These were specific tasks, and asking does not guarantee truth, understanding or safety. A targeted clarification can add information when it is appropriate to ask.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare what was actually supported",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional workplace example. A colleague praises an idea privately and raises concerns at the meeting. Asking which part they supported and what changed distinguishes encouragement, readiness and a public recommendation. Compare the answer with the discussion and later actions instead of treating either version as automatically decisive.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A difference may reflect deception or strategy, but it may also concern changed circumstances, uncertainty or a different meaning of support. Consistency is not automatically truth, and inconsistency is not automatically bad faith. Record who was present, what was said and what information changed between the conversations.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Clarify the commitment before depending on it",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Before a consequential meeting, ask what someone is prepared to support publicly and which concerns remain. For sensitive information, a private or written route may be appropriate. Include whether your own expectations or wording changed when others were watching. The arrangement should make the commitment clearer for everyone involved.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If repeated public undermining affects you, address the conduct and agree how decisions will be recorded. You do not need a confession of an inner strategy before protecting your work. When authority or retaliation makes direct discussion risky, use a suitable support route rather than creating another public test of the person.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check one difference",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Compare an ordinary public and private exchange. Were the information, wording and requested commitment the same? Name one specific clarification or agreement about how future support will be recorded. Pause for a moment, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "Review whether the distinction helped explain the difference and whether the arrangement became more dependable. Some motive may remain unknown. The written entry offers research links and further practice. A useful outcome is knowing what you can rely on, rather than deciding which setting reveals someone's true personality.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

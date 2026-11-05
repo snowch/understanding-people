@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/persuade.md",
+  "title": "Trying to persuade",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "Influence with a real choice",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Persuasion means trying to influence another person’s judgment or choice. Explaining a benefit, presenting evidence or appealing to a shared value can all be attempts to persuade. This is an ordinary part of collaboration and selling. The quality of the interaction depends on accuracy, transparency and meaningful choice.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A useful conversation can end with a better-informed refusal. Agreement alone does not establish that the person understood the cost or wanted the arrangement. Keep this cue in mind whether you are proposing or deciding: make reasons visible and refusal possible.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep different kinds of influence distinct",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Informing supplies relevant information and leaves room for another conclusion. Negotiating changes terms so that an agreement might become workable. Coercion can make refusal unsafe or practically unavailable. These can look different from an honest argument for a proposal, even when each results in a yes.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A polished presentation can be wrong, and an awkward presentation can be sound. Ask what supports the claim and what has been left out. Also avoid calling every disagreement manipulation merely because someone wants to influence you. Their reasons may deserve examination even when you do not accept their conclusion.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Evidence does not provide a universal technique",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Christina Steindl and colleagues reviewed research on psychological reactance, concerning responses to perceived threats to freedom. Pressure may contribute to resistance, but resistance does not establish reactance. The proposal might simply be unsuitable. Reducing pressure also does not establish that the underlying proposal is correct.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ziva Kunda reviewed research showing how desired conclusions can influence which reasons people seek and accept. That includes your own reasoning as a proposer or buyer. A desired conclusion can still be correct, and disagreement alone cannot reveal a hidden motive. Richard Ryan and Edward Deci’s motivation framework similarly offers questions about choice, rather than a test of why someone refuses.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make the relevant terms answerable",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional client choosing a service. The provider can explain what is included, the total cost, important limitations and cancellation terms. Asking what the client needs helps check the fit. Saying that hesitation proves a lack of ambition instead pressures the client’s self-image while leaving the practical question unanswered.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If you are proposing something, invite questions and name what you stand to gain. Do not use personal vulnerability as a pressure point. If you are deciding, compare actual alternatives and ask whether the choice can be delayed, reviewed or reversed. A dramatic choice between accepting immediately and losing everything may conceal other options.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Inspect your own incentive to win",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Ask what evidence would lead you to recommend a different choice. If you cannot name any, you may be concentrating on agreement rather than fit. That does not prove bad faith, but it gives you something concrete to check before presenting the case again.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A person’s refusal need not become a puzzle you are entitled to solve. They may have priorities they prefer not to disclose. Shared responsibilities can still require a decision, but that calls for honest negotiation about the task and constraints. Confidence, praise and repeated appeals do not replace an agreed process.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Improve understanding before counting agreement",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of one ordinary choice you are proposing or considering. What benefit is clear, and what cost, limitation or alternative needs more attention? Name one thing to make explicit. Take a moment, and pause the player if you would like longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "You might clarify a cancellation fee or say that taking time to decide is acceptable. Afterwards, review what each person understood and whether they could answer freely. The important learning may be a changed proposal, a fairer agreement or a better-informed no. The written entry keeps the fuller research links and exercises.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

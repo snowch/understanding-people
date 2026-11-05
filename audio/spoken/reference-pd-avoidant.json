@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/pd-avoidant.md",
+  "title": "Avoidant personality disorder",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/clinical-vocabulary.json"
+  ],
+  "sections": [
+    {
+      "title": "Connection and fear",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Avoidant personality disorder describes a persistent clinical difficulty involving inhibition in relationships, feelings of inadequacy and sensitivity to negative evaluation. Someone may want connection while finding the prospect of criticism or rejection very difficult. The condition concerns substantial effects on life, rather than ordinary quietness or one declined invitation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The central distinction is between a preference for solitude and fear that constrains a person's choices. Their own account matters. This general educational material has not received specialist review, and cannot establish a diagnosis or assess an individual's needs. The aim is to make support more thoughtful.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Context still matters",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Temperament and experience may contribute, but present social behaviour cannot tell an observer how much each contributed. Expectations of rejection can shape what a situation seems to offer. Actual exclusion and unwelcoming settings also matter; discomfort need not be an imagined problem inside the person.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The MSD Manual's overview and NHS personality-disorder guidance describe broad patterns, functioning and professional assessment. A clinician considers persistence, context and alternatives. These sources do not turn social occasions into a diagnostic checklist, and the practical suggestions in this lesson are editorial applications rather than treatment instructions.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Several meanings of withdrawal",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Introversion, privacy, social anxiety, fatigue and communication differences can all be relevant when someone participates less than you expect. Avoiding an unsafe setting may be sensible. These possibilities are not an exhaustive explanation, but they show why attendance alone tells you little about a person's experience.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Avoidant attachment is also a separate concept, not another name for this disorder. If someone says a particular event is simply not their preference, do not automatically reinterpret that as concealed distress. Your preferred level of sociability is not the standard against which their life must be measured.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Find a workable form of contact",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Here is a fictional example. A relative declines a large celebration but suggests meeting quietly beforehand. That gives you information about a form of contact they welcome. It does not establish a disorder, or justify pushing them into the celebration to see how they react.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If they describe wanting connection that feels hard to pursue, ask what gets in the way. A familiar setting, a clearer plan or a smaller gathering may offer something different. Offer options with room to decline, rather than making an invitation a test of progress or loyalty.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Support without forced exposure",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Stefan Hofmann and Angela Hay reviewed avoidance in anxiety treatment, including situations where avoidance can be adaptive. The function of avoidance and actual danger matter. Their work does not authorise friends or relatives to remove safety arrangements or conduct exposure treatment themselves.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Persistent fear that limits someone's life is a reason to discuss qualified assessment and support. You can offer companionship or help accessing care if wanted. Avoid public pressure, surprise exposure or demanding a demonstration of distress before adjusting an arrangement. Participation should preserve choice, not prove compliance.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review access and choice",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Consider a form of contact someone actually wants, using their account rather than your assumptions. What is one specific barrier, and one participation option you could offer without pressure? Take a moment. Pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "An answer might be a quiet meeting with a clear finishing time, if that fits what they have asked for. Later, ask whether access and choice improved. Greater sociability is not the only useful outcome. Remember the distinction: wanted connection, fear and personal preference need to be understood separately.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

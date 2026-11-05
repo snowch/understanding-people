@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/getting-support.md",
+  "title": "Getting support without needing a label",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/responding-and-collaborating.json"
+  ],
+  "sections": [
+    {
+      "title": "Help can begin before a label",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "You can ask for support because you are distressed, your daily functioning has changed, you are being harmed, or an arrangement is no longer manageable. You do not need to identify another person’s personality type, prove an intention or reach a diagnosis first. Different practical concerns call for different kinds of help.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Searching for certainty can delay assistance. You might keep reading descriptions of a disorder while sleep, money or safety deteriorate. A label can also make an ordinary disagreement sound clinical. Start instead with what is happening, how it affects life, and what help is needed now.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Describe a difficulty someone can assess",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Prepare a short account of the conduct or change, when it began, how long it has continued and its effect. Separate what you observed directly from what someone reported. Include immediate concerns. You do not have to produce a perfect record before asking which service or next step is appropriate.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Here is a fictional example. Since a relationship change, a person sleeps poorly, misses routine tasks and often feels frightened. They can bring that account to a suitable professional without deciding whether their former partner has a disorder. Support can address the impact while explanations remain uncertain.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Match the urgency and the service",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Public guidance from the US National Institute of Mental Health suggests considering distress, persistence and interference with usual activities when seeking help. Its service information is US-specific. Local health care may be appropriate for ongoing health-related difficulties; workplace or legal advisers have different roles in questions about rights and procedures.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "NHS guidance describes abuse and confidential support in the UK. Separate NHS guidance treats sudden new confusion as requiring urgent medical assessment, because several medical causes are possible. Use the appropriate urgent service where you are. Sudden serious medical change or immediate danger should not wait for an exercise about psychological motives.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask what this person can provide",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "A friend, clinician, advocate, manager and legal adviser have different responsibilities and confidentiality limits. Ask what help is available, what will be recorded and who can access it. Consider whether the device or account used to seek help is private enough for your circumstances.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A book or AI can help organise questions, but it cannot diagnose a person, assess your individual safety or guarantee a safe action. This book’s clinical and abuse-related material has not received specialist review. Public guidance is a starting point, and local options, urgency and professional judgment still matter.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Support does not require agreement with every explanation",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Someone can take your distress seriously without endorsing every conclusion you have formed about its cause. A professional may need more information or propose another explanation. That is different from saying nothing happened or that help is unnecessary. Keep the practical need visible while remaining open to relevant assessment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Choose a route matched to the concern: health care for health changes, specialist abuse support for controlling or threatening treatment, and appropriate advice for employment or legal questions. If the first contact cannot help, ask where to go next. The written support page offers routes and their limits; use location-appropriate services.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Prepare one support question",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "If it is appropriate to reflect now, describe one difficulty and its effect in two factual sentences. What kind of help do you need, and what would you like to ask about confidentiality? Take a moment. Pause the player for longer if helpful; urgent needs should go directly to an appropriate service.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "An opening question could ask whether the service can help with the problem described and what the first step involves. After contact, review whether the need was addressed or another route is required. Describe the difficulty before searching for a label. Asking about options does not require certainty about anyone’s diagnosis or motive.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

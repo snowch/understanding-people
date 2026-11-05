@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/pd-schizoid.md",
+  "title": "Schizoid personality disorder",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/clinical-vocabulary.json"
+  ],
+  "sections": [
+    {
+      "title": "Expression is only part of experience",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Schizoid personality disorder describes a persistent clinical pattern involving detachment from social relationships and limited outward emotional expression. Assessment concerns a person's broader functioning. Privacy, independence, introversion or a preference for a small social life cannot by themselves establish the condition.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Limited expression does not reveal the whole experience. Someone's quiet manner cannot tell you every feeling they have or whether they care. This material is general information and has not received specialist review. It offers distinctions for understanding and support, rather than a way to assess someone clinically.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Understand the broader pattern",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Clinical accounts consider possible inherited and developmental influences. Quietness does not reveal a person's history or the contribution of those influences. Their own description of social preferences may differ from an observer's. Professional assessment looks at persistence, impact and alternatives, rather than simply counting friendships.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The MSD Manual's public overview and NHS clinical guidance describe the condition within that wider assessment. The guidance is not a checklist for judging relatives. An observer's disappointment about the amount of contact may be a real relationship concern, but it is different from evidence of clinical impairment.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Preference differs from change",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Exhaustion, depression, grief, sensory or communication differences and an unwelcoming environment can affect contact and expression. A longstanding preference also differs from a new loss of interest or functioning. Schizoid personality disorder is distinct from schizophrenia; similar-sounding names should not be treated as interchangeable explanations.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "William Fleeson used repeated reports of everyday behaviour in three studies. People varied across occasions while differing in their average patterns. The studies relied on self-reports and sampled particular settings. They do not justify treating a few memorable encounters as proof of a lifelong trait or clinical condition.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask what contact is wanted",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "In a fictional example, a relative prefers brief visits and rarely shows the enthusiasm you expect. Asking which kind of contact they enjoy may tell you more than assuming indifference. Their answer can help with an arrangement even while you know little about the reasons for their preferences.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask what is difficult, whether there is an impact they want help with, and what has changed from their own usual pattern. A sudden withdrawal from activities they previously enjoyed raises a different support question from a stable preference for short visits. Your social ideal is not their baseline.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make room for both people",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Respect clearly expressed preferences and make practical expectations explicit. Offer contact without making acceptance proof of affection or health. You can also explain your own relationship needs and decide what arrangement is workable. Understanding someone's preferences does not require pretending that every arrangement suits you.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A qualified professional can assess persistent difficulties or a marked change and discuss suitable support. It is possible to offer help without pushing for greater sociability as the goal. Focus on the actual need, the person's wishes and functioning, rather than trying to produce a more expressive presentation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review the fit",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a contact preference or change you have noticed. What has the person said about it, and what have you inferred? Choose one question about wanted contact or support. Take a moment, and pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the relative in the example, you could ask whether a shorter visit at an agreed time would suit them. Later, review whether the arrangement works for both of you and whether a persistent difficulty needs assessment. Limited outward emotion does not settle what someone feels, values or can offer in a relationship.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

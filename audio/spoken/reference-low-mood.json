@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/low-mood.md",
+  "title": "Low mood, withdrawal & support",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/context-and-development.json"
+  ],
+  "sections": [
+    {
+      "title": "Look beyond visible sadness",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Low mood can involve sadness, reduced interest, low energy or difficulty managing ordinary activities. It may follow an obvious difficulty, or have no explanation you can see. Depression is a clinical condition; quietness, a missed invitation or one difficult week cannot establish it from the outside.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask about impact, not just visible sadness. This lesson provides general information and has not received specialist review. It cannot diagnose a person or assess individual safety. Support can begin with a clear account of what has changed, even when nobody yet knows the full explanation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Withdrawal has several possible meanings",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "Sleep, health, stress, loss and circumstances can all affect mood and daily functioning. Someone may withdraw because company feels demanding, because rest is needed or because a different kind of support would fit better. Their account matters more than automatically interpreting reduced contact as rejection.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Grief, fatigue, physical illness, medication effects, anxiety and a preference for solitude can resemble parts of low mood. These are possibilities, not an exhaustive list or a way to select a diagnosis. A person can also be distressed while appearing cheerful or continuing to work.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What public guidance can tell us",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "The United States National Institute of Mental Health distinguishes passing low feelings from depression that can substantially affect thinking, sleep, eating, work and other daily activities. Assessment is needed to understand a particular change. Neither visible sadness nor its absence settles the clinical question.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The institute recommends considering persistence, distress and interference with usual activities when seeking help. Its service information needs adapting to local options and urgency. NHS guidance on grief also describes varied responses to loss, without a required sequence or timetable. These sources support attention to needs rather than judging emotional performance.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make a gentle, specific offer",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Imagine a fictional friend declining several outings after a difficult period. Asking whether a short walk or a delivered meal would help gives a concrete option. The offer does not diagnose depression, and attendance should not become a test of whether the friend values you.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Ask what has changed and what feels hard, allowing an answer or a refusal to discuss. Focus on duration, everyday effects and wanted support. Do not make the person responsible for reassuring you that your concern was appreciated. Their energy and willingness to talk may be limited.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Support without needing the whole story",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "For a concern about your own mood, a concise account of changes can help a professional conversation. You do not need a complete causal story before seeking help. Persistent, worsening or disruptive difficulties warrant appropriate health support. Immediate safety concerns require suitable urgent assistance where you are.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For someone else, offer a manageable contribution and be clear about your own responsibilities and limits. Care does not require becoming the only source of support. If a diagnosis exists, it still does not explain every relationship difficulty. Keep the practical need and the person's wishes in view.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check whether the offer reaches the need",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a change or difficulty without assigning a diagnosis. What practical effect does it have, and what wanted help or health-support question could address it? Take a moment. You may pause the player if you would like longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the friend in the example, help with a meal might fit better than another large outing. Later, review whether support reached the need and whether further or urgent help is required. A smile does not rule distress out, and a declined invitation does not establish depression. Keep asking about impact.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

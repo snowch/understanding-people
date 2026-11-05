@@ -4,29 +4,31 @@ The user chose **en-US-AndrewMultilingualNeural** on 3 November 2026. The first 
 
 ## Current scope
 
-Four pages now pilot authored spoken lessons: Chapter 1, confirmation bias, correspondence bias and declining help. Their top player says **Listen to this lesson**. The other 132 page readings remain unchanged; they are the earlier format, not revised lessons. The three earlier audio compatibility notices still route to their parent content and receive no independent narration. No new reference pages, sidebar branches or graph nodes are created for listening.
+On 5 November 2026 the user authorized completing the improved recordings for all pages. All **136 substantive pages** now use authored spoken adaptations: the introduction, twelve chapters, conclusion, 111 reference entries and eleven supporting/resource pages. The four initial pilots (Chapter 1, confirmation bias, correspondence bias and declining help) are preserved. The remaining 132 page readings are replaced by individually authored scripts with source-fidelity peer review. Their top player says **Listen to this lesson**. The three earlier audio compatibility notices still route to their parent content and receive no independent narration. No new reference pages, sidebar branches or graph nodes are created for listening.
 
-Before audio work, read and use [the repository-local spoken narration skill](../.agents/skills/spoken-book-narration/SKILL.md). This is local authoring/production guidance, not an installed cloud skill or a new speech model. Representative recordings need a listening judgment before this approach is extended across the library; automated checks alone cannot provide that judgment.
+Before audio work, read and use [the repository-local spoken narration skill](../.agents/skills/spoken-book-narration/SKILL.md). This is local authoring/production guidance, not an installed cloud skill or a new speech model. The rollout follows the user's instruction to extend the four-pilot approach. Source/script peer review and technical checks do not constitute human listening or specialist review.
 
 ## Write an adaptation
 
-Each pilot's canonical spoken script is `audio/spoken/SLUG.json`. It names its parent page and canonical written sources, and contains connected spoken paragraphs grouped into sections that link to existing reading anchors. Paragraphs are authored for listening, not extracted from HTML.
+Each page's canonical spoken script is `audio/spoken/SLUG.json`. It names its parent page and canonical written sources, and contains connected spoken paragraphs grouped into sections that link to existing reading anchors. Paragraphs are authored for listening, not extracted from HTML. Library/index/source pages have explanatory audio guides rather than spoken lists of titles; the glossary groups and explains its defined terms.
 
 Explain the concept before the example. Use conversational research attribution that explains what the work supports and its limits. Full formal citations, source links, detailed tables, optional research discussions and longer exercises remain on the written page. Do not read page labels, bibliography strings, link instructions or hidden note controls aloud. The lesson's transcript contains what is spoken, with clearly bracketed directions for longer pauses; it is not presented as the entire written page.
 
-The pilots preserve the written meanings and limits. Confirmation bias concerns the checking process, not proof that a belief is false. Circumstances can matter without excusing harmful behaviour. Family resemblance does not establish a help-refusal gene. Respecting a refusal can be a useful outcome. Main teaching, examples, source links and saved practice notes on the written pages are unchanged.
+Adaptations preserve the written meanings and limits. Confirmation bias concerns the checking process, not proof that a belief is false. Circumstances can matter without excusing harmful behaviour. Family resemblance does not establish a help-refusal gene. Respecting a refusal can be a useful outcome. Main teaching, examples, source links and saved practice notes on the written pages are unchanged. Clinical/support lessons remain non-diagnostic and preserve urgency, agency, jurisdiction and source-review limitations.
 
 ## Produce actual timing
 
 Requires `edge-tts==7.3.1`, FFmpeg and ffprobe:
 
 ```sh
-python scripts/synthesise_spoken.py chapter-01 confirmation-bias correspondence-bias declining-help --plan
-python scripts/synthesise_spoken.py chapter-01 confirmation-bias correspondence-bias declining-help
+python scripts/synthesise_spoken.py --all --plan
+python scripts/synthesise_spoken.py --all --workers 20 --page-workers 6
+# A later focused update can name only its reviewed script:
+python scripts/synthesise_spoken.py chapter-03
 python scripts/build.py
 ```
 
-The producer accepts explicit script names. It does not enumerate the whole book and create new recordings automatically. Only public, authored script text is sent through the configured HTTPS proxy to Microsoft Edge neural TTS. Voice and rate remain Andrew at −2%; the service does not expose its underlying model name.
+The producer accepts explicit script names or an explicit `--all` selection of authored scripts. It never extracts pages to invent narration automatically. Only public, authored script text is sent through the configured HTTPS proxy to Microsoft Edge neural TTS. Voice and rate remain Andrew at −2%; the service does not expose its underlying model name. Run one producer process per checkout; its internal page/request concurrency is bounded. Existing matching script/source/audio/transcript records are skipped, preserving the four original pilots.
 
 Every spoken paragraph is a separate synthesis request. Word-boundary text must match the complete submitted paragraph. It is never split mid-sentence or joined to the next paragraph as whitespace. Natural internal pauses remain. Leading/trailing excess silence is trimmed only at the outer edges, retaining guards of 80 and 120 milliseconds around speech.
 
@@ -34,7 +36,7 @@ PCM silence is inserted explicitly: normally 850–1,000 milliseconds between co
 
 Final MP3s target −16 LUFS / −1.5 dBTP, mono 24 kHz at 96 kbps. The producer decodes the final MP3 and measures the centres of every requested gap, excluding 80 milliseconds at each edge to allow for codec windows. A missing/non-silent gap fails production. It also verifies full decode, duration and section timing before checkpointing the selected page.
 
-Raw takes, temporary WAV files, intermediate MP3s and logs stay under `/workspace/book-spoken-cache/`, or `BOOK_SPOKEN_CACHE` when explicitly configured. Only final recordings/transcripts, authored scripts, production metadata and code/docs go in Git.
+Raw takes, temporary WAV files, intermediate MP3s and logs stay under `/workspace/book-spoken-cache/`, or `BOOK_SPOKEN_CACHE` when explicitly configured. Cache metadata and final files publish atomically; corrupt/incomplete cache metadata is treated as a miss. Paragraph tasks are drained before a failed lesson returns, completed takes remain reusable, and failed lessons are reported after other selected pages finish. Manifest checkpoints are serialized within the process. Only final recordings/transcripts, authored scripts, production metadata and code/docs go in Git.
 
 ## Integrity and compatibility
 
@@ -50,13 +52,16 @@ Earlier chapter videos remain paused. Confirmation bias retains the two existing
 
 ```sh
 python scripts/test_spoken_narration.py
+python scripts/test_spoken_resume.py
 python scripts/build.py
 python scripts/verify_page_narration.py
-python scripts/verify_spoken_pilots.py BASE_URL
+python scripts/verify_spoken_pilots.py --all
+# Focused delivered-file checks can select a new chapter, reference and guide:
+python scripts/verify_spoken_pilots.py BASE_URL --lessons chapter-03 reference-autonomy support
 python scripts/verify_chapter_revision.py BASE_URL
 PEOPLE_NO_SCREENSHOTS=1 python scripts/verify_practice.py BASE_URL
 ```
 
-The tests check real PCM gaps, preservation of internal silence, script/citation formatting, source/file integrity, spoken-player labels/transcripts, MP3 range delivery, playback/seek, responsive layouts and preserved written practice. The general narration check can start its own local range server; public-URL checks honour the configured HTTPS proxy and accept GitHub's MP3 media type.
+The tests check real PCM gaps, preservation of internal silence, interrupted-write/corrupt-cache recovery, script/citation formatting, source/file integrity, spoken-player labels/transcripts, MP3 range delivery, playback/seek, responsive layouts and preserved written practice. `--all` checks complete authored coverage and delivered MP3 gaps on all pages; the default spoken verifier retains the original four-pilot selection, while `--lessons` selects named scripts. The general narration check can start its own local range server; public-URL checks honour the configured HTTPS proxy and accept GitHub's MP3 media type.
 
 Provider alignment, energy measurements, loudness and browser checks do not establish naturalness, pronunciation, scientific accuracy or reader learning. Report exactly which checks ran. Do not claim to have listened when no audio-listening capability was available. Provide working pilots for the user to hear and judge before proposing a larger regeneration.

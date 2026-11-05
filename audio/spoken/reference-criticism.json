@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/criticism.md",
+  "title": "Repeated criticism",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Content and delivery are separate questions",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Repeated criticism can describe necessary feedback, a dispute about standards or a pattern of humiliation. Frequency alone cannot distinguish them. Listen for what is being evaluated, how the concern is expressed, whether it is proportionate and whether there is a real opportunity to respond or improve.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A valid concern can be delivered harmfully. An unpleasant delivery can also contain an accurate factual point. Separating those questions helps you address the work or conduct without treating humiliation as the price of taking responsibility. The fictional example in this lesson illustrates how both responses can be needed.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Find a usable standard",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Specific feedback identifies a change. A global judgment, such as you are useless, provides little guidance about what would count as adequate. Ask for a representative example and the relevant standard. A demanding role may require detailed review, but it does not by itself justify public insults.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Imagine a manager calls a report poor without explaining why. Asking which decision the report fails to support and what needs changing can make the criticism usable. If the manager also repeatedly humiliates you in meetings, revising the report does not resolve that separate pattern.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What research separates",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Jason Colquitt and colleagues combined studies of organisational fairness. Outcomes, procedures, interpersonal treatment and information were related but distinguishable aspects. That supports asking several questions about feedback. Most of this evidence concerns organisations; it cannot determine the correct allocation or prove dishonesty whenever someone experiences unfairness.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Guy Itzchakov and colleagues varied listening quality in laboratory experiments. Attentive listening reduced speakers’ social anxiety and helped them recognise mixed attitudes in the studied tasks. It does not guarantee agreement or repair harmful relationships. Asking a good question may help, without making you responsible for another person’s demeaning delivery.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Examine the pattern fairly",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "A critic may be addressing a real problem, expressing frustration, applying an unclear standard or seeking influence. These are possibilities rather than findings about intent. Public delivery can affect status and willingness to speak. Neither assuming care nor assuming malice replaces examining what was said and what happened afterwards.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Consider a few representative occasions, including ordinary or positive feedback. What was criticised, who heard it, and was the same standard applied to others? Could you tell what improvement was wanted? If you are giving the criticism, ask whether your words identify a practical change or merely communicate dissatisfaction.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose the appropriate response",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "For an ordinary issue, address an accurate part and request a usable standard or a different feedback method. You might ask to discuss a specific revision privately. A request can clarify your preference while leaving the other person responsible for their response. Your self-respect need not depend on proving a psychological motive.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Belittling, discriminatory or retaliatory conduct may require suitable support or formal procedures. The US Equal Employment Opportunity Commission provides guidance on harassment and retaliation within laws it administers. Legal definitions and coverage vary by jurisdiction. Conduct can remain harmful even if it does not meet one particular legal definition.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review usefulness and treatment",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall one representative criticism. What factual issue did it raise, what standard was available, and what about its delivery needs attention? Choose a concrete clarification or an appropriate support route. Pause the player for longer if you want time.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful clarification might ask which part needs changing and what a satisfactory version would do. Later, review both whether the feedback became usable and whether the treatment improved. Correcting your work and responding to humiliation can be separate tasks. Keep the useful issue distinct from the way it is delivered.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

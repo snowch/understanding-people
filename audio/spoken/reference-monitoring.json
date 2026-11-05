@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/monitoring.md",
+  "title": "Monitoring & demands for access",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "Look beyond the sharing tool",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A location app, shared account or request to see messages does not tell you whether an arrangement is voluntary. Monitoring can be freely agreed, required within a legitimate formal role, or intrusive and coercive. Its meaning depends on what is accessed and what freedom people actually have.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The important questions concern purpose, scope, knowledge and the consequences of refusal. Anxiety or a claim of care does not automatically entitle someone to another adult’s information. This is general information without specialist review, not an assessment of your circumstances or advice about which device action is safe.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Consent has practical conditions",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "An arrangement may be called sharing even when one person expects punishment for ending it. Apparent agreement under threat may not reflect free choice. Conversely, a clearly explained safety arrangement can have a legitimate purpose. Workplace or care monitoring may involve duties and legal rules requiring advice specific to that setting.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Consider two fictional situations. Two adults share travel updates during a journey and can stop afterwards without penalty. In a separate relationship, a partner demands permanent account access and threatens consequences for refusal. The software could be similar while the freedom to choose is very different.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What the guidance describes",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "The Home Office guidance on controlling or coercive behaviour describes patterns involving monitoring, threats, restricted resources and reduced everyday freedom. It concerns law and practice in England and Wales. It helps explain why connected conduct matters, but this lesson cannot determine whether a legal offence has occurred.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "NHS public guidance describes emotional, physical, sexual and economic abuse and routes to confidential support. Its services are UK-specific, and the guidance is not a test of someone’s motives. Use appropriate local support when you need advice about your rights, privacy or safety.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Use what is already known",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Where safe, consider the access you already know about. Who can see what, for what purpose, and for how long? Is the arrangement understood? Has access expanded? What has happened when it was questioned? These questions concern the arrangement rather than whether the person describes themselves as trusting.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Keep an important limit in mind: do not create risky experiments to discover hidden surveillance. Notes, searches and messages on a shared or monitored device may not be private. Declining account access is not evidence of deception, and you do not need to demonstrate complete innocence before seeking help.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a route before changing access",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "In an ordinary voluntary arrangement, clarify its purpose, the information involved and when it will be reviewed or ended. A narrowly agreed travel update need not become access to every message. If you are requesting access, consider whether the other person has a genuine opportunity to refuse.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When monitoring may be part of intimidation or control, seek specialist advice about the situation and digital privacy before changing settings or confronting someone. Removing access can have consequences. A general lesson cannot predict them. Formal monitoring may also call for a workplace adviser or appropriate local legal advice.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask a useful support question",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Without changing anything or testing a response, consider one known access arrangement. Is its purpose clear, and is there a concern about questioning it? You can simply think rather than keep notes. Pause the player for longer if that is useful and safe.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful next question for a suitable adviser might be, how can I discuss privacy while protecting access to communication and essential information? Review whether advice clarified your options. A shared tool does not settle whether access is voluntary; the arrangement and its consequences matter.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

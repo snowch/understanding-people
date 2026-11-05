@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "source": "reference/fairness.md",
+  "title": "Fair treatment",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/needs-and-intentions.json"
+  ],
+  "sections": [
+    {
+      "title": "Locate the disputed part",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "When someone says an arrangement is unfair, they may be talking about several different things. They might object to what they received, how the decision was made, how they were treated, or the explanation they were given. Those concerns can overlap, but resolving one does not necessarily resolve the others.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "An acceptable outcome can come from an arbitrary process. A courteous conversation can still end with an allocation someone considers unjust. To understand a complaint, ask which part of fairness is disputed. That makes a broad accusation more specific without requiring the person to withdraw it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Different standards can make sense",
+      "anchor": "how-it-may-arise",
+      "paragraphs": [
+        {
+          "text": "People compare different things when deciding what is fair. One may prioritise equal shares, another greater need, another earlier contributions or an existing agreement. These standards can point in different directions. A disagreement between them does not by itself establish that someone is dishonest or selfish.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Power also matters. Can the person question a decision without losing access or facing punishment? Apparent agreement may reflect the cost of objecting. Include your own standard in the inquiry: would you still favour this rule if it produced a less comfortable outcome for you?",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What research and guidance establish",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Jason Colquitt and colleagues combined a hundred and eighty-three studies of organisational justice. Their analysis distinguished fairness of outcomes, procedures, interpersonal treatment and information, while finding connections between them. Most of this evidence concerns organisations. Applying these distinctions to a family discussion is an editorial use, rather than a tested family intervention.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The US Equal Employment Opportunity Commission also provides guidance on harassment linked to protected characteristics and retaliation under the laws it administers. Legal coverage and procedures vary by place. Harm or unfairness can matter even when it falls outside a particular legal definition, and a conversation cannot replace relevant local advice about rights.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare the rule and the practical burden",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional pair of siblings arranging care for a parent. One asks for equal hours. The other travels much farther and has less flexibility at work. Before deciding who is avoiding responsibility, they could make the care tasks, travel and available capacity clearer. Equal hours may not describe equal burden.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "That does not establish the right division. It clarifies what they are comparing. Ask whether a rule was known beforehand, whether similar decisions used the same criteria, and whether relevant information is missing. Private needs can be considered appropriately without requiring a public explanation of every personal detail.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Improve the decision and its process",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Keep the allocation question separate from the conduct of the discussion. You can explain a constraint while acknowledging that someone remains disappointed. You can also correct a dismissive response without promising the requested outcome. Neither respectful treatment nor transparency requires pretending everyone agrees that the result is fair.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Where possible, state the criteria and offer a route for correcting errors. Notice when you invoke fairness only after losing out, but do not use that possibility to dismiss someone else’s complaint. If discrimination or legal entitlements may be involved, seek appropriate advice rather than treating everything as a private negotiation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Clarify one comparison",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall one ordinary disputed decision. What standard did you use: equal shares, contribution, need, a prior agreement, or something else? What standard might the other person be using? Identify one question that would clarify the difference. Take a moment, and pause the player for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful question might ask how travel time was included in the workload. Later, review whether the rule and the information became clearer, even if agreement remained incomplete. Fair treatment includes your own consistency, an opportunity to question the process, and room to recognise that a genuine dispute may remain.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "source": "reference/creating-obligation.md",
+  "title": "Favours that create unwanted obligation",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/behaviour-and-relationships.json"
+  ],
+  "sections": [
+    {
+      "title": "A favour does not settle every later request",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A favour can become an unwanted obligation when help is later treated as permission to demand access, loyalty or repayment that was never agreed. Gratitude and consent to a new condition are different. You can appreciate a contribution while questioning what is now being demanded.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "That does not mean all reciprocity is manipulation. Explicit loans, services and shared responsibilities have terms that deserve fair consideration. The problem is often the gap between the arrangement accepted and the debt later asserted. This general lesson has not received specialist review or assessed your safety. Our example is fictional.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate the original help from ongoing access",
+      "anchor": "a-distinction-to-keep-in-mind",
+      "paragraphs": [
+        {
+          "text": "Imagine a parent helps you move home, then says the help means they must have a key. Moving assistance and continuing access to your home are separate agreements. Saying thank you does not answer whether you will provide a key, and declining a key does not erase the contribution.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A genuine misunderstanding is also possible. Someone may intend a loan while the recipient hears a gift, or bring a family expectation that was never discussed. Compare what was offered, which terms were known and whether acceptance was optional, rather than assuming either generosity or manipulation from the help alone.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Notice what happens to choice",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Ask what is now being requested and how it relates to the original agreement. An agreed repayment differs from an unrelated demand for contact. Dependence matters too: when essential support can be withdrawn, apparent consent may involve few real alternatives. The amount of help does not by itself establish a right to make another adult's decisions.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Examine your own offers as well. Are you freely giving, proposing an exchange or expecting a return you have left unspoken? A gift that you later invoke whenever someone disagrees may have become pressure, even if you originally meant to be kind. Make the terms clear rather than relying on gratitude to do hidden work.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "What the sources help distinguish",
+      "anchor": "what-the-evidence-supports",
+      "paragraphs": [
+        {
+          "text": "Russell Cropanzano and Marie Mitchell reviewed social-exchange theory in organisational research, including differences in resources, rules and relationships. They also identified conceptual ambiguity. Their review does not reduce human relationships to a universal ledger where one favour buys a predictable amount of loyalty or access.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Richard Ryan and Edward Deci reviewed autonomy, competence and connection in motivation and well-being. Those distinctions can guide questions about choice, but cannot identify why a person gave or refused help. Home Office statutory guidance describes coercive patterns involving restrictions and resources in England and Wales. It does not settle a legal question elsewhere or assess your individual arrangement.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Clarify terms or use suitable advice",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "For an ordinary exchange, discuss costs, repayment and decision rights before accepting. If conditions appear afterwards, separate what was originally agreed from what is newly requested. Rights or money disputes may need appropriate advice; neither person's memory of generosity automatically settles a legal responsibility.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If essential resources are used to restrict your choices, confidential support may matter more than trying to repay enough to earn freedom. A general script cannot tell you that confrontation or refusal is safe. You do not need to stage a refusal to test the giver's intentions, and you may decline further help when that is a workable option.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review whether the arrangement remains voluntary",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of an ordinary offer you might give or accept. Which terms are clear, and which return or decision right might someone be assuming? Choose one condition to clarify. You can pause the player for longer. Use advice rather than a test if the situation involves coercion or disputed rights.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the fictional move, an answer might state that practical help does not determine ongoing access. Review whether your own arrangement is understandable and voluntary, including whether a later request is treated as a new request rather than an automatic debt.",
+          "pause_after_ms": 950
+        },
+        {
+          "text": "The cue is to clarify terms before a favour becomes a debt. Mutual care can involve generosity and reciprocity without making gratitude an unlimited permission slip. Full references remain on the written page.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}
