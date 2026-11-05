@@ -28,6 +28,8 @@ The header's install icon opens the native browser prompt when available, with m
 
 The header's star link opens this project's GitHub repository in a new tab, where readers can use GitHub's Star button (sign-in may be required). It uses a compact, labelled star icon on small screens and works without JavaScript; no GitHub widgets or tracking requests load with the book.
 
+The header's **Settings** link opens narrator and playback-speed preferences. Andrew and Jenny each have recordings on all 136 substantive pages. Preview a voice without selecting it, or choose beside any lesson; choices save in this browser, scoped to this book. Changing narrator pauses playback and retains an approximate place within the current section; press Play to continue. Each narrator has independent section timings, duration and download/transcript URLs. No audio loads until requested. Resetting defaults preserves practice notes. See [voice settings](docs/voice-settings.md).
+
 App icons are checked in. To regenerate them from `assets/app-icon.svg`, install Playwright and Chromium, then run `python3 scripts/generate_icons.py`. Normal builds do not need Playwright. The footer uses the same notice as Digital Design: © 2026 Christopher Snow.
 
 The unnumbered conclusion, “What to take with you”, follows Chapter 12 in the chapter navigation and reading sequence. It recaps the course, links back to all twelve chapters and offers one short self-check. Keep it separate from the supporting reading tools and preserve the twelve chapter numbers. The earlier illustrated introduction video is retained in source, with the other earlier videos paused in the revised edition.

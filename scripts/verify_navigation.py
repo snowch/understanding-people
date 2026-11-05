@@ -79,7 +79,8 @@ with sync_playwright() as pw:
         expect(page.locator('.library-entry:visible')).to_have_count(len(ENTRIES))
         page.evaluate('scrollTo(0,0)');capture(page, path=str(shots/f'library-{width}.png'))
         page.locator('.library-entry h3 a',has_text='Confirmation bias').click()
-        page.locator('.reference-formats a[href="#listen"]').click()
+        page.locator('.reference-formats a[href="#page-narration-title"]').click()
+        expect(page.locator('#page-narration-title')).to_be_visible()
         expect(page.locator('h1')).to_contain_text('Confirmation bias')
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
         if width<=800:

@@ -4,6 +4,8 @@ The user chose **en-US-AndrewMultilingualNeural** on 3 November 2026. The first 
 
 ## Current scope
 
+The user subsequently requested Jenny as a second voice, with a Settings page. Both narrators cover the same 136 authored lessons. The original Andrew edition is unchanged and remains the default; `en-US-JennyNeural` uses a separate manifest, audio/transcript directory and independently measured section timings. The controls-only Settings page is excluded from narration. See [voice settings](voice-settings.md) for production, storage and browser checks.
+
 On 5 November 2026 the user authorized completing the improved recordings for all pages. All **136 substantive pages** now use authored spoken adaptations: the introduction, twelve chapters, conclusion, 111 reference entries and eleven supporting/resource pages. The four initial pilots (Chapter 1, confirmation bias, correspondence bias and declining help) are preserved. The remaining 132 page readings are replaced by individually authored scripts with source-fidelity peer review. Their top player says **Listen to this lesson**. The three earlier audio compatibility notices still route to their parent content and receive no independent narration. No new reference pages, sidebar branches or graph nodes are created for listening.
 
 Before audio work, read and use [the repository-local spoken narration skill](../.agents/skills/spoken-book-narration/SKILL.md). This is local authoring/production guidance, not an installed cloud skill or a new speech model. The rollout follows the user's instruction to extend the four-pilot approach. Source/script peer review and technical checks do not constitute human listening or specialist review.
@@ -23,18 +25,19 @@ Requires `edge-tts==7.3.1`, FFmpeg and ffprobe:
 ```sh
 python scripts/synthesise_spoken.py --all --plan
 python scripts/synthesise_spoken.py --all --workers 20 --page-workers 6
+python scripts/synthesise_spoken.py --voice jenny --all --workers 20 --page-workers 6
 # A later focused update can name only its reviewed script:
 python scripts/synthesise_spoken.py chapter-03
 python scripts/build.py
 ```
 
-The producer accepts explicit script names or an explicit `--all` selection of authored scripts. It never extracts pages to invent narration automatically. Only public, authored script text is sent through the configured HTTPS proxy to Microsoft Edge neural TTS. Voice and rate remain Andrew at −2%; the service does not expose its underlying model name. Run one producer process per checkout; its internal page/request concurrency is bounded. Existing matching script/source/audio/transcript records are skipped, preserving the four original pilots.
+The producer accepts explicit script names or an explicit `--all` selection of authored scripts. It never extracts pages to invent narration automatically. Only public, authored script text is sent through the configured HTTPS proxy to Microsoft Edge neural TTS. Andrew remains the default, with Jenny selected explicitly using `--voice jenny`; both use −2%. The service does not expose its underlying model name. Run one producer process per checkout; its internal page/request concurrency is bounded. Existing matching script/source/audio/transcript records are skipped, preserving the original Andrew edition.
 
 Every spoken paragraph is a separate synthesis request. Word-boundary text must match the complete submitted paragraph. It is never split mid-sentence or joined to the next paragraph as whitespace. Natural internal pauses remain. Leading/trailing excess silence is trimmed only at the outer edges, retaining guards of 80 and 120 milliseconds around speech.
 
 PCM silence is inserted explicitly: normally 850–1,000 milliseconds between connected thoughts, 1,400–1,600 milliseconds at topic transitions, three seconds after selected reflection questions, and nine or ten seconds for a practice question. The spoken prompt also tells listeners they can pause the player for longer. The choice of gap belongs to the script, not to punctuation or the text extractor.
 
-Final MP3s target −16 LUFS / −1.5 dBTP, mono 24 kHz at 96 kbps. The producer decodes the final MP3 and measures the centres of every requested gap, excluding 80 milliseconds at each edge to allow for codec windows. A missing/non-silent gap fails production. It also verifies full decode, duration and section timing before checkpointing the selected page.
+Final MP3s target −16 LUFS / −1.5 dBTP, mono 24 kHz: the unchanged Andrew edition is 96 kbps, and Jenny is 80 kbps to keep both complete editions within the Pages site budget. The producer decodes the final MP3 and measures the centres of every requested gap, excluding 80 milliseconds at each edge to allow for codec windows. A missing/non-silent gap fails production. It also verifies full decode, duration and section timing before checkpointing the selected page.
 
 Raw takes, temporary WAV files, intermediate MP3s and logs stay under `/workspace/book-spoken-cache/`, or `BOOK_SPOKEN_CACHE` when explicitly configured. Cache metadata and final files publish atomically; corrupt/incomplete cache metadata is treated as a miss. Paragraph tasks are drained before a failed lesson returns, completed takes remain reusable, and failed lessons are reported after other selected pages finish. Manifest checkpoints are serialized within the process. Only final recordings/transcripts, authored scripts, production metadata and code/docs go in Git.
 

@@ -18,18 +18,19 @@ from urllib.parse import urlsplit
 
 from playwright.sync_api import sync_playwright, expect
 from build import destination, PAGES
-from page_narration import ROOT, MANIFEST
-from spoken_narration import scripts, fingerprint, transcript
+from page_narration import ROOT, eligible
+from narration_voices import manifest_path, DEFAULT, VOICES
+from spoken_narration import scripts, fingerprint, transcript, for_voice
 from synthesise_spoken import verify_gaps
 from verify_page_narration import RangeHandler, ThreadingHTTPServer
 
 
-def verify(base, all_lessons=False, lessons=None):
+def verify(base, all_lessons=False, lessons=None, voice=DEFAULT):
     base = base.rstrip('/') + '/'
-    registry = scripts()
-    manifest = json.loads(MANIFEST.read_text())
+    registry = {source: (path, for_voice(data, voice)) for source, (path, data) in scripts().items()}
+    manifest = json.loads(manifest_path(voice).read_text())
     if all_lessons:
-        assert set(registry) == {s for s, _ in PAGES if not s.startswith('audio/')}
+        assert set(registry) == {s for s, _ in PAGES if eligible(s)}
     elif lessons:
         names = set(lessons)
         registry = {source: item for source, item in registry.items() if item[0].stem in names}
@@ -42,6 +43,9 @@ def verify(base, all_lessons=False, lessons=None):
         proxy = {'server': os.environ['HTTPS_PROXY']} if base.startswith('https://') and os.environ.get('HTTPS_PROXY') else None
         b = pw.chromium.launch(proxy=proxy)
         context = b.new_context(proxy=proxy, service_workers='block')
+        preferences = {'version': 1, 'voice': voice, 'speed': 1}
+        preference_key = 'understanding-people:preferences:v1:' + urlsplit(base).path
+        context.add_init_script('localStorage.setItem(' + json.dumps(preference_key) + ',' + json.dumps(json.dumps(preferences)) + ');')
         page = context.new_page()
         errors, automatic = [], []
         page.on('pageerror', lambda error: errors.append(str(error)))
@@ -53,6 +57,7 @@ def verify(base, all_lessons=False, lessons=None):
             panel = page.locator('.page-narration')
             expect(panel.get_by_role('heading', name='Listen to this lesson')).to_be_visible()
             expect(panel).to_contain_text('Spoken lesson')
+            expect(panel.locator('[data-narration-name]')).to_have_text(VOICES[voice]['name'])
             expect(panel).to_contain_text('A spoken adaptation')
             expect(panel.locator('audio')).to_have_attribute('preload', 'none')
             if source.startswith('reference/') and source not in {'reference/index.md', 'reference/sources.md'}:
@@ -96,16 +101,17 @@ def verify(base, all_lessons=False, lessons=None):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('base', nargs='?')
+    parser.add_argument('--voice', choices=VOICES, default=DEFAULT)
     choices = parser.add_mutually_exclusive_group()
     choices.add_argument('--all', action='store_true')
     choices.add_argument('--lessons', nargs='+')
     args = parser.parse_args()
     if args.base:
-        verify(args.base, args.all, args.lessons)
+        verify(args.base, args.all, args.lessons, args.voice)
     else:
         server = ThreadingHTTPServer(('127.0.0.1', 0), functools.partial(RangeHandler, directory=str(ROOT / '_site')))
         threading.Thread(target=server.serve_forever, daemon=True).start()
         try:
-            verify(f'http://localhost:{server.server_port}/understanding-people/', args.all, args.lessons)
+            verify(f'http://localhost:{server.server_port}/understanding-people/', args.all, args.lessons, args.voice)
         finally:
             server.shutdown()

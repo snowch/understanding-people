@@ -1,6 +1,6 @@
 ---
 name: spoken-book-narration
-description: Adapt Understanding people chapters and reference entries into spoken lessons, then produce paced Andrew narration with explicit paragraph and reflection pauses. Use for writing, revising, producing or reviewing book audio.
+description: Adapt Understanding people chapters and reference entries into spoken lessons, then produce paced Andrew or Jenny narration with explicit paragraph and reflection pauses. Use for writing, revising, producing or reviewing book audio.
 ---
 
 # Spoken book narration
@@ -19,7 +19,7 @@ Work from the repository root, three directories above this file. Project paths 
 
 ## Produce actual pauses
 
-- Use `en-US-AndrewMultilingualNeural` at the agreed rate unless the user chooses another voice. Do not claim the service identifies its underlying model.
+- The authorized voices are `en-US-AndrewMultilingualNeural` (original default) and `en-US-JennyNeural` (second choice). Use `--voice jenny` for the second edition; keep the existing authored scripts unchanged and derive a voice-specific synthesis input. Record independent section times and pauses rather than reusing Andrew's timings. Never replace the first edition when adding a voice. Do not claim the service identifies its underlying model.
 - Keep each spoken paragraph as its own synthesis input. Never flatten several paragraphs into whitespace-separated text or split a request in the middle of a sentence.
 - Insert PCM silence explicitly. Typical gaps are 800–1,000 ms between thoughts, 1,500–1,800 ms between topics, about 3,000 ms after a reflection question and at least 8,000 ms for a short exercise. Explain that listeners can pause the player for longer. Choose gaps for meaning, not a large constant delay after every sentence.
 - Keep natural pauses inside each paragraph. Trim only excess leading/trailing silence, retaining guards around speech. Do not remove internal silences or use punctuation as a substitute for actual timing.

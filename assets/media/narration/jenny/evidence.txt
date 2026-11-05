@@ -1,0 +1,29 @@
+When you hear that research supports an idea, ask what exactly it supports. A finding about a group, an explanation of one person’s behaviour, and a suggestion for your next conversation are different kinds of claim. Keeping them separate helps you use evidence without asking it to say more than it can.
+
+A research finding should explain what researchers did, what they found and the limits that matter. An interpretation should remain a possibility unless there is enough evidence to establish it. A practical suggestion should have a reason behind it without being presented as a tested treatment or guaranteed technique.
+
+Consider three statements. Researchers combined studies in which people judged truth and lies, and average accuracy was about fifty-four out of a hundred. That reports a research result. Public disagreement might reflect concern about a group’s reaction. That proposes a possible explanation.
+
+Now consider a suggestion: ask what changed between the private conversation and the meeting. It could produce useful information. But a study of lie judgments has not established that this particular conversation will work. Evidence for one part of an approach does not validate every step built around it.
+
+The distinction also applies to fictional teaching examples. They make an idea easier to follow; they are not additional research participants or case studies showing success. The same care applies to the book’s practical exercises.
+
+An experiment changes something and compares outcomes, often by randomly assigning people to different conditions. A well-designed experiment can help answer a causal question. You still need to ask whether its setting and participants resemble the situation where you want to use the finding.
+
+An observational study records what happens without assigning those conditions. Two things occurring together may have another cause in common. Interviews help researchers understand people’s accounts and meanings, while ethnography involves time observing everyday settings, often alongside interviews. Rich detail from one setting does not automatically describe every group.
+
+A review brings earlier research together. A systematic review uses stated methods to search for, select and assess studies. A meta-analysis combines numerical results. These methods can reveal a broader pattern, but an average may conceal important differences, and combining studies cannot make their original weaknesses disappear.
+
+Joseph Henrich, Steven Heine and Ara Norenzayan examined the heavy reliance of behavioural research on people from Western, educated, industrialised, rich and democratic societies. They compared findings across populations and challenged the assumption that these samples stand for everyone.
+
+The lesson is to ask who took part and how far a finding can travel. It is not a reason to predict an individual’s behaviour from nationality. People within a group can differ substantially, and a group average cannot establish why this particular person acted as they did.
+
+Ask what researchers measured, what they compared, how clear the result was, and how close the situation is to yours. An expert’s reputation or an agency’s use of a technique cannot replace those questions.
+
+This book describes evidence claim by claim rather than assigning a simple quality score. Sometimes a finding comes from experiments; sometimes from interviews, a review or public guidance. Applying student research to a volunteer setting may suggest useful questions while leaving the new application untested.
+
+The expanded library records whether sources were consulted as research records, abstracts or relevant public guidance. That does not mean every full article was read. The collection is selective, not a comprehensive or continuously updated systematic review. The written source pages keep the detailed references and access limits.
+
+Next time a research claim affects a decision, identify its type before acting. Is it a finding, an interpretation or a suggestion? Then choose the uncertainty that matters most: the people studied, the comparison, the measure, or the jump to your circumstances.
+
+You do not have to settle every methodological question to learn something useful. You can say a finding gives you a question to investigate without treating it as a verdict. The practical habit is to keep the evidence, your interpretation and your next step distinct.

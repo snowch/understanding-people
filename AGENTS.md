@@ -2,6 +2,8 @@
 
 Read the editing and build guidance in `README.md` before changing book content or presentation.
 
+- On 5 November 2026 the user requested a Settings page and `en-US-JennyNeural` as a second voice for every substantive page. Keep all Andrew scripts, recordings, transcripts and manifest records unchanged. Use the same authored text and pauses for Jenny, with separately measured recordings, timings and a separate manifest. Voice and speed preferences stay local to this book/browser; switching voice must pause playback and must not fetch the new audio until requested. Settings is a controls page, not an extra lesson to narrate. See `docs/voice-settings.md`.
+
 ## Concepts first, examples in support
 
 - For audio work, read and apply [the repository-local spoken narration skill](.agents/skills/spoken-book-narration/SKILL.md). Listening feedback identified flattened paragraph boundaries and spoken citation/UI fragments in the earlier verbatim recordings. Author spoken lessons rather than treating extracted HTML as a finished script; insert actual paragraph/topic/reflection pauses and preserve conversational research attribution and its limits. On 5 November 2026 the user authorized completing this approach for all 136 substantive pages, following the four pilots. Preserve the existing Chapter 1, confirmation-bias, correspondence-bias and declining-help recordings while extending the approach. Do not equate file/browser checks with listening quality. `scripts/synthesise_pages.py` is now an inventory/legacy module; explicit production uses `scripts/synthesise_spoken.py` and authored `audio/spoken/*.json`.

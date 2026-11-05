@@ -5,7 +5,7 @@
 from html import escape, unescape
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import unquote, urlsplit, urlunsplit
+from urllib.parse import quote, unquote, urlsplit, urlunsplit
 import hashlib
 import json
 import os
@@ -21,6 +21,9 @@ from build_reference_stubs import render as render_reference_stubs
 from build_reference_entries import render as render_reference_entries, content as reference_entries
 from build_bias_references import render as render_bias_references, content as bias_content
 from page_narration import load_manifest as load_narration_manifest, render as render_narration
+from page_narration import eligible as narration_eligible
+from narration_voices import VOICES
+from book_settings import render as render_settings
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site"
@@ -53,6 +56,7 @@ PAGES = [
     ("glossary.md", "Glossary"),
     ("references.md", "Sources & further reading"),
     ("about.md", "About the book & author"),
+    ("settings.md", "Settings"),
 ]
 CHAPTERS = [
     ("Why we misinterpret people", "chapters/01-before-you-explain.md"),
@@ -218,13 +222,17 @@ def build(include_narration=True):
     shutil.copyfile(ROOT / "manifest.webmanifest", OUT / "manifest.webmanifest")
     css_hash = hashlib.sha256((ROOT / "assets/book.css").read_bytes()).hexdigest()[:12]
     audio_hash = hashlib.sha256((ROOT / "assets/audio.js").read_bytes()).hexdigest()[:12]
+    settings_hash = hashlib.sha256((ROOT / 'assets/settings.js').read_bytes()).hexdigest()[:12]
     narration_manifest = load_narration_manifest() if include_narration else None
+    editions = {voice: load_narration_manifest(voice) for voice in VOICES} if include_narration else {}
     if narration_manifest is not None:
         from spoken_narration import scripts as spoken_scripts
-        expected_spoken = {name for name, _ in PAGES if not name.startswith('audio/')}
+        expected_spoken = {name for name, _ in PAGES if narration_eligible(name)}
         assert set(spoken_scripts()) == expected_spoken, 'Every reading page needs an authored spoken script before publication'
         unfinished = [name for name in expected_spoken if narration_manifest['pages'].get(name, {}).get('mode') != 'spoken-lesson']
         assert not unfinished, f'Authored narration is incomplete: {sorted(unfinished)}'
+        for voice, edition in editions.items():
+            assert edition is not None and set(edition['pages']) == expected_spoken, f'{voice}: complete narration coverage is required'
 
     for name, label in PAGES:
         title, text = sources[name]
@@ -232,12 +240,14 @@ def build(include_narration=True):
         converter = markdown.Markdown(extensions=["tables", "fenced_code", "toc", "sane_lists", "md_in_html", "attr_list"],
                                       extension_configs={"toc": {"toc_depth": "2-3"}})
         body = converter.convert(text)
+        if name == 'settings.md':
+            body = body.replace('<!-- voice-settings -->', render_settings(editions))
         body = re.sub(r'<!-- practice-notes: ([a-z0-9-]+) \| ([^\n]+?) -->', practice_notes, body)
         body = re.sub(r'\b(href|src)="([^"]*)"', rewrite_link, body)
         body = body.replace("<table>", '<div class="table-scroll" role="region" aria-label="Comparison table" tabindex="0"><table>')
         body = body.replace("</table>", "</table></div>")
         body = re.sub(r'(src="[^"]*assets/audio\.js)(?:\?[^"]*)?"', rf'\1?v={audio_hash}"', body)
-        narration_html = render_narration(name, title, body, page, narration_manifest)
+        narration_html = render_narration(name, title, body, page, narration_manifest, editions)
         if narration_html:
             # The entry's primary Listen link should reach its current lesson;
             # older optional recordings retain their own anchors/bookmarks.
@@ -251,6 +261,8 @@ def build(include_narration=True):
         breadcrumb_html = breadcrumbs(name, page, title)
         contents = f'<details class="on-page"><summary>On this page</summary>{converter.toc}</details>' if converter.toc_tokens else ""
         home = relative(Path("index.html"), page)
+        settings_url = relative(Path('settings.html'), page) + ('?return=' + quote(page.as_posix(), safe='') if name != 'settings.md' else '')
+        settings_link = f'<a class="header-settings" href="{escape(settings_url, quote=True)}" aria-label="Settings" title="Settings"' + (' aria-current="page"' if name == 'settings.md' else '') + '><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3" fill="var(--paper)"/><circle cx="15" cy="17" r="3" fill="var(--paper)"/></svg><span>Settings</span></a>'
         eyebrow = "A SCIENCE-INFORMED GUIDE" if name == "book.md" else "UNDERSTANDING PEOPLE · DRAFT EDITION"
         description = f"{title}. A science-informed guide to what drives people and how to respond."
         notes_script = (f'<script defer src="{relative(Path("assets/practice.js"), page)}"></script>'
@@ -269,12 +281,13 @@ def build(include_narration=True):
 <link rel="manifest" href="{relative(Path('manifest.webmanifest'), page)}">
 <link rel="stylesheet" href="{relative(Path('assets/book.css'), page)}?v={css_hash}">
 <script defer src="{relative(Path('assets/install.js'), page)}"></script>
+<script defer data-book-settings data-voices="{' '.join(VOICES)}" src="{relative(Path('assets/settings.js'), page)}?v={settings_hash}"></script>
 {notes_script}
 {narration_script}
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><div class="header-actions"><a class="explore-book" href="{relative(Path('contents.html'), page)}">Explore the book <span aria-hidden="true">↗</span></a><a class="github-star" href="https://github.com/snowch/understanding-people" target="_blank" rel="noopener noreferrer" aria-label="Star Understanding people on GitHub (opens in a new tab)" title="Star Understanding people on GitHub"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.8 5.7 6.3.9-4.6 4.5 1.1 6.3-5.6-3-5.6 3 1.1-6.3L3 9.6l6.2-.9Z"/></svg><span>Star on GitHub</span></a><button class="install-button" type="button" aria-label="Install Understanding people" title="Install Understanding people" hidden><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 15v5h16v-5"/></svg></button></div></header>
+<header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><div class="header-actions">{settings_link}<a class="explore-book" href="{relative(Path('contents.html'), page)}">Explore the book <span aria-hidden="true">↗</span></a><a class="github-star" href="https://github.com/snowch/understanding-people" target="_blank" rel="noopener noreferrer" aria-label="Star Understanding people on GitHub (opens in a new tab)" title="Star Understanding people on GitHub"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.8 5.7 6.3.9-4.6 4.5 1.1 6.3-5.6-3-5.6 3 1.1-6.3L3 9.6l6.2-.9Z"/></svg><span>Star on GitHub</span></a><button class="install-button" type="button" aria-label="Install Understanding people" title="Install Understanding people" hidden><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 15v5h16v-5"/></svg></button></div></header>
 <dialog id="install-help" aria-labelledby="install-title">
 <h2 id="install-title">Install Understanding people</h2>
 <p>Add the book to your home screen or desktop for a separate reading window.</p>

@@ -1,0 +1,35 @@
+Before judging a person from a pattern, separate four questions. What happened? What might happen next? Why did it happen? And what should you do? Evidence that answers one of these questions may leave the others open.
+
+A description reports an event. A prediction uses a pattern to anticipate another event. An explanation proposes a cause. A decision also involves responsibilities, consequences and what you consider fair. Keeping these apart helps you investigate without postponing every decision.
+
+Here is a fictional example. People who reply quickly to an invitation attend more often. Reply speed may predict attendance. That does not show that requiring everyone to reply faster will make them attend. Predictable working hours might make both replying and attending easier.
+
+Julia Rohrer’s methods paper examines causal claims made from observational data. A third factor can affect both things. Influence can run in the other direction. The people included in the record can also create a pattern. Statistical adjustment depends on assumptions; it does not automatically establish a cause.
+
+So before turning a pattern into a rule, ask what else could explain it. A fast-reply requirement might exclude people with uncertain schedules. The observed association alone cannot tell you whether that rule would improve attendance or whether its consequences would be fair.
+
+Next, ask what your record actually includes. An attendance list may omit people who were never invited. No recorded purchase might mean someone never saw the offer, rather than that they rejected it. An empty space needs interpretation too.
+
+Check whether apparently separate reports are independent. Several people repeating the same account do not provide several independent observations of the event. Collecting more repetitions can make a claim feel stronger without adding a new source of information.
+
+Choose a missing detail that could change the decision. That is often more useful than accumulating more examples from a record with the same gap. You are looking for informative evidence, not simply a longer list.
+
+A warning is easier to interpret when you know how common the event is in the relevant group. That starting frequency is called the base rate. You also need to know how often the warning appears when the event has not occurred.
+
+Consider invented numbers, not a real screening test. In a group of a thousand people, ten deliberately broke a rule. A warning detects eight of those ten. It also wrongly flags ninety-nine of the other people. There are therefore a hundred and seven flags, but only eight identify actual cases.
+
+The warning found eighty percent of the cases. Yet only about seven and a half percent of those flagged were cases. Those are different questions. Experiments by Gerd Gigerenzer and Ulrich Hoffrage found that presenting probabilities as counts could improve reasoning on the tasks studied.
+
+These invented numbers say nothing about dishonesty in your own circumstances. If the starting frequency is unknown, leave it unknown. Do not invent a precise probability about someone, and do not use a low population frequency to dismiss specific evidence of harm.
+
+New information can weaken one explanation without proving another. You might say, I have less reason to think this was deliberate, while still being unsure what happened. Decide what would count against your preferred explanation before the answer arrives.
+
+Ask whether another check could change your action. A reversible booking change needs less certainty than a public accusation. Facts may clarify the consequences, but they cannot choose your values. Where harm is plausible, protection or support need not wait for certainty about motive.
+
+Here is a separate fictional situation. A café finds that loyalty-card holders spend more. The owner proposes giving everyone a card to increase spending. What is established, and what comparison might help? Take a moment, and pause the player for longer if useful.
+
+[Pause: 9 seconds. Pause the player for longer if helpful.]
+
+The observed association is established. Regular spenders may be more likely to obtain cards. Looking at spending before card ownership could help examine that possibility, though it would not remove every alternative. A fair causal trial would require suitable design.
+
+This week, choose one ordinary claim that two things are causally connected. Ask what else could explain the pattern, and check one fact that matters to the decision. Review what changed and what remains unknown. Do not impose an experiment on somebody else.

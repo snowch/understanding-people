@@ -68,6 +68,12 @@ footer { margin-top: 55px; padding-top: 20px; border-top: 1px solid var(--line);
 
 .header-actions { display: flex; align-items: center; gap: 24px; }
 .header-actions a { text-decoration: none; }
+.header-settings { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-width: 44px; min-height: 44px; border: 1px solid var(--line); border-radius: 8px; padding: 0 12px; color: var(--accent); }
+.header-settings:hover, .header-settings[aria-current] { background: var(--wash); }
+.header-settings svg { flex-shrink: 0; }
+@media(max-width:800px) { .header-settings { padding: 0; } .header-settings span { display: none; } }
+@media(max-width:480px) { .site-header { gap:8px; } .header-actions { margin-left:auto; gap:6px; } }
+@media(max-width:360px) { .brand-mark { display:none; } }
 .github-star { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 0 12px; border: 1px solid var(--line); border-radius: 8px; color: var(--accent); white-space: nowrap; }
 .github-star:hover { background: var(--wash); }
 .github-star svg { flex-shrink: 0; }
@@ -242,3 +248,37 @@ dialog button { padding: 10px 20px; font: inherit; color: var(--paper); backgrou
 @media(max-width:480px) { .library-search, .library-entry { padding: 18px; } .library-search-controls { flex-wrap: wrap; } .library-search input { flex-basis: 100%; } }
 @media print { .breadcrumbs, .library-search, .library-topics { display: none; } .library-group[hidden], .library-entry[hidden] { display: block; } }
 .nav-section .nav-topic a { display: block; }
+/* Reading preferences share the book's paper, ink and sage palette. */
+.narration-preferences { display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; font:14px/1.6 system-ui,sans-serif; }
+.narration-voice { display:flex; align-items:center; gap:8px; }
+.narration-voice[hidden] { display:none; }
+.narration-voice select { min-height:44px; }
+.book-preferences { margin:24px 0 40px; font:16px/1.65 system-ui,sans-serif; }
+.book-preferences .settings-back { display:inline-flex; min-height:44px; align-items:center; margin-bottom:28px; }
+.book-preferences fieldset { border:0; padding:0; margin:0; min-width:0; }
+.book-preferences legend { padding:0; font:400 30px/1.3 Georgia,serif; }
+.settings-help { color:var(--muted); margin:12px 0 22px; }
+.voice-options { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }
+.voice-option { border:1px solid var(--line); border-radius:14px; background:var(--paper); padding:20px; }
+.voice-option:has(input:checked) { border:2px solid var(--accent); padding:19px; background:var(--wash); }
+.voice-option label { display:flex; align-items:flex-start; gap:12px; cursor:pointer; min-height:64px; }
+.voice-option input { width:20px; height:20px; margin:7px 0 0; accent-color:var(--accent); flex-shrink:0; }
+.voice-option strong { display:block; font:400 28px/1.4 Georgia,serif; }
+.voice-option small { display:block; color:var(--muted); font-size:13px; margin:4px 0 12px; }
+.book-preferences button, .book-preferences select { font:inherit; color:var(--accent); background:var(--paper); border:1px solid var(--line); border-radius:8px; min-height:44px; padding:10px 16px; max-width:100%; }
+.book-preferences button { cursor:pointer; }
+.book-preferences button:hover { background:var(--wash); border-color:var(--accent); }
+.voice-option button { margin:8px 0 0 32px; }
+.voice-preview { border:1px solid var(--line); border-radius:12px; padding:20px; margin-top:20px; background:var(--wash); }
+.voice-preview[hidden] { display:none; }
+.voice-preview h3 { font:600 16px/1.5 system-ui,sans-serif; margin:0 0 8px; }
+.voice-preview p { margin:8px 0; font-size:14px; }
+.voice-preview audio { width:100%; display:block; margin:16px 0; }
+.speed-setting { margin:32px 0; padding-top:28px; border-top:1px solid var(--line); }
+.speed-setting label { display:block; font-weight:650; }
+.speed-setting p { margin:6px 0 14px; color:var(--muted); font-size:14px; }
+.settings-status { margin:20px 0 32px; color:var(--muted); font-size:14px; }
+.settings-about { border-top:1px solid var(--line); padding-top:20px; font-size:14px; color:var(--muted); }
+.settings-about summary { min-height:44px; color:var(--accent); cursor:pointer; }
+@media(max-width:540px) { .voice-options { grid-template-columns:1fr; } }
+@media print { .book-preferences { display:none; } }

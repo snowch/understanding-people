@@ -1,8 +1,10 @@
 """Authored listening scripts and their source/recording integrity contract."""
 import hashlib
+import copy
 import json
 import re
 from pathlib import Path
+from narration_voices import VOICES, DEFAULT
 
 ROOT = Path(__file__).resolve().parents[1]
 DIRECTORY = ROOT / 'audio/spoken'
@@ -26,7 +28,7 @@ def scripts():
 
 def validate(data):
     assert data['version'] == 1
-    assert data['voice'] == 'en-US-AndrewMultilingualNeural' and data['rate'] == '-2%'
+    assert data['voice'] in {v['id'] for v in VOICES.values()} and data['rate'] == '-2%'
     assert data['source_files'] and data['sections']
     for path in [data['source'], *data['source_files']]:
         target = (ROOT / path).resolve()
@@ -62,8 +64,17 @@ def transcript(data):
     return '\n\n'.join(blocks) + '\n'
 
 
-def check_entry(source, body_fingerprint, entry):
+def for_voice(data, voice=DEFAULT):
+    """One authored text, independently timed recordings for each narrator."""
+    result = copy.deepcopy(data)
+    result['voice'] = VOICES[voice]['id']
+    validate(result)
+    return result
+
+
+def check_entry(source, body_fingerprint, entry, voice=DEFAULT):
     path, data = scripts()[source]
+    data = for_voice(data, voice)
     assert entry['script_source'] == path.relative_to(ROOT).as_posix()
     assert entry['script_sha256'] == fingerprint(data), f'Spoken script changed for {source}; review it and run scripts/synthesise_spoken.py {path.stem}'
     assert entry['source_hashes'] == source_hashes(data), f'Written source changed for {source}; review the spoken adaptation before recording'

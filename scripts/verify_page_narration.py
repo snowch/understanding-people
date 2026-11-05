@@ -5,6 +5,7 @@ With no URL, starts a local byte-range server under /understanding-people/.
 Uses Playwright/Chromium. Creates no screenshots or recordings.
 """
 import functools
+import argparse
 import hashlib
 import json
 import os
@@ -18,6 +19,7 @@ from urllib.parse import urlsplit
 from playwright.sync_api import sync_playwright, expect
 from build import PAGES, destination
 from page_narration import ROOT, MANIFEST, VOICE, eligible, media_path
+from narration_voices import DEFAULT, VOICES, manifest_path
 
 
 class RangeHandler(SimpleHTTPRequestHandler):
@@ -68,23 +70,26 @@ class RangeHandler(SimpleHTTPRequestHandler):
         pass
 
 
-def verify(base):
+def verify(base, voice=DEFAULT):
     base = base.rstrip('/') + '/'
-    manifest = json.loads(MANIFEST.read_text())
+    manifest = json.loads(manifest_path(voice).read_text())
     expected = {s for s, _ in PAGES if eligible(s)}
     assert set(manifest['pages']) == expected
-    assert manifest['voice'] == VOICE and len(expected) == 136
+    assert manifest['voice'] == VOICES[voice]['id'] and len(expected) == 136
     for source, entry in manifest['pages'].items():
         assert entry['provider_words_verified']
         assert entry['duration'] > 0 and entry['sections'][0]['start'] == 0
         assert all(0 <= s['start'] < s['end'] <= entry['duration'] + 1 for s in entry['sections'])
         for suffix, key in [('.mp3', 'audio_sha256'), ('.txt', 'transcript_sha256')]:
-            assert hashlib.sha256((ROOT / media_path(source, suffix)).read_bytes()).hexdigest() == entry[key]
+            assert hashlib.sha256((ROOT / media_path(source, suffix, voice)).read_bytes()).hexdigest() == entry[key]
     with sync_playwright() as pw:
         proxy_url = os.environ.get('HTTPS_PROXY') if base.startswith('https://') else None
         proxy = {'server': proxy_url} if proxy_url else None
         browser = pw.chromium.launch(proxy=proxy)
         context = browser.new_context(service_workers='block', accept_downloads=True, proxy=proxy)
+        if voice != DEFAULT:
+            preference_key = 'understanding-people:preferences:v1:' + urlsplit(base).path
+            context.add_init_script('localStorage.setItem(' + json.dumps(preference_key) + ',' + json.dumps(json.dumps({'version': 1, 'voice': voice, 'speed': 1})) + ');')
         page = context.new_page()
         errors, media = [], []
         page.on('pageerror', lambda error: errors.append(str(error)))
@@ -95,7 +100,7 @@ def verify(base):
             expect(panel).to_have_count(1)
             expect(panel.locator('audio')).to_have_attribute('preload', 'none')
             expect(panel.locator('audio')).to_have_attribute('controls', '')
-            expect(panel).to_contain_text('Andrew · Synthetic narration')
+            expect(panel).to_contain_text(VOICES[voice]['name'] + ' · Synthetic narration')
             expect(panel.locator('details')).not_to_have_attribute('open', '')
             audio_url = panel.locator('audio source').evaluate('e=>e.src')
             assert audio_url.startswith(base + 'assets/media/narration/')
@@ -178,16 +183,20 @@ def verify(base):
         expect(r.locator('.page-narration')).to_contain_text('download the MP3 for offline listening')
         assert not errors, errors
         browser.close()
-    print(f'Passed: {len(expected)} current Andrew narrations; source/file checksums, all transcripts and range URLs, no automatic audio downloads, section seek/playback/speed, independent optional audio, MP3 download, keyboard/no-JS, light/dark responsive layouts, printing and offline text. No screenshots or recordings created.')
+    print(f'Passed: {len(expected)} current {VOICES[voice]["name"]} narrations; source/file checksums, all transcripts and range URLs, no automatic audio downloads, section seek/playback/speed, independent optional audio, MP3 download, keyboard/no-JS, light/dark responsive layouts, printing and offline text. No screenshots or recordings created.')
 
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        verify(sys.argv[1])
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('base', nargs='?')
+    parser.add_argument('--voice', choices=VOICES, default=DEFAULT)
+    args = parser.parse_args()
+    if args.base:
+        verify(args.base, args.voice)
     else:
         server = ThreadingHTTPServer(('127.0.0.1', 0), functools.partial(RangeHandler, directory=str(ROOT / '_site')))
         threading.Thread(target=server.serve_forever, daemon=True).start()
         try:
-            verify(f'http://localhost:{server.server_port}/understanding-people/')
+            verify(f'http://localhost:{server.server_port}/understanding-people/', args.voice)
         finally:
             server.shutdown()
