@@ -12,6 +12,8 @@ window.addEventListener('hashchange',revealAudioSection);
 if(location.hash)revealAudioSection();
 // One pending seek per player: switching narrator cannot leave an old callback.
 const pendingSeeks=new WeakMap();
+const playbackRequests=new WeakMap();
+function nextPlaybackRequest(player){const token=(playbackRequests.get(player)||0)+1;playbackRequests.set(player,token);return token;}
 function seekAudio(player,start){if(player.readyState>=1)player.currentTime=start;else pendingSeeks.set(player,start);}
 for(const player of document.querySelectorAll('audio')){
  player.addEventListener('loadedmetadata',()=>{const start=pendingSeeks.get(player);if(start!==undefined){player.currentTime=start;pendingSeeks.delete(player);}});
@@ -30,7 +32,7 @@ for(const panel of document.querySelectorAll('.page-narration')){
    const old=variants[voice],time=pendingSeeks.get(player)??player.currentTime;
    let target=0;
    if(time>0&&!player.ended&&time<old.seconds-.5){const match=old.sections.findIndex(s=>time<s.end),i=match<0?old.sections.length-1:match;const section=old.sections[i],other=edition.sections[i];const fraction=Math.max(0,Math.min(1,(time-section.start)/(section.end-section.start)));target=other.start+fraction*(other.end-other.start);}
-   player.pause();pendingSeeks.delete(player);
+   nextPlaybackRequest(player);player.pause();pendingSeeks.delete(player);
    // load() can override preload=none in Chromium. Setting src keeps the
    // unrequested edition unloaded while resetting the native playback state.
    player.src=edition.audio;player.querySelector('source').src=edition.audio;
@@ -66,7 +68,8 @@ for(const button of document.querySelectorAll('[data-audio-seek]')){
  button.addEventListener('click',()=>{
   const player=document.getElementById(button.dataset.audioSeek),start=Number(button.dataset.start),status=player?.closest('.audio-edition')?.querySelector('.audio-status');
   if(!player||!Number.isFinite(start))return;
+  const request=nextPlaybackRequest(player);
   seekAudio(player,start);
-  player.play().then(()=>{if(status)status.textContent='Selected section: '+button.textContent;}).catch(()=>{if(status)status.textContent='Playback could not start. Use the audio controls or download the MP3.';});
+  player.play().then(()=>{if(playbackRequests.get(player)===request&&!player.paused&&status)status.textContent='Selected section: '+button.textContent;}).catch(error=>{if(playbackRequests.get(player)!==request||error.name==='AbortError')return;if(status)status.textContent='Playback could not start. Use the audio controls or download the MP3.';});
  });
 }

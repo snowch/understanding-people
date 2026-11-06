@@ -42,6 +42,10 @@ def verify(base):
         page.locator('#voice-preview').evaluate('e=>e.currentTime=25.1')
         page.wait_for_function('document.querySelector("#voice-preview").paused')
         expect(page.locator('[data-preview-status]')).to_contain_text('25-second preview')
+        page.evaluate('''()=>{document.querySelector('[data-preview-voice="andrew"]').click();document.querySelector('[data-preview-voice="jenny"]').click();}''')
+        page.wait_for_function('!document.querySelector("#voice-preview").paused && document.querySelector("#voice-preview").currentTime>0')
+        expect(page.locator('[data-preview-status]')).to_contain_text('Previewing Jenny')
+        page.locator('#voice-preview').evaluate('e=>e.pause()')
         # Native radio keyboard navigation must save the narrator too.
         page.locator('[name="narrator"][value="andrew"]').focus()
         page.keyboard.press('ArrowDown')
@@ -82,6 +86,14 @@ def verify(base):
         target = variants['jenny']['sections'][3]['start']
         page.wait_for_function('(t)=>{const a=document.querySelector("#page-narration-audio");return !a.paused&&a.currentTime>=t&&a.currentTime<t+6}', arg=target)
         player.evaluate('e=>e.pause()')
+        # Both actions in one task keep the earlier play promise pending.
+        page.evaluate('''()=>{document.querySelectorAll('[data-audio-seek]')[2].click();const select=document.querySelector('[data-narration-voice]');select.value='andrew';select.dispatchEvent(new Event('change',{bubbles:true}));}''')
+        page.wait_for_timeout(200)
+        expect(page.locator('.audio-status')).to_contain_text('Press Play')
+        assert player.evaluate('e=>e.paused')
+        page.get_by_label('Narration voice', exact=True).select_option('jenny')
+        player.evaluate('e=>e.play()')
+        page.wait_for_function('document.querySelector("#page-narration-audio").readyState>=1')
         # At the end of a completed lesson, a different narrator starts afresh.
         player.evaluate('e=>{e.currentTime=Math.max(0,e.duration-.2);return e.play();}')
         page.wait_for_function('document.querySelector("#page-narration-audio").ended')

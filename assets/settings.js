@@ -33,14 +33,16 @@
  }
  const preview=document.getElementById('voice-preview');
  if(preview){
+  let previewRequest=0;
   const samples=JSON.parse(document.getElementById('voice-previews').textContent),panel=preview.closest('.voice-preview'),previewStatus=panel.querySelector('[data-preview-status]');
   for(const button of document.querySelectorAll('[data-preview-voice]'))button.addEventListener('click',()=>{
    const sample=samples[button.dataset.previewVoice];if(!sample)return;
+   const request=++previewRequest;
    preview.pause();preview.src=sample.audio;preview.playbackRate=1;panel.hidden=false;
    panel.querySelector('[data-preview-name]').textContent=sample.name;
    preview.setAttribute('aria-label',sample.name+' voice preview');
    previewStatus.textContent='Previewing '+sample.name+'. Your narrator choice is unchanged.';
-   preview.play().catch(()=>{previewStatus.textContent='Use the audio controls to start the preview.';});
+   preview.play().catch(error=>{if(request===previewRequest&&error.name!=='AbortError')previewStatus.textContent='Use the audio controls to start the preview.';});
   });
   preview.addEventListener('timeupdate',()=>{if(preview.currentTime>=25&&!preview.paused){preview.pause();previewStatus.textContent='End of the 25-second preview. Choose a narrator above when ready.';}});
   preview.addEventListener('error',()=>{previewStatus.textContent='The preview could not load. Try again when online; your selection is still available.';});
