@@ -1,0 +1,29 @@
+{
+  "css_source": "https://fonts.googleapis.com/css2?family=Newsreader%3Aital%2Copsz%2Cwght%400%2C6..72%2C400..700%3B1%2C6..72%2C400..700&family=Public+Sans%3Awght%40400..700&display=swap",
+  "fonts": [
+    {
+      "file": "newsreader-italic-latin-ext.woff2",
+      "source": "https://fonts.gstatic.com/s/newsreader/v26/cY9CfjOCX1hbuyalUrK439vCgIhCFpY.woff2"
+    },
+    {
+      "file": "newsreader-italic-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/newsreader/v26/cY9CfjOCX1hbuyalUrK439vCjohC.woff2"
+    },
+    {
+      "file": "newsreader-normal-latin-ext.woff2",
+      "source": "https://fonts.gstatic.com/s/newsreader/v26/cY9AfjOCX1hbuyalUrK439DyjJBG.woff2"
+    },
+    {
+      "file": "newsreader-normal-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/newsreader/v26/cY9AfjOCX1hbuyalUrK4397yjA.woff2"
+    },
+    {
+      "file": "public-sans-normal-latin-ext.woff2",
+      "source": "https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNIfJ7Cww.woff2"
+    },
+    {
+      "file": "public-sans-normal-latin.woff2",
+      "source": "https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2"
+    }
+  ]
+}

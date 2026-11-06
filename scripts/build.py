@@ -221,6 +221,7 @@ def build(include_narration=True):
         shutil.rmtree(OUT / "assets" / retired, ignore_errors=True)
     shutil.copyfile(ROOT / "manifest.webmanifest", OUT / "manifest.webmanifest")
     css_hash = hashlib.sha256((ROOT / "assets/book.css").read_bytes()).hexdigest()[:12]
+    course_hash = hashlib.sha256((ROOT / 'assets/course.css').read_bytes()).hexdigest()[:12]
     audio_hash = hashlib.sha256((ROOT / "assets/audio.js").read_bytes()).hexdigest()[:12]
     settings_hash = hashlib.sha256((ROOT / 'assets/settings.js').read_bytes()).hexdigest()[:12]
     narration_manifest = load_narration_manifest() if include_narration else None
@@ -263,7 +264,9 @@ def build(include_narration=True):
         home = relative(Path("index.html"), page)
         settings_url = relative(Path('settings.html'), page) + ('?return=' + quote(page.as_posix(), safe='') if name != 'settings.md' else '')
         settings_link = f'<a class="header-settings" href="{escape(settings_url, quote=True)}" aria-label="Settings" title="Settings"' + (' aria-current="page"' if name == 'settings.md' else '') + '><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3" fill="var(--paper)"/><circle cx="15" cy="17" r="3" fill="var(--paper)"/></svg><span>Settings</span></a>'
-        eyebrow = "A SCIENCE-INFORMED GUIDE" if name == "book.md" else "UNDERSTANDING PEOPLE · DRAFT EDITION"
+        chapter_number = next((i for i, (_, source) in enumerate(CHAPTERS, 1) if source == name), None)
+        eyebrow = f'Chapter {chapter_number} of {len(CHAPTERS)}' if chapter_number else 'A field guide to being human' if name == 'book.md' else ''
+        eyebrow_html = f'<p class="eyebrow">{escape(eyebrow)}</p>' if eyebrow else ''
         description = f"{title}. A science-informed guide to what drives people and how to respond."
         notes_script = (f'<script defer src="{relative(Path("assets/practice.js"), page)}"></script>'
                         if 'class="practice-notes"' in body else '')
@@ -280,6 +283,10 @@ def build(include_narration=True):
 <link rel="apple-touch-icon" href="{relative(Path('assets/apple-touch-icon.png'), page)}">
 <link rel="manifest" href="{relative(Path('manifest.webmanifest'), page)}">
 <link rel="stylesheet" href="{relative(Path('assets/book.css'), page)}?v={css_hash}">
+<link rel="preload" href="{relative(Path('assets/fonts/newsreader-normal-latin.woff2'), page)}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{relative(Path('assets/fonts/public-sans-normal-latin.woff2'), page)}" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{relative(Path('assets/fonts/type.css'), page)}">
+<link rel="stylesheet" href="{relative(Path('assets/course.css'), page)}?v={course_hash}">
 <script defer src="{relative(Path('assets/install.js'), page)}"></script>
 <script defer data-book-settings data-voices="{' '.join(VOICES)}" src="{relative(Path('assets/settings.js'), page)}?v={settings_hash}"></script>
 {notes_script}
@@ -297,9 +304,9 @@ def build(include_narration=True):
 </dialog>
 <details class="mobile-nav"><summary>Browse the book & library</summary><nav aria-label="Book on mobile">{nav_html}</nav></details>
 <div class="layout">
-<aside class="book-sidebar"><p class="nav-label">READ & EXPLORE</p><p class="sidebar-title">Understanding<br>people</p><nav aria-label="Book navigation">{nav_html}</nav></aside>
+<aside class="book-sidebar"><p class="nav-label">Explore the guide</p><nav aria-label="Book navigation">{nav_html}</nav></aside>
 <main id="main" tabindex="-1">{breadcrumb_html}<article>
-<header class="chapter-header"><p class="eyebrow">{eyebrow}</p><h1>{escape(title)}</h1></header>
+<header class="chapter-header">{eyebrow_html}<h1>{escape(title)}</h1></header>
 {narration_html}{contents}<div class="prose">{body}</div>
 </article>
 <nav class="pagination" aria-label="Continue reading">{pagination_html}</nav>

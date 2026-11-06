@@ -147,6 +147,7 @@ def verify(base, voice=DEFAULT):
         page.wait_for_function('document.querySelector("#page-narration-audio").paused && !document.querySelector("#audio-explanation").paused')
         page.locator('#audio-explanation').evaluate('e=>e.pause()')
         page.goto(base + 'chapters/01-before-you-explain.html')
+        page.locator('.page-narration .narration-sections > summary').click()
         with page.expect_download() as event:
             page.locator('.page-narration').get_by_role('link', name='Download MP3', exact=True).click()
         assert hashlib.sha256(Path(event.value.path()).read_bytes()).hexdigest() == manifest['pages']['chapters/01-before-you-explain.md']['audio_sha256']

@@ -105,6 +105,7 @@ def verify(base):
         page.reload()
         expect(page.get_by_label('Narration voice', exact=True)).to_have_value('jenny')
         assert page.locator('#page-narration-audio').evaluate('e=>e.paused')
+        page.locator('.narration-sections > summary').click()
         page.get_by_role('link', name='Voice settings', exact=True).click()
         expect(page.locator('[data-reading-return]')).to_have_attribute('href', chapter + '#page-narration-title')
         # Reset only preferences, retaining notes and unrelated books' settings.

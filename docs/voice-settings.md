@@ -4,7 +4,7 @@ The user authorized Jenny as a second full-book narrator on 5 November 2026. Bot
 
 ## Reader experience
 
-Open Settings from any header or the Voice settings link beside a lesson. A 25-second preview uses the actual Chapter 1 recording; it does not change the selected narrator. Choose a voice and starting playback speed using native radio/select controls. Changes save automatically in this browser on this device. Every main lesson also has a voice selector.
+Open Settings from any header or expand Choose a section beside a lesson to find Voice settings. A 25-second preview uses the actual Chapter 1 recording; it does not change the selected narrator. Choose a voice and starting playback speed using native radio/select controls. Changes save automatically in this browser on this device. Every main lesson also has a voice selector.
 
 Changing narrator pauses playback, updates the duration, section buttons, MP3 and transcript links, and retains an approximate place within the same section. The listener presses Play to continue. A section chosen after switching replaces that retained position. After a finished lesson, changing voice starts afresh. Download filenames identify the narrator. Recordings have independent timings; Andrew's timestamps are never used to seek within Jenny. Earlier optional confirmation-bias recordings retain their original voices and controls.
 

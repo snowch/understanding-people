@@ -41,9 +41,9 @@ with sync_playwright() as pw:
         page.set_viewport_size({'width':width,'height':950})
         page.goto(base+'reference/index.html')
         # Topic headings disclose real child links, on desktop and mobile.
-        if width<=800:
+        if width<=1050:
             page.locator('.mobile-nav > summary').click()
-        tree=page.locator('.mobile-nav' if width<=800 else '.book-sidebar')
+        tree=page.locator('.mobile-nav' if width<=1050 else '.book-sidebar')
         thinking=tree.locator('[data-topic="thinking-and-interpretation"]')
         expect(thinking).not_to_have_attribute('open','')
         thinking.locator('> summary').focus()
@@ -52,14 +52,14 @@ with sync_playwright() as pw:
         expect(thinking.get_by_role('link',name='Correspondence bias',exact=True)).to_be_visible()
         thinking.get_by_role('link',name='Correspondence bias',exact=True).click()
         expect(page.locator('h1')).to_have_text('Correspondence bias')
-        if width<=800:page.locator('.mobile-nav > summary').click()
+        if width<=1050:page.locator('.mobile-nav > summary').click()
         expect(tree.locator('[data-topic="thinking-and-interpretation"]')).to_have_attribute('open','')
         expect(tree.get_by_role('link',name='Correspondence bias',exact=True)).to_have_attribute('aria-current','page')
         behaviour=tree.locator('[data-topic="behaviour-and-relationships"]')
         behaviour.locator('> summary').click()
         behaviour.get_by_role('link',name='Declining help',exact=True).click()
         expect(page.locator('h1')).to_have_text('Declining help')
-        if width<=800:page.locator('.mobile-nav > summary').click()
+        if width<=1050:page.locator('.mobile-nav > summary').click()
         expect(tree.locator('[data-topic="behaviour-and-relationships"]')).to_have_attribute('open','')
         expect(tree.locator('.nav-listening')).to_have_count(0)
         capture(page, path=str(shots/f'drilldown-{width}.png'))
@@ -83,7 +83,7 @@ with sync_playwright() as pw:
         expect(page.locator('#page-narration-title')).to_be_visible()
         expect(page.locator('h1')).to_contain_text('Confirmation bias')
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
-        if width<=800:
+        if width<=1050:
             page.locator('.mobile-nav > summary').click()
             nav=page.locator('.mobile-nav')
             assert nav.locator('.nav-topic a').first.evaluate('(e)=>getComputedStyle(e).display')=='block'

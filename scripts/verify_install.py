@@ -65,7 +65,7 @@ with sync_playwright() as playwright:
         assert response.ok, path
         assert page.locator('h1').count() == 1
         assert page.locator('.copyright').inner_text() == '© 2026 Christopher Snow'
-        assert page.evaluate("getComputedStyle(document.body).backgroundColor") == 'rgb(248, 247, 242)'
+        assert page.evaluate("getComputedStyle(document.body).backgroundColor") == 'rgb(247, 246, 240)'
     assert not errors, errors
     browser.close()
     print('Passed: install events, manual-help dialog, focus, installed state, manifest/icons, responsive header and all book pages offline.')
