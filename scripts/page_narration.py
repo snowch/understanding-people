@@ -83,7 +83,7 @@ def descendants(node, tag):
 
 def eligible(source):
     # Compatibility notices/redirects have no independent lesson to narrate.
-    return not source.startswith("audio/") and source != 'settings.md'
+    return not source.startswith("audio/") and source not in {'settings.md', 'downloads/index.md'}
 
 
 def speech_sections(title, body):
@@ -202,6 +202,7 @@ def render(source, title, body, page, manifest, editions=None):
     choices = ''.join(f'<option value="{key}">{escape(data["name"])}</option>' for key, data in variants.items())
     from urllib.parse import quote
     settings = Path(os.path.relpath(Path('settings.html'), page.parent)).as_posix() + '?return=' + quote(page.as_posix() + '#page-narration-title', safe='')
+    audiobook = Path(os.path.relpath(Path('downloads/index.html'), page.parent)).as_posix()
     fallback = ''.join(f'<a href="{escape(v["audio"], quote=True)}" download="{escape(v["filename"], quote=True)}">Download {escape(v["name"])} MP3</a> ' for k, v in variants.items() if k != DEFAULT)
     payload = json.dumps(variants, ensure_ascii=False).replace('<', '\\u003c')
     return f'''<section class="page-narration audio-edition" aria-labelledby="page-narration-title">
@@ -213,7 +214,7 @@ def render(source, title, body, page, manifest, editions=None):
 </div>
 <audio class="narration-native" id="page-narration-audio" controls preload="none" aria-label="Listen to {escape(title, quote=True)}"><source src="{url('.mp3')}" type="audio/mpeg"></audio>
 <div class="narration-toolbar"><div class="audio-links"><label hidden class="narration-voice"><span class="visually-hidden">Voice</span><select data-narration-voice aria-label="Narration voice">{choices}</select></label><label hidden class="narration-speed"><span class="visually-hidden">Speed</span><select data-audio-speed="page-narration-audio" aria-label="Page narration speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label><a class="narration-transcript" href="{url('.txt')}" aria-label="Read transcript">Transcript</a></div>
-<details class="narration-sections"><summary>Choose a section</summary><ol class="audio-chapters">{jumps}</ol><div class="narration-resources"><a class="narration-download" href="{url('.mp3')}" download="{escape(variants[DEFAULT]['filename'], quote=True)}">Download MP3</a><a href="{escape(settings, quote=True)}">Voice settings</a></div><p class="audio-note"><span data-narration-name>Andrew</span> · Synthetic narration{' · Spoken lesson' if is_lesson else ''}</p><p class="narration-help">{practice_hint}Audio streams when played; download the MP3 for offline listening.</p></details></div>
+<details class="narration-sections"><summary>Choose a section</summary><ol class="audio-chapters">{jumps}</ol><div class="narration-resources"><a class="narration-download" href="{url('.mp3')}" download="{escape(variants[DEFAULT]['filename'], quote=True)}">Download MP3</a><a href="{escape(settings, quote=True)}">Voice settings</a><a class="whole-book-download" href="{escape(audiobook, quote=True)}">Download the audiobook</a></div><p class="audio-note"><span data-narration-name>Andrew</span> · Synthetic narration{' · Spoken lesson' if is_lesson else ''}</p><p class="narration-help">{practice_hint}Audio streams when played; download the MP3 for offline listening.</p></details></div>
 <noscript><p>Voice preferences need JavaScript. Andrew is shown above. {fallback}Both recordings use the same lesson text.</p></noscript>
 <script type="application/json" class="narration-variants">{payload}</script>
 <p class="audio-status" role="status" aria-live="polite"></p>

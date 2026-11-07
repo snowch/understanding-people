@@ -2,6 +2,8 @@
 
 Read the editing and build guidance in `README.md` before changing book content or presentation.
 
+- Audiobook downloads are single files with internal chapter markers: the complete book (136 sections) and smaller course-only edition (introduction, twelve chapters, conclusion), separately for Andrew/Jenny. Reuse the approved audio; do not regenerate speech. Keep M4Bs and temporary PCM outside Git/Pages and publish verified files through immutable GitHub Releases before publishing their book links. The download page is a utility, not a narrated lesson or knowledge node. Read `docs/audiobooks.md` for source integrity, sample-accurate chapter boundaries and publication order.
+
 - For presentation, follow `docs/course-design.md`: Newsreader/Public Sans are licensed and self-hosted; `assets/course.css` owns the design layer. Keep the main player compact and progressively enhanced, with native audio without JavaScript. Keep downloads and voice settings in its section disclosure, preserve on-demand loading and keyboard controls, and check phone/tablet/desktop plus light/dark layouts. Presentation changes must not rewrite teaching or regenerate recordings.
 
 - On 5 November 2026 the user requested a Settings page and `en-US-JennyNeural` as a second voice for every substantive page. Keep all Andrew scripts, recordings, transcripts and manifest records unchanged. Use the same authored text and pauses for Jenny, with separately measured recordings, timings and a separate manifest. Voice and speed preferences stay local to this book/browser; switching voice must pause playback and must not fetch the new audio until requested. Settings is a controls page, not an extra lesson to narrate. See `docs/voice-settings.md`.

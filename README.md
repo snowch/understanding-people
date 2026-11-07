@@ -4,6 +4,8 @@ A science-informed guide to understanding what drives people—including ourselv
 
 [Read the book](https://snowch.github.io/understanding-people/) · [Contents](contents.md) · [Evidence standards](evidence.md)
 
+[Download the audiobook](https://snowch.github.io/understanding-people/downloads/) — one M4B file per voice, with chapter markers for offline listening. The complete book includes all 136 recorded sections; smaller course-only files contain the introduction, twelve chapters and conclusion. Downloads are hosted in this repository's public releases, with app instructions on the book's download page. See [packaging and publication](docs/audiobooks.md).
+
 [Content development plan](docs/content-development-plan.md) — the agreed direction for revising the foundations, expanding the reference library, checking evidence and connecting practice with the app.
 
 This is a complete first editorial draft: an introduction, twelve developed chapters, a conclusion, reading routes, a practical worksheet, an annotated source list, a glossary, and reading, author and support pages. Chapters include one habit to practise, key takeaways and a compact practice section: recall, one fresh situation and one task for the week. Deeper exercises and selected earlier-chapter recalls are optional, under “More practice”. Local notes are optional too. It has not undergone external subject-matter review.

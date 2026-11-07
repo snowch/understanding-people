@@ -24,6 +24,7 @@ from page_narration import load_manifest as load_narration_manifest, render as r
 from page_narration import eligible as narration_eligible
 from narration_voices import VOICES
 from book_settings import render as render_settings
+from book_audiobook import load as load_audiobook, render as render_audiobook
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site"
@@ -57,6 +58,7 @@ PAGES = [
     ("references.md", "Sources & further reading"),
     ("about.md", "About the book & author"),
     ("settings.md", "Settings"),
+    ("downloads/index.md", "Download the audiobook"),
 ]
 CHAPTERS = [
     ("Why we misinterpret people", "chapters/01-before-you-explain.md"),
@@ -224,8 +226,10 @@ def build(include_narration=True):
     course_hash = hashlib.sha256((ROOT / 'assets/course.css').read_bytes()).hexdigest()[:12]
     audio_hash = hashlib.sha256((ROOT / "assets/audio.js").read_bytes()).hexdigest()[:12]
     settings_hash = hashlib.sha256((ROOT / 'assets/settings.js').read_bytes()).hexdigest()[:12]
+    audiobook_hash = hashlib.sha256((ROOT / 'assets/audiobooks.js').read_bytes()).hexdigest()[:12]
     narration_manifest = load_narration_manifest() if include_narration else None
     editions = {voice: load_narration_manifest(voice) for voice in VOICES} if include_narration else {}
+    audiobook_data = load_audiobook(CHAPTERS, PAGES, editions) if include_narration else None
     if narration_manifest is not None:
         from spoken_narration import scripts as spoken_scripts
         expected_spoken = {name for name, _ in PAGES if narration_eligible(name)}
@@ -243,6 +247,8 @@ def build(include_narration=True):
         body = converter.convert(text)
         if name == 'settings.md':
             body = body.replace('<!-- voice-settings -->', render_settings(editions))
+        if name == 'downloads/index.md':
+            body = body.replace('<!-- audiobook-downloads -->', render_audiobook(audiobook_data, page) if audiobook_data else '<p>Audiobook downloads are included in the completed build.</p>')
         body = re.sub(r'<!-- practice-notes: ([a-z0-9-]+) \| ([^\n]+?) -->', practice_notes, body)
         body = re.sub(r'\b(href|src)="([^"]*)"', rewrite_link, body)
         body = body.replace("<table>", '<div class="table-scroll" role="region" aria-label="Comparison table" tabindex="0"><table>')
@@ -270,6 +276,7 @@ def build(include_narration=True):
         description = f"{title}. A science-informed guide to what drives people and how to respond."
         notes_script = (f'<script defer src="{relative(Path("assets/practice.js"), page)}"></script>'
                         if 'class="practice-notes"' in body else '')
+        audiobook_script = (f'<script defer src="{relative(Path("assets/audiobooks.js"), page)}?v={audiobook_hash}"></script>' if name == 'downloads/index.md' else '')
         html = f'''<!doctype html>
 <html lang="en-GB">
 <head>
@@ -291,6 +298,7 @@ def build(include_narration=True):
 <script defer data-book-settings data-voices="{' '.join(VOICES)}" src="{relative(Path('assets/settings.js'), page)}?v={settings_hash}"></script>
 {notes_script}
 {narration_script}
+{audiobook_script}
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>

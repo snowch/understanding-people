@@ -1,0 +1,2480 @@
+{
+  "version": 1,
+  "repository": "snowch/understanding-people",
+  "release_tag": "audiobooks-2026-11-07",
+  "generated": "2026-11-07T20:13:48.447553+00:00",
+  "source_revision": "c57a7f2c558bf93ebf52ac4aa1e24c66e4791295",
+  "producer_sha256": "c76dee87aeb46b95bf502fd1b11a4531523150fe3d53fc2126d1ebd2c13340e6",
+  "cover_source": "assets/icon-512.png",
+  "cover_sha256": "32a2a2a858d940fa2ad08b4db244df738fbb18bb358a80d029110aa07739e6da",
+  "voices": {
+    "andrew": {
+      "voice": "en-US-AndrewMultilingualNeural",
+      "narration_manifest_sha256": "87f910212848e8d7aeb5101a775b33098ca76032408b89fde65ebf010b3be690",
+      "editions": {
+        "course": {
+          "filename": "understanding-people-course-andrew.m4b",
+          "bytes": 47008497,
+          "sha256": "51251cb62657e3e09afde896b9b1a1e7f971bb4a1136413219415a7498008dee",
+          "duration": 4516.892,
+          "chapter_count": 14,
+          "chapters": [
+            {
+              "source": "book.md",
+              "title": "Introduction",
+              "start_sample": 0,
+              "end_sample": 6035720,
+              "audio_sha256": "a0b39f7a886453aa254bb2f4b158a4e81c3ce7bcc1615ba0705f2da6b6ad6470",
+              "decoded_pcm_sha256": "bfaf86129965a4dcd85727b36f38fc3bfd791ca0936b431355cb0b4686d01f91"
+            },
+            {
+              "source": "chapters/01-before-you-explain.md",
+              "title": "01. Why we misinterpret people",
+              "start_sample": 6035720,
+              "end_sample": 13103879,
+              "audio_sha256": "f81191252f63e2be0e78b9c2e2f5a34f0a3a8bf9c255cfe320b35d30b4ff2f49",
+              "decoded_pcm_sha256": "e64fcb1383e14d150ff4bf1b3e89efdb8927ccde83db6f56baaa9e68776c3b65"
+            },
+            {
+              "source": "chapters/02-what-counts-as-knowing.md",
+              "title": "02. What counts as knowing?",
+              "start_sample": 13103879,
+              "end_sample": 20555233,
+              "audio_sha256": "34da09c88aac731c9b1547d348da5a53ad10130ee04ed451098c50b67bc7d195",
+              "decoded_pcm_sha256": "ceed5bc4793f7e6867bc6292971db472cc44461b5a0f3898ede8b0fc8dd1ca20"
+            },
+            {
+              "source": "chapters/03-needs-motives-goals.md",
+              "title": "03. Needs, motives and competing goals",
+              "start_sample": 20555233,
+              "end_sample": 28648472,
+              "audio_sha256": "d5bff954a9098d73837bb370fad00054e5192ed90b535180c7c1028f5d4d5079",
+              "decoded_pcm_sha256": "9763780f760d15505724100b84371997800bc08c3325c0c4e922a54b64ba2401"
+            },
+            {
+              "source": "chapters/04-beliefs-identity-history.md",
+              "title": "04. Beliefs, identity and personal history",
+              "start_sample": 28648472,
+              "end_sample": 36228308,
+              "audio_sha256": "a89615e2bf484f26f3bbac6d92b75a0e04ec62ca3590ed2f13e1771ce004d268",
+              "decoded_pcm_sha256": "4112a1092203979bc4192b117ed49724b23964d8c3d22dd3f9dae46374383cc1"
+            },
+            {
+              "source": "chapters/05-emotion-stress-coping.md",
+              "title": "05. Emotion, stress and coping",
+              "start_sample": 36228308,
+              "end_sample": 44176068,
+              "audio_sha256": "b4406a1ebd1bf30fe166f258855d656b080251ef0d7c6f40cdd9fb67f8acd2f6",
+              "decoded_pcm_sha256": "305e279aa8b2b5395482ad13c4f97fdbb24d2c5135501b8472ebd6b13240f91f"
+            },
+            {
+              "source": "chapters/06-personality-habits-situations.md",
+              "title": "06. Personality, habits and situations",
+              "start_sample": 44176068,
+              "end_sample": 52326935,
+              "audio_sha256": "426ee43663b9f98645409f2c4d1d5fc4e88434763cc671dcbf2dc1a1badda060",
+              "decoded_pcm_sha256": "efdfe1da610513e9e8c227d9d0e1f8fb3822ff18a99de4601c7332ee3645f33f"
+            },
+            {
+              "source": "chapters/07-culture-groups-power.md",
+              "title": "07. Culture, groups and power",
+              "start_sample": 52326935,
+              "end_sample": 60713917,
+              "audio_sha256": "172177e356bd954a4ca51a4992c2dd4d28350113bc518ac28ef6ed070f97a005",
+              "decoded_pcm_sha256": "476842f090b0bef0fe523b786e25eee57f53cb34697c83613768c38a4288d596"
+            },
+            {
+              "source": "chapters/08-questions-listening-disagreement.md",
+              "title": "08. Questions, listening and disagreement",
+              "start_sample": 60713917,
+              "end_sample": 68798464,
+              "audio_sha256": "8c7f4f71cd69c7d3a7cb1cf5b67df134b8b1057f50d3789da2fae284530e4b01",
+              "decoded_pcm_sha256": "c5d0d5a6d5ad991671658747d24a377f337575c44f2fa13c6b16348109317a0d"
+            },
+            {
+              "source": "chapters/09-truth-lies-uncertainty.md",
+              "title": "09. Truth, lies and uncertainty",
+              "start_sample": 68798464,
+              "end_sample": 76701231,
+              "audio_sha256": "6546d95dcd2d0fd52125b947599301fdc402cfda8bc94622cd62f467b7814dd6",
+              "decoded_pcm_sha256": "dd0397c65b038f92d66ab8fccd8acf381083909806bade925a68fe7953bdf10b"
+            },
+            {
+              "source": "chapters/10-motivation-influence-cooperation.md",
+              "title": "10. Motivation, influence and cooperation",
+              "start_sample": 76701231,
+              "end_sample": 85032795,
+              "audio_sha256": "52d31bfc485ad8276ed99e4e2aa5fbb63a2aa9993c14e76ba976966c282c97ca",
+              "decoded_pcm_sha256": "9e486cbea7f343b2f325ace8f091e3f53fb448419f8c0bd0497e2d79d9b8b8b6"
+            },
+            {
+              "source": "chapters/11-conflict-manipulation-boundaries.md",
+              "title": "11. Conflict, manipulation and boundaries",
+              "start_sample": 85032795,
+              "end_sample": 93966626,
+              "audio_sha256": "cd7237e1f9e12ebc9b0930e2075b4a045bb944576d31ee2e36383d2359054ba7",
+              "decoded_pcm_sha256": "2631e86572184d4a5be3535916c5da64e53cd3f59601cbc87563d7602d08f42c"
+            },
+            {
+              "source": "chapters/12-putting-understanding-to-work.md",
+              "title": "12. Putting understanding to work",
+              "start_sample": 93966626,
+              "end_sample": 102123596,
+              "audio_sha256": "994e40c4b47db0af9678d9b14556e50a85c25db09c306c424ccfe5549f6634ce",
+              "decoded_pcm_sha256": "3e0a5225bd9416a29da3b18f91e1e166e02e1fcd27c616f9d380376e8e749f65"
+            },
+            {
+              "source": "conclusion.md",
+              "title": "Conclusion — What to take with you",
+              "start_sample": 102123596,
+              "end_sample": 108405397,
+              "audio_sha256": "02127542968ed76e2301d7b0292d4845480d5d4ed71963f57bc24df7884b81df",
+              "decoded_pcm_sha256": "117222895088f4386a3d93bd4db33284681aa5482949b88981f9a2a7a6ffd3d6"
+            }
+          ],
+          "codec": "AAC-LC",
+          "sample_rate": 24000,
+          "channels": 1,
+          "bitrate": 80000,
+          "url": "https://github.com/snowch/understanding-people/releases/download/audiobooks-2026-11-07/understanding-people-course-andrew.m4b"
+        },
+        "complete": {
+          "filename": "understanding-people-complete-andrew.m4b",
+          "bytes": 390629794,
+          "sha256": "05209224c34dbbb2fd633753229400ee6d52fa22e7eedc920f02ef4206417f2f",
+          "duration": 37528.274,
+          "chapter_count": 136,
+          "chapters": [
+            {
+              "source": "book.md",
+              "title": "Introduction",
+              "start_sample": 0,
+              "end_sample": 6035720,
+              "audio_sha256": "a0b39f7a886453aa254bb2f4b158a4e81c3ce7bcc1615ba0705f2da6b6ad6470",
+              "decoded_pcm_sha256": "bfaf86129965a4dcd85727b36f38fc3bfd791ca0936b431355cb0b4686d01f91"
+            },
+            {
+              "source": "chapters/01-before-you-explain.md",
+              "title": "01. Why we misinterpret people",
+              "start_sample": 6035720,
+              "end_sample": 13103879,
+              "audio_sha256": "f81191252f63e2be0e78b9c2e2f5a34f0a3a8bf9c255cfe320b35d30b4ff2f49",
+              "decoded_pcm_sha256": "e64fcb1383e14d150ff4bf1b3e89efdb8927ccde83db6f56baaa9e68776c3b65"
+            },
+            {
+              "source": "chapters/02-what-counts-as-knowing.md",
+              "title": "02. What counts as knowing?",
+              "start_sample": 13103879,
+              "end_sample": 20555233,
+              "audio_sha256": "34da09c88aac731c9b1547d348da5a53ad10130ee04ed451098c50b67bc7d195",
+              "decoded_pcm_sha256": "ceed5bc4793f7e6867bc6292971db472cc44461b5a0f3898ede8b0fc8dd1ca20"
+            },
+            {
+              "source": "chapters/03-needs-motives-goals.md",
+              "title": "03. Needs, motives and competing goals",
+              "start_sample": 20555233,
+              "end_sample": 28648472,
+              "audio_sha256": "d5bff954a9098d73837bb370fad00054e5192ed90b535180c7c1028f5d4d5079",
+              "decoded_pcm_sha256": "9763780f760d15505724100b84371997800bc08c3325c0c4e922a54b64ba2401"
+            },
+            {
+              "source": "chapters/04-beliefs-identity-history.md",
+              "title": "04. Beliefs, identity and personal history",
+              "start_sample": 28648472,
+              "end_sample": 36228308,
+              "audio_sha256": "a89615e2bf484f26f3bbac6d92b75a0e04ec62ca3590ed2f13e1771ce004d268",
+              "decoded_pcm_sha256": "4112a1092203979bc4192b117ed49724b23964d8c3d22dd3f9dae46374383cc1"
+            },
+            {
+              "source": "chapters/05-emotion-stress-coping.md",
+              "title": "05. Emotion, stress and coping",
+              "start_sample": 36228308,
+              "end_sample": 44176068,
+              "audio_sha256": "b4406a1ebd1bf30fe166f258855d656b080251ef0d7c6f40cdd9fb67f8acd2f6",
+              "decoded_pcm_sha256": "305e279aa8b2b5395482ad13c4f97fdbb24d2c5135501b8472ebd6b13240f91f"
+            },
+            {
+              "source": "chapters/06-personality-habits-situations.md",
+              "title": "06. Personality, habits and situations",
+              "start_sample": 44176068,
+              "end_sample": 52326935,
+              "audio_sha256": "426ee43663b9f98645409f2c4d1d5fc4e88434763cc671dcbf2dc1a1badda060",
+              "decoded_pcm_sha256": "efdfe1da610513e9e8c227d9d0e1f8fb3822ff18a99de4601c7332ee3645f33f"
+            },
+            {
+              "source": "chapters/07-culture-groups-power.md",
+              "title": "07. Culture, groups and power",
+              "start_sample": 52326935,
+              "end_sample": 60713917,
+              "audio_sha256": "172177e356bd954a4ca51a4992c2dd4d28350113bc518ac28ef6ed070f97a005",
+              "decoded_pcm_sha256": "476842f090b0bef0fe523b786e25eee57f53cb34697c83613768c38a4288d596"
+            },
+            {
+              "source": "chapters/08-questions-listening-disagreement.md",
+              "title": "08. Questions, listening and disagreement",
+              "start_sample": 60713917,
+              "end_sample": 68798464,
+              "audio_sha256": "8c7f4f71cd69c7d3a7cb1cf5b67df134b8b1057f50d3789da2fae284530e4b01",
+              "decoded_pcm_sha256": "c5d0d5a6d5ad991671658747d24a377f337575c44f2fa13c6b16348109317a0d"
+            },
+            {
+              "source": "chapters/09-truth-lies-uncertainty.md",
+              "title": "09. Truth, lies and uncertainty",
+              "start_sample": 68798464,
+              "end_sample": 76701231,
+              "audio_sha256": "6546d95dcd2d0fd52125b947599301fdc402cfda8bc94622cd62f467b7814dd6",
+              "decoded_pcm_sha256": "dd0397c65b038f92d66ab8fccd8acf381083909806bade925a68fe7953bdf10b"
+            },
+            {
+              "source": "chapters/10-motivation-influence-cooperation.md",
+              "title": "10. Motivation, influence and cooperation",
+              "start_sample": 76701231,
+              "end_sample": 85032795,
+              "audio_sha256": "52d31bfc485ad8276ed99e4e2aa5fbb63a2aa9993c14e76ba976966c282c97ca",
+              "decoded_pcm_sha256": "9e486cbea7f343b2f325ace8f091e3f53fb448419f8c0bd0497e2d79d9b8b8b6"
+            },
+            {
+              "source": "chapters/11-conflict-manipulation-boundaries.md",
+              "title": "11. Conflict, manipulation and boundaries",
+              "start_sample": 85032795,
+              "end_sample": 93966626,
+              "audio_sha256": "cd7237e1f9e12ebc9b0930e2075b4a045bb944576d31ee2e36383d2359054ba7",
+              "decoded_pcm_sha256": "2631e86572184d4a5be3535916c5da64e53cd3f59601cbc87563d7602d08f42c"
+            },
+            {
+              "source": "chapters/12-putting-understanding-to-work.md",
+              "title": "12. Putting understanding to work",
+              "start_sample": 93966626,
+              "end_sample": 102123596,
+              "audio_sha256": "994e40c4b47db0af9678d9b14556e50a85c25db09c306c424ccfe5549f6634ce",
+              "decoded_pcm_sha256": "3e0a5225bd9416a29da3b18f91e1e166e02e1fcd27c616f9d380376e8e749f65"
+            },
+            {
+              "source": "conclusion.md",
+              "title": "Conclusion — What to take with you",
+              "start_sample": 102123596,
+              "end_sample": 108405397,
+              "audio_sha256": "02127542968ed76e2301d7b0292d4845480d5d4ed71963f57bc24df7884b81df",
+              "decoded_pcm_sha256": "117222895088f4386a3d93bd4db33284681aa5482949b88981f9a2a7a6ffd3d6"
+            },
+            {
+              "source": "reference/confirmation-bias.md",
+              "title": "Reference — Confirmation bias",
+              "start_sample": 108405397,
+              "end_sample": 116732100,
+              "audio_sha256": "274d886a6e74e21b150af91f73df817a4201c7815cc0b41a29a0c18501eb07fb",
+              "decoded_pcm_sha256": "e66ff2f474a3357c40b9ba7a59a76976c7e5d676f972e67010e332806b636878"
+            },
+            {
+              "source": "reference/correspondence-bias.md",
+              "title": "Reference — Correspondence bias",
+              "start_sample": 116732100,
+              "end_sample": 124452902,
+              "audio_sha256": "ce4efd8453a6f95f04ce24788c1b83566f56275a921490a418a05c224bac8683",
+              "decoded_pcm_sha256": "3be5229660cd2fd392f186188bbb86304e9a855f1d18bb3c91dd718060625549"
+            },
+            {
+              "source": "reference/identity.md",
+              "title": "Reference — Identity & beliefs",
+              "start_sample": 124452902,
+              "end_sample": 130221539,
+              "audio_sha256": "05a922464584a5bd7d124c11c0e893cbfddfa20b0a446e8b8a21edad180a9d11",
+              "decoded_pcm_sha256": "2a3feee6863ad952c39294203d9eb72d887f0a485bb1e8422bafe85c59dded01"
+            },
+            {
+              "source": "reference/observation.md",
+              "title": "Reference — Observation & interpretation",
+              "start_sample": 130221539,
+              "end_sample": 136238122,
+              "audio_sha256": "220911a88228a4b4a7e1d3b1c0aeb5a4bb3790fc575634fcddcbf8a4558155ca",
+              "decoded_pcm_sha256": "2a6b4a932944684569a6fa77e1092a35eb7f77fd8c62f65c105520c5b38359a8"
+            },
+            {
+              "source": "reference/deception.md",
+              "title": "Reference — Truth, lies & uncertainty",
+              "start_sample": 136238122,
+              "end_sample": 142492903,
+              "audio_sha256": "8ee44a92ade59b69ccdd47ad88b9c40fe2645fdb9ec4323fb069dc39dbbda7c4",
+              "decoded_pcm_sha256": "1b45dfe4495fa912d62b347df07fb5703f6f72ca0bcfeb7a9c13f352c345ed3d"
+            },
+            {
+              "source": "reference/uncertainty.md",
+              "title": "Reference — Uncertainty",
+              "start_sample": 142492903,
+              "end_sample": 148522007,
+              "audio_sha256": "e6d7a71f7d2faa29257612425df7a74ae2fb575d52ed816b0cb3652097bcc528",
+              "decoded_pcm_sha256": "f63165debca05383c0b7e5f295fd0259795990ece6046e66662d5fb3d6b16bbe"
+            },
+            {
+              "source": "reference/declining-help.md",
+              "title": "Reference — Declining help",
+              "start_sample": 148522007,
+              "end_sample": 157005204,
+              "audio_sha256": "637862b1fb32bee29e0a13effa924a989ca9fd26b6ad6712bb0e369f222869d5",
+              "decoded_pcm_sha256": "098e7e109067230cbcda2dd15fcb05be2e02bc37b56fccd05f51aa0a6323ce4b"
+            },
+            {
+              "source": "reference/acknowledging.md",
+              "title": "Reference — Acknowledging another perspective",
+              "start_sample": 157005204,
+              "end_sample": 163586071,
+              "audio_sha256": "10d8b22fdbee7d698c671ed442a2b4371e51dc805f965c6735a1fed321b80c3c",
+              "decoded_pcm_sha256": "dc04e1aea93faf15412196113194a123b2b78f5b7fd0bb8edf845a0575c57226"
+            },
+            {
+              "source": "reference/followthrough.md",
+              "title": "Reference — Agreeing, then not following through",
+              "start_sample": 163586071,
+              "end_sample": 170228090,
+              "audio_sha256": "8cfe2a5c382e1feeb99deac91ed587f146495ee28ce32a515ef7007d09c9d776",
+              "decoded_pcm_sha256": "0f17465dd4a9c2d0bd344dea540223645ca2ded549c283c8b969868c493c9f4f"
+            },
+            {
+              "source": "reference/vulnerability.md",
+              "title": "Reference — Avoiding vulnerability",
+              "start_sample": 170228090,
+              "end_sample": 177171187,
+              "audio_sha256": "2e6c5bbc47c0f6aef0bc94b7b40dc06fbbbaa2ec7d14fd982eb109532419d84d",
+              "decoded_pcm_sha256": "4523b0bebb94dc9b820a9f6558cf8a586eb75037de7a7fa0806a87ed0db9e4a6"
+            },
+            {
+              "source": "reference/contempt.md",
+              "title": "Reference — Contempt & belittling",
+              "start_sample": 177171187,
+              "end_sample": 184192835,
+              "audio_sha256": "ea648456496b6665cfdbaf3cd3283ab325ac33074db1a1836696b5372c54c5ff",
+              "decoded_pcm_sha256": "5d90827f44232564ca3229abe12f6254a3b77192969803277d7408d55660c59c"
+            },
+            {
+              "source": "reference/financial-control.md",
+              "title": "Reference — Control of money & resources",
+              "start_sample": 184192835,
+              "end_sample": 191535256,
+              "audio_sha256": "9884ba15153fe33018380bc45b17a791dc8078db34124034ba2bb50454170309",
+              "decoded_pcm_sha256": "00f957442e322e250ce6fceffc692c310520097e5dab178af1cfc497ad621690"
+            },
+            {
+              "source": "reference/deflecting.md",
+              "title": "Reference — Deflecting or changing the subject",
+              "start_sample": 191535256,
+              "end_sample": 198090862,
+              "audio_sha256": "e4520a93d6a0cd88d848f408931607bd1327605f2ed0a5cb7ca3160281005bd4",
+              "decoded_pcm_sha256": "15c37c0b6bbdf8c85702e64d3be31dbddeb66433be489aaa039926cb18618be9"
+            },
+            {
+              "source": "reference/denial.md",
+              "title": "Reference — Denying an event or agreement",
+              "start_sample": 198090862,
+              "end_sample": 205037177,
+              "audio_sha256": "77bfc1a7aae1f36e17bf16e612e7b3011eb1d84e09f521effcead3e42fd683fa",
+              "decoded_pcm_sha256": "e18a7db682cd7a4d562db2bc7f2858776d1fd7189eeed5018210103166264b91"
+            },
+            {
+              "source": "reference/difficulty-trusting.md",
+              "title": "Reference — Difficulty trusting",
+              "start_sample": 205037177,
+              "end_sample": 211993124,
+              "audio_sha256": "7b99d5847137575ab79bd098312bdbb477cb9d722396722e23b394ea53b4f79a",
+              "decoded_pcm_sha256": "bf47959ab19335cebea718cf7abe39998e9d3aa8d97a7e7a040f3016b321a4f1"
+            },
+            {
+              "source": "reference/dismissing-needs.md",
+              "title": "Reference — Dismissing another person’s needs",
+              "start_sample": 211993124,
+              "end_sample": 219131414,
+              "audio_sha256": "1f80e76b2936f3b697c8bdb9fae059d590af8a19e5bb1a30b5695c9b0d12ea8f",
+              "decoded_pcm_sha256": "deae22cf64dc029e255f387dac3688ff64c428875d994ed65b28cc2bc9a1ea68"
+            },
+            {
+              "source": "reference/emotional-blackmail.md",
+              "title": "Reference — Emotional blackmail & conditional threats",
+              "start_sample": 219131414,
+              "end_sample": 226204814,
+              "audio_sha256": "eede1807870c4b64fbd125b0d8869b37bcbab9c60cb04978b646dcc5f45cd461",
+              "decoded_pcm_sha256": "f89937d427a1b609bfa1d3c8d45e87fd208427ae9b877bfac6aced300439f72e"
+            },
+            {
+              "source": "reference/narcissistic-behaviour.md",
+              "title": "Reference — Entitlement, admiration & others’ needs",
+              "start_sample": 226204814,
+              "end_sample": 233594365,
+              "audio_sha256": "1ac22ffcdfe8551c6c436c2b739ab38ecfd59f75d9a4273384ff5fcbc02c0623",
+              "decoded_pcm_sha256": "521ef4d0b80491b6a2638e67b2e7ef5816b2e433f1eff0d0012f5454ddc26209"
+            },
+            {
+              "source": "reference/creating-obligation.md",
+              "title": "Reference — Favours that create unwanted obligation",
+              "start_sample": 233594365,
+              "end_sample": 240600921,
+              "audio_sha256": "bfc7c42b19ad74cab236f6d5d843b5f02b51b5ac818b455313fce3825e4c8e3d",
+              "decoded_pcm_sha256": "79d7f3e875872adc32dd1b03474585b6b8822584c14e9ed31c67992a891451b3"
+            },
+            {
+              "source": "reference/gaslighting.md",
+              "title": "Reference — Gaslighting & undermining your reality",
+              "start_sample": 240600921,
+              "end_sample": 248089609,
+              "audio_sha256": "714ad842f4a724de4cc8caa662f4264c72fcc7ad4b68d1f9631a59dfdb9793c1",
+              "decoded_pcm_sha256": "a095f18a3065a14cd825002a5a84abbfde3b901113fdf67960558c0825bf7958"
+            },
+            {
+              "source": "reference/guilt-pressure.md",
+              "title": "Reference — Guilt-tripping & pressure through obligation",
+              "start_sample": 248089609,
+              "end_sample": 254979777,
+              "audio_sha256": "5cad2c56f49f89dcfff5eca623348f5c3d738b4f920a0481c05345104fca5372",
+              "decoded_pcm_sha256": "3d0e92f90cf804fbf779ded7e51aa58c227c60e201871d22120f1f8f4ebe4d5d"
+            },
+            {
+              "source": "reference/passive-aggression.md",
+              "title": "Reference — Indirect resistance & passive aggression",
+              "start_sample": 254979777,
+              "end_sample": 262114836,
+              "audio_sha256": "4f2884a69ea1c9cca73e917450cd5961237236d7880392540c3e3bb512de7161",
+              "decoded_pcm_sha256": "4e577bbee8c6369aeec30448d0c4d0d0cc47eba88255bc458e694f8a3affe311"
+            },
+            {
+              "source": "reference/interrupt.md",
+              "title": "Reference — Interrupting",
+              "start_sample": 262114836,
+              "end_sample": 269469566,
+              "audio_sha256": "d1f2937c96cd6f5e4cee9a6e9bb82cb6f1d190dbc2c83e13868835f3c9e834ff",
+              "decoded_pcm_sha256": "75ff3c30b08fc1876c197cb7b8134bf7f177b45802269c73a8a92613e4a15cc6"
+            },
+            {
+              "source": "reference/intimidation.md",
+              "title": "Reference — Intimidation & threats",
+              "start_sample": 269469566,
+              "end_sample": 276216804,
+              "audio_sha256": "0e025ddc3cf49087cbf45f44e7310610526044999658a4f0cddd3bcfc6e7b87c",
+              "decoded_pcm_sha256": "5fa2b6dcc93ddc8d3f8faafebd6365d0672638de2f9ad2617a47b09992221efa"
+            },
+            {
+              "source": "reference/thirdparty.md",
+              "title": "Reference — Involving a third person",
+              "start_sample": 276216804,
+              "end_sample": 283391796,
+              "audio_sha256": "d4d6408a6857f1eea70e3262212a05e3b837c846baa6ebf779d87a9fe6180a9a",
+              "decoded_pcm_sha256": "e25adad271f8cff6758277f5c3928133c6b7ec6a078d6e06f2ce1d528b27f6ea"
+            },
+            {
+              "source": "reference/listening.md",
+              "title": "Reference — Listening and checking understanding",
+              "start_sample": 283391796,
+              "end_sample": 289288266,
+              "audio_sha256": "06c4cd9cb5421095923b9760df6884643e08ee9c50b1369b97e08e8bdf87e7f6",
+              "decoded_pcm_sha256": "1c8f4f39fbc3701ded0b805ecd0fbfd94f267b1204f6561c0d705c903ab606e8"
+            },
+            {
+              "source": "reference/minimising.md",
+              "title": "Reference — Minimising harm or impact",
+              "start_sample": 289288266,
+              "end_sample": 295619319,
+              "audio_sha256": "3ea6db017a3c72cecd46c5500ea84195725489a5e93fa9af82947ab970ef8c2b",
+              "decoded_pcm_sha256": "399e8c4129cff40392a9a8ffac271964a2593b00d5959f8627a38387188ddd39"
+            },
+            {
+              "source": "reference/monitoring.md",
+              "title": "Reference — Monitoring & demands for access",
+              "start_sample": 295619319,
+              "end_sample": 301889385,
+              "audio_sha256": "b1c5e333d340349d736b9808f43c29b9cb257e4f4f7efb5a2b8229173b544cb8",
+              "decoded_pcm_sha256": "f97431268d26d27615604ee46a6b394db8ca345d3ea5febdbf9853214cd7b647"
+            },
+            {
+              "source": "reference/people-pleasing.md",
+              "title": "Reference — People-pleasing & automatic agreement",
+              "start_sample": 301889385,
+              "end_sample": 307937536,
+              "audio_sha256": "80efdeb5df8d4d73b7df2ca2d19e2c770ff838ed887e1952b0203471b282861a",
+              "decoded_pcm_sha256": "ff4f4e9679f8cc9a775224944085febe866da0eb9d223e25a577e635e8761fd8"
+            },
+            {
+              "source": "reference/possessiveness.md",
+              "title": "Reference — Possessiveness & demands for exclusivity",
+              "start_sample": 307937536,
+              "end_sample": 314763043,
+              "audio_sha256": "7200120a1ed655115da4deef6f5d89e7b879f69e50fbdaf9a115302aa79a57dc",
+              "decoded_pcm_sha256": "1b867dd5ad7af73224b257b27ca42cbcfa08afe2dcac8cccf05f2b956ae2cf61"
+            },
+            {
+              "source": "reference/repairing.md",
+              "title": "Reference — Repair after a misunderstanding",
+              "start_sample": 314763043,
+              "end_sample": 320934737,
+              "audio_sha256": "4e38ee6b4cf915fd9bec5c12be85e7e7246d49e5a239a24a958836cfb8a74ba1",
+              "decoded_pcm_sha256": "dd7ac84a17facb41f35c478d2e19ee383dd719266e4807c6e166bd1816360089"
+            },
+            {
+              "source": "reference/criticism.md",
+              "title": "Reference — Repeated criticism",
+              "start_sample": 320934737,
+              "end_sample": 327614805,
+              "audio_sha256": "1ee23f7454b073677763fde9e052cdc5d3fd05815272d6536e4e5d6e45a30117",
+              "decoded_pcm_sha256": "cac99520ddb3c3a988835af585e6bb6dbfb4167cdccbf25384f6c4c5f53023bd"
+            },
+            {
+              "source": "reference/reassurance.md",
+              "title": "Reference — Repeatedly asking for reassurance",
+              "start_sample": 327614805,
+              "end_sample": 334262571,
+              "audio_sha256": "de4c1c68619f75559ad0e57f6e0a5abc4b75de40f82f25e72e9c19c9b32110a3",
+              "decoded_pcm_sha256": "53f52c537269f2b897822c8a09e45a611eefa0d6439c9b35ccbbc267edb1b8bc"
+            },
+            {
+              "source": "reference/boundary-pushing.md",
+              "title": "Reference — Repeatedly pushing a stated limit",
+              "start_sample": 334262571,
+              "end_sample": 340810710,
+              "audio_sha256": "e0a0a98d6b4c01d3af4a601f3e9ba033306ba00b4e5564939455f9a4be0e1c83",
+              "decoded_pcm_sha256": "30bbbed5eb942247086e440d0e632ac728b12e99670316a1f47937c0fd3c5d3c"
+            },
+            {
+              "source": "reference/defensive.md",
+              "title": "Reference — Responding defensively",
+              "start_sample": 340810710,
+              "end_sample": 347097002,
+              "audio_sha256": "576ff48a87fa2f1d33a772fcffd4d9834901891dd9f5b4f0f958e54e362c17d2",
+              "decoded_pcm_sha256": "f5cecc48dc68951b5fffc4211384b1ddc08f615f0e1d520d69e2f3df35f6fbec"
+            },
+            {
+              "source": "reference/isolation.md",
+              "title": "Reference — Restricting contact with other people",
+              "start_sample": 347097002,
+              "end_sample": 353832350,
+              "audio_sha256": "605f46c345a46fc7f2bcf0866e536c4a02d913686c841ae51b97ae6c7510c29f",
+              "decoded_pcm_sha256": "86942cd5ec9295c0bcc4544c4de94b1d831060a6f3720c493b38228735a75bc9"
+            },
+            {
+              "source": "reference/coercive-patterns.md",
+              "title": "Reference — Restriction, monitoring & coercive patterns",
+              "start_sample": 353832350,
+              "end_sample": 360621849,
+              "audio_sha256": "2537598761d5b440910b66e4387b39ce09826fbe7a1736ca9d0198ec59571543",
+              "decoded_pcm_sha256": "bf69b22e5180af5abc6fa27f2bb91e279f5d3c3986b333fe54e96a7cd3dc138e"
+            },
+            {
+              "source": "reference/retaliation.md",
+              "title": "Reference — Retaliation after a refusal or complaint",
+              "start_sample": 360621849,
+              "end_sample": 367386561,
+              "audio_sha256": "04730eb767474355d3cd4f4d8a12b181efe06b6ca2da96d5819025e737afefb6",
+              "decoded_pcm_sha256": "b430cc98a82ce2aa52131509c04097fa2c53e0acf4594a1b06b4ba01b86357f8"
+            },
+            {
+              "source": "reference/blame-shifting.md",
+              "title": "Reference — Shifting responsibility",
+              "start_sample": 367386561,
+              "end_sample": 374032170,
+              "audio_sha256": "b6524ff0fdd909b53b27c3ef0d211f7d8d78858b47d377b8fac38b0c6833fd84",
+              "decoded_pcm_sha256": "e30f4fc7efc4c370a724ea791de667cc0aa3bb390dd5a664413341e266df6851"
+            },
+            {
+              "source": "reference/stonewalling.md",
+              "title": "Reference — Stonewalling, silence & an agreed pause",
+              "start_sample": 374032170,
+              "end_sample": 380561696,
+              "audio_sha256": "27139fbea3c816de53a8c6b95d7bb13d2f32f0bda6e106a1cd62b24fa55b2ce3",
+              "decoded_pcm_sha256": "a44105c9c3652baf24b30b8cf679509ac413edb46bafcd3b7cc61602078a2f7a"
+            },
+            {
+              "source": "reference/taking-credit.md",
+              "title": "Reference — Taking or withholding credit",
+              "start_sample": 380561696,
+              "end_sample": 387543648,
+              "audio_sha256": "15756d8a77edb7642f191d00f28b147c9701e2be8ce485d64b83f9366474bb0b",
+              "decoded_pcm_sha256": "5755431abd7000aab3678e63b8b4a03b4df8b3dfe33abc7b9e8843a8f22d29f4"
+            },
+            {
+              "source": "reference/over-responsibility.md",
+              "title": "Reference — Taking too much responsibility",
+              "start_sample": 387543648,
+              "end_sample": 394294434,
+              "audio_sha256": "dae5e5b5148856d97d2225360d315db4a67096ff28d280039e9f7d3c117d81e9",
+              "decoded_pcm_sha256": "aada572b884724408841c68febf8803f6509714ac76805ebe3e92da0b5ae4b01"
+            },
+            {
+              "source": "reference/withdraw.md",
+              "title": "Reference — Withdrawing from a conversation",
+              "start_sample": 394294434,
+              "end_sample": 401256506,
+              "audio_sha256": "1dd6c42846368eb434f5364df617006df22533b6fb8fb5e256d50c4b2ea9ae4d",
+              "decoded_pcm_sha256": "3773f7594a24194a1f1be53ae5eaf2af7b99511876f5d724088ca11776189779"
+            },
+            {
+              "source": "reference/belonging.md",
+              "title": "Reference — Belonging",
+              "start_sample": 401256506,
+              "end_sample": 407363385,
+              "audio_sha256": "b2bcbde431a94756f460e31378ab457868af3fb3aadcf12fc1680bbe6c0272cc",
+              "decoded_pcm_sha256": "907b7ecc53f4cbcea24b251461aab2a5973b22b5302b01fd745cf4a3de683d80"
+            },
+            {
+              "source": "reference/change-conditions.md",
+              "title": "Reference — Capability, opportunity & motivation",
+              "start_sample": 407363385,
+              "end_sample": 413559600,
+              "audio_sha256": "bc5a175dde55b9f87111bf784a755ccb2fc06d90de9a771a80a551a07964f080",
+              "decoded_pcm_sha256": "81497fd6aca9066f1403381ac62c8d9023be06241fc5473d3b6dbe8599168297"
+            },
+            {
+              "source": "reference/competing.md",
+              "title": "Reference — Competing goals",
+              "start_sample": 413559600,
+              "end_sample": 419708825,
+              "audio_sha256": "9a2db57e12d7bebefa3b966aeff362f139c991689d011743b0899dab73d5ee6d",
+              "decoded_pcm_sha256": "49af3d3ae6ddeac1d93088cbd612273a548292c4da5c1cc21b0e13308a85ce5e"
+            },
+            {
+              "source": "reference/fairness.md",
+              "title": "Reference — Fair treatment",
+              "start_sample": 419708825,
+              "end_sample": 426354196,
+              "audio_sha256": "244f8338c04a94614605a52f1fc43f63094cc95342e5fc6d3caa55e08c276a24",
+              "decoded_pcm_sha256": "fcd52c2db3c8aa483bf35ce76c10af10959bf009441b6b6eb84652642a037e1c"
+            },
+            {
+              "source": "reference/competence.md",
+              "title": "Reference — Feeling capable",
+              "start_sample": 426354196,
+              "end_sample": 432622292,
+              "audio_sha256": "718c040f41cfac6736eda3aa23e8d7c8a986bb8520cfdba98d58e39047e64414",
+              "decoded_pcm_sha256": "d00b722f6d90bad61776380c1d1b916ed46aa2156c679374ffae1be56b62ef81"
+            },
+            {
+              "source": "reference/security.md",
+              "title": "Reference — Feeling safe",
+              "start_sample": 432622292,
+              "end_sample": 438970709,
+              "audio_sha256": "3263a33f491292a7feb600680f5c5022ca59937ab8d22db5aa6cc95731c2eb54",
+              "decoded_pcm_sha256": "186d6ab94989a4046cc67cba4cb3c072ccdd55ec27432244660b4995ce92ec9d"
+            },
+            {
+              "source": "reference/autonomy.md",
+              "title": "Reference — Having a say",
+              "start_sample": 438970709,
+              "end_sample": 445395476,
+              "audio_sha256": "f2435c2c053a373c17dc5177ebbbada337e3211fe7a48fafe734785333dc3616",
+              "decoded_pcm_sha256": "0d96ed77bf61b40565006426165508feb2000540db1eaae8c393d25e26f4af00"
+            },
+            {
+              "source": "reference/motivation.md",
+              "title": "Reference — Motivation",
+              "start_sample": 445395476,
+              "end_sample": 451912088,
+              "audio_sha256": "096aad96fca444a91554aba0ab02afabe1ab5be23865cf8c98a08d7781a05fff",
+              "decoded_pcm_sha256": "be7fdee787927655f7181c9c71ad7dc38ec53b1e8293741037db10bb3d358aeb"
+            },
+            {
+              "source": "reference/status.md",
+              "title": "Reference — Recognition & status",
+              "start_sample": 451912088,
+              "end_sample": 458361667,
+              "audio_sha256": "fc40da0c706d2c516db1c8021fa6320a44291a92ae9b404a4d8eac991cfb1e88",
+              "decoded_pcm_sha256": "60e7a22292ed76fdf29ae36079b2d2b6dc9d8d2429f90cfc85d6945a22e78926"
+            },
+            {
+              "source": "reference/approval-seeking.md",
+              "title": "Reference — Seeking approval",
+              "start_sample": 458361667,
+              "end_sample": 464418677,
+              "audio_sha256": "4eae183935bff54e504145612c41d5b17d79b3e7292af6fd9d9470f263df6a17",
+              "decoded_pcm_sha256": "e6803e2453fe5f19a638973fd9231f5af09762fef4d7e343f5490c3d81913e9c"
+            },
+            {
+              "source": "reference/avoidconflict.md",
+              "title": "Reference — Trying to avoid conflict",
+              "start_sample": 464418677,
+              "end_sample": 470841403,
+              "audio_sha256": "e41761497a3fe0f10dc79ebba32f7aee8561e994c47f1a676c052dbfc858ce1e",
+              "decoded_pcm_sha256": "79cf59aefed309be0274935db04c8ef0baa3d422c61770a08fcaa8f51bbe7dfd"
+            },
+            {
+              "source": "reference/persuade.md",
+              "title": "Reference — Trying to persuade",
+              "start_sample": 470841403,
+              "end_sample": 477260542,
+              "audio_sha256": "8f793ed62fd7b35d87580f285d35f7b7feff1f889353ef4688c97940d0151dd4",
+              "decoded_pcm_sha256": "59571b838b68c98add3b524e387c21fb618d0965687c5c7a12f4c39d1151e0e3"
+            },
+            {
+              "source": "reference/protect.md",
+              "title": "Reference — Trying to protect",
+              "start_sample": 477260542,
+              "end_sample": 483811762,
+              "audio_sha256": "a5e0f4851ddb45dfa33114ff53b030b1f27ef3461bb4c1bfec7ba7b6513740b8",
+              "decoded_pcm_sha256": "92581d9a0e94e80917dc362c98700d6568490aa58fbf22038d7e8a1b7eed4095"
+            },
+            {
+              "source": "reference/punish.md",
+              "title": "Reference — Trying to punish",
+              "start_sample": 483811762,
+              "end_sample": 490297372,
+              "audio_sha256": "e484d5265763dbc14283459c90790fad6d9a8cdb81ff596a20af06e4d023dd1c",
+              "decoded_pcm_sha256": "fa6587b768d081a578b7ba09adbfef368d94bfc2d953a7206faea52d41ff19e8"
+            },
+            {
+              "source": "reference/maintainrole.md",
+              "title": "Reference — Trying to retain a role",
+              "start_sample": 490297372,
+              "end_sample": 496978841,
+              "audio_sha256": "fde13d6832385de8aee1cf50d6dba6a7fd6e3a4cfbb47c9e7b102f65f2da3934",
+              "decoded_pcm_sha256": "8206ae613400b266a8406807f5755c18a761c9238e5b9774c473bf10817ffa8a"
+            },
+            {
+              "source": "reference/agreeableness.md",
+              "title": "Reference — Agreeableness",
+              "start_sample": 496978841,
+              "end_sample": 503513809,
+              "audio_sha256": "0b2eecaa1abbaede91cfa5eec5bae50b4e603a59fbddc40a6f60ea63c5272a3a",
+              "decoded_pcm_sha256": "1e085ea420f7c5d8d78a1d747bdd6b08d9ab3bbe917fb0db2213fa2cd179d9da"
+            },
+            {
+              "source": "reference/conscientiousness.md",
+              "title": "Reference — Conscientiousness",
+              "start_sample": 503513809,
+              "end_sample": 509915918,
+              "audio_sha256": "1bbce31fa6022154ba07fc79bbcc52ea14e00e5d9e16b741dd9628423a0ec491",
+              "decoded_pcm_sha256": "81a8dea877a629466c3bf08894e5d54a10eb54723fd3dadb056b8f4506aab324"
+            },
+            {
+              "source": "reference/extraversion.md",
+              "title": "Reference — Extraversion",
+              "start_sample": 509915918,
+              "end_sample": 516165704,
+              "audio_sha256": "bc1ad491596e9e2bbc7c742df93c9eefea56ddee26030ec192c6fdd92ced6642",
+              "decoded_pcm_sha256": "b00847896a5ae7cc091b77b7e7e13174308819c262bc8712f0bb252fb44bd985"
+            },
+            {
+              "source": "reference/emotionality.md",
+              "title": "Reference — Negative emotionality",
+              "start_sample": 516165704,
+              "end_sample": 522900770,
+              "audio_sha256": "e6c98af51b14acdbdeb0c5d4061c9cd969a7b5014d1f00552e1270202c8d1e5d",
+              "decoded_pcm_sha256": "266df31177c55b62fa8b759e0b6cd52950c28b198a9890aaebb9a455c6ab152c"
+            },
+            {
+              "source": "reference/openness.md",
+              "title": "Reference — Open-mindedness / openness",
+              "start_sample": 522900770,
+              "end_sample": 529281199,
+              "audio_sha256": "73e6b8e3d3572b169b4c3fcedbd3d14eff253cd72cf47e42eec75a0fdd48ab69",
+              "decoded_pcm_sha256": "1e2bf204a8c3ab9162bb82a0e0b817a551eba7c9e5bf8fec545f02e1b20f8f60"
+            },
+            {
+              "source": "reference/reinforcement.md",
+              "title": "Reference — Consequences that sustain a pattern",
+              "start_sample": 529281199,
+              "end_sample": 535710851,
+              "audio_sha256": "859937edcee9a024ed0e15e61a718731de4d2584fb33217ea22560600df14484",
+              "decoded_pcm_sha256": "8c3d1b4254a65c14aaa5909e3261797404999317bd99a60569afbe1b1298d082"
+            },
+            {
+              "source": "reference/fear-rejection.md",
+              "title": "Reference — Fear of rejection",
+              "start_sample": 535710851,
+              "end_sample": 542123418,
+              "audio_sha256": "50452188ce2f474d430035bfbd4d7a741f8399856a6e60c17b2aaa33ca5f50b4",
+              "decoded_pcm_sha256": "b61acc3f2540b1c6ca66f33f38c7361da7d3a1cd67e12e7ad03def327655cc8f"
+            },
+            {
+              "source": "reference/habits.md",
+              "title": "Reference — Habits & situations",
+              "start_sample": 542123418,
+              "end_sample": 548403416,
+              "audio_sha256": "e1cead3bf08982d9aa25b21c799060800b0acee3150628d3749a36b9b54301df",
+              "decoded_pcm_sha256": "71f50dc236d5936e088f228f8f0399b4249430b88d44ad49dfd9e612437db8ff"
+            },
+            {
+              "source": "reference/jealousy.md",
+              "title": "Reference — Jealousy & what follows",
+              "start_sample": 548403416,
+              "end_sample": 554883463,
+              "audio_sha256": "9821841e19bddaec24106e32e4483dfb00113f356646c01a766c1a6e9ec797c5",
+              "decoded_pcm_sha256": "72b616631d3dbdc5c6563398abc8f34872a17a97b5cf915e18ef43f36e7ca558"
+            },
+            {
+              "source": "reference/learned.md",
+              "title": "Reference — Learned expectations",
+              "start_sample": 554883463,
+              "end_sample": 561414343,
+              "audio_sha256": "37babde4e96cda371a1faddad19a882498bdfebff1f69f68c6ae884ddac895b6",
+              "decoded_pcm_sha256": "17bc9e3d955ba939b0790a4b8103e86e2cc4c3beed1f4ac69bb585a467e11191"
+            },
+            {
+              "source": "reference/perfectionism.md",
+              "title": "Reference — Perfectionism & inflexible standards",
+              "start_sample": 561414343,
+              "end_sample": 567931254,
+              "audio_sha256": "406956888bc5be59520fe693a0b1d5c853930e9e4ffe8552fd7d636fe7e143f9",
+              "decoded_pcm_sha256": "1f785421546f404b00dd2a2bc605c4b276bcce5447182362f6a83ef19558e54c"
+            },
+            {
+              "source": "reference/stress.md",
+              "title": "Reference — Stress & overload",
+              "start_sample": 567931254,
+              "end_sample": 574570192,
+              "audio_sha256": "81e99bce246121466bcedd8aec24bb6a0f1cc069a8a40c5bf3e75021a8a8724f",
+              "decoded_pcm_sha256": "4e1e8510b3f4b318d2ef5b965723ebed0c97dc0858773a8529979c46c4b2af26"
+            },
+            {
+              "source": "reference/adolescence.md",
+              "title": "Reference — Adolescence: autonomy, peers & support",
+              "start_sample": 574570192,
+              "end_sample": 581264759,
+              "audio_sha256": "be9135e94d2fc96734eeb7c95a209503369673fd7d5071170d578487019792a1",
+              "decoded_pcm_sha256": "fbfd4c991f21b9a5a6d631360475244cc89778f072f76ed7ce0d1422da0f21b0"
+            },
+            {
+              "source": "reference/life-transitions.md",
+              "title": "Reference — Changing roles & life transitions",
+              "start_sample": 581264759,
+              "end_sample": 587937786,
+              "audio_sha256": "2272c0cb6819686cecb3d5cc7fb096282626fd33bd735d9c55839e3ed99e90c5",
+              "decoded_pcm_sha256": "575cc78be3f63d8ce73943ec08973d906c2ef0e77051c10418ae3809b935633d"
+            },
+            {
+              "source": "reference/child-development.md",
+              "title": "Reference — Children: ability, learning & expectations",
+              "start_sample": 587937786,
+              "end_sample": 594530898,
+              "audio_sha256": "d83c9a1c4f97f9bc84e36b848f50e5306fe59b08fe60deefa6fb543d2cec383b",
+              "decoded_pcm_sha256": "4a0a2e0278f1a970fc5c471c22e2c92bbf1a9cb1732fc967c720131e4690cd4d"
+            },
+            {
+              "source": "reference/context.md",
+              "title": "Reference — Culture & power",
+              "start_sample": 594530898,
+              "end_sample": 601183479,
+              "audio_sha256": "65252c498217d4890cab1ea17ad6f117875d7a693ac0b339be36419d1227be3c",
+              "decoded_pcm_sha256": "650689e8613dbbb2651dda023130e2db56f711481f1d8e827c58f929f9aa9a30"
+            },
+            {
+              "source": "reference/cultural-meanings.md",
+              "title": "Reference — Culture: meanings without stereotypes",
+              "start_sample": 601183479,
+              "end_sample": 607748150,
+              "audio_sha256": "8a898068e13f8291260281a322552d9c8ae0c62dcbdbbaf5c461d2659b54925a",
+              "decoded_pcm_sha256": "d1478498190566f6f61a737b2dab350e2f3cecb29b47dde4157603da6b2e410f"
+            },
+            {
+              "source": "reference/familynorms.md",
+              "title": "Reference — Family expectations",
+              "start_sample": 607748150,
+              "end_sample": 614124156,
+              "audio_sha256": "eb27bc9b32ebae0f2023d32c802cc799d63ef12ce051456ae08b72318efee992",
+              "decoded_pcm_sha256": "d49713ce7dafb91f6f8c802ba3a83a2d6a3d60dcb8ca63b678a8759f260aca48"
+            },
+            {
+              "source": "reference/grief.md",
+              "title": "Reference — Grief, loss & changing needs",
+              "start_sample": 614124156,
+              "end_sample": 620500119,
+              "audio_sha256": "57a17e50ec07faaa2e8400ffe303b5572eea865fb592f31c54ec1a00c4406591",
+              "decoded_pcm_sha256": "e1e7c47cc5c6fc128d7e79eb010b3c8fa79d03876dde7cf9e96589aad23de7ea"
+            },
+            {
+              "source": "reference/language-context.md",
+              "title": "Reference — Language, accent & communication context",
+              "start_sample": 620500119,
+              "end_sample": 627055709,
+              "audio_sha256": "268b082c1395d306ba5ea994659578813115eece5fa3415b0cab763a56521a03",
+              "decoded_pcm_sha256": "4b4715bd88808ee4cadcb580d9188525b3d85b13b89bfbf52d508f491203fdb1"
+            },
+            {
+              "source": "reference/later-life.md",
+              "title": "Reference — Later life: change without age stereotypes",
+              "start_sample": 627055709,
+              "end_sample": 633599891,
+              "audio_sha256": "293ac44251db993956002961a82dbf63579802eca448b57eb27beb42cc4c643a",
+              "decoded_pcm_sha256": "9d0b8e60b39fc092a52f4e3a36415cf6985d4ed760919bc7f7a258a698afa06f"
+            },
+            {
+              "source": "reference/low-mood.md",
+              "title": "Reference — Low mood, withdrawal & support",
+              "start_sample": 633599891,
+              "end_sample": 639878485,
+              "audio_sha256": "667b83b85b32f527748319e373b560f9ad4658866451043efe710cb15bb90fb4",
+              "decoded_pcm_sha256": "f44083cd46c002ceae764a08c6cc1bad4ccdfa17e72a5b077946e6cf4ca7e524"
+            },
+            {
+              "source": "reference/neurodiversity.md",
+              "title": "Reference — Neurodiversity & communication fit",
+              "start_sample": 639878485,
+              "end_sample": 646485612,
+              "audio_sha256": "18f88848f19202202b9ef0ffedc166784e824695151870c2402103c4f63980d0",
+              "decoded_pcm_sha256": "8b21a2dff25b5f4847fdd475379663186f6096d33f8f7c69f9b87014d279f6d8"
+            },
+            {
+              "source": "reference/health-change.md",
+              "title": "Reference — New changes in behaviour or functioning",
+              "start_sample": 646485612,
+              "end_sample": 653036525,
+              "audio_sha256": "b62df364bf43de795d273c4e3a5c7a785d06f6b9b072990c824c07eaa9bd602b",
+              "decoded_pcm_sha256": "fb22eae11f24ab9249cd464abde73eafc82bd50285b4756885fa8e7d21d262a1"
+            },
+            {
+              "source": "reference/history.md",
+              "title": "Reference — Relationship history",
+              "start_sample": 653036525,
+              "end_sample": 659628096,
+              "audio_sha256": "c8c82f289534aeb84db16db342d178ddb7a26e2830be09761a48bed10ee74605",
+              "decoded_pcm_sha256": "06bc284e29a6fb92ec4811154a53668916295ce49cac5f84f7606803cce18b52"
+            },
+            {
+              "source": "reference/structural-barriers.md",
+              "title": "Reference — Rules, exclusion & unequal access",
+              "start_sample": 659628096,
+              "end_sample": 666350970,
+              "audio_sha256": "8db79c56604f45197648fedc29d67cc7041b8cf959e9033589078a26396fb20a",
+              "decoded_pcm_sha256": "3c79b368621eaa7c75c3f21ff039d9ae72563c17745e3967746fc2be59be4bbe"
+            },
+            {
+              "source": "reference/capacity.md",
+              "title": "Reference — Time, resources & capacity",
+              "start_sample": 666350970,
+              "end_sample": 672858561,
+              "audio_sha256": "e19fd7043f9e62c8e1cd2d741a4df053ebc01147ad8e16230036ca146a5e5e5c",
+              "decoded_pcm_sha256": "7f2c4c4b77cf910487cf05ab981643c5aec516822965d36cbb4cf8024e1a91ca"
+            },
+            {
+              "source": "reference/trauma-context.md",
+              "title": "Reference — Trauma, reminders & present safety",
+              "start_sample": 672858561,
+              "end_sample": 679452885,
+              "audio_sha256": "f681b240913d6596940c9f1141f765c976e1c40ff1044227adb9658a72681ea3",
+              "decoded_pcm_sha256": "e662b036a9d8fddb8a410a96d6baccfd44f45e4f73c48e9d996e72a45a678caa"
+            },
+            {
+              "source": "reference/power.md",
+              "title": "Reference — Unequal power",
+              "start_sample": 679452885,
+              "end_sample": 686231002,
+              "audio_sha256": "dc437aace15cd0ea9b44f6f2695163a0130270996c8a9fee775ea417eca2bfd1",
+              "decoded_pcm_sha256": "4555c49128e68c97090e959d7a70908ec8dcd99a94179d525a19aa721adf5797"
+            },
+            {
+              "source": "reference/audience.md",
+              "title": "Reference — Who else is present",
+              "start_sample": 686231002,
+              "end_sample": 692815114,
+              "audio_sha256": "1c638ed2a8770642e878e8967c50464653793621f5ffd5e5df5801340fecfff1",
+              "decoded_pcm_sha256": "05e4e0b6acee1c2bc7b48779d8af2266756a8713ee05a458f19a00f908471cb5"
+            },
+            {
+              "source": "reference/anxiety-patterns.md",
+              "title": "Reference — Worry, avoidance & reassurance",
+              "start_sample": 692815114,
+              "end_sample": 699584489,
+              "audio_sha256": "c324c255efc444695e117876dd16184bc2aec13996d50c638de3900dff4a78db",
+              "decoded_pcm_sha256": "a0c9ec159493204e7dc5d73cb32d8a0cd16e1d4ca69f4f3f53a80b732a06f9bd"
+            },
+            {
+              "source": "reference/boundaries.md",
+              "title": "Reference — Boundaries",
+              "start_sample": 699584489,
+              "end_sample": 705770663,
+              "audio_sha256": "5c57ffc2fe65d9e4eeaed7f9cc230b1faa7d143f879c75aca47d9187255a9654",
+              "decoded_pcm_sha256": "f7a63c95493491a954f95dc2560d167ee35a3b96b31c2190a8064b62fedbb4e0"
+            },
+            {
+              "source": "reference/alternatives.md",
+              "title": "Reference — Compare explanations",
+              "start_sample": 705770663,
+              "end_sample": 712431704,
+              "audio_sha256": "0f94123d783851fe9f527b9b4245346b582e41b3e09102f087b56ce755423f40",
+              "decoded_pcm_sha256": "20b5b53d0dcb8ccdfdc77db656e418bb34c53ae366f9fa0f225cd9d557c00007"
+            },
+            {
+              "source": "reference/getting-support.md",
+              "title": "Reference — Getting support without needing a label",
+              "start_sample": 712431704,
+              "end_sample": 718993256,
+              "audio_sha256": "34412fd423e3334820e1851deab2a9b95532354c283a464213d55ea4e9a35c17",
+              "decoded_pcm_sha256": "970302026f222825d2779048f81559246bd214e72ff0885c32b2222d9417e056"
+            },
+            {
+              "source": "reference/clearrequest.md",
+              "title": "Reference — Make a clear request",
+              "start_sample": 718993256,
+              "end_sample": 725251404,
+              "audio_sha256": "f4bba3ff7840e247b8554dadd424196cec8cf313846d5eb9ac289fa2c4635a5a",
+              "decoded_pcm_sha256": "d6e67913d62f86bf0eb2a82d954cdd31891ece1a672ad54f0dbd999cb9545936"
+            },
+            {
+              "source": "reference/shared-agreement.md",
+              "title": "Reference — Make a workable agreement",
+              "start_sample": 725251404,
+              "end_sample": 731863967,
+              "audio_sha256": "e34f9b71fe3fada50094e5beaba41ed7468ba9dae9d1527a8f1242894bc7df7c",
+              "decoded_pcm_sha256": "49c49c8dbae3aa9ceb4702ad749134d1f0980aa56b0a915e57a8500a49af2f3d"
+            },
+            {
+              "source": "reference/appreciation.md",
+              "title": "Reference — Notice what helps",
+              "start_sample": 731863967,
+              "end_sample": 738288966,
+              "audio_sha256": "72fd9dbb1af41435483092c8478e39f31696f4ef8f81023b33f984aee6a64b82",
+              "decoded_pcm_sha256": "f95700dcd5103b9839332f0abd11957d841991168a7081aef9e68cccfed88318"
+            },
+            {
+              "source": "reference/reciprocity.md",
+              "title": "Reference — Reciprocity & mutual consideration",
+              "start_sample": 738288966,
+              "end_sample": 745038005,
+              "audio_sha256": "eaa14f236ce43a1c0555bd1a20a0d865db7634478a88f77e7a4adf4c9d058568",
+              "decoded_pcm_sha256": "2b425c0e2d1438720200392193f4f65e7b04614d4a8f541ae47329880dc8123e"
+            },
+            {
+              "source": "reference/review.md",
+              "title": "Reference — Review what happened",
+              "start_sample": 745038005,
+              "end_sample": 751158778,
+              "audio_sha256": "10a25858c9b8402dbc37618741955ab3508dd88bdce658a9d4a01643f918286f",
+              "decoded_pcm_sha256": "3b930257c8f7498bbbd7a97d370eb2b965089b7b9977b7706ef8f662983193af"
+            },
+            {
+              "source": "reference/encouragement.md",
+              "title": "Reference — Support someone’s next step",
+              "start_sample": 751158778,
+              "end_sample": 757659033,
+              "audio_sha256": "9642c52c729e77ab6a7204c4fad311f1b67abfb6bf0cd72882d1242056a3fcab",
+              "decoded_pcm_sha256": "e8d72be428a7a8ab8a31e40aea3ef98dd82c6446e550bbc843d27181af4c9d91"
+            },
+            {
+              "source": "reference/accountability.md",
+              "title": "Reference — Taking responsibility & making corrections",
+              "start_sample": 757659033,
+              "end_sample": 764262926,
+              "audio_sha256": "be75c264482874e02d3fa18e120389adb7fbf0d77e48a59d6242f7c0232bff6c",
+              "decoded_pcm_sha256": "83f628cc6c61ed20995fec162341ab7e0a9b5f9957fb52aad487ae62f1dda890"
+            },
+            {
+              "source": "reference/pd-antisocial.md",
+              "title": "Reference — Antisocial personality disorder",
+              "start_sample": 764262926,
+              "end_sample": 770531443,
+              "audio_sha256": "ed81d1a99ab1daf3a79e869b0f978173ef514c56ef5e9e4417ef75b8d634f2a1",
+              "decoded_pcm_sha256": "a95676b1ec48559ffee29158f6687ea93c91de7bf1454931d366f6dbf6f3271d"
+            },
+            {
+              "source": "reference/pd-avoidant.md",
+              "title": "Reference — Avoidant personality disorder",
+              "start_sample": 770531443,
+              "end_sample": 777007160,
+              "audio_sha256": "84435b808c9bb632c38999d731c0e75eac7e550710440e63e0df81aa43ba9d59",
+              "decoded_pcm_sha256": "263f35bf39b0e0bcac4d3a9ad0278d05679ab97eac50a09dda8d0fcf1528200e"
+            },
+            {
+              "source": "reference/pd-borderline.md",
+              "title": "Reference — Borderline personality disorder (BPD)",
+              "start_sample": 777007160,
+              "end_sample": 783333357,
+              "audio_sha256": "d2bcf8bd38ae8c59ea85a7920550058a20226154d78c43b798085ed9ce270307",
+              "decoded_pcm_sha256": "0cfaa272cdf84d9c374eba9b2594afc42e1168b2a5167b246122e6d9578cea5d"
+            },
+            {
+              "source": "reference/pd-dependent.md",
+              "title": "Reference — Dependent personality disorder",
+              "start_sample": 783333357,
+              "end_sample": 789955926,
+              "audio_sha256": "2c4ead0cda5be9fe196862fa39c24d56b51d6bc90eb4a5b1ae583fbe5c1638bf",
+              "decoded_pcm_sha256": "6e5865feb0a0027a399aa56f04babc06528e33dad88185d40c338919779a793c"
+            },
+            {
+              "source": "reference/pd-histrionic.md",
+              "title": "Reference — Histrionic personality disorder",
+              "start_sample": 789955926,
+              "end_sample": 796363495,
+              "audio_sha256": "5dd73b63929c98b8da19e539356b652a595337d000b44ee91adb21e15e2b7d46",
+              "decoded_pcm_sha256": "5fd48735ff21755b7d70c9ada5be1f0fb59a4d0201f17c479b0de20660dd201d"
+            },
+            {
+              "source": "reference/pd-narcissistic.md",
+              "title": "Reference — Narcissistic personality disorder (NPD)",
+              "start_sample": 796363495,
+              "end_sample": 802960411,
+              "audio_sha256": "30b62f53b3092765d5dde91ef974acbda9c7dd9773051362cd2472e919a21c20",
+              "decoded_pcm_sha256": "5b5d151666c3472bdd56b1a7259c577fe07b46aff3965e9224366d5f204d2b78"
+            },
+            {
+              "source": "reference/ocd.md",
+              "title": "Reference — Obsessive-compulsive disorder (OCD)",
+              "start_sample": 802960411,
+              "end_sample": 809459279,
+              "audio_sha256": "027367a13d08442353a9115556cb87c4d274d508df15103377f4e59b87225e87",
+              "decoded_pcm_sha256": "96c5dd9b0bd401ff984ccb45f3644b4aef56c14b8096d452d0dbf81f7b694fb4"
+            },
+            {
+              "source": "reference/pd-ocpd.md",
+              "title": "Reference — Obsessive-compulsive personality disorder (OCPD)",
+              "start_sample": 809459279,
+              "end_sample": 816002813,
+              "audio_sha256": "8284e439fd75c20f9d2f46e0443f940593f562038390307d1c5be4e10080926e",
+              "decoded_pcm_sha256": "25aaa672468d6b71f517a6b93743acbfd20f8064847d4360d0945343bea6fd00"
+            },
+            {
+              "source": "reference/pd-paranoid.md",
+              "title": "Reference — Paranoid personality disorder",
+              "start_sample": 816002813,
+              "end_sample": 822615804,
+              "audio_sha256": "7fa25d690ec181122dfac1a89def69be79ed5c293f26492790b007036910bcf3",
+              "decoded_pcm_sha256": "1876e07fed8d12332a5d8d5156976785496dc830ae90365809513cb5df2c6b21"
+            },
+            {
+              "source": "reference/personality-disorders.md",
+              "title": "Reference — Personality disorders: what the term means",
+              "start_sample": 822615804,
+              "end_sample": 829361612,
+              "audio_sha256": "f4ed4c8856ee7ec898a400ad508f161cdc73a54ad262b4cfaead369cccd22800",
+              "decoded_pcm_sha256": "b5a07739ce1a04b34057cfef2977fcc542209914b1be7f81b6984689743c6104"
+            },
+            {
+              "source": "reference/pd-schizoid.md",
+              "title": "Reference — Schizoid personality disorder",
+              "start_sample": 829361612,
+              "end_sample": 835735962,
+              "audio_sha256": "017bc81893caa2bc40d9fae2fecf7784aba7f36e845662d82be06bbaa22c63a5",
+              "decoded_pcm_sha256": "a521814a5522da892bfdb0e93ae5110f2bf5adb549999bfc579979f71d1548dc"
+            },
+            {
+              "source": "reference/pd-schizotypal.md",
+              "title": "Reference — Schizotypal personality disorder",
+              "start_sample": 835735962,
+              "end_sample": 842293193,
+              "audio_sha256": "e5ab3fc91b199d2d8b439b9b75f5748c84e168fa650b0546fc750e533a603495",
+              "decoded_pcm_sha256": "71dbe27aa8e46d652fbd946a10a8fddc662b0dd61068cfc6bbe39171326de706"
+            },
+            {
+              "source": "contents.md",
+              "title": "Guide — Contents & reading routes",
+              "start_sample": 842293193,
+              "end_sample": 847085858,
+              "audio_sha256": "14d254462bc5ef51b2df65cef3c5a71fb2f24a7956d3c64a6c52e028ff5380f0",
+              "decoded_pcm_sha256": "1571640bf437fb4e08df80e0dcee07f45416671095765907da1105679e870095"
+            },
+            {
+              "source": "how-to-use.md",
+              "title": "Guide — How to use this book",
+              "start_sample": 847085858,
+              "end_sample": 852959732,
+              "audio_sha256": "8562e639f7393d4e16fc959784515cfd427e8fa056501309c48d9322612698c1",
+              "decoded_pcm_sha256": "55dbe38766372e62b1258fdcf44dc6fca6e793d4cae1857c4ecb8f4af06d0327"
+            },
+            {
+              "source": "evidence.md",
+              "title": "Guide — How we use evidence",
+              "start_sample": 852959732,
+              "end_sample": 860151592,
+              "audio_sha256": "08f056f1aa2b3366d3162308bf6326ad72dff8c0df0ad40367cdd05ffcd20515",
+              "decoded_pcm_sha256": "79b3f953cbce6e13f2feb6558b46096eb9cf14a9848ed09ec16d0e1ff0339c4a"
+            },
+            {
+              "source": "reference/index.md",
+              "title": "Guide — Reference library",
+              "start_sample": 860151592,
+              "end_sample": 865041530,
+              "audio_sha256": "879619bad3fbf82a5531975fb2f2ec38587d29c5fd0508eb027538eb095899b8",
+              "decoded_pcm_sha256": "04933c367f4f4b8cad3df27a7c924a30da2cda8bcb67dc996119d4d813f20e55"
+            },
+            {
+              "source": "reference/sources.md",
+              "title": "Guide — Research sources for the reference library",
+              "start_sample": 865041530,
+              "end_sample": 870151273,
+              "audio_sha256": "463f4a75e659b3a9a58be0b6aaa41cbeb8ef83c9ded24b66924e6e8244554f6c",
+              "decoded_pcm_sha256": "cc99f985347ad62063297124dc374978ae315f852c70fd212d22c263f457b412"
+            },
+            {
+              "source": "practice/index.md",
+              "title": "Guide — Practice",
+              "start_sample": 870151273,
+              "end_sample": 873775849,
+              "audio_sha256": "26cbf973c7edfbb005300df0291ecdf49819ca221993a9b974c79a70284691d2",
+              "decoded_pcm_sha256": "c858e5fe08b1e6c94ef7e99fcde44a4e52f6a382b396f578db635d5c5f5a6596"
+            },
+            {
+              "source": "worksheet.md",
+              "title": "Guide — Situation worksheet",
+              "start_sample": 873775849,
+              "end_sample": 879175405,
+              "audio_sha256": "bd92b7504c6e2e3389e7bdcdc5007d5e07f6afe3d961a930c809fd11e0d1fcb6",
+              "decoded_pcm_sha256": "38551044280ba9d80c6d2c7e6a41f7f3355d8d98630c40597abb30363f670cab"
+            },
+            {
+              "source": "support.md",
+              "title": "Guide — When to seek other help",
+              "start_sample": 879175405,
+              "end_sample": 884234581,
+              "audio_sha256": "ff07290e37d406d371cc2d0b446c524990f4da7d9b68738f39961d31241480b3",
+              "decoded_pcm_sha256": "9314f7205ff50837aff6f83497e9908ba2ae0b9793cdbb4866342b5b0b1d85cb"
+            },
+            {
+              "source": "glossary.md",
+              "title": "Guide — Glossary",
+              "start_sample": 884234581,
+              "end_sample": 892166312,
+              "audio_sha256": "68d7f443c48bd65222004949c36ceeb95b9edd3c61940765101a89efdfd96fb8",
+              "decoded_pcm_sha256": "57457562d501b07f204ed6d0799f054cc162bcc04da05f09c62b5e4ad15eede8"
+            },
+            {
+              "source": "references.md",
+              "title": "Guide — Sources & further reading",
+              "start_sample": 892166312,
+              "end_sample": 897415012,
+              "audio_sha256": "a05221f98288457c81f3af3caad635fac1213669e61fadc218a762bb063a339c",
+              "decoded_pcm_sha256": "afbcab49885d8943ea76c3cabe25ea894f47ef6bfc5893aba44ff6e015366c02"
+            },
+            {
+              "source": "about.md",
+              "title": "Guide — About the book & author",
+              "start_sample": 897415012,
+              "end_sample": 900678565,
+              "audio_sha256": "52c0ea7b61c910d356253f86578972f8fb474ca8a11a191a569ba20fd17129a4",
+              "decoded_pcm_sha256": "eef74702f7c7e7d2a7408bd8d7dfc924ed9801f6a8de423b75538b504e2dd1c4"
+            }
+          ],
+          "codec": "AAC-LC",
+          "sample_rate": 24000,
+          "channels": 1,
+          "bitrate": 80000,
+          "url": "https://github.com/snowch/understanding-people/releases/download/audiobooks-2026-11-07/understanding-people-complete-andrew.m4b"
+        }
+      }
+    },
+    "jenny": {
+      "voice": "en-US-JennyNeural",
+      "narration_manifest_sha256": "5e287b161281f0033052a2993c102113f6864a5155d5229bc3714bafb59b4b35",
+      "editions": {
+        "course": {
+          "filename": "understanding-people-course-jenny.m4b",
+          "bytes": 43856558,
+          "sha256": "84a4158308ee7d16f156c824a59f0cd0d8f385b4ceb922634349006be3ea76f8",
+          "duration": 4443.539,
+          "chapter_count": 14,
+          "chapters": [
+            {
+              "source": "book.md",
+              "title": "Introduction",
+              "start_sample": 0,
+              "end_sample": 6153485,
+              "audio_sha256": "b84c4cd9be6d6cf9d5c1b55cdb5ee509e5174fee19bd6c8eaec8b3046e5ef095",
+              "decoded_pcm_sha256": "9fcfa389e75ad9fc5bdab26abdb1c54c6ecdbb173cfec830020d2d8895144300"
+            },
+            {
+              "source": "chapters/01-before-you-explain.md",
+              "title": "01. Why we misinterpret people",
+              "start_sample": 6153485,
+              "end_sample": 13554702,
+              "audio_sha256": "a7cff1948b5cebabf1a3d2f8dd4426cd43807eaa2d8075a8db7fd3d258af851b",
+              "decoded_pcm_sha256": "aae81f9e14085bd1a56b2ee592bf688fb98e9ec44490e567840d13388fb0d493"
+            },
+            {
+              "source": "chapters/02-what-counts-as-knowing.md",
+              "title": "02. What counts as knowing?",
+              "start_sample": 13554702,
+              "end_sample": 21103805,
+              "audio_sha256": "1965379426ad09bc6e3c014fa56981c03778809ce35bfcde09381d74ee975e42",
+              "decoded_pcm_sha256": "12a3f05778cc353b099af2939523760f64921d7034228f7ca6685eed391dccf0"
+            },
+            {
+              "source": "chapters/03-needs-motives-goals.md",
+              "title": "03. Needs, motives and competing goals",
+              "start_sample": 21103805,
+              "end_sample": 28942528,
+              "audio_sha256": "ebd4bc2b8bf03ee919c7895115248e68d29593530d06eacd2c64832d5096ac6e",
+              "decoded_pcm_sha256": "b48ebd85001a14424a0c53a98ab391a70ca2dc874ec5cfb3f86effb608e02503"
+            },
+            {
+              "source": "chapters/04-beliefs-identity-history.md",
+              "title": "04. Beliefs, identity and personal history",
+              "start_sample": 28942528,
+              "end_sample": 36364080,
+              "audio_sha256": "2d3fada6cb7be22089c7851d256e50bde6ad4255148d0316b9dfe12b7fbfa5f3",
+              "decoded_pcm_sha256": "d4aefa3728ee70821834fed15bd59cb48938f5533803a16ea4b8b6b274a0b2e1"
+            },
+            {
+              "source": "chapters/05-emotion-stress-coping.md",
+              "title": "05. Emotion, stress and coping",
+              "start_sample": 36364080,
+              "end_sample": 44120325,
+              "audio_sha256": "d72419fdc6d0fbf4f4b898e4711fd856e056a92baef8454b8d357e84caa82600",
+              "decoded_pcm_sha256": "5a3dd635362d54f4a85eaa67fa6ab52bdfdb4c442d9f064553e1f0056c22896f"
+            },
+            {
+              "source": "chapters/06-personality-habits-situations.md",
+              "title": "06. Personality, habits and situations",
+              "start_sample": 44120325,
+              "end_sample": 52003742,
+              "audio_sha256": "997f6293aaf56e1257aea0624263b7d5a6ce3a42d56bc5786d882686eb3225e7",
+              "decoded_pcm_sha256": "0f94a574a32a4f190d51337b1fcfd8c5aec9965d7bb75e1eab02edd963bf6fe3"
+            },
+            {
+              "source": "chapters/07-culture-groups-power.md",
+              "title": "07. Culture, groups and power",
+              "start_sample": 52003742,
+              "end_sample": 60135486,
+              "audio_sha256": "f141b7688854f01ccc564cf836b8573c063bbfca974457231f34d333bf9094b6",
+              "decoded_pcm_sha256": "52241c233dbf307da99815ce82cad1695bc249961ae659cdb477a302009eaae5"
+            },
+            {
+              "source": "chapters/08-questions-listening-disagreement.md",
+              "title": "08. Questions, listening and disagreement",
+              "start_sample": 60135486,
+              "end_sample": 68071742,
+              "audio_sha256": "fae76d9ec8ddd39a81bdfa3964ff96ff79231f3e299d8cb5dfb90f0f3c281a4a",
+              "decoded_pcm_sha256": "f77ad7ea6e0b4c791d0d87c85161e51a5a69d063832332f4a1a2261d7c4faf09"
+            },
+            {
+              "source": "chapters/09-truth-lies-uncertainty.md",
+              "title": "09. Truth, lies and uncertainty",
+              "start_sample": 68071742,
+              "end_sample": 75763535,
+              "audio_sha256": "fb39b155f3828aa2fcf045e494727d72e2f3121d49959b58a96e5feeb2002108",
+              "decoded_pcm_sha256": "53dd3127c9663b2f6753f086c728846493ff5df95b98a433124a4d5f408aa188"
+            },
+            {
+              "source": "chapters/10-motivation-influence-cooperation.md",
+              "title": "10. Motivation, influence and cooperation",
+              "start_sample": 75763535,
+              "end_sample": 83720773,
+              "audio_sha256": "2f44abbbae5496805ecb13ba9debebeb24fc6906d75d3d4f094c88e3135599ae",
+              "decoded_pcm_sha256": "636212067c6f6414da81b1bae89da458cc93be14a603c9e7faaf2316984ac9a4"
+            },
+            {
+              "source": "chapters/11-conflict-manipulation-boundaries.md",
+              "title": "11. Conflict, manipulation and boundaries",
+              "start_sample": 83720773,
+              "end_sample": 92344887,
+              "audio_sha256": "516759e7bdd4b667426fc47f65c619fc837924e85c245cd27516e10f2e296b73",
+              "decoded_pcm_sha256": "24e440f42d6c78997f34e0f9e1750c775ed9be7df1d76d324aa98117390848d8"
+            },
+            {
+              "source": "chapters/12-putting-understanding-to-work.md",
+              "title": "12. Putting understanding to work",
+              "start_sample": 92344887,
+              "end_sample": 100227747,
+              "audio_sha256": "02f5c787dea94c80ce9aecc9f01701c337c602faeb3921ccd4d3f58ff81742db",
+              "decoded_pcm_sha256": "b51c2e6c8a7470f688daf276c7227b27b012202142432f38b2ebee6a3aee378c"
+            },
+            {
+              "source": "conclusion.md",
+              "title": "Conclusion — What to take with you",
+              "start_sample": 100227747,
+              "end_sample": 106644931,
+              "audio_sha256": "2c70a9e625001033ba06f7f3083ef970e8bfe35b600d99b6b9ee14029e455d75",
+              "decoded_pcm_sha256": "284b5a1af15777df36cd9044e0986dad552d3b506017eac8428da6472f057110"
+            }
+          ],
+          "codec": "AAC-LC",
+          "sample_rate": 24000,
+          "channels": 1,
+          "bitrate": 80000,
+          "url": "https://github.com/snowch/understanding-people/releases/download/audiobooks-2026-11-07/understanding-people-course-jenny.m4b"
+        },
+        "complete": {
+          "filename": "understanding-people-complete-jenny.m4b",
+          "bytes": 358678542,
+          "sha256": "dfbbaaeabe0d71f08eb83acbfe1e50d6e05cc86976535521c90ed9a4a2b5cead",
+          "duration": 36172.783,
+          "chapter_count": 136,
+          "chapters": [
+            {
+              "source": "book.md",
+              "title": "Introduction",
+              "start_sample": 0,
+              "end_sample": 6153485,
+              "audio_sha256": "b84c4cd9be6d6cf9d5c1b55cdb5ee509e5174fee19bd6c8eaec8b3046e5ef095",
+              "decoded_pcm_sha256": "9fcfa389e75ad9fc5bdab26abdb1c54c6ecdbb173cfec830020d2d8895144300"
+            },
+            {
+              "source": "chapters/01-before-you-explain.md",
+              "title": "01. Why we misinterpret people",
+              "start_sample": 6153485,
+              "end_sample": 13554702,
+              "audio_sha256": "a7cff1948b5cebabf1a3d2f8dd4426cd43807eaa2d8075a8db7fd3d258af851b",
+              "decoded_pcm_sha256": "aae81f9e14085bd1a56b2ee592bf688fb98e9ec44490e567840d13388fb0d493"
+            },
+            {
+              "source": "chapters/02-what-counts-as-knowing.md",
+              "title": "02. What counts as knowing?",
+              "start_sample": 13554702,
+              "end_sample": 21103805,
+              "audio_sha256": "1965379426ad09bc6e3c014fa56981c03778809ce35bfcde09381d74ee975e42",
+              "decoded_pcm_sha256": "12a3f05778cc353b099af2939523760f64921d7034228f7ca6685eed391dccf0"
+            },
+            {
+              "source": "chapters/03-needs-motives-goals.md",
+              "title": "03. Needs, motives and competing goals",
+              "start_sample": 21103805,
+              "end_sample": 28942528,
+              "audio_sha256": "ebd4bc2b8bf03ee919c7895115248e68d29593530d06eacd2c64832d5096ac6e",
+              "decoded_pcm_sha256": "b48ebd85001a14424a0c53a98ab391a70ca2dc874ec5cfb3f86effb608e02503"
+            },
+            {
+              "source": "chapters/04-beliefs-identity-history.md",
+              "title": "04. Beliefs, identity and personal history",
+              "start_sample": 28942528,
+              "end_sample": 36364080,
+              "audio_sha256": "2d3fada6cb7be22089c7851d256e50bde6ad4255148d0316b9dfe12b7fbfa5f3",
+              "decoded_pcm_sha256": "d4aefa3728ee70821834fed15bd59cb48938f5533803a16ea4b8b6b274a0b2e1"
+            },
+            {
+              "source": "chapters/05-emotion-stress-coping.md",
+              "title": "05. Emotion, stress and coping",
+              "start_sample": 36364080,
+              "end_sample": 44120325,
+              "audio_sha256": "d72419fdc6d0fbf4f4b898e4711fd856e056a92baef8454b8d357e84caa82600",
+              "decoded_pcm_sha256": "5a3dd635362d54f4a85eaa67fa6ab52bdfdb4c442d9f064553e1f0056c22896f"
+            },
+            {
+              "source": "chapters/06-personality-habits-situations.md",
+              "title": "06. Personality, habits and situations",
+              "start_sample": 44120325,
+              "end_sample": 52003742,
+              "audio_sha256": "997f6293aaf56e1257aea0624263b7d5a6ce3a42d56bc5786d882686eb3225e7",
+              "decoded_pcm_sha256": "0f94a574a32a4f190d51337b1fcfd8c5aec9965d7bb75e1eab02edd963bf6fe3"
+            },
+            {
+              "source": "chapters/07-culture-groups-power.md",
+              "title": "07. Culture, groups and power",
+              "start_sample": 52003742,
+              "end_sample": 60135486,
+              "audio_sha256": "f141b7688854f01ccc564cf836b8573c063bbfca974457231f34d333bf9094b6",
+              "decoded_pcm_sha256": "52241c233dbf307da99815ce82cad1695bc249961ae659cdb477a302009eaae5"
+            },
+            {
+              "source": "chapters/08-questions-listening-disagreement.md",
+              "title": "08. Questions, listening and disagreement",
+              "start_sample": 60135486,
+              "end_sample": 68071742,
+              "audio_sha256": "fae76d9ec8ddd39a81bdfa3964ff96ff79231f3e299d8cb5dfb90f0f3c281a4a",
+              "decoded_pcm_sha256": "f77ad7ea6e0b4c791d0d87c85161e51a5a69d063832332f4a1a2261d7c4faf09"
+            },
+            {
+              "source": "chapters/09-truth-lies-uncertainty.md",
+              "title": "09. Truth, lies and uncertainty",
+              "start_sample": 68071742,
+              "end_sample": 75763535,
+              "audio_sha256": "fb39b155f3828aa2fcf045e494727d72e2f3121d49959b58a96e5feeb2002108",
+              "decoded_pcm_sha256": "53dd3127c9663b2f6753f086c728846493ff5df95b98a433124a4d5f408aa188"
+            },
+            {
+              "source": "chapters/10-motivation-influence-cooperation.md",
+              "title": "10. Motivation, influence and cooperation",
+              "start_sample": 75763535,
+              "end_sample": 83720773,
+              "audio_sha256": "2f44abbbae5496805ecb13ba9debebeb24fc6906d75d3d4f094c88e3135599ae",
+              "decoded_pcm_sha256": "636212067c6f6414da81b1bae89da458cc93be14a603c9e7faaf2316984ac9a4"
+            },
+            {
+              "source": "chapters/11-conflict-manipulation-boundaries.md",
+              "title": "11. Conflict, manipulation and boundaries",
+              "start_sample": 83720773,
+              "end_sample": 92344887,
+              "audio_sha256": "516759e7bdd4b667426fc47f65c619fc837924e85c245cd27516e10f2e296b73",
+              "decoded_pcm_sha256": "24e440f42d6c78997f34e0f9e1750c775ed9be7df1d76d324aa98117390848d8"
+            },
+            {
+              "source": "chapters/12-putting-understanding-to-work.md",
+              "title": "12. Putting understanding to work",
+              "start_sample": 92344887,
+              "end_sample": 100227747,
+              "audio_sha256": "02f5c787dea94c80ce9aecc9f01701c337c602faeb3921ccd4d3f58ff81742db",
+              "decoded_pcm_sha256": "b51c2e6c8a7470f688daf276c7227b27b012202142432f38b2ebee6a3aee378c"
+            },
+            {
+              "source": "conclusion.md",
+              "title": "Conclusion — What to take with you",
+              "start_sample": 100227747,
+              "end_sample": 106644931,
+              "audio_sha256": "2c70a9e625001033ba06f7f3083ef970e8bfe35b600d99b6b9ee14029e455d75",
+              "decoded_pcm_sha256": "284b5a1af15777df36cd9044e0986dad552d3b506017eac8428da6472f057110"
+            },
+            {
+              "source": "reference/confirmation-bias.md",
+              "title": "Reference — Confirmation bias",
+              "start_sample": 106644931,
+              "end_sample": 115052687,
+              "audio_sha256": "ab7b2e06015e4e49208b77dc8b05e13fe94b06022d3baae7a10d7ed5f33cefdd",
+              "decoded_pcm_sha256": "918cbba67eae4ccb4dc10dce906bb4543f6b5dd2eedfef109314a6c5fbc4ca80"
+            },
+            {
+              "source": "reference/correspondence-bias.md",
+              "title": "Reference — Correspondence bias",
+              "start_sample": 115052687,
+              "end_sample": 122696769,
+              "audio_sha256": "37d2a2e6531e3697de7aec493520b1208222fbd45b3280e04bd0013628cdcd57",
+              "decoded_pcm_sha256": "9d106b8891c86231799d72b5eef311e6c5e66ac4a0657f2a61c1ed0362d19d0c"
+            },
+            {
+              "source": "reference/identity.md",
+              "title": "Reference — Identity & beliefs",
+              "start_sample": 122696769,
+              "end_sample": 128329236,
+              "audio_sha256": "8635ae9ad7929403d6a1ce75279d41fd06dbe80375525fa925a28960585e0642",
+              "decoded_pcm_sha256": "e6033274ba90521e49af5a8cff2fee5201df77ae90d3b9ce7eddedd898824f67"
+            },
+            {
+              "source": "reference/observation.md",
+              "title": "Reference — Observation & interpretation",
+              "start_sample": 128329236,
+              "end_sample": 134263142,
+              "audio_sha256": "74079059065c77956bc56ea2ebf7547734a0793a470569053767a81d16e43dc3",
+              "decoded_pcm_sha256": "5dbac7ed9e3710a49372e353cd1bafb0b0b0b9592d0b9ebad8cf2ae42f128ccf"
+            },
+            {
+              "source": "reference/deception.md",
+              "title": "Reference — Truth, lies & uncertainty",
+              "start_sample": 134263142,
+              "end_sample": 140372304,
+              "audio_sha256": "1dd64ba627aa69853d848a3281e0083ba6ec17345e55e484e69e65c0fc60e6c4",
+              "decoded_pcm_sha256": "37c147e705766f5b3ba70e1c1ea768c86a37e218c6814867448ccb7a5f684a2c"
+            },
+            {
+              "source": "reference/uncertainty.md",
+              "title": "Reference — Uncertainty",
+              "start_sample": 140372304,
+              "end_sample": 146189951,
+              "audio_sha256": "a73ad637678b8adc809ed7f2cd330bd92a45d559d7c6d0cfd0d53c7e49841a69",
+              "decoded_pcm_sha256": "82f1f01e227672c07a88773e43a9993ca5a14edb9c7084038a03c8361a0e3dd9"
+            },
+            {
+              "source": "reference/declining-help.md",
+              "title": "Reference — Declining help",
+              "start_sample": 146189951,
+              "end_sample": 154906710,
+              "audio_sha256": "ddf5cac9bdbda88587904266f5de620038fc87a7564955a86bc074cb54e95bb8",
+              "decoded_pcm_sha256": "b5fe9700451a78d084c185a9f799168c01314de660ae3cd4fec32b38b381999b"
+            },
+            {
+              "source": "reference/acknowledging.md",
+              "title": "Reference — Acknowledging another perspective",
+              "start_sample": 154906710,
+              "end_sample": 161203589,
+              "audio_sha256": "5a847456fab442a328e4725b9dbbd36b565df6c8f4d087c58d129b9419e2a829",
+              "decoded_pcm_sha256": "2ce944f83a27f89184b2781c97751b96cda82cf1921e89d369511c47d73ac592"
+            },
+            {
+              "source": "reference/followthrough.md",
+              "title": "Reference — Agreeing, then not following through",
+              "start_sample": 161203589,
+              "end_sample": 167621379,
+              "audio_sha256": "690bda6058872baefc3b5607aa8b2faecfb8d67ed4e65c8fb62a382cf16778b4",
+              "decoded_pcm_sha256": "0326124e4728a53bc2b1a4d2caeef5494beba3afe4ae3d23ba6a7be664d481c7"
+            },
+            {
+              "source": "reference/vulnerability.md",
+              "title": "Reference — Avoiding vulnerability",
+              "start_sample": 167621379,
+              "end_sample": 174281378,
+              "audio_sha256": "9393a751b757323ba275d8e023c0f56b759605bfe77bbc254e41aaf35a7d1237",
+              "decoded_pcm_sha256": "5891de3e78f0f5c7b259f1775e3ed71969b08584e1cb35576489c3b0f4ec2a95"
+            },
+            {
+              "source": "reference/contempt.md",
+              "title": "Reference — Contempt & belittling",
+              "start_sample": 174281378,
+              "end_sample": 181009105,
+              "audio_sha256": "52aa332a6646d23feace1a29db242a9d0090fcffbe01dd51cd6727acac3b008c",
+              "decoded_pcm_sha256": "5f9e81f6f092ac3e6e76527ee350abd99a456397b213e7eee577434fe64ff592"
+            },
+            {
+              "source": "reference/financial-control.md",
+              "title": "Reference — Control of money & resources",
+              "start_sample": 181009105,
+              "end_sample": 188129097,
+              "audio_sha256": "f2bf7b6fa3cecb368b0eef5d3f0892f85e252a5319d790f31609e1e0516f7e26",
+              "decoded_pcm_sha256": "9b4633d80d38185254ae0df96c03e6e93e1aa4af60ae5d673547241b88257abb"
+            },
+            {
+              "source": "reference/deflecting.md",
+              "title": "Reference — Deflecting or changing the subject",
+              "start_sample": 188129097,
+              "end_sample": 194362905,
+              "audio_sha256": "15f000e37098962c12efe17293277cc3e1e25e0ae6cdfc14b26cb3036e414a84",
+              "decoded_pcm_sha256": "4ab80111cb1f4b249e7a80220cecdaaf96c3826d7d3ee00e4437904ff1dd6ef8"
+            },
+            {
+              "source": "reference/denial.md",
+              "title": "Reference — Denying an event or agreement",
+              "start_sample": 194362905,
+              "end_sample": 201012214,
+              "audio_sha256": "468718f4408d5d19d02ce52e23a0a95e36a673b0f233510e9fdfc20bbe25d4d3",
+              "decoded_pcm_sha256": "50f369e75c2665276423b464718684cb119b982daddc9ddc85ff8e83228556ce"
+            },
+            {
+              "source": "reference/difficulty-trusting.md",
+              "title": "Reference — Difficulty trusting",
+              "start_sample": 201012214,
+              "end_sample": 207677733,
+              "audio_sha256": "2e4d169cbe081eba31245e29781cb51424090f6af2f310d1ffe810086e42d232",
+              "decoded_pcm_sha256": "bff54fd68108d41153ae5c5f4298eaed4ff33799e40cbb1ce1ccccc59556c277"
+            },
+            {
+              "source": "reference/dismissing-needs.md",
+              "title": "Reference — Dismissing another person’s needs",
+              "start_sample": 207677733,
+              "end_sample": 214536366,
+              "audio_sha256": "5c6b9bcf3eb8817cd354874c37074353a32271181440f7e8a657f7c96854ae26",
+              "decoded_pcm_sha256": "3be6f40ff95b97385f478a9b35013d7800049cc3ae995396486a525583caf8e8"
+            },
+            {
+              "source": "reference/emotional-blackmail.md",
+              "title": "Reference — Emotional blackmail & conditional threats",
+              "start_sample": 214536366,
+              "end_sample": 221217829,
+              "audio_sha256": "2575bc161f491907b5f89f63bfdc482fc6e20c04e2c0d4fec728f3c3c171014c",
+              "decoded_pcm_sha256": "17b158ea101d2ca4f86ab6a1a282c9c527bf2b0b561a3ee13e0e538a94495550"
+            },
+            {
+              "source": "reference/narcissistic-behaviour.md",
+              "title": "Reference — Entitlement, admiration & others’ needs",
+              "start_sample": 221217829,
+              "end_sample": 228335827,
+              "audio_sha256": "700820b7cf33a75f4dc98fa53dad58ac6e1f8c36dbc5b55b5dbaad313e6fe1b9",
+              "decoded_pcm_sha256": "47cd288667a640ea26aeca8d2bc7af65d8f991c84e20c8d14da5dd0ccebd780c"
+            },
+            {
+              "source": "reference/creating-obligation.md",
+              "title": "Reference — Favours that create unwanted obligation",
+              "start_sample": 228335827,
+              "end_sample": 234939007,
+              "audio_sha256": "06ed6e97853760b64bc99631bc1f123ec2b6801debc6c3d97296d1d341e0e8f6",
+              "decoded_pcm_sha256": "7870472afc3d086b9fb7f9a89b2fb26c6675bdc7cf141d4daabf7d221d6e34e8"
+            },
+            {
+              "source": "reference/gaslighting.md",
+              "title": "Reference — Gaslighting & undermining your reality",
+              "start_sample": 234939007,
+              "end_sample": 241943214,
+              "audio_sha256": "98e1542b0bec2d889a797359ffbd8659d619bc0dfabd7d2076afa9c5c357807b",
+              "decoded_pcm_sha256": "62dae31124cd27370cdaf1f6e718f018deed7b9f5520642b53c1d7eb7e11ed29"
+            },
+            {
+              "source": "reference/guilt-pressure.md",
+              "title": "Reference — Guilt-tripping & pressure through obligation",
+              "start_sample": 241943214,
+              "end_sample": 248507589,
+              "audio_sha256": "a1dd7898713f814720ce8682495e02a8d03e772b28cc07bc5b144a0af396b547",
+              "decoded_pcm_sha256": "03c02f00d71e231bd2e8cc0b5be54218f79a1b6721b643384926a013682c104e"
+            },
+            {
+              "source": "reference/passive-aggression.md",
+              "title": "Reference — Indirect resistance & passive aggression",
+              "start_sample": 248507589,
+              "end_sample": 255303129,
+              "audio_sha256": "b20d4f478d0ff200894a81f166bf58fc7f603c0265d24e07179e950f8d65b88c",
+              "decoded_pcm_sha256": "ff0709ec755b402e4168b090e91b4f5f05823669ac8f7cf864a9e4d77a0743f1"
+            },
+            {
+              "source": "reference/interrupt.md",
+              "title": "Reference — Interrupting",
+              "start_sample": 255303129,
+              "end_sample": 262286757,
+              "audio_sha256": "69e0c2127494d9b852a93f73d528ecbf02da97fe228b621b6f4988f12139ba5e",
+              "decoded_pcm_sha256": "61021933e2d14acf68ad8bb9c70b677fcae71caf1d9324749191a8e8cbe9d830"
+            },
+            {
+              "source": "reference/intimidation.md",
+              "title": "Reference — Intimidation & threats",
+              "start_sample": 262286757,
+              "end_sample": 268844787,
+              "audio_sha256": "2acd942268e91d374aa52e4834a3236ca9bccfb303b83533122168a9d2a5e759",
+              "decoded_pcm_sha256": "27623a0760c50db8283dff14ca64ed97babbca67aacc4283171055c9d296fc65"
+            },
+            {
+              "source": "reference/thirdparty.md",
+              "title": "Reference — Involving a third person",
+              "start_sample": 268844787,
+              "end_sample": 275717782,
+              "audio_sha256": "6a86ece3651646fc5b41946a085c8f12f2fb825844d7123317c4de743f862eec",
+              "decoded_pcm_sha256": "1db0ecf7827a760dd9ba7d7c43da2aca1a22cbe6fc9651f3bc66e34d4c49b109"
+            },
+            {
+              "source": "reference/listening.md",
+              "title": "Reference — Listening and checking understanding",
+              "start_sample": 275717782,
+              "end_sample": 281534220,
+              "audio_sha256": "93e3f5f283f25720dad0700854d76b50758c9b27bb0697105ab33d5573fe2370",
+              "decoded_pcm_sha256": "db8ea46e348115a8157d194faa24a793c82253cd1c3ada4ef5d776a5fca10269"
+            },
+            {
+              "source": "reference/minimising.md",
+              "title": "Reference — Minimising harm or impact",
+              "start_sample": 281534220,
+              "end_sample": 287624234,
+              "audio_sha256": "e97245c794ccf847cbd718417780a396f57371564d15f2c5e5fc842889af1593",
+              "decoded_pcm_sha256": "f0e5dad68130aef5507b0dbedd11cab62014b2ca483084658d5306ff7002f1e9"
+            },
+            {
+              "source": "reference/monitoring.md",
+              "title": "Reference — Monitoring & demands for access",
+              "start_sample": 287624234,
+              "end_sample": 293733613,
+              "audio_sha256": "9716067db291dabff3ffe370e329f63671606f9176c7e86c3d2bc97a804b8a2c",
+              "decoded_pcm_sha256": "ce8425defb9f6404c3082b178e8a62a7786db700c0cfdbd8be608d851d5a4d60"
+            },
+            {
+              "source": "reference/people-pleasing.md",
+              "title": "Reference — People-pleasing & automatic agreement",
+              "start_sample": 293733613,
+              "end_sample": 299592827,
+              "audio_sha256": "2f24ff63524aa0b78bf7d4fef80e88b26a17a1f286d40931f79ff8d66eadb245",
+              "decoded_pcm_sha256": "19e17147db60b7de47612c354fcf438a89bb8f12ceee8aa5722c16c42a12f7a2"
+            },
+            {
+              "source": "reference/possessiveness.md",
+              "title": "Reference — Possessiveness & demands for exclusivity",
+              "start_sample": 299592827,
+              "end_sample": 305940248,
+              "audio_sha256": "864c548cd49915fb33c7521bca195a13f36ed0d880244d3a5228e99d5696faf1",
+              "decoded_pcm_sha256": "27d0a1414222e839e9bd0fb010653d43fa3fbf45b02a3742592b60a44f8c33a3"
+            },
+            {
+              "source": "reference/repairing.md",
+              "title": "Reference — Repair after a misunderstanding",
+              "start_sample": 305940248,
+              "end_sample": 312062883,
+              "audio_sha256": "314ec82f7cb6b9d1b3a3c7a05a15d196cfb8d58cea7b4325647bd07ab54cfeb3",
+              "decoded_pcm_sha256": "2c171b12fb3c73be976231eaccfd9e486e3dd37a0ce31fcd441e8db9d15adc05"
+            },
+            {
+              "source": "reference/criticism.md",
+              "title": "Reference — Repeated criticism",
+              "start_sample": 312062883,
+              "end_sample": 318457902,
+              "audio_sha256": "089d7de24b3c4738ef2f7d64cdcbbcd65da7c346e1c0e7491dbf84c72cba86a3",
+              "decoded_pcm_sha256": "f429c161e14632c6a6c5ad7c7806d1c68c2374b0751a62746145f7e28320e840"
+            },
+            {
+              "source": "reference/reassurance.md",
+              "title": "Reference — Repeatedly asking for reassurance",
+              "start_sample": 318457902,
+              "end_sample": 324728635,
+              "audio_sha256": "7f18221b25acb301c87ed198cfd846e38ae421a57ed8a1f14968cf1f2334e0b5",
+              "decoded_pcm_sha256": "f6286db012004548e34f557dec8c7900d4d66624e31866ba9fda494ce64bfe87"
+            },
+            {
+              "source": "reference/boundary-pushing.md",
+              "title": "Reference — Repeatedly pushing a stated limit",
+              "start_sample": 324728635,
+              "end_sample": 330969981,
+              "audio_sha256": "ebf0ae2c24f8759320d1340f1e838b8e3425f1591731cf380248e2c539554fbd",
+              "decoded_pcm_sha256": "48515314615caae3e330f53217189bd44da08089d399fe5978c82b132704f2eb"
+            },
+            {
+              "source": "reference/defensive.md",
+              "title": "Reference — Responding defensively",
+              "start_sample": 330969981,
+              "end_sample": 337021941,
+              "audio_sha256": "19b3a21298521ec4c2503cd2d860523dce258fb2bea1839765eee1ef10194fb3",
+              "decoded_pcm_sha256": "2780163fa5dcd4179a59c54200ff5ec255fa771d212f437e53bd11d4fe9f3e01"
+            },
+            {
+              "source": "reference/isolation.md",
+              "title": "Reference — Restricting contact with other people",
+              "start_sample": 337021941,
+              "end_sample": 343518919,
+              "audio_sha256": "d55c972d2fea62286251039730f1508b37e86a241080fa35aa3e92481b2816a4",
+              "decoded_pcm_sha256": "40731e5391a14aa3fca38f9d71afb08e271b4f9de1ba2e354444844538fffb32"
+            },
+            {
+              "source": "reference/coercive-patterns.md",
+              "title": "Reference — Restriction, monitoring & coercive patterns",
+              "start_sample": 343518919,
+              "end_sample": 350153720,
+              "audio_sha256": "de5873de50055e643d1fff7cb431aedaecc66c986b1462cb4aa6be2e0ec27659",
+              "decoded_pcm_sha256": "81849bc8d10723eef6ea613b7521d941a5ad5c9757876ea5d761e19240efbfff"
+            },
+            {
+              "source": "reference/retaliation.md",
+              "title": "Reference — Retaliation after a refusal or complaint",
+              "start_sample": 350153720,
+              "end_sample": 356666773,
+              "audio_sha256": "84be86880909dbb3e5269e83bb0b8fa34bd00f132ee65687e6b60c197e81ac3c",
+              "decoded_pcm_sha256": "3fc761cc7bc29c6f6cc973d997c4379e21a268b5836753b7be20071ddcf5e0b4"
+            },
+            {
+              "source": "reference/blame-shifting.md",
+              "title": "Reference — Shifting responsibility",
+              "start_sample": 356666773,
+              "end_sample": 363096132,
+              "audio_sha256": "0c365c6cef9825d1ec98811bf5d5d0cfa22b7e9fdde1eb1654fd16593c2b82fd",
+              "decoded_pcm_sha256": "d2f3d3b6f74438fa884c391ded7cfd7e86fae75aa3ecc7dd2d8d69c4e4323ab6"
+            },
+            {
+              "source": "reference/stonewalling.md",
+              "title": "Reference — Stonewalling, silence & an agreed pause",
+              "start_sample": 363096132,
+              "end_sample": 369265791,
+              "audio_sha256": "b6eacf70c9469627726a7aea5c4c0a03788b647e756d7adee4e3a398e38a77a9",
+              "decoded_pcm_sha256": "3d424a75977a105830c67df0cbd7e56020d65a2dea2056f022e194b82d62431d"
+            },
+            {
+              "source": "reference/taking-credit.md",
+              "title": "Reference — Taking or withholding credit",
+              "start_sample": 369265791,
+              "end_sample": 375940631,
+              "audio_sha256": "308b559acf591126c831d99bb2e62993e4759247ed5d378dc09e76800ae6cafd",
+              "decoded_pcm_sha256": "ba02b6d84eec7ef894cbbb9ec91eb2e2a3bd42c36812bf41a3899af082e55d60"
+            },
+            {
+              "source": "reference/over-responsibility.md",
+              "title": "Reference — Taking too much responsibility",
+              "start_sample": 375940631,
+              "end_sample": 382340780,
+              "audio_sha256": "ef6fcf7dcfad2c190975b7094f4ccaac91fd3909c51ee1375a26d7f9ada624d8",
+              "decoded_pcm_sha256": "56f6a9d8f9f008577e3f4526f3ead5eca5658192fceb9582090cb29467caf771"
+            },
+            {
+              "source": "reference/withdraw.md",
+              "title": "Reference — Withdrawing from a conversation",
+              "start_sample": 382340780,
+              "end_sample": 388879364,
+              "audio_sha256": "fc197efe7e0acef3a2d0590ea4f7d316176fda092e62628744fc775fe4beb031",
+              "decoded_pcm_sha256": "d3e70f0b04312156d1f1f484d6815b264ad3a1d42e60a4c7cbd822d14eaa9fc2"
+            },
+            {
+              "source": "reference/belonging.md",
+              "title": "Reference — Belonging",
+              "start_sample": 388879364,
+              "end_sample": 394820017,
+              "audio_sha256": "6cd77b4790339f0b3b7bb60c5598dc7b8b399ce3bc6255dfee996d0571d42661",
+              "decoded_pcm_sha256": "995e10acdf506f4d41185b1cf7243d1672b81331b0673d41ced89d8d5df6ba32"
+            },
+            {
+              "source": "reference/change-conditions.md",
+              "title": "Reference — Capability, opportunity & motivation",
+              "start_sample": 394820017,
+              "end_sample": 400993135,
+              "audio_sha256": "d6297f79281f9bd38a1d678d620c6707790c72512d937af111f837effea70a36",
+              "decoded_pcm_sha256": "4c744725652f3267d08d3a0c7e287c2b6735fdb758e73b7a1b10ba5b90f4616d"
+            },
+            {
+              "source": "reference/competing.md",
+              "title": "Reference — Competing goals",
+              "start_sample": 400993135,
+              "end_sample": 407005916,
+              "audio_sha256": "0476886d8c9d33de87da473fec4ab7e1047887c705c97490f6dcec94407dfc94",
+              "decoded_pcm_sha256": "4aaef5f22823306e6aab9ccaf3b183b0b62874baead18dc3b1bcb1dc8716e389"
+            },
+            {
+              "source": "reference/fairness.md",
+              "title": "Reference — Fair treatment",
+              "start_sample": 407005916,
+              "end_sample": 413403994,
+              "audio_sha256": "1454188571dcf9fa512954e0f101598bc9a82b6b68d6ca109a0fd6907ee09f3d",
+              "decoded_pcm_sha256": "ca5257dada642ec049207dac2086bea22eed738fda48a03aaad4a75c7755fb39"
+            },
+            {
+              "source": "reference/competence.md",
+              "title": "Reference — Feeling capable",
+              "start_sample": 413403994,
+              "end_sample": 419589578,
+              "audio_sha256": "89cc661842805cadcea1afe7e49a2eec4d63db5a2008ceaff76e7f3b87ae6008",
+              "decoded_pcm_sha256": "00d908090d96ca4dc477d2e9c83d8cdd35592e4cd2db7873e645901582a082b6"
+            },
+            {
+              "source": "reference/security.md",
+              "title": "Reference — Feeling safe",
+              "start_sample": 419589578,
+              "end_sample": 425626681,
+              "audio_sha256": "e71e55c5330e6c14180e3d58d5513bdd0524deccf5e10be4905e829c67989026",
+              "decoded_pcm_sha256": "2a162791a53338b7c34d142aa7109484e6a38b60c887f2f88e1bae29fd08d173"
+            },
+            {
+              "source": "reference/autonomy.md",
+              "title": "Reference — Having a say",
+              "start_sample": 425626681,
+              "end_sample": 431889897,
+              "audio_sha256": "58f73dbf544e685eb0ef81dea79cd4755604b103286524be1ae6fb7066820b11",
+              "decoded_pcm_sha256": "36929a66630e1657daa6d154d43962341afd2bf2488f20fb419108c08461d28c"
+            },
+            {
+              "source": "reference/motivation.md",
+              "title": "Reference — Motivation",
+              "start_sample": 431889897,
+              "end_sample": 438167922,
+              "audio_sha256": "c91af6250a7636a76ac48a5dfb2815ad235c7b1187af673854b2dec80b3b5a71",
+              "decoded_pcm_sha256": "fbad127a42b271c76b1ced37c00cf3d3c821202e8ac262a460b6b1897177ddcc"
+            },
+            {
+              "source": "reference/status.md",
+              "title": "Reference — Recognition & status",
+              "start_sample": 438167922,
+              "end_sample": 444479526,
+              "audio_sha256": "ccba9d2436663d22e2ec42a7674acf69c7b1cfe28b56251c055e5828b5e8aa05",
+              "decoded_pcm_sha256": "e6c057b6a2f7b16e6cd98a4ee5d992ebdc0f1b591433be6a99de184c0171e715"
+            },
+            {
+              "source": "reference/approval-seeking.md",
+              "title": "Reference — Seeking approval",
+              "start_sample": 444479526,
+              "end_sample": 450473290,
+              "audio_sha256": "62d48bfc62c5305e723835751632a1bdb7b422db3024c7fb545e27f2c949a9cf",
+              "decoded_pcm_sha256": "c55cd270768a17737260890965cdaa66c2b18405a092684393f8664ed14ef1f5"
+            },
+            {
+              "source": "reference/avoidconflict.md",
+              "title": "Reference — Trying to avoid conflict",
+              "start_sample": 450473290,
+              "end_sample": 456627457,
+              "audio_sha256": "55c598538b1da78543b189a78df281ab59d5c5f2979dd006ff6fbe400dd7258e",
+              "decoded_pcm_sha256": "1da692c52d985cf5c7119956412b981d3043840ffc4beb84e84441070ebd0b7d"
+            },
+            {
+              "source": "reference/persuade.md",
+              "title": "Reference — Trying to persuade",
+              "start_sample": 456627457,
+              "end_sample": 462834869,
+              "audio_sha256": "fbe39b3ad73a424918af97b56f9081aa94473ed10fcbedcc78c12f882bb28fdf",
+              "decoded_pcm_sha256": "03f9439843d5434db53dee8d0b19aa01fc85c725d0f545813652dbf951f34e53"
+            },
+            {
+              "source": "reference/protect.md",
+              "title": "Reference — Trying to protect",
+              "start_sample": 462834869,
+              "end_sample": 469136990,
+              "audio_sha256": "3e7c78f2218ce69c9ea66c7986ed6712276f1763351d45b33f052e69df5f2bc4",
+              "decoded_pcm_sha256": "54267854713f16e04f1d6b3b395c1300fc843c4d3b5a6a48b3b35ede53de69f4"
+            },
+            {
+              "source": "reference/punish.md",
+              "title": "Reference — Trying to punish",
+              "start_sample": 469136990,
+              "end_sample": 475370535,
+              "audio_sha256": "831710a6f1d7b7e33f0c096aa30c91c08834c2c88c310ce95a9f1ec42a0de2fc",
+              "decoded_pcm_sha256": "0ece7d589375c0fdd561a30a781dc11ec5b265d7dff59465307a44406d2932ff"
+            },
+            {
+              "source": "reference/maintainrole.md",
+              "title": "Reference — Trying to retain a role",
+              "start_sample": 475370535,
+              "end_sample": 481749469,
+              "audio_sha256": "ecba354c22c07c0b728b6f8de20691a4e9cf77a2a44e4923ad5f2a2794ee99ec",
+              "decoded_pcm_sha256": "beda631739c28223e02e804f0ab77221b96e8b056f3415389dabca9784e32047"
+            },
+            {
+              "source": "reference/agreeableness.md",
+              "title": "Reference — Agreeableness",
+              "start_sample": 481749469,
+              "end_sample": 487965046,
+              "audio_sha256": "6e40642cde8ea979640add4715936e601a0d55f3945472449ef476e33f11fe77",
+              "decoded_pcm_sha256": "ed3969f4608010cb999877cbe3d2c1e8c9cd7f089f4b359df35a967d121e8a2d"
+            },
+            {
+              "source": "reference/conscientiousness.md",
+              "title": "Reference — Conscientiousness",
+              "start_sample": 487965046,
+              "end_sample": 494103040,
+              "audio_sha256": "4f9c27a2422aebf838206836d5895f0d948764346ce5520bd2818e97cefc96df",
+              "decoded_pcm_sha256": "ff0974dca33e86b973e9f3a929c4ccdeceb5c381ab6a0f12ddba91c0749d6c19"
+            },
+            {
+              "source": "reference/extraversion.md",
+              "title": "Reference — Extraversion",
+              "start_sample": 494103040,
+              "end_sample": 500145053,
+              "audio_sha256": "b71b2785e02e10fa957f86ff2af65f36083fcbb5a1982c444597f1de1b219372",
+              "decoded_pcm_sha256": "7c046c72b1229dfa5a244bd6de058964198dde090021ee4fbb5563144fd5682a"
+            },
+            {
+              "source": "reference/emotionality.md",
+              "title": "Reference — Negative emotionality",
+              "start_sample": 500145053,
+              "end_sample": 506555754,
+              "audio_sha256": "e5eec34e9462f20c48ed0294d454af55e3b0e607bfdcfc80eb8ee07de049305f",
+              "decoded_pcm_sha256": "5332ec1b709a6e34c7012610b200c0c0f7a8872bd5b322bd2f50cc5e7d2a8eb4"
+            },
+            {
+              "source": "reference/openness.md",
+              "title": "Reference — Open-mindedness / openness",
+              "start_sample": 506555754,
+              "end_sample": 512598041,
+              "audio_sha256": "6e9fbb2a4991a35dbdb5d92e5bc2f94b4889856e7979366c6fe1c906c71e2cd9",
+              "decoded_pcm_sha256": "3a1e43dbe50da8772893ff03d4bac7029d6d8f28fbb04af284df13a85e2ad458"
+            },
+            {
+              "source": "reference/reinforcement.md",
+              "title": "Reference — Consequences that sustain a pattern",
+              "start_sample": 512598041,
+              "end_sample": 518737746,
+              "audio_sha256": "0fc4f50064e43d9574a7123d5eaa36d12d6ba38fcd0ef32562de21d461181cba",
+              "decoded_pcm_sha256": "89bb02891c4dfe6288a87c7d3fb8c0c1f07583e6af7ca752fbc42d0c21f06de3"
+            },
+            {
+              "source": "reference/fear-rejection.md",
+              "title": "Reference — Fear of rejection",
+              "start_sample": 518737746,
+              "end_sample": 524880419,
+              "audio_sha256": "ea1627ad2a0ee523db5877feb8c21ff79f3b4b625a4a0c4746ee35101907bfaf",
+              "decoded_pcm_sha256": "e6b90b3e5504201e836afd8d17356e856d2fd8e6cc5b25a99baa0715f0ea91a6"
+            },
+            {
+              "source": "reference/habits.md",
+              "title": "Reference — Habits & situations",
+              "start_sample": 524880419,
+              "end_sample": 530900361,
+              "audio_sha256": "783e18784bd26be909ebd5ec91009ebcf0614bee3f010a7531bb15ac42b49517",
+              "decoded_pcm_sha256": "ae7de50ed0306e1e183cd64857fc1e8f6ec01ae7733fd2a51dd4d2299e9ac2c8"
+            },
+            {
+              "source": "reference/jealousy.md",
+              "title": "Reference — Jealousy & what follows",
+              "start_sample": 530900361,
+              "end_sample": 537068381,
+              "audio_sha256": "8ce6271c53ac1d83d43f478d2fe97f930a65eacfbdb97f9433b05ab32c6a504b",
+              "decoded_pcm_sha256": "c2bfd5ef292bdc21845d64759ce1d78fd5f060af7e60968298be73c82c13bbd9"
+            },
+            {
+              "source": "reference/learned.md",
+              "title": "Reference — Learned expectations",
+              "start_sample": 537068381,
+              "end_sample": 543297110,
+              "audio_sha256": "0b96bacbed617bc1789fb3ef41be8a9ab815cff3d4fb7794989d0d1c80df9e27",
+              "decoded_pcm_sha256": "04d10467848749baee920f6f3cf9176c248bb5e6d8895704025cbab613e83039"
+            },
+            {
+              "source": "reference/perfectionism.md",
+              "title": "Reference — Perfectionism & inflexible standards",
+              "start_sample": 543297110,
+              "end_sample": 549523717,
+              "audio_sha256": "4e83a82bc661ff421971ae0684cacc176e75e30b968e9fb1d1172812e464c1dd",
+              "decoded_pcm_sha256": "8d1c10ca003a32e32b1827aa8e25b1b95b0abb77c7e8ac9fd25f2554fa4ac530"
+            },
+            {
+              "source": "reference/stress.md",
+              "title": "Reference — Stress & overload",
+              "start_sample": 549523717,
+              "end_sample": 555863428,
+              "audio_sha256": "46306b1f6199b8cbb76e48d4eede95c653bf35953fd23e9cdb5950a0b6d3d430",
+              "decoded_pcm_sha256": "b3129ef148cfca13ecf241ccc41bc8713a7716ea50e5410915d6ce3592aa23fd"
+            },
+            {
+              "source": "reference/adolescence.md",
+              "title": "Reference — Adolescence: autonomy, peers & support",
+              "start_sample": 555863428,
+              "end_sample": 562222756,
+              "audio_sha256": "0987403c6afb6276f8987995640fdb41c807c6a89be7f0b2aaa6bf2371e8e144",
+              "decoded_pcm_sha256": "f56ef7c8b5b27838d0492dc04bffc1e60679e3d2a8b2fd11da35f8304a7c20eb"
+            },
+            {
+              "source": "reference/life-transitions.md",
+              "title": "Reference — Changing roles & life transitions",
+              "start_sample": 562222756,
+              "end_sample": 568444404,
+              "audio_sha256": "083dd9fc06532a2ef0d7b505f5b15764b6187c186cb50924c9f09bb3f2730e0c",
+              "decoded_pcm_sha256": "a0fc71b4ab0763ea6d522da1aa7ee90cad10a4102822683004b64a6ee2779328"
+            },
+            {
+              "source": "reference/child-development.md",
+              "title": "Reference — Children: ability, learning & expectations",
+              "start_sample": 568444404,
+              "end_sample": 574785083,
+              "audio_sha256": "27c5de177c7bb6056dc212b6104b63f9ffe3e0a68d4f3d94c11332e799e9267a",
+              "decoded_pcm_sha256": "45d408d3d4f1c8eff9b0a469fe1b9328f6e8a3526bbc378ec283b9eca86658f4"
+            },
+            {
+              "source": "reference/context.md",
+              "title": "Reference — Culture & power",
+              "start_sample": 574785083,
+              "end_sample": 581081212,
+              "audio_sha256": "79c739e0a55bdef3a9e0bf1004f451cb0691db6879654f6a4074f1dced2bfcff",
+              "decoded_pcm_sha256": "af7fd8cc88d3abcbe32ad7a5e4cfaea836c57881bb5d9a89589e399d0778c490"
+            },
+            {
+              "source": "reference/cultural-meanings.md",
+              "title": "Reference — Culture: meanings without stereotypes",
+              "start_sample": 581081212,
+              "end_sample": 587330232,
+              "audio_sha256": "60743bd3b67c0cb702c2bc59cbad719c46659f8d3a4225401aade13b82a46277",
+              "decoded_pcm_sha256": "7709dc1097ade4c39970b4615aeba614d0e3adf7d1753b0d5430c3c01b950e9e"
+            },
+            {
+              "source": "reference/familynorms.md",
+              "title": "Reference — Family expectations",
+              "start_sample": 587330232,
+              "end_sample": 593414162,
+              "audio_sha256": "be0ddd63e20898eedfe664bca317dffa11b97f75a5fb2aeaf73f233f99294da1",
+              "decoded_pcm_sha256": "788d99873c72ed587f5c24a0a8a5977d642b3674b3937df629374350c349ae75"
+            },
+            {
+              "source": "reference/grief.md",
+              "title": "Reference — Grief, loss & changing needs",
+              "start_sample": 593414162,
+              "end_sample": 599495617,
+              "audio_sha256": "a2d17da8f1d30221d09f3f5b7365399b38803a6226ad512321539235189b6218",
+              "decoded_pcm_sha256": "d20d00aa783d0fd285613c2eb9afd6d506b6f21a1a2d7d398912cf744ca9efb5"
+            },
+            {
+              "source": "reference/language-context.md",
+              "title": "Reference — Language, accent & communication context",
+              "start_sample": 599495617,
+              "end_sample": 605729800,
+              "audio_sha256": "e2aa839f4b725cf8f76a5bfed7f8690e247cfefbc3aaaec95183b36165b76af5",
+              "decoded_pcm_sha256": "86e49b1aa3d0fd4a241c9f5339bcab242e411b538bc478b15d7826fb2d24435f"
+            },
+            {
+              "source": "reference/later-life.md",
+              "title": "Reference — Later life: change without age stereotypes",
+              "start_sample": 605729800,
+              "end_sample": 611980382,
+              "audio_sha256": "de1aef4f5f4860e9a5d27375a4a64309fba4a7748ed429afde29c6c17584e74e",
+              "decoded_pcm_sha256": "3ce2a77acae111d4e3c205c08ec36c443f7608ef322ae86a2ada82e944c16e51"
+            },
+            {
+              "source": "reference/low-mood.md",
+              "title": "Reference — Low mood, withdrawal & support",
+              "start_sample": 611980382,
+              "end_sample": 617956133,
+              "audio_sha256": "18db5e4739faeaa7577faa960ceb035581b93a81e0e942d732a4bd808f057590",
+              "decoded_pcm_sha256": "571289c05a517271aee004b9424014ad9b28eec4d6dd91488c94efb9c4366b36"
+            },
+            {
+              "source": "reference/neurodiversity.md",
+              "title": "Reference — Neurodiversity & communication fit",
+              "start_sample": 617956133,
+              "end_sample": 624203144,
+              "audio_sha256": "82ab24038abe9666a97ef55c0bb4569c6b88eae0b0b28f9c062791b4b28661d7",
+              "decoded_pcm_sha256": "2e28377e4ce8e04dbe0e79933b5201646a9841f21a460ff39cb2520bcd1339fa"
+            },
+            {
+              "source": "reference/health-change.md",
+              "title": "Reference — New changes in behaviour or functioning",
+              "start_sample": 624203144,
+              "end_sample": 630376183,
+              "audio_sha256": "9b252e1ca9e9f0d7e43836632a47f436ae963e768a2137125a1b3f21447033e0",
+              "decoded_pcm_sha256": "6b9874cc031bc43be15944945b23c516ba6ed90d595a0e5e6500555e7d9cdb54"
+            },
+            {
+              "source": "reference/history.md",
+              "title": "Reference — Relationship history",
+              "start_sample": 630376183,
+              "end_sample": 636590694,
+              "audio_sha256": "0a944ed5ce3a48977d8437c23b3341ba668985ad54dd994c3d4ac2e4843aa86d",
+              "decoded_pcm_sha256": "d14afc1fc38669bc12a782392b31343ed683151c20ddc497dc52f501ba8278a2"
+            },
+            {
+              "source": "reference/structural-barriers.md",
+              "title": "Reference — Rules, exclusion & unequal access",
+              "start_sample": 636590694,
+              "end_sample": 643023261,
+              "audio_sha256": "a44fb416d499fdec033155f4e1651ec53cdfa228344fb34f244fc0004d590c65",
+              "decoded_pcm_sha256": "bb9287ed343ca7ff6976c53702f64db5b58ff1aed416b76f110ef413604f1c4a"
+            },
+            {
+              "source": "reference/capacity.md",
+              "title": "Reference — Time, resources & capacity",
+              "start_sample": 643023261,
+              "end_sample": 649274190,
+              "audio_sha256": "9dc89dedb4efa01eed8b5bd31201fc372430911b4883853e7485446a03727a56",
+              "decoded_pcm_sha256": "adbb1c239746ae5e44427aafd2d612b8d952b114260d0cdb5c586bd6770f2154"
+            },
+            {
+              "source": "reference/trauma-context.md",
+              "title": "Reference — Trauma, reminders & present safety",
+              "start_sample": 649274190,
+              "end_sample": 655574309,
+              "audio_sha256": "fd3fc2dff7b708912160bd4c9a6640dc0d7f621ec7668945508b14453153cb92",
+              "decoded_pcm_sha256": "f379bb97a1645bdde20b21b4f495596be62c31c8bb93c322fb81f95929468edc"
+            },
+            {
+              "source": "reference/power.md",
+              "title": "Reference — Unequal power",
+              "start_sample": 655574309,
+              "end_sample": 661989306,
+              "audio_sha256": "0d60114501a656ff438159ce1ebfbabc65f195f3688a77ef049c5f9e93fff162",
+              "decoded_pcm_sha256": "d1254f5c361167ca7a4ee07e73be789569f6a8e63c741dfb82fcd5dee9be3b24"
+            },
+            {
+              "source": "reference/audience.md",
+              "title": "Reference — Who else is present",
+              "start_sample": 661989306,
+              "end_sample": 668236916,
+              "audio_sha256": "597fdb626c11f7d2c7977cd989c291a4b6e36df92499fd7267fd074b0478d82b",
+              "decoded_pcm_sha256": "8bb21b830bb2c39676f332f0891115e1449236b2a47e2f44e98aaa3948acc9df"
+            },
+            {
+              "source": "reference/anxiety-patterns.md",
+              "title": "Reference — Worry, avoidance & reassurance",
+              "start_sample": 668236916,
+              "end_sample": 674544814,
+              "audio_sha256": "1d97ddf3a046a17fc0bb34011efe358c48b832c64cc772846b2363fee64bcbdd",
+              "decoded_pcm_sha256": "da1f820f3850e83ce970fd26aaf3cf30afdd497e545642d2323ac735ed3f408e"
+            },
+            {
+              "source": "reference/boundaries.md",
+              "title": "Reference — Boundaries",
+              "start_sample": 674544814,
+              "end_sample": 680667377,
+              "audio_sha256": "828b0a863215ec34c145f121b3d19150df98d34b06c93ee0e816cb30984a5461",
+              "decoded_pcm_sha256": "748ed81c3dcb8edad74696ad06511663c542065706d1af58d82c571bac9917fe"
+            },
+            {
+              "source": "reference/alternatives.md",
+              "title": "Reference — Compare explanations",
+              "start_sample": 680667377,
+              "end_sample": 687015544,
+              "audio_sha256": "385d1bb586dec4b3b500d240946b2292127912e539c2cc98da708d13039f70b8",
+              "decoded_pcm_sha256": "2a3038fa50b52ac52099a6c35013dbdbac85044d256457575524f30d287e3409"
+            },
+            {
+              "source": "reference/getting-support.md",
+              "title": "Reference — Getting support without needing a label",
+              "start_sample": 687015544,
+              "end_sample": 693290695,
+              "audio_sha256": "0a7466f6bbc985f6d661f24d5d8d91f475e20f5b6bf763d592d8efb6b4926be3",
+              "decoded_pcm_sha256": "cad56c731d1562fb7c1df3df716cbdce3f6661f6dde6e8028e1d95bc672a5867"
+            },
+            {
+              "source": "reference/clearrequest.md",
+              "title": "Reference — Make a clear request",
+              "start_sample": 693290695,
+              "end_sample": 699447383,
+              "audio_sha256": "19aa61d663e5f72ef1654e48a3fcb35cebe5e3056ddc7e0e920d16113e34618c",
+              "decoded_pcm_sha256": "a8b00a846c367419d2eaf8e2345271859ced047fd04db767e43d9e3bf3101818"
+            },
+            {
+              "source": "reference/shared-agreement.md",
+              "title": "Reference — Make a workable agreement",
+              "start_sample": 699447383,
+              "end_sample": 705740635,
+              "audio_sha256": "77ab706b91d2bbce755805bb99f38b515fec9a0fcd6097c7a235eca98dcc4889",
+              "decoded_pcm_sha256": "4e378b0d83d989498efc8911387cf337dd74e8d1e31df766c64cc9cd21cceae6"
+            },
+            {
+              "source": "reference/appreciation.md",
+              "title": "Reference — Notice what helps",
+              "start_sample": 705740635,
+              "end_sample": 711977487,
+              "audio_sha256": "d040e48a086adc0667c38285806dbc975e597315549d13e39976f459682d833c",
+              "decoded_pcm_sha256": "484494a69660fe208877ffafb6eea928033cc48bbb46e02ce5045a52cdf44b3e"
+            },
+            {
+              "source": "reference/reciprocity.md",
+              "title": "Reference — Reciprocity & mutual consideration",
+              "start_sample": 711977487,
+              "end_sample": 718371228,
+              "audio_sha256": "1382994529257ac1fe64d13c2f38e06003fbe722827b7b9863b0c42f7aebd7e7",
+              "decoded_pcm_sha256": "7357107637535ec57a56ddcd3a43ab70a98949eacb5d9c7ff05fcb4d8c326fa6"
+            },
+            {
+              "source": "reference/review.md",
+              "title": "Reference — Review what happened",
+              "start_sample": 718371228,
+              "end_sample": 724505108,
+              "audio_sha256": "8ebe0ce85490d3b2e35d9f41f79df13f2880990b4f1af4d459104fe9fba82f4b",
+              "decoded_pcm_sha256": "5a9816c4884175f9ca30dd20607e53924a5713bb1e8b7da10dfc31c57df8fc1d"
+            },
+            {
+              "source": "reference/encouragement.md",
+              "title": "Reference — Support someone’s next step",
+              "start_sample": 724505108,
+              "end_sample": 730745764,
+              "audio_sha256": "aef1df6deda9a6a53721c6665b4c9782d404a8b66a9d6822d353837a67ab5b0c",
+              "decoded_pcm_sha256": "0bb78233e54cffe5ca8b1729751e9b654d251717f8d3f99ab04eb8bcf0a2c4a1"
+            },
+            {
+              "source": "reference/accountability.md",
+              "title": "Reference — Taking responsibility & making corrections",
+              "start_sample": 730745764,
+              "end_sample": 737068118,
+              "audio_sha256": "8b79e7ab9be00fcf25f4e15c0998eccf924d71f25c44b5a94975d28cdf92e1a2",
+              "decoded_pcm_sha256": "41ee65c4dfeff82016b7ca2e3f8512370031a16ffca2c14c628c046aef268c5d"
+            },
+            {
+              "source": "reference/pd-antisocial.md",
+              "title": "Reference — Antisocial personality disorder",
+              "start_sample": 737068118,
+              "end_sample": 743042231,
+              "audio_sha256": "666ea8a98b55dfbc5b28cdf0cb2007c55bf3a2b2ef3063b05358588270d76314",
+              "decoded_pcm_sha256": "abafacbc587a9bb8f1799cc2059872405bf07dc55ab4d0f62f2cb121ee8ce425"
+            },
+            {
+              "source": "reference/pd-avoidant.md",
+              "title": "Reference — Avoidant personality disorder",
+              "start_sample": 743042231,
+              "end_sample": 749203306,
+              "audio_sha256": "ef29f6615e2b694f22f1cc1f348f26f75e3ea991809701b18d67471d4bf83a98",
+              "decoded_pcm_sha256": "15d25ab0364172c48e006b210695325a19567cfc9a4b5c5af6dce39fc583f2bf"
+            },
+            {
+              "source": "reference/pd-borderline.md",
+              "title": "Reference — Borderline personality disorder (BPD)",
+              "start_sample": 749203306,
+              "end_sample": 755302423,
+              "audio_sha256": "e0dc39386990373937bdcf88fb36164301d1ab533aef188dd677ac7a6e03408a",
+              "decoded_pcm_sha256": "0743094afbc5444731e5691e86ea3cb0116bca434cc113aa7e354988893ee80d"
+            },
+            {
+              "source": "reference/pd-dependent.md",
+              "title": "Reference — Dependent personality disorder",
+              "start_sample": 755302423,
+              "end_sample": 761564107,
+              "audio_sha256": "88d2c69b8ef2380403dc98f8c64c21da1a84b2d35b51c2226b90b4254560ce34",
+              "decoded_pcm_sha256": "f210d6bd7b5db5ab2433a9f87910a5f1c5998d03fbb9ee25b4b9ecc5b8ed1fbc"
+            },
+            {
+              "source": "reference/pd-histrionic.md",
+              "title": "Reference — Histrionic personality disorder",
+              "start_sample": 761564107,
+              "end_sample": 767737161,
+              "audio_sha256": "ab3ab8cd9a783774c9dac4f07fb931e8408de84377d5e3412b4c7a75cda0ae1e",
+              "decoded_pcm_sha256": "fa7687e13aaa0b0e752e217bff01a053bf2d4b712311687ea62e80937628021e"
+            },
+            {
+              "source": "reference/pd-narcissistic.md",
+              "title": "Reference — Narcissistic personality disorder (NPD)",
+              "start_sample": 767737161,
+              "end_sample": 774003744,
+              "audio_sha256": "37c1efec08cf681184981d28edc003d89b65d5f2813c65df25c26e6628d61536",
+              "decoded_pcm_sha256": "b214e3683dfba0ff2c73c29e5d066742ba37711e7b147282200bcb7bfc33b3e7"
+            },
+            {
+              "source": "reference/ocd.md",
+              "title": "Reference — Obsessive-compulsive disorder (OCD)",
+              "start_sample": 774003744,
+              "end_sample": 780120545,
+              "audio_sha256": "acc96533f2ad98f112a2e362e9e54856487bc0a3c2807c5ca25937ca7dc86e55",
+              "decoded_pcm_sha256": "acbe4c142b716002d307752207cb9b99f1a398ffd079d51298b296eb44a3d974"
+            },
+            {
+              "source": "reference/pd-ocpd.md",
+              "title": "Reference — Obsessive-compulsive personality disorder (OCPD)",
+              "start_sample": 780120545,
+              "end_sample": 786350932,
+              "audio_sha256": "bcb90c27b3d3e842d71bd1bd1fa53cbe66276e588a5a9de74ab64e2d559e6046",
+              "decoded_pcm_sha256": "b326fc25daaea8b887f5a674471bd398f7357ca12fa484675159e4405524472b"
+            },
+            {
+              "source": "reference/pd-paranoid.md",
+              "title": "Reference — Paranoid personality disorder",
+              "start_sample": 786350932,
+              "end_sample": 792591458,
+              "audio_sha256": "90f2309a510f5136260c58faca385794948c5bac0ab913419a59b45357c4e244",
+              "decoded_pcm_sha256": "fa2b10c5b572351c598a14d32762d61730c4de095abe0c0b00d255fc21ae263a"
+            },
+            {
+              "source": "reference/personality-disorders.md",
+              "title": "Reference — Personality disorders: what the term means",
+              "start_sample": 792591458,
+              "end_sample": 798972317,
+              "audio_sha256": "5b4a8ac309e8ec48ed3e96899d82ee89f2866863bd2507be1d61e8079be13a06",
+              "decoded_pcm_sha256": "6b211fc76ab74cdc53b19ca88470af3c69c6191d4b15f5fcd96b5424ac6bfe87"
+            },
+            {
+              "source": "reference/pd-schizoid.md",
+              "title": "Reference — Schizoid personality disorder",
+              "start_sample": 798972317,
+              "end_sample": 804997711,
+              "audio_sha256": "fdb42006d25b9722577a7624eb8fef934b7df4dfd8a0fec3c0c87cc176009633",
+              "decoded_pcm_sha256": "5093e9e87e82f16c7f0d983a1f10c4932fdd50a463a0a93863549b547947e3ce"
+            },
+            {
+              "source": "reference/pd-schizotypal.md",
+              "title": "Reference — Schizotypal personality disorder",
+              "start_sample": 804997711,
+              "end_sample": 811198471,
+              "audio_sha256": "4c60ffc89047c4493c8b1bd8cb0c64fb634433de2b40c143d4d3ae75b7a1be58",
+              "decoded_pcm_sha256": "22c00f72b5b58582398c47a011b501fbd2ed6d7eddce3ee6c068d5242a5eb2e2"
+            },
+            {
+              "source": "contents.md",
+              "title": "Guide — Contents & reading routes",
+              "start_sample": 811198471,
+              "end_sample": 815957431,
+              "audio_sha256": "e23b7aa4af0b9656fe5e46d958b7a096b21141f7fdd2f2ddcb16a02ab3f3b050",
+              "decoded_pcm_sha256": "3c8ad81620eeef61693b4b1419faf3eedb868dbaeb9a8735b3ca7539d2941d3c"
+            },
+            {
+              "source": "how-to-use.md",
+              "title": "Guide — How to use this book",
+              "start_sample": 815957431,
+              "end_sample": 821758204,
+              "audio_sha256": "e298fbc020070665bd6174be49e1b1903b5cfeac355f07a25ef13681a5a02518",
+              "decoded_pcm_sha256": "c5743af88162329c34d48d3c58fa680f0e133d0d1f95c452f6aa706c9fa5debd"
+            },
+            {
+              "source": "evidence.md",
+              "title": "Guide — How we use evidence",
+              "start_sample": 821758204,
+              "end_sample": 828663476,
+              "audio_sha256": "b30ef24d4560189a8a5805ef77728eee5c302190da388a64d258caeb591db9fd",
+              "decoded_pcm_sha256": "19a9e946353ef6b343821aa301e1fec10279b9fea063e0fd11bef2a6a240a901"
+            },
+            {
+              "source": "reference/index.md",
+              "title": "Guide — Reference library",
+              "start_sample": 828663476,
+              "end_sample": 833485874,
+              "audio_sha256": "0f1455ba1ed70be0cc10d15e7f022b3eb83b73a4bf6a27e5a0c5eb0cf8765322",
+              "decoded_pcm_sha256": "39c795818f578403dab6102e061e63e9c7eeb795722fc5965f5b1d74c1d91442"
+            },
+            {
+              "source": "reference/sources.md",
+              "title": "Guide — Research sources for the reference library",
+              "start_sample": 833485874,
+              "end_sample": 838381345,
+              "audio_sha256": "a0e45e4a02a37a28f694d05cebf91deed14caea474f0165026ab115946e93fd9",
+              "decoded_pcm_sha256": "ae57b59f03a227157a43b0b62778d9aac82950a4c2349731f94668abe82a3190"
+            },
+            {
+              "source": "practice/index.md",
+              "title": "Guide — Practice",
+              "start_sample": 838381345,
+              "end_sample": 841992729,
+              "audio_sha256": "9ea4849f2631ea24145420ea842fa529920314d0e04a67f0caa94674af29fc29",
+              "decoded_pcm_sha256": "8b6a3c0ff7d06f2c1ff82bfb91d557801a963f5c04b5547c80aec8b8bd531a39"
+            },
+            {
+              "source": "worksheet.md",
+              "title": "Guide — Situation worksheet",
+              "start_sample": 841992729,
+              "end_sample": 847405589,
+              "audio_sha256": "f612d9b55d674f0f9fd5dd4a52615b9f9e936458e65c8d19956a60b7a1fc72e0",
+              "decoded_pcm_sha256": "b181a612a7d884e9182e307b43ff058cb2b797e1bd24f75bb3626c23cc605760"
+            },
+            {
+              "source": "support.md",
+              "title": "Guide — When to seek other help",
+              "start_sample": 847405589,
+              "end_sample": 852356743,
+              "audio_sha256": "c0e618450ea16c872be1b00088ec860e93a77958dbd2eedb4aea6d6f31382d55",
+              "decoded_pcm_sha256": "dbc37cf15844fa4cf0938def90c322ba0b5263af5a0bf4c173d22a43529abaf2"
+            },
+            {
+              "source": "glossary.md",
+              "title": "Guide — Glossary",
+              "start_sample": 852356743,
+              "end_sample": 859961878,
+              "audio_sha256": "19ed6be65d86a08356ff1d5d572eac16d052f3f582d163023a97066ba961a2f8",
+              "decoded_pcm_sha256": "409c844e9182eb6daecae4e4165e811d6fab5a366a9d4594fe7f94941ad139fd"
+            },
+            {
+              "source": "references.md",
+              "title": "Guide — Sources & further reading",
+              "start_sample": 859961878,
+              "end_sample": 864990822,
+              "audio_sha256": "286a7cd54801efa996eea04dcaa56d27e3be52d55153755e477a0a34cb40625a",
+              "decoded_pcm_sha256": "3cb7c50d60131660bcacfcba4b8bd4d32b08843e13bce121b763054b8ae5697c"
+            },
+            {
+              "source": "about.md",
+              "title": "Guide — About the book & author",
+              "start_sample": 864990822,
+              "end_sample": 868146789,
+              "audio_sha256": "287dd3c286d439c951bb86ff6e0545312652b4852e10f7c07172586f4ef74385",
+              "decoded_pcm_sha256": "668a123bd08d021e64504ef839eed7fb10b0a57c1e7cbe496ac5e877f863e787"
+            }
+          ],
+          "codec": "AAC-LC",
+          "sample_rate": 24000,
+          "channels": 1,
+          "bitrate": 80000,
+          "url": "https://github.com/snowch/understanding-people/releases/download/audiobooks-2026-11-07/understanding-people-complete-jenny.m4b"
+        }
+      }
+    }
+  }
+}
