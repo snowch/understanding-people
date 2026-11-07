@@ -1,0 +1,52 @@
+name: Publish verified audiobook assets
+
+# Explicit production only. Normal book builds do not encode audio.
+on:
+  push:
+    tags: ['audiobook-build-*']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: audiobook-assets
+  cancel-in-progress: false
+
+jobs:
+  assets:
+    runs-on: ubuntu-24.04
+    container: debian:trixie-slim
+    timeout-minutes: 45
+    steps:
+      - name: Install the approved encoder and tools
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends ca-certificates git gh python3-venv ffmpeg=7:7.1.5-0+deb13u1
+      - uses: actions/checkout@v4
+      - name: Reproduce the approved files from existing recordings
+        run: |
+          python3 -m venv /tmp/audiobook-venv
+          /tmp/audiobook-venv/bin/pip install -r requirements.txt
+          cp audio/audiobook-manifest.json /tmp/approved-audiobook-manifest.json
+          release_tag=$(/tmp/audiobook-venv/bin/python -c 'import json; print(json.load(open("audio/audiobook-manifest.json"))["release_tag"])')
+          /tmp/audiobook-venv/bin/python scripts/package_audiobooks.py --release-tag "$release_tag" --output /tmp/audiobook-release --cache /tmp/audiobook-cache
+      - name: Require exact matches to the approved downloads
+        run: |
+          /tmp/audiobook-venv/bin/python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          expected = json.loads(Path('/tmp/approved-audiobook-manifest.json').read_text())
+          for voice in expected['voices'].values():
+              for edition in voice['editions'].values():
+                  path = Path('/tmp/audiobook-release') / edition['filename']
+                  assert path.stat().st_size == edition['bytes'], path.name
+                  assert hashlib.file_digest(path.open('rb'), 'sha256').hexdigest() == edition['sha256'], path.name
+          Path('/tmp/audiobook-release/audiobook-manifest.json').write_bytes(Path('/tmp/approved-audiobook-manifest.json').read_bytes())
+          PY
+      - name: Upload to the existing draft release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          release_tag=$(/tmp/audiobook-venv/bin/python -c 'import json; print(json.load(open("/tmp/approved-audiobook-manifest.json"))["release_tag"])')
+          gh release view "$release_tag" --repo "$GITHUB_REPOSITORY" --json isDraft --jq '.isDraft' | grep -x true
+          gh release upload "$release_tag" --repo "$GITHUB_REPOSITORY" /tmp/audiobook-release/*.m4b /tmp/audiobook-release/SHA256SUMS.txt /tmp/audiobook-release/audiobook-manifest.json

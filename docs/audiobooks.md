@@ -21,6 +21,8 @@ Large release files are written to `/workspace/audiobook-release/`; temporary PC
 
 ## Validate and publish
 
+If the session credential cannot authenticate to `uploads.github.com`, the explicit `audiobook-build-*` tag workflow can reproduce the approved files on GitHub Actions and upload them with the repository token. It pins the Debian FFmpeg package used for the approved build and requires exact file sizes and SHA-256 matches before any upload. It only uploads to an existing draft release; publishing and public-download verification remain separate steps. Push the build tag only when intentionally running this production job.
+
 The packager verifies AAC-LC/mono/sample rate, embedded artwork, media kind, duration, fast-start placement, both complete chapter tables and full audio decode. Browser checks exercise actual M4B playback and cold chapter seeks with byte-range delivery, as well as the download page's responsive layout, names, scope, single-file links, preference highlighting, no automatic downloads and no-JavaScript links. These checks establish packaging and delivery properties; they are not a listening assessment or a test on a physical Android device.
 
 Use an immutable release tag. Complete and review files/page/manifest locally, commit the source on main, then push the tag pointing to that commit. Create the release as a draft, upload the four verified M4Bs, `SHA256SUMS.txt` and `audiobook-manifest.json`, and verify the asset names/sizes/checksums before making the release public. Publish and verify its public downloads before pushing main, so the Pages update cannot expose links to unavailable draft assets. The release tag and main then point to the same source commit. Do not overwrite earlier published editions in place.
