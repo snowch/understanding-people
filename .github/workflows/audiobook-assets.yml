@@ -25,6 +25,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Reproduce the approved files from existing recordings
         run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git rev-parse HEAD
           python3 -m venv /tmp/audiobook-venv
           /tmp/audiobook-venv/bin/pip install -r requirements.txt
           cp audio/audiobook-manifest.json /tmp/approved-audiobook-manifest.json
@@ -50,3 +52,13 @@ jobs:
           release_tag=$(/tmp/audiobook-venv/bin/python -c 'import json; print(json.load(open("/tmp/approved-audiobook-manifest.json"))["release_tag"])')
           gh release view "$release_tag" --repo "$GITHUB_REPOSITORY" --json isDraft --jq '.isDraft' | grep -x true
           gh release upload "$release_tag" --repo "$GITHUB_REPOSITORY" /tmp/audiobook-release/*.m4b /tmp/audiobook-release/SHA256SUMS.txt /tmp/audiobook-release/audiobook-manifest.json
+      - name: Retain completed files if publication fails
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audiobook-publication-recovery
+          path: |
+            /tmp/audiobook-release/
+            /tmp/approved-audiobook-manifest.json
+          compression-level: 0
+          retention-days: 1
