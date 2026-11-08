@@ -45,7 +45,7 @@ def navigation(source, page, chapters):
         number_html = f'<span class="nav-number">{number}</span>' if number is not None else ''
         return f'<li><a href="{href(item, page, fragment)}"{current}>{number_html}<span class="nav-title">{escape(title)}{' <small class="nav-stub">Stub</small>' if stub else ''}</span></a></li>'
 
-    book = ''.join(link(s, t) for s, t in [('search.md', 'Search the book'), ('contents.md', 'Contents & reading routes'), ('how-to-use.md', 'How to use this book'), ('downloads/index.md', 'Download the audiobook')])
+    book = ''.join(link(s, t) for s, t in [('search.md', 'Search the book'), ('reading-list.md', 'Reading list'), ('contents.md', 'Contents & reading routes'), ('how-to-use.md', 'How to use this book'), ('downloads/index.md', 'Download the audiobook')])
     book += '<li><ol class="chapter-list">' + link('book.md', 'Introduction', '—')
     book += ''.join(link(s, t, f'{i:02}') for i, (t, s) in enumerate(chapters, 1))
     book += link('conclusion.md', 'Conclusion', '—') + '</ol></li>'

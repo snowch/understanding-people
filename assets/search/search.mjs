@@ -53,8 +53,10 @@ if(form){
    const actions=document.createElement('div');actions.className='search-result-actions';actions.append(link('Read passage',d.url+'#'+p.anchor));
    if(d.listen)actions.append(link('Listen',d.url+'#'+d.listen));
    if(d.practice)actions.append(link('Practise',d.url+'#'+d.practice));
+   const save=document.createElement('button');save.type='button';save.className='reading-save';save.hidden=true;save.dataset.readingSave=d.url;save.dataset.readingFragment=p.anchor;actions.append(save);
    li.append(actions);list.append(li);
   }
+  document.dispatchEvent(new Event('reading-list:refresh'));
   count.textContent=results.length?`${mode} · ${Math.min(limit,results.length)} related ${results.length===1?'page':'pages'}${results.length>limit?' shown':''}`:'No close matches';
   document.querySelector('#search-empty').hidden=results.length!==0;
   more.hidden=results.length<=limit;

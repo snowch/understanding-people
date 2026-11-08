@@ -61,6 +61,7 @@ PAGES = [
     ("settings.md", "Settings"),
     ("downloads/index.md", "Download the audiobook"),
     ("search.md", "Search the book"),
+    ("reading-list.md", "Reading list"),
 ]
 CHAPTERS = [
     ("Why we misinterpret people", "chapters/01-before-you-explain.md"),
@@ -230,6 +231,10 @@ def build(include_narration=True, include_search=True):
     settings_hash = hashlib.sha256((ROOT / 'assets/settings.js').read_bytes()).hexdigest()[:12]
     audiobook_hash = hashlib.sha256((ROOT / 'assets/audiobooks.js').read_bytes()).hexdigest()[:12]
     search_hash = hashlib.sha256(b''.join((ROOT/'assets/search'/p).read_bytes() for p in ['search.mjs','rank.mjs','query.mjs','worker.mjs','engine.json','vectors.json','../library.js']) + json.dumps(sources, ensure_ascii=False).encode()).hexdigest()[:12]
+    reading_catalogue = {destination(name).as_posix(): sources[name][0] for name, _ in PAGES if narration_eligible(name)}
+    reading_json = json.dumps(reading_catalogue, ensure_ascii=False, sort_keys=True)
+    (OUT / 'assets/reading-list-index.json').write_text(reading_json, encoding='utf-8')
+    reading_hash = hashlib.sha256((ROOT / 'assets/reading-list.js').read_bytes() + reading_json.encode()).hexdigest()[:12]
     narration_manifest = load_narration_manifest() if include_narration else None
     editions = {voice: load_narration_manifest(voice) for voice in VOICES} if include_narration else {}
     audiobook_data = load_audiobook(CHAPTERS, PAGES, editions) if include_narration else None
@@ -273,7 +278,7 @@ def build(include_narration=True, include_search=True):
         nav_html = book_navigation(name, page)
         pagination_html = context_pagination(name, page, CHAPTERS)
         breadcrumb_html = breadcrumbs(name, page, title)
-        contents = f'<details class="on-page"><summary>On this page</summary>{converter.toc}</details>' if converter.toc_tokens and name != "search.md" else ""
+        contents = f'<details class="on-page"><summary>On this page</summary>{converter.toc}</details>' if converter.toc_tokens and name not in ("search.md", "reading-list.md") else ""
         home = relative(Path("index.html"), page)
         settings_url = relative(Path('settings.html'), page) + ('?return=' + quote(page.as_posix(), safe='') if name != 'settings.md' else '')
         settings_link = f'<a class="header-settings" href="{escape(settings_url, quote=True)}" aria-label="Settings" title="Settings"' + (' aria-current="page"' if name == 'settings.md' else '') + '><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3" fill="var(--paper)"/><circle cx="15" cy="17" r="3" fill="var(--paper)"/></svg><span>Settings</span></a>'
@@ -285,6 +290,9 @@ def build(include_narration=True, include_search=True):
                         if 'class="practice-notes"' in body else '')
         audiobook_script = (f'<script defer src="{relative(Path("assets/audiobooks.js"), page)}?v={audiobook_hash}"></script>' if name == 'downloads/index.md' else '')
         search_script = (f'<script type="module" src="{relative(Path("assets/search/search.mjs"), page)}?v={search_hash}"></script>' if name == 'search.md' else '')
+        reading_url = relative(Path('reading-list.html'), page)
+        reading_tools = (f'<div class="reading-tools"><button type="button" class="reading-save" data-reading-save="{page.as_posix()}" data-reading-current hidden>Save for later</button><a href="{reading_url}">Reading list</a></div>' if narration_eligible(name) else '')
+        reading_status = '<p id="reading-save-status" class="reading-save-status" role="status" aria-live="polite"></p>'
         search_url = relative(Path('search.html'), page)
         search_icon = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>'
         search_link = f'<a class="header-search" href="{search_url}" aria-label="Search the book" title="Search the book">{search_icon}<span>Search</span></a>'
@@ -311,6 +319,7 @@ def build(include_narration=True, include_search=True):
 {narration_script}
 {audiobook_script}
 {search_script}
+<script defer src="{relative(Path('assets/reading-list.js'), page)}?v={reading_hash}"></script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -327,7 +336,7 @@ def build(include_narration=True, include_search=True):
 <aside class="book-sidebar"><p class="nav-label">Explore the guide</p><nav aria-label="Book navigation">{nav_html}</nav></aside>
 <main id="main" tabindex="-1">{breadcrumb_html}<article>
 <header class="chapter-header">{eyebrow_html}<h1>{escape(title)}</h1></header>
-{narration_html}{contents}<div class="prose">{body}</div>
+{reading_tools}{reading_status}{narration_html}{contents}<div class="prose">{body}</div>
 </article>
 <nav class="pagination" aria-label="Continue reading">{pagination_html}</nav>
 <footer><div><span>Understanding people · Draft edition</span><p class="copyright">© 2026 Christopher Snow</p></div><a href="https://github.com/snowch/understanding-people/blob/main/{name}">Page source</a></footer>

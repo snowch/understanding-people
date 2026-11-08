@@ -2,6 +2,8 @@
 
 <p class="search-intro">Describe what you want to understand, or search for a term you already know.</p>
 
+<p class="search-help">Save useful results for later in your <a href="reading-list.html">reading list</a>. Your list stays in this browser; your searches are not saved.</p>
+
 <section class="book-search" aria-label="Search the book">
 <form id="book-search-form" hidden role="search">
 <label for="book-search-query">What would you like to understand?</label>

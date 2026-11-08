@@ -83,7 +83,7 @@ def descendants(node, tag):
 
 def eligible(source):
     # Compatibility notices/redirects have no independent lesson to narrate.
-    return not source.startswith("audio/") and source not in {'settings.md', 'downloads/index.md', 'search.md'}
+    return not source.startswith("audio/") and source not in {'settings.md', 'downloads/index.md', 'search.md', 'reading-list.md'}
 
 
 def speech_sections(title, body):
