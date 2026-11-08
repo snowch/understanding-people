@@ -32,6 +32,9 @@ with sync_playwright() as pw:
         expect(page.locator('main .reference-status')).to_have_count(0)
         expect(page.locator('main')).not_to_contain_text('Stub — full entry planned')
         expect(page.locator('main .reader-action')).to_have_count(1)
+        if e.get('audioStatus')=='text':
+            expect(page.locator('.page-narration')).to_have_count(0)
+            expect(page.locator('.narration-update')).to_contain_text('Written edition')
         assert page.locator('main .practice-notes textarea').count()>=4
         expect(page.locator('.book-sidebar a[aria-current="page"]')).to_have_count(1)
         if e['appNode'] not in ['confirmation','correspondence','refusehelp']:
@@ -51,7 +54,7 @@ with sync_playwright() as pw:
     expect(page.locator('label[for="reference-pd-narcissistic-thought"]')).to_have_text('What remains uncertain or needs professional assessment?')
     for width in [320,390,834,1440]:
         page.set_viewport_size({'width':width,'height':950})
-        for slug in ['index','sources','gaslighting','pd-narcissistic','agreeableness','autonomy']:
+        for slug in ['index','sources','gaslighting','pd-narcissistic','agreeableness','autonomy','ai-reflection','comparing-occasions','naming-and-belonging']:
             page.goto(base+'reference/'+slug+'.html');assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),(width,slug)
         page.goto(base+'reference/index.html');page.locator('#library-query').fill('gaslighting');page.locator('.library-entry:visible h3 a').click();expect(page.locator('main h1')).to_have_text('Gaslighting & undermining your reality')
         page.goto(base+'reference/index.html');page.locator('#library-status').select_option('developed');expect(page.locator('.library-entry:visible')).to_have_count(136)

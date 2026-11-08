@@ -242,7 +242,7 @@ These are original short annotations, not copied abstracts or questionnaire mate
 **S22 — Frazier and colleagues (2017), [Psychological Safety: A Meta-Analytic Review and Extension](https://digitalcommons.odu.edu/management_fac_pubs/13/).** Institutional abstract; 136 independent workplace samples. Supports distinct coverage of psychological safety and its context. Associations do not guarantee a technique will make speaking up safe.
 
 <a id="s23"></a>
-**S23 — Stewart and colleagues, [The finer details of personality prediction](https://pubmed.ncbi.nlm.nih.gov/34236710/).** Abstract retrieved through NCBI; large-sample study of domains, facets and narrower items, with separate training/validation partitions. Supports explaining finer distinctions. Self-reported outcomes and predictive associations are not causal explanations of individual conduct.
+**S23 — Stewart and colleagues (2022), [The finer details of personality prediction](https://pubmed.ncbi.nlm.nih.gov/34236710/).** Abstract retrieved through NCBI; large-sample study of domains, facets and narrower items, with separate training/validation partitions. Supports explaining finer distinctions. Self-reported outcomes and predictive associations are not causal explanations of individual conduct.
 
 <a id="s24"></a>
 **S24 — Williams (2007), [Ostracism](https://pubmed.ncbi.nlm.nih.gov/16968209/).** Review abstract. Supports distinguishing being ignored or excluded from restricting another person's contacts. Does not determine why someone was not invited to one event.

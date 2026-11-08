@@ -77,7 +77,7 @@
       "status": "new-text",
       "date": "2026-11-08",
       "reason": "Research audit expansion: original written reference, without a new recording.",
-      "page_text_sha256": "b065286199825aa0933a3a0169f2b181ef35ec483515407f69f95e4013304a76"
+      "page_text_sha256": "8db9886da254727b37dad61f3d0fc40196fdf7287a19d8030d919d18e07d922c"
     },
     "reference/exclusion-and-reputation.md": {
       "status": "new-text",
@@ -168,13 +168,13 @@
       "status": "revised-text",
       "date": "2026-11-08",
       "reason": "Library catalogue or source log expanded; preserve its earlier recording without presenting it as the revised text.",
-      "page_text_sha256": "1cd12f1ad3050b6a4edc425cccb310f6508478a407526aefd15b4b5b1b9508de",
+      "page_text_sha256": "9c38a948e1af4cc18ad2ee95fce5ecd4f0837ee2fc7bc6f5ef2d484bc8473faf",
       "recorded_page_text_sha256": "cc0793c22a10f97b8a137ea4f3021abd2820988190d2f0388e4625148db1acc1",
       "recorded_source_hashes": {
         "reference/research-sources.json": "844591348b59194555e6242f6814dcccdc660fea8ede256a0ec016dbe1a6e86a"
       },
       "current_source_hashes": {
-        "reference/research-sources.json": "087d7a109f8456a86b089fe37a6f9c9e3d322248a4baed5e74144768d6694336"
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
       }
     }
   }

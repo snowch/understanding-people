@@ -179,6 +179,8 @@ footer { margin-top:50px; padding-top:24px; font-size:11px; color:var(--muted); 
 .reading-connections li { margin-block:.8rem; }
 .reading-connections a { display:inline; padding:0; border:0; border-radius:0; background:none; font:inherit; text-decoration:underline; text-underline-offset:.18em; }
 .narration-update { color:var(--muted); font-family:var(--ui); font-size:.9rem; line-height:1.6; margin-block:1rem 1.5rem; }
+.prose pre { max-width:100%; white-space:pre-wrap; overflow-wrap:anywhere; }
+.prose pre code { white-space:inherit; overflow-wrap:anywhere; }
 .book-preferences { font-family:var(--ui); }
 .book-preferences legend { font-family:var(--reading); }
 .voice-option { border-radius:12px; background:var(--surface); }

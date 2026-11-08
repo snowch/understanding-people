@@ -286,9 +286,9 @@ Conversation does not guarantee honesty, complete understanding or safety. These
 
 **Access scope:** Research record and abstract read through Europe PMC; no claim of full-text review. Checked 2026-11-02. [Source record](https://europepmc.org/article/MED/29620401).
 
-## Stewart and colleagues. The finer details? The predictability of life outcomes from Big Five domains, facets, and nuances. {#facets}
+## Stewart and colleagues (2022). The finer details? The predictability of life outcomes from Big Five domains, facets, and nuances. {#facets}
 
-[Stewart and colleagues. The finer details? The predictability of life outcomes from Big Five domains, facets, and nuances.](https://pubmed.ncbi.nlm.nih.gov/34236710/)
+[Stewart and colleagues (2022). The finer details? The predictability of life outcomes from Big Five domains, facets, and nuances.](https://pubmed.ncbi.nlm.nih.gov/34236710/)
 
 Ross Stewart and colleagues compared broad traits, facets and narrower descriptions when predicting 53 self-reported outcomes in a large dataset with separate training and validation samples. Narrower descriptions carried useful information.
 
