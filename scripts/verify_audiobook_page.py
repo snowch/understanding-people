@@ -37,7 +37,7 @@ def verify(base, screenshots=False):
             link = card.locator('.audiobook-download')
             expect(link).to_be_visible()
             expect(link).to_have_attribute('href', record['editions']['complete']['url'])
-            expect(card).to_contain_text('136 chapters')
+            expect(card).to_contain_text(f'{len(record["editions"]["complete"]["chapters"])} chapters')
             assert link.get_attribute('href').endswith('.m4b')
         expect(page.locator('[data-audiobook-voice="andrew"]')).to_have_attribute('data-preferred','true')
         page.evaluate('window.BookSettings.set({voice:"jenny"})')
