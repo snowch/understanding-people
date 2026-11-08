@@ -15,6 +15,7 @@ from playwright.sync_api import sync_playwright,expect
 from verify_page_narration import RangeHandler,ThreadingHTTPServer
 from reference_terminology import terms,core_terms
 from book_navigation import ENTRIES
+from written_editions import editions
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -77,13 +78,14 @@ def verify(base):
   for term in terms():
    row=page.locator('.glossary-entry').filter(has=page.locator('h2#'+term['id']))
    expect(row.get_by_role('link',name='Read in context')).to_have_attribute('href',term['source'].replace('.md','.html')+'#definition-'+term['id'])
-   expect(row.get_by_role('link',name='Listen to the lesson')).to_have_attribute('href',term['source'].replace('.md','.html')+'#page-narration-title')
+   if term['source'] in editions():expect(row.get_by_role('link',name='Listen to the lesson')).to_have_count(0)
+   else:expect(row.get_by_role('link',name='Listen to the lesson')).to_have_attribute('href',term['source'].replace('.md','.html')+'#page-narration-title')
   for entry in ENTRIES:
    page.goto(base+entry['source'].replace('.md','.html'))
    links=page.locator('a.glossary-term');hrefs=links.evaluate_all('(els)=>els.map(e=>e.getAttribute("href"))')
    assert len(hrefs)==len(set(hrefs)),entry['source']
    assert not page.locator('a a').count(),entry['source']
-   expect(page.locator('.page-narration')).to_have_count(1)
+   expect(page.locator('.page-narration')).to_have_count(0 if entry['source'] in editions() else 1)
   # A lookup result must offer the relevant reference's audio, not the foundation tour.
   page.goto(base+'search.html');page.locator('#meaning-search').uncheck()
   page.locator('#book-search-query').fill('family boundary ambiguity')

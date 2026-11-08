@@ -28,6 +28,7 @@ jobs:
       - run: python -m unittest discover -s scripts -p test_written_editions.py
       - run: python -m unittest discover -s scripts -p test_narration_delivery.py
       - run: python -m unittest discover -s scripts -p test_reference_terminology.py
+      - run: python -m unittest discover -s scripts -p test_narration_source_reviews.py
       - run: node --test scripts/test_search_worker.mjs scripts/test_search_query.mjs
       - run: python scripts/build.py
       - uses: actions/configure-pages@v5

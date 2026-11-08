@@ -20,6 +20,32 @@ Roy Baumeister and Mark Leary reviewed evidence for a widespread motivation to f
 
 Dacher Keltner, Deborah Gruenfeld and Cameron Anderson reviewed theory and evidence connecting unequal power with opportunities, threats and behavioural tendencies. This is a broad framework, not a universal rule about every powerful or less powerful person. [Keltner D, Gruenfeld DH, Anderson C. (2003). Power, approach, and inhibition.](https://pubmed.ncbi.nlm.nih.gov/12747524/)
 
+## When agreement brings immediate relief {#agreement-relief-cycle}
+
+Appeasement describes trying to reduce another person’s negative reaction. In a disagreement, this is sometimes called conflict-avoidant accommodation. These are descriptions, not diagnoses or evidence of a fixed trauma response. Accommodating someone can also be freely chosen generosity, a practical compromise or a way of managing a real threat.
+
+One possible sequence is:
+
+1. A request or expectation arises.
+2. The person anticipates disapproval, conflict or retaliation.
+3. They agree despite a competing preference or commitment.
+4. Immediate tension or anxiety falls.
+5. That relief may make agreement more likely on a later occasion.
+
+In learning terminology, relief that increases later agreement can be negative reinforcement: an unpleasant experience is reduced. Negative means removal, not wrongdoing. A sequence does not establish the explanation by itself. Record whether a negative reaction actually occurred, was explicitly threatened or was anticipated from earlier experience. You cannot tell from agreement alone.
+
+The person making the request may come to expect agreement, while the person agreeing may expect that refusal will be costly. Such expectations can develop without anyone planning the cycle. They do not establish equal responsibility. Anticipated consequences may be realistic, and the person accommodating pressure is not responsible for someone else’s threats or retaliation.
+
+[Hofmann & Hay (2018). Rethinking avoidance: Toward a balanced approach to avoidance in treating anxiety disorders.](https://pubmed.ncbi.nlm.nih.gov/29550689/). Function and actual danger matter. This is not a reason to remove someone’s safety arrangements or conduct exposure treatment yourself.
+
+[Keltner D, Gruenfeld DH, Anderson C. (2003). Power, approach, and inhibition.](https://pubmed.ncbi.nlm.nih.gov/12747524/). This is a broad framework, not a universal rule about every powerful or less powerful person.
+
+## Make room for choice without transferring the cost {#choice-costs-and-alternatives}
+
+Before changing an answer, identify who will do the work, what existing commitments would be displaced and whether anyone else is being volunteered. An agreement that protects one relationship can still create a cost in another. Shared commitments need discussion with those affected; changing your own response does not give you authority over someone else’s time.
+
+Where refusal is safe, a useful first step can be checking a commitment before agreeing, offering a smaller contribution or asking the person making the request to consider another arrangement. If you make the request, allow a genuine pause or no and handle disappointment without pressure. If refusal carries a credible risk, prioritise support and feasible choices rather than treating assertiveness as a test of courage.
+
 ## What else could explain it? {#a-distinction-to-keep-in-mind}
 
 Being polite, culturally respectful or strategically careful in an unequal setting is not automatically a personal problem. A person may have real consequences to manage if they decline. A wish to become more assertive should not lead to denying care duties or assuming that every uncomfortable request is unreasonable.
@@ -28,7 +54,7 @@ These alternatives are starting points, not an exhaustive list.
 
 ## What to notice and check
 
-Notice when you answer, whether you understand the request and what you expect would happen if you said no. Compare your immediate response with how you feel after checking your calendar or resources. If someone else repeatedly agrees, ask whether your reactions make an honest no difficult.
+Notice when you answer, whether you understand the request and what you expect would happen if you said no. Compare your immediate response with how you feel after checking your calendar or resources. If someone else repeatedly agrees, ask whether your reactions make an honest no difficult. Distinguish an anticipated reaction from one actually experienced. Note whether agreement reduces immediate anxiety and what it costs later, including commitments made by or for other people.
 
 ## How to respond
 
@@ -48,6 +74,9 @@ These are editorial reading connections, not evidence of a cause or diagnosis in
 
 - [Having a say](autonomy.md): A choice needs room to consider and refuse.
 - [Boundaries](boundaries.md): A limit should fit what is possible and safe.
+- [Consequences that sustain a pattern](reinforcement.md): Relief can affect later choices, but a repeated yes does not prove what maintains it.
+- [Pressure, withdrawal & interaction cycles](interaction-cycles.md): Describe the sequence without assuming a plan or equal responsibility.
+- [Learned expectations](learned.md): Separate what the person expects from what happened on the occasion.
 
 <span id="evidence-to-develop"></span>
 
@@ -57,9 +86,9 @@ These are editorial reading connections, not evidence of a cause or diagnosis in
 
 ## Key takeaways {#key-takeaways}
 
-- Consideration can be freely chosen rather than people-pleasing.
-- Check preference, capacity and the cost of refusal.
-- A pause can support a more honest agreement.
+- Agreement can reflect generosity, relief from conflict or a real constraint; the response alone does not tell you which.
+- A relief-and-agreement cycle can develop without a conscious plan or equal responsibility.
+- Support a genuine choice and review both immediate relief and later costs.
 
 </section>
 
@@ -67,9 +96,9 @@ These are editorial reading connections, not evidence of a cause or diagnosis in
 
 ## Put it into practice {#practice}
 
-1. Review one recent yes and the preference or cost you did not consider.
-2. Try a safe pause or a specific sustainable answer on the next ordinary request.
-3. Review honesty, workload and consequences, rather than whether disappointment disappeared.
+1. In the notes below, record one recent yes: the request, your preference, the reaction you predicted and what actually happened.
+2. Check whose time or commitments are affected. Choose a safe pause, a sustainable offer, a shared arrangement or relevant support.
+3. On the next comparable occasion, review freedom to choose, immediate tension and later costs. Do not count the absence of disappointment as the only success.
 
 <!-- practice-notes: reference-people-pleasing | People-pleasing & automatic agreement -->
 

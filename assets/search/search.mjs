@@ -51,7 +51,7 @@ if(form){
    if(p.heading!==d.title){const section=document.createElement('p');section.className='search-result-section';section.textContent=p.heading;li.append(section);}
    const quote=document.createElement('p');quote.className='search-excerpt';quote.textContent=excerpt(p.text);li.append(quote);
    const actions=document.createElement('div');actions.className='search-result-actions';actions.append(link('Read passage',d.url+'#'+p.anchor));
-   if(p.listen_url)actions.append(link('Listen in context',p.listen_url));
+   if(Object.hasOwn(p,'listen_url')){if(p.listen_url)actions.append(link('Listen in context',p.listen_url));}
    else if(d.listen)actions.append(link('Listen',d.url+'#'+d.listen));
    if(d.practice)actions.append(link('Practise',d.url+'#'+d.practice));
    const save=document.createElement('button');save.type='button';save.className='reading-save';save.hidden=true;save.dataset.readingSave=d.url;save.dataset.readingFragment=p.anchor;actions.append(save);

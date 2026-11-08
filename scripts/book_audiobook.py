@@ -61,6 +61,14 @@ def duration(seconds):
 
 
 def render(data, page):
+    from written_editions import editions
+    updates=[]
+    for source,item in editions().items():
+        if item['status']=='revised-text':
+            title=(ROOT/source).read_text().splitlines()[0][2:]
+            url=Path(os.path.relpath(target(source),page.parent)).as_posix()
+            updates.append(f'<a href="{escape(url,quote=True)}">{escape(title)}</a>')
+    update_note='<p class="recorded-edition-note">Recorded edition: later written additions to '+', '.join(updates)+' are not included in these downloads.</p>' if updates else ''
     def download(voice, kind):
         info, edition = VOICES[voice], data['voices'][voice]['editions'][kind]
         return (f'<a class="audiobook-download" href="{escape(edition["url"], quote=True)}" download="{edition["filename"]}" '
@@ -75,6 +83,7 @@ def render(data, page):
     sequence = ''.join('<li><a href="' + escape(Path(os.path.relpath(target(c['source']), page.parent)).as_posix(), quote=True) + '">' + escape(c['title']) + '</a></li>' for c in chapters)
     return f'''<section class="audiobook-library" aria-labelledby="complete-audiobook">
 <h2 id="complete-audiobook">The recorded book, in one file</h2>
+{update_note}
 <p>This edition contains the course, reference library and reading guides in {len(data['voices']['andrew']['editions']['complete']['chapters'])} sections, including the expanded reference library. Each section is adapted for listening, with time to reflect.</p>
 <div class="audiobook-editions">{''.join(cards)}</div>
 <details class="audiobook-course"><summary>Smaller download: just the course</summary><p>One file per voice, containing the introduction, twelve chapters and conclusion. The reference library and reading guides are left out of this smaller edition.</p><div class="audiobook-course-links">{core}</div></details>

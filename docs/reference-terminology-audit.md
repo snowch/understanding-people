@@ -2,7 +2,7 @@
 
 8 November 2026. All 136 developed references were checked for vocabulary that needs a plain-English definition, a distinction from an everyday meaning, or a glossary pointer. This is a terminology and navigation audit, not a new review of scientific accuracy or a specialist review.
 
-The glossary now indexes 114 headwords: 24 existing course terms and 90 reference lookups. Implementation intention points to the existing if–then-plan definition. No extra reference pages or graph nodes are created.
+The glossary now indexes 115 headwords: 24 existing course terms and 91 reference lookups. Implementation intention points to the existing if–then-plan definition. No extra reference pages or graph nodes are created.
 
 ## Decisions
 
@@ -55,10 +55,10 @@ The glossary now indexes 114 headwords: 24 existing course terms and 90 referenc
 | [Listening and checking understanding](../reference/listening.md) | Topic already explained in the entry | 2 |
 | [Minimising harm or impact](../reference/minimising.md) | Topic already explained in the entry | 4 |
 | [Monitoring & demands for access](../reference/monitoring.md) | Topic already explained in the entry | 1 |
-| [People-pleasing & automatic agreement](../reference/people-pleasing.md) | people-pleasing | 7 |
+| [People-pleasing & automatic agreement](../reference/people-pleasing.md) | people-pleasing, appeasement | 9 |
 | [Possessiveness & demands for exclusivity](../reference/possessiveness.md) | Topic already explained in the entry | 7 |
 | [Repair after a misunderstanding](../reference/repairing.md) | Topic already explained in the entry | 1 |
-| [Repeated criticism](../reference/criticism.md) | Topic already explained in the entry | 2 |
+| [Repeated criticism](../reference/criticism.md) | Topic already explained in the entry | 3 |
 | [Repeatedly asking for reassurance](../reference/reassurance.md) | Topic already explained in the entry | 4 |
 | [Repeatedly pushing a stated limit](../reference/boundary-pushing.md) | Topic already explained in the entry | 5 |
 | [Responding defensively](../reference/defensive.md) | Topic already explained in the entry | 5 |

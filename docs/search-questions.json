@@ -314,5 +314,29 @@
       "reference/digital-misunderstandings.html"
     ],
     "required": true
+  },
+  {
+    "query": "appeasement",
+    "expected": [
+      "reference/people-pleasing.html",
+      "glossary.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "conflict-avoidant accommodation",
+    "expected": [
+      "reference/people-pleasing.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "Is this personality or a behaviour that gets results?",
+    "expected": [
+      "reference/reinforcement.html",
+      "chapters/06-personality-habits-situations.html",
+      "reference/criticism.html"
+    ],
+    "required": true
   }
 ]

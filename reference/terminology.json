@@ -744,7 +744,7 @@
       "title": "Negative reinforcement",
       "source": "reference/reinforcement.md",
       "anchor": "main",
-      "source_sha256": "a5ced269de3edef157a015e435a3f16d3007709a68116d7540a0d0bcdef290e1",
+      "source_sha256": "20d767159322d6ff2569fa0bd6a7c28e89b330533b6c4e5fb45740d73d1daa57",
       "meaning": "A consequence that makes a response more likely by removing something unpleasant. Negative means removal, not badness; reinforcement means an effect on future behaviour.",
       "example": "If avoiding a difficult conversation brings relief and makes avoidance more likely next time, that relief can reinforce avoidance. One occasion alone does not establish the pattern.",
       "forms": [
@@ -904,7 +904,7 @@
       "title": "People-pleasing",
       "source": "reference/people-pleasing.md",
       "anchor": "main",
-      "source_sha256": "a9f7026b4b690e8cbc147d57591ccec60e1f8bde152d09a71aac1c5d89f9fab9",
+      "source_sha256": "55169cb9f170c3d09a542bd6bdc5d614f8674fd5615c9bd7d38f01c94c86d979",
       "meaning": "People-pleasing is an everyday term for repeatedly accommodating others at the expense of your own preferences, capacity or limits, often to avoid disapproval. It is not a clinical diagnosis. Generosity and cooperation can be freely chosen, so the term should not be applied merely because someone is considerate.",
       "example": "You accept an extra family task before thinking, then cancel your own appointment. Next time, saying “I need to check what I can manage” creates space for an honest answer. The aim is a workable commitment, not making the other person admire your boundary.",
       "forms": [
@@ -961,7 +961,7 @@
       "title": "Positive reinforcement",
       "source": "reference/reinforcement.md",
       "anchor": "main",
-      "source_sha256": "a5ced269de3edef157a015e435a3f16d3007709a68116d7540a0d0bcdef290e1",
+      "source_sha256": "20d767159322d6ff2569fa0bd6a7c28e89b330533b6c4e5fb45740d73d1daa57",
       "meaning": "A consequence that makes a response more likely by adding something. Positive means addition, not moral approval, and the effect must be judged over time.",
       "example": "Recognition after useful updates may be positive reinforcement if it makes those updates more likely. Praise alone does not establish the effect.",
       "forms": [
@@ -1038,7 +1038,7 @@
       "title": "Reinforcement",
       "source": "reference/reinforcement.md",
       "anchor": "main",
-      "source_sha256": "a5ced269de3edef157a015e435a3f16d3007709a68116d7540a0d0bcdef290e1",
+      "source_sha256": "20d767159322d6ff2569fa0bd6a7c28e89b330533b6c4e5fb45740d73d1daa57",
       "meaning": "A learning process in which a consequence makes a response more likely in similar circumstances. It describes a change in responding, not simply someone’s intention.",
       "example": "Relief after avoiding an awkward refusal may make avoidance more likely. Check what happens across occasions rather than inferring a learning process from one event.",
       "forms": [
@@ -1200,6 +1200,20 @@
       "forms": [
         "Triangulation"
       ]
+    },
+    {
+      "id": "appeasement",
+      "title": "Appeasement in conflict",
+      "source": "reference/people-pleasing.md",
+      "anchor": "agreement-relief-cycle",
+      "source_sha256": "55169cb9f170c3d09a542bd6bdc5d614f8674fd5615c9bd7d38f01c94c86d979",
+      "meaning": "Trying to reduce another person’s negative reaction, sometimes by agreeing despite a competing preference. In conflict this may be called conflict-avoidant accommodation. It can concern discomfort or real danger; it is not a diagnosis or proof of a fixed trauma response.",
+      "example": "Someone agrees to an extra task because they expect an argument if they decline. Record whether that reaction was threatened, experienced before or only predicted. The agreement alone does not establish why they made it.",
+      "forms": [
+        "Appeasement",
+        "conflict-avoidant accommodation"
+      ],
+      "kind": "Descriptive vocabulary"
     }
   ]
 }

@@ -384,7 +384,7 @@
       "meaning": "Repeated criticism involves recurring negative evaluation of someone’s work, choices or conduct. It can include necessary feedback, an unresolved standards dispute or a demeaning pattern. Frequency alone does not distinguish them. The content, context, proportionality and opportunity to respond all matter.",
       "arise": "A person may be trying to correct a real problem, expressing frustration, applying an unclear standard or seeking influence. Public criticism can also affect status and willingness to speak. These are possible explanations, not an exhaustive list or a way to establish intent. A legitimate concern can be delivered harmfully, and an unpleasant delivery does not automatically make every factual point wrong.",
       "alternatives": "Specific feedback differs from a global judgment such as “You are useless.” A demanding role can justify careful review without justifying humiliation. A person may feel criticised by an ordinary disagreement, while another may minimise a genuine pattern. Compare the conduct and effects rather than deciding from either label alone.",
-      "notice": "Collect a few representative examples, including what was criticised, the stated standard, the audience and what followed. Include positive or ordinary feedback and whether the same standard applies to others. Ask whether you can understand what would count as adequate work. If criticism is yours, notice whether it identifies a change or merely communicates dissatisfaction.",
+      "notice": "Collect a few representative examples, including what was criticised, the stated standard, the audience and what followed. Include positive or ordinary feedback and whether the same standard applies to others. Ask whether you can understand what would count as adequate work. If criticism is yours, notice whether it identifies a change or merely communicates dissatisfaction. Compare how feedback is delivered to different people and what changes after a concern is raised, where it is safe to do so. A single improvement or refusal to change does not settle the explanation.",
       "respond": "For an ordinary issue, ask for a specific example and a usable standard. Address any accurate part while requesting a different method of feedback where needed. If the pattern is belittling, discriminatory or retaliatory, consider relevant support and procedures. Do not make your safety or self-respect depend on proving the critic’s psychological motive.",
       "example": "Fictional example: A manager says a report is poor but gives no criteria. Asking which decision it fails to support and what needs changing makes the issue more concrete. Repeated public insults would remain a separate concern even if the report needs revision.",
       "takeaways": [
@@ -422,9 +422,39 @@
           "node": "familynorms",
           "relationship": "context to examine",
           "why": "Advice that seems ordinary to one person may feel intrusive to another."
+        },
+        {
+          "node": "reinforcement",
+          "relationship": "compare explanations",
+          "why": "Separate a tendency to criticise from what the criticism gains or avoids; neither alone establishes a motive."
+        },
+        {
+          "node": "learned",
+          "relationship": "consider alongside",
+          "why": "An expectation that objections are unlikely can be learned without a conscious plan."
         }
       ],
-      "specialistCaveat": false
+      "specialistCaveat": false,
+      "sections": [
+        {
+          "id": "tendency-or-learned-pattern",
+          "title": "A general tendency or a pattern that gets results?",
+          "paragraphs": [
+            "Calling someone a critical person summarises what you have noticed; it does not explain why the criticism continues. Compare a tendency across settings with expectations learned in particular relationships and with what the criticism accomplishes. Criticism might lead others to change plans or stop disagreeing. That outcome is a possible influence, not proof of motive or reinforcement.",
+            "These explanations can coexist. The person may also be unaware of the impact or believe their comments are welcome. No objection does not establish agreement: people may be tired, dependent or worried about the response. Compare occasions, exceptions and what happened when concerns were safely raised. Selective restraint is useful information about context, not proof of a deliberate campaign.",
+            "The [guide to tendencies, expectations and consequences](reinforcement.md#tendency-expectation-consequence) explains the comparison. Whatever the explanation, a recipient does not cause another person’s harmful conduct by failing to object."
+          ],
+          "sources": [
+            "states",
+            "speak-up"
+          ]
+        }
+      ],
+      "lookupTerms": [
+        "critical personality",
+        "criticism without objection",
+        "criticism that gets results"
+      ]
     },
     {
       "id": "contempt",
@@ -876,18 +906,18 @@
       "meaning": "People-pleasing is an everyday term for repeatedly accommodating others at the expense of your own preferences, capacity or limits, often to avoid disapproval. It is not a clinical diagnosis. Generosity and cooperation can be freely chosen, so the term should not be applied merely because someone is considerate.",
       "arise": "An immediate yes may reduce the discomfort of disappointing someone while creating later overload or resentment. Earlier expectations and current power differences may matter. A person may also genuinely value the contribution. The useful distinction is whether they can weigh that value alongside their own needs and give a sufficiently free answer.",
       "alternatives": "Being polite, culturally respectful or strategically careful in an unequal setting is not automatically a personal problem. A person may have real consequences to manage if they decline. A wish to become more assertive should not lead to denying care duties or assuming that every uncomfortable request is unreasonable.",
-      "notice": "Notice when you answer, whether you understand the request and what you expect would happen if you said no. Compare your immediate response with how you feel after checking your calendar or resources. If someone else repeatedly agrees, ask whether your reactions make an honest no difficult.",
+      "notice": "Notice when you answer, whether you understand the request and what you expect would happen if you said no. Compare your immediate response with how you feel after checking your calendar or resources. If someone else repeatedly agrees, ask whether your reactions make an honest no difficult. Distinguish an anticipated reaction from one actually experienced. Note whether agreement reduces immediate anxiety and what it costs later, including commitments made by or for other people.",
       "respond": "Try a brief pause, a request for details or a narrower offer that you can sustain. State your preference without a long defence when the situation allows it. For shared duties, negotiate an arrangement rather than simply withdrawing. If refusal could lead to harm or serious retaliation, consider support and real options as well as wording.",
       "example": "Fictional example: You accept an extra family task before thinking, then cancel your own appointment. Next time, saying “I need to check what I can manage” creates space for an honest answer. The aim is a workable commitment, not making the other person admire your boundary.",
       "takeaways": [
-        "Consideration can be freely chosen rather than people-pleasing.",
-        "Check preference, capacity and the cost of refusal.",
-        "A pause can support a more honest agreement."
+        "Agreement can reflect generosity, relief from conflict or a real constraint; the response alone does not tell you which.",
+        "A relief-and-agreement cycle can develop without a conscious plan or equal responsibility.",
+        "Support a genuine choice and review both immediate relief and later costs."
       ],
       "practice": [
-        "Review one recent yes and the preference or cost you did not consider.",
-        "Try a safe pause or a specific sustainable answer on the next ordinary request.",
-        "Review honesty, workload and consequences, rather than whether disappointment disappeared."
+        "In the notes below, record one recent yes: the request, your preference, the reaction you predicted and what actually happened.",
+        "Check whose time or commitments are affected. Choose a safe pause, a sustainable offer, a shared arrangement or relevant support.",
+        "On the next comparable occasion, review freedom to choose, immediate tension and later costs. Do not count the absence of disappointment as the only success."
       ],
       "sources": [
         "sdt",
@@ -904,9 +934,54 @@
           "node": "boundaries",
           "relationship": "consider alongside",
           "why": "A limit should fit what is possible and safe."
+        },
+        {
+          "node": "reinforcement",
+          "relationship": "understand the sequence",
+          "why": "Relief can affect later choices, but a repeated yes does not prove what maintains it."
+        },
+        {
+          "node": "interaction-cycles",
+          "relationship": "consider alongside",
+          "why": "Describe the sequence without assuming a plan or equal responsibility."
+        },
+        {
+          "node": "learned",
+          "relationship": "consider alongside",
+          "why": "Separate what the person expects from what happened on the occasion."
         }
       ],
-      "specialistCaveat": false
+      "specialistCaveat": false,
+      "sections": [
+        {
+          "id": "agreement-relief-cycle",
+          "title": "When agreement brings immediate relief",
+          "paragraphs": [
+            "Appeasement describes trying to reduce another person’s negative reaction. In a disagreement, this is sometimes called conflict-avoidant accommodation. These are descriptions, not diagnoses or evidence of a fixed trauma response. Accommodating someone can also be freely chosen generosity, a practical compromise or a way of managing a real threat.",
+            "One possible sequence is:\n\n1. A request or expectation arises.\n2. The person anticipates disapproval, conflict or retaliation.\n3. They agree despite a competing preference or commitment.\n4. Immediate tension or anxiety falls.\n5. That relief may make agreement more likely on a later occasion.",
+            "In learning terminology, relief that increases later agreement can be negative reinforcement: an unpleasant experience is reduced. Negative means removal, not wrongdoing. A sequence does not establish the explanation by itself. Record whether a negative reaction actually occurred, was explicitly threatened or was anticipated from earlier experience. You cannot tell from agreement alone.",
+            "The person making the request may come to expect agreement, while the person agreeing may expect that refusal will be costly. Such expectations can develop without anyone planning the cycle. They do not establish equal responsibility. Anticipated consequences may be realistic, and the person accommodating pressure is not responsible for someone else’s threats or retaliation."
+          ],
+          "sources": [
+            "avoidance-review",
+            "power"
+          ]
+        },
+        {
+          "id": "choice-costs-and-alternatives",
+          "title": "Make room for choice without transferring the cost",
+          "paragraphs": [
+            "Before changing an answer, identify who will do the work, what existing commitments would be displaced and whether anyone else is being volunteered. An agreement that protects one relationship can still create a cost in another. Shared commitments need discussion with those affected; changing your own response does not give you authority over someone else’s time.",
+            "Where refusal is safe, a useful first step can be checking a commitment before agreeing, offering a smaller contribution or asking the person making the request to consider another arrangement. If you make the request, allow a genuine pause or no and handle disappointment without pressure. If refusal carries a credible risk, prioritise support and feasible choices rather than treating assertiveness as a test of courage."
+          ]
+        }
+      ],
+      "lookupTerms": [
+        "appeasement",
+        "conflict-avoidant accommodation",
+        "agreeing to avoid an argument",
+        "agreement and relief"
+      ]
     },
     {
       "id": "over-responsibility",

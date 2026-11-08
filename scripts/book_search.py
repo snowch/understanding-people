@@ -30,8 +30,11 @@ def packed(data):
 
 
 def catalogue(out, pages, chapters):
+    from build_reference_entries import content
+    lookups={entry['id']:entry.get('lookupTerms',[]) for entry in content()}
     from reference_terminology import terms as glossary_terms
-    glossary_listen = {t['id']:t['source'].replace('.md','.html')+'#page-narration-title' for t in glossary_terms()}
+    from written_editions import editions
+    glossary_listen = {t['id']:('' if t['source'] in editions() else t['source'].replace('.md','.html')+'#page-narration-title') for t in glossary_terms()}
     entries = {e['source']: e for e in ENTRIES}
     chapter_numbers = {s: i for i, (_, s) in enumerate(chapters, 1)}
     documents, passages = [], []
@@ -50,7 +53,7 @@ def catalogue(out, pages, chapters):
         entry = entries.get(source, {})
         kind = ('Reference' if source in entries else f'Chapter {chapter_numbers[source]}' if source in chapter_numbers
                 else 'Glossary' if source == 'glossary.md' else 'Introduction' if source == 'book.md' else 'Reading guide')
-        doc = {'url': url, 'title': title, 'kind': kind, 'keywords': entry.get('keywords', ''), 'aliases': entry.get('aliases', []),
+        doc = {'url': url, 'title': title, 'kind': kind, 'keywords': entry.get('keywords', ''), 'aliases': [*entry.get('aliases', []),*lookups.get(entry.get('appNode'),[])],
                'clinical': 'disorder' in title.lower(),
                'listen': 'page-narration-title' if 'page-narration-title' in ids else None, 'practice': practice}
         document_id = len(documents); documents.append(doc)

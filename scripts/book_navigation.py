@@ -15,6 +15,8 @@ ENTRIES = [e for g in GROUPS for e in g['entries']]
 for entry in ENTRIES:
     entry['recordings'] = [dict(source=str(Path(a['path']).with_suffix('.md')), title=a['title'], duration=a['duration'], description=a['description'])
                            for a in BIASES.get(entry.get('biasSlug'), {}).get('listenings', [])]
+    from written_editions import editions
+    if entry['source'] in editions():entry['audioStatus']='text'
 
 
 def target(source):
@@ -108,13 +110,15 @@ def pagination(source, page, chapters):
 
 
 def render_library():
+    from build_reference_entries import content
+    lookups={entry['id']:entry.get('lookupTerms',[]) for entry in content()}
     chunks = ['# Reference library', f"Browse {len(ENTRIES)} written reference entries across {len(GROUPS)} topics. Each explains the concept, compares alternatives, links selected evidence and offers a practical next step. These are developing references, not a systematic review or an individual assessment.",
               '<div class="library-search" hidden><label for="library-query">Find a topic or behaviour</label><div class="library-search-controls"><input id="library-query" type="search" placeholder="Try beliefs, attribution or independence…" aria-describedby="library-result-count"><button type="button" id="library-clear" hidden>Clear search</button></div><label for="library-status">Show entries</label><select id="library-status"><option value="all">All entries</option><option value="developed">Developed entries</option><option value="stub">Stubs — full entries planned</option></select><p id="library-result-count" role="status" aria-live="polite"></p><p id="library-query-note" hidden></p><p><a href="../search.html">Search the whole book by meaning →</a></p></div>',
               '<nav class="library-topics" aria-label="Reference topics">' + ''.join(f'<a href="#{g["id"]}">{escape(g["title"])}</a>' for g in GROUPS) + '</nav>']
     for group in GROUPS:
         chunks += [f'<section class="library-group" markdown="1">', f'## {group["title"]} {{#{group["id"]}}}', group['description']]
         for entry in group['entries']:
-            search = ' '.join([group['title'], entry['title'], entry['summary'], entry['keywords'], *entry.get('aliases',[])])
+            search = ' '.join([group['title'], entry['title'], entry['summary'], entry['keywords'], *entry.get('aliases',[]), *lookups.get(entry['appNode'],[])])
             file = href(entry['source'], Path('reference/index.html'))
             formats = ('Stub — full entry planned' if entry.get('status')=='stub' else
                        'Developed entry · Read · Practise' if entry.get('audioStatus')=='text' else

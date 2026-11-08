@@ -77,7 +77,10 @@ def check_entry(source, body_fingerprint, entry, voice=DEFAULT):
     data = for_voice(data, voice)
     assert entry['script_source'] == path.relative_to(ROOT).as_posix()
     assert entry['script_sha256'] == fingerprint(data), f'Spoken script changed for {source}; review it and run scripts/synthesise_spoken.py {path.stem}'
-    assert entry['source_hashes'] == source_hashes(data), f'Written source changed for {source}; review the spoken adaptation before recording'
+    current = source_hashes(data)
+    if entry['source_hashes'] != current:
+        from narration_source_reviews import verify as reviewed_container
+        assert reviewed_container(source, data, entry, current), f'Written source changed for {source}; review the spoken adaptation before recording'
     assert entry['page_text_sha256'] == body_fingerprint, f'Page teaching changed for {source}; review the spoken adaptation before recording'
     expected = [(s['title'], s['anchor']) for s in data['sections']]
     assert [(s['title'], s['anchor']) for s in entry['sections']] == expected

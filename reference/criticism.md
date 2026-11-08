@@ -20,6 +20,18 @@ Guy Itzchakov and colleagues manipulated listening quality in four laboratory ex
 
 The US Equal Employment Opportunity Commission describes harassment linked to protected characteristics and retaliation within the laws it administers. Legal definitions, coverage and procedures vary by jurisdiction. Unfair or harmful conduct can still matter when it does not meet this legal definition. [US EEOC: Harassment](https://www.eeoc.gov/harassment)
 
+## A general tendency or a pattern that gets results? {#tendency-or-learned-pattern}
+
+Calling someone a critical person summarises what you have noticed; it does not explain why the criticism continues. Compare a tendency across settings with expectations learned in particular relationships and with what the criticism accomplishes. Criticism might lead others to change plans or stop disagreeing. That outcome is a possible influence, not proof of motive or reinforcement.
+
+These explanations can coexist. The person may also be unaware of the impact or believe their comments are welcome. No objection does not establish agreement: people may be tired, dependent or worried about the response. Compare occasions, exceptions and what happened when concerns were safely raised. Selective restraint is useful information about context, not proof of a deliberate campaign.
+
+The [guide to tendencies, expectations and consequences](reinforcement.md#tendency-expectation-consequence) explains the comparison. Whatever the explanation, a recipient does not cause another person’s harmful conduct by failing to object.
+
+[Fleeson (2001). Toward a structure- and process-integrated view of personality: traits as density distribution of states.](https://pubmed.ncbi.nlm.nih.gov/11414368/). A few memorable events cannot establish a lifelong trait; self-reports and the sampled settings have limits.
+
+[Frazier and colleagues (2017). Psychological Safety: A Meta-Analytic Review and Extension.](https://digitalcommons.odu.edu/management_fac_pubs/13/). The evidence does not guarantee that speaking up is safe in a particular organisation or that one invitation will change its consequences.
+
 ## What else could explain it? {#a-distinction-to-keep-in-mind}
 
 Specific feedback differs from a global judgment such as “You are useless.” A demanding role can justify careful review without justifying humiliation. A person may feel criticised by an ordinary disagreement, while another may minimise a genuine pattern. Compare the conduct and effects rather than deciding from either label alone.
@@ -28,7 +40,7 @@ These alternatives are starting points, not an exhaustive list.
 
 ## What to notice and check
 
-Collect a few representative examples, including what was criticised, the stated standard, the audience and what followed. Include positive or ordinary feedback and whether the same standard applies to others. Ask whether you can understand what would count as adequate work. If criticism is yours, notice whether it identifies a change or merely communicates dissatisfaction.
+Collect a few representative examples, including what was criticised, the stated standard, the audience and what followed. Include positive or ordinary feedback and whether the same standard applies to others. Ask whether you can understand what would count as adequate work. If criticism is yours, notice whether it identifies a change or merely communicates dissatisfaction. Compare how feedback is delivered to different people and what changes after a concern is raised, where it is safe to do so. A single improvement or refusal to change does not settle the explanation.
 
 ## How to respond
 
@@ -50,6 +62,8 @@ These are editorial reading connections, not evidence of a cause or diagnosis in
 - [Trying to protect](protect.md): Concern about a risk is one possibility; criticism alone is not evidence of care.
 - [Recognition & status](status.md): Influence or recognition could matter; consider other explanations too.
 - [Family expectations](familynorms.md): Advice that seems ordinary to one person may feel intrusive to another.
+- [Consequences that sustain a pattern](reinforcement.md): Separate a tendency to criticise from what the criticism gains or avoids; neither alone establishes a motive.
+- [Learned expectations](learned.md): An expectation that objections are unlikely can be learned without a conscious plan.
 
 <span id="evidence-to-develop"></span>
 

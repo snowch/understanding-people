@@ -1,4 +1,44 @@
 {
   "version": 1,
-  "pages": {}
+  "pages": {
+    "reference/criticism.md": {
+      "status": "revised-text",
+      "reason": "Generic written clarification of traits, learning, consequences and agreement/relief. Approved recordings predate these additions and are retained as the recorded edition. No new speech is produced.",
+      "date": "2026-11-08",
+      "page_text_sha256": "be004eafd01f29f56a5e301e5f6edb22109357aaf65d2dd6c701f3da1f3fb28b",
+      "recorded_page_text_sha256": "a320d0b0da18b0aefc48e2ffb42224ffe74139a34b93b72ebc6d428aa1e5c156",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      }
+    },
+    "reference/people-pleasing.md": {
+      "status": "revised-text",
+      "reason": "Generic written clarification of traits, learning, consequences and agreement/relief. Approved recordings predate these additions and are retained as the recorded edition. No new speech is produced.",
+      "date": "2026-11-08",
+      "page_text_sha256": "f568b99b2c95811021d22eb6ee846f78b5638a766a034a8a8461856959b0845f",
+      "recorded_page_text_sha256": "442ce003ba3158cf83e61dc5524c9abc0f01d9a35fb83a71dd57ae71acd932f4",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      }
+    },
+    "reference/reinforcement.md": {
+      "status": "revised-text",
+      "reason": "Generic written clarification of traits, learning, consequences and agreement/relief. Approved recordings predate these additions and are retained as the recorded edition. No new speech is produced.",
+      "date": "2026-11-08",
+      "page_text_sha256": "2ed483dfbfd9bb24f9154d4755be36cdf93be9b5f4bb5f629cfff1b7730214d5",
+      "recorded_page_text_sha256": "530dccfe6fcdcd7277febbf04c5ec197740892ebb47c35542012f30d8b9ec0ac",
+      "recorded_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "419242a8e24a6931759c13421eb2ae61bf0b5219d1f71d5028e4855797b61607"
+      },
+      "current_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "9718e4d2174714180fc6b7bc40474395e24e5855b3c9d46a15bbc9d7b841dc48"
+      }
+    }
+  }
 }

@@ -6,18 +6,18 @@
       "meaning": "Reinforcement is a learning process in which a consequence makes a response more likely in similar circumstances. Positive reinforcement adds something; negative reinforcement removes something aversive. Positive and negative here mean addition and removal, not good and bad. Punishment, by contrast, concerns a reduction in a response. The definitions describe effects over time, not merely someone’s intention.",
       "arise": "An action may persist because it gains attention, secures a useful outcome or brings relief. Avoiding a difficult conversation can remove discomfort now while leaving a problem for later. These are hypotheses to investigate. One pleasant outcome does not demonstrate reinforcement, and a person may repeat an action because it is necessary or because the environment offers no safe alternative.",
       "alternatives": "A repeated action can also reflect deliberate choice, a recurring demand or an automatic habit. Relief after escaping a genuine threat is not evidence that safety-seeking should be removed. Do not infer that someone created distress for attention merely because support followed it. What a behaviour accomplishes and what the person intended are separate questions.",
-      "notice": "Describe a sequence: what preceded the action, what happened immediately afterward, and whether the pattern recurs in comparable circumstances. Include occasions when it did not occur. Ask about the person’s experience where appropriate. Notice your own responses, such as taking over a task whenever a disagreement becomes uncomfortable.",
-      "respond": "For an ordinary pattern you want to change, make a constructive alternative easier and more rewarding rather than relying on repeated criticism. Agree the change with affected people. Do not withhold necessary care, safety or basic support to test a learning theory, or improvise treatment for anxiety or compulsions. Where a task is shared, clarify responsibilities so that relief for one person does not invisibly transfer all the burden.",
+      "notice": "Compare a few occasions, including an exception: what happened before the action, who was present, what choices were available, what followed and what happened next time? Distinguish a predicted response from one actually observed. Ask about expectations where appropriate rather than assigning them. Notice your own responses too, without treating an observer’s account as proof of what another person learned.",
+      "respond": "Choose one ordinary, safe change that remains useful under several explanations: clarify an expectation, explain the impact, make a specific request or agree a fair division of work. Make constructive alternatives possible rather than trying to punish someone into a different personality. Watch whether the change is respected over time. Do not provoke a reaction, withhold necessary care or assume that a firmer refusal will be safe or stop pressure. Support and realistic options may matter more than wording.",
       "example": "Fictional example: You agree to every invitation to avoid an awkward refusal, then feel overloaded. Practising a brief, honest answer in a low-stakes situation may change the sequence. The aim is a sustainable choice, not proving that discomfort must disappear.",
       "takeaways": [
-        "Reinforcement describes a change in future responding.",
-        "Immediate relief and long-term benefit can differ.",
-        "Understanding a pattern does not justify removing necessary support."
+        "A general tendency, a learned expectation and a sustaining consequence can coexist.",
+        "Silence is not consent or proof of reinforcement; compare occasions and exceptions.",
+        "Change an ordinary condition safely and review what happens without shifting responsibility for harm."
       ],
       "practice": [
-        "Record one recurring sequence, including what happens just before and after your action.",
-        "Choose a small alternative that meets the legitimate need with fewer unwanted costs.",
-        "Compare later occasions and exceptions before deciding what sustained the pattern."
+        "In the notes below, record one recurring action and one exception. Separate what followed from what you expected would follow.",
+        "Write two plausible explanations and what would weaken each. Choose one safe clarification, practical change or support route within your control.",
+        "Return after a comparable occasion: what changed, what did not, and what remains unknown about why the pattern continues?"
       ],
       "sources": [
         "habit",
@@ -39,9 +39,56 @@
           "node": "habits",
           "relationship": "compare with",
           "why": "Look at the cue before an action and the consequences after it."
+        },
+        {
+          "node": "criticism",
+          "relationship": "apply the distinction",
+          "why": "A general communication tendency, a learned expectation and the results of criticism can coexist."
+        },
+        {
+          "node": "people-pleasing",
+          "relationship": "compare with",
+          "why": "Immediate relief after agreement may help sustain unwanted commitments; compare the actual sequence."
+        },
+        {
+          "node": "interaction-cycles",
+          "relationship": "consider alongside",
+          "why": "Sequences can repeat without a conscious plan or equal responsibility for harm."
         }
       ],
-      "specialistCaveat": false
+      "specialistCaveat": false,
+      "sections": [
+        {
+          "id": "tendency-expectation-consequence",
+          "title": "A tendency, an expectation, or a result?",
+          "paragraphs": [
+            "A personality trait describes a tendency across occasions. A learned expectation concerns what someone predicts will happen. Reinforcement concerns what follows an action and whether that action becomes more likely. These explanations can overlap; they are not competing personality types.",
+            "| Explanation | What to compare | What it does not establish |\n| --- | --- | --- |\n| A general tendency | Does the action recur across different people, settings and demands? | A fixed character, an inherited cause or conduct that cannot change. |\n| A learned expectation | What does the person expect after agreeing, refusing or disagreeing, and what experience supports that prediction? | A conscious strategy or an invented account of their childhood. |\n| A consequence sustaining the action | What does the action gain or avoid, and what happens on later comparable occasions? | That one outcome caused the pattern or that the person intended every effect. |",
+            "How a pattern began and what keeps it going now are different questions. An action learned in one setting may continue in another; a broad tendency may be expressed more strongly where it gets results. A habit adds another possibility: a familiar situation can prompt an action fairly automatically. None of these explanations removes responsibility for harmful conduct."
+          ],
+          "sources": [
+            "states",
+            "habit"
+          ]
+        },
+        {
+          "id": "silence-and-consequences",
+          "title": "Silence is not proof of approval",
+          "paragraphs": [
+            "When nobody objects, a person may lack information about the impact, assume a local custom is shared, or expect that the conduct will continue to get results. These are possibilities to compare. Lack of objection alone is not evidence of reinforcement: there must be reason to think a consequence affects future responding.",
+            "Silence can reflect agreement, uncertainty, fatigue, dependence or concern about retaliation. It does not establish consent. If someone can act differently with different people, that makes the conditions worth examining; it does not prove a calculated strategy. The person on the receiving end is not responsible for another person’s harmful conduct."
+          ],
+          "sources": [
+            "speak-up"
+          ]
+        }
+      ],
+      "lookupTerms": [
+        "learned behaviour",
+        "learned behavior",
+        "personality or learning",
+        "behaviour that gets results"
+      ]
     },
     {
       "id": "habits",

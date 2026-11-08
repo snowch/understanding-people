@@ -2,8 +2,8 @@
   "date": "2026-11-08",
   "scope": "Terminology, first-use links, lookup definitions, examples and distinctions across all 136 references; not a new scientific or specialist review.",
   "references_reviewed": 136,
-  "glossary_headwords": 114,
-  "lookup_entries": 90,
+  "glossary_headwords": 115,
+  "lookup_entries": 91,
   "existing_course_terms": 24,
   "references": [
     {
@@ -421,14 +421,17 @@
       "source": "reference/people-pleasing.md",
       "title": "People-pleasing & automatic agreement",
       "group": "Behaviour & relationships",
-      "source_sha256": "a9f7026b4b690e8cbc147d57591ccec60e1f8bde152d09a71aac1c5d89f9fab9",
+      "source_sha256": "55169cb9f170c3d09a542bd6bdc5d614f8674fd5615c9bd7d38f01c94c86d979",
       "definition_contexts": [
-        "people-pleasing"
+        "people-pleasing",
+        "appeasement"
       ],
       "glossary_links": [
+        "appeasement",
         "autonomy",
         "boundary",
         "competence",
+        "negative-reinforcement",
         "people-pleasing",
         "power",
         "relatedness",
@@ -468,9 +471,10 @@
       "source": "reference/criticism.md",
       "title": "Repeated criticism",
       "group": "Behaviour & relationships",
-      "source_sha256": "714179e7a8b69dddb4bf2a8e5e2f9dca8fbb7728f8e06469d7726ad3bb8cc1ae",
+      "source_sha256": "b3759764b3564775f7f4954a644cdfdf65ceb1d21153f9ee863a5fc3fc4905ef",
       "definition_contexts": [],
       "glossary_links": [
+        "reinforcement",
         "status",
         "systematic-review"
       ],
@@ -1099,7 +1103,7 @@
       "source": "reference/reinforcement.md",
       "title": "Consequences that sustain a pattern",
       "group": "Emotion, habits & learning",
-      "source_sha256": "a5ced269de3edef157a015e435a3f16d3007709a68116d7540a0d0bcdef290e1",
+      "source_sha256": "20d767159322d6ff2569fa0bd6a7c28e89b330533b6c4e5fb45740d73d1daa57",
       "definition_contexts": [
         "negative-reinforcement",
         "positive-reinforcement",
@@ -1107,9 +1111,9 @@
       ],
       "glossary_links": [
         "com-b",
-        "compulsion",
         "habit",
         "negative-reinforcement",
+        "personality-trait",
         "positive-reinforcement",
         "reinforcement",
         "systematic-review"

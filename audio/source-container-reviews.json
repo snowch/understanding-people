@@ -1,0 +1,607 @@
+{
+  "version": 1,
+  "date": "2026-11-08",
+  "reason": "Only criticism, people-pleasing and reinforcement changed in the two shared canonical containers. Every listed sibling entry is structurally identical to its pre-change canonical JSON and has exactly the same page teaching fingerprint and authored scripts. This review does not permit changed teaching to reuse an old lesson or modify any approved manifest, recording, transcript or audiobook.",
+  "pages": {
+    "reference/acknowledging.md": {
+      "entry_id": "acknowledging",
+      "canonical_entry_sha256": "d1523e84f629c719d278d1e09623bf4bd1675301e8eb3e1729f06b2fd7040b45",
+      "page_text_sha256": "162f2a3c5c80c2222676d0555e6d4b7b8083a52105d4430f826e875bf077bf13",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "d7caad5cc4b61f1a420c3bc850c6fd5fc144ce874570153eac2e677d1fa65326",
+        "en-US-JennyNeural": "98dba2c5f50ea1fc56fcbbfcfb6e861cd59a6f0b4211cea66e2ac3482e4b3f30"
+      }
+    },
+    "reference/blame-shifting.md": {
+      "entry_id": "blame-shifting",
+      "canonical_entry_sha256": "a688a2a2176d5cb51be0437cf53f44c7dc5856cb30715a85dde5b72292021a45",
+      "page_text_sha256": "4e96f6806640ef7cac1d873a58e7b4bda157b7f149a853fd15dfa6518b1aad42",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "1120441f237b6d8193dd48140303965e6a14c0d3e1a6ba8d96ccd2463c9178b5",
+        "en-US-JennyNeural": "61b1f6638426fa4131e72b005889542031e02fde51019c9a04e9b3fef58c9c64"
+      }
+    },
+    "reference/boundary-pushing.md": {
+      "entry_id": "boundary-pushing",
+      "canonical_entry_sha256": "915a4fba53023d735bca940e3400ef23924f73844c3bd2160283c53fe18223a7",
+      "page_text_sha256": "b79d69b08060c65124db77581728f3f268cce034404fa090482980fa6f06b99b",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "c31fb20c7be823af5f493128fb3a6f5fd2e162800b88c8c0b7f9bfa9d95bbb4f",
+        "en-US-JennyNeural": "5adcf92532c88fdc913e8c0138b732e092a4e0d29d978f3c576a486fbba4844b"
+      }
+    },
+    "reference/coercive-patterns.md": {
+      "entry_id": "coercive-patterns",
+      "canonical_entry_sha256": "2f2979545b3edcf98517d6b0e371e643df29278afe42363b7bcf377e20ceb13c",
+      "page_text_sha256": "2f22f1b49dd55a09e5cf660d400767d8df558ba19056acb71a4a2a630c75c46e",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "de0f00e31848e126e028266298c4ead98f66903e2d29b791f18d48aec2210797",
+        "en-US-JennyNeural": "39ba1d96a53a6f3b2486afdfdb1283d7217b0230ca8c96b9a4c8be9def884ac3"
+      }
+    },
+    "reference/contempt.md": {
+      "entry_id": "contempt",
+      "canonical_entry_sha256": "c98eec605fb75cb299bd37708dddda951483ef96211aeb97cc508b48df354fa2",
+      "page_text_sha256": "dd2eddcb1914ebc65c881817f22c40dd0da7d85bc6cbc34efcb45777c3ea3be0",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "2368bf9979d8bb27ab547b080cfa6fb5f8566397b0d2838c9fd8280a8ec7cb19",
+        "en-US-JennyNeural": "5671198b6439a311762e95bedf966b243e66feb75c55e87eecc1313a59dec6c3"
+      }
+    },
+    "reference/creating-obligation.md": {
+      "entry_id": "creating-obligation",
+      "canonical_entry_sha256": "f79107b2026a6dcbd5f09fc390df5ae39067ab582a0a513d99a0509c8a05201d",
+      "page_text_sha256": "f10ebd0e6739b16ab179be77c5d8e578ee6c0c43e3ea7980708dd9f4ee6d5c4a",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "7b4524fd31fda99bc9ea78e8a7292017f5e108b178d5014f7351ea11119561c6",
+        "en-US-JennyNeural": "ee82c335d4fb5550581d944a8ff439bfc88d007fbca300a77c654ff08f889878"
+      }
+    },
+    "reference/defensive.md": {
+      "entry_id": "defensive",
+      "canonical_entry_sha256": "3546c0cecc0d13641fe6188c841b4c1784942c9dd71b74bad4c18bb09d8347c0",
+      "page_text_sha256": "0d9dbfb85ffb7fb83d5f925ceb8c37fe70cd2cf19bdb6dec8884390777dbd4f6",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "16ff349b9d086790a627b7c3537c7f7389541dec1bed291bfa19c35a3671733a",
+        "en-US-JennyNeural": "fc1c73ff6593df9b39932b74473b4c5c138682039cd48d44a7d129a8c6998cd1"
+      }
+    },
+    "reference/deflecting.md": {
+      "entry_id": "deflecting",
+      "canonical_entry_sha256": "c827e5b53c101785e1510a01b4d291096248c6a4fa415bc26b967ad337c7c141",
+      "page_text_sha256": "e7c237b15c7808965d47bf47376d7923b8a1e10ef292516d1809394fa40f0468",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "90037aaa3037798e4e7b710f9bc0a8fdc455176e984cd1d71b188011bc01256d",
+        "en-US-JennyNeural": "f82497285f364ecf11fffa168cd95d8d46b3efb01ea8f2bc76bc7ed4e17e8a78"
+      }
+    },
+    "reference/denial.md": {
+      "entry_id": "denial",
+      "canonical_entry_sha256": "422aeedd0f3acc49fff20d6bcf3523b6e507dbc902d60c5219563631a7d752d3",
+      "page_text_sha256": "90dcbfde29b0619a144db0a4210a876f318548f4e2c15f88db66c623d17eacbf",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "3f357690b220dba8eb71eb282e6f488c51e670316f2702cc0796d57e18194196",
+        "en-US-JennyNeural": "d8d030cb211926f3ba21a7d4cd03bdab28d9cae0ade4b214d84579d5ca1178c7"
+      }
+    },
+    "reference/difficulty-trusting.md": {
+      "entry_id": "difficulty-trusting",
+      "canonical_entry_sha256": "8f3c02fc08adb7b8a9a71094046e03d954a9af23d1db6edb4cf6e5cf318875db",
+      "page_text_sha256": "3d109dc17b2dd8df45400367dc5865f183d5c01630695fbbbe81faaba98b4405",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "9c64eb6590361e1262b0efdaed2b8b1beb6476245a1469c4d7c64cd7f8a3f28c",
+        "en-US-JennyNeural": "8a5c178642bc71116ead371b67133524479ecefec48a9757a8705985f766c657"
+      }
+    },
+    "reference/dismissing-needs.md": {
+      "entry_id": "dismissing-needs",
+      "canonical_entry_sha256": "b22bfbb218c8e6c01b2540f8d9b1782e9aeac2be9151ffc437abc0f7f5cc773a",
+      "page_text_sha256": "8e9aafafbdc80585702926f04c7ca1228d15d1f2f598cde50033ad412cd16639",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "2a42df19551b4e0299ef8c32d4db85e545f49c91e9b5153fc301c4120af64177",
+        "en-US-JennyNeural": "44728cee56d1de205c8cab9cd337d19c9737d2f78f34102f457a20a46a079516"
+      }
+    },
+    "reference/emotional-blackmail.md": {
+      "entry_id": "emotional-blackmail",
+      "canonical_entry_sha256": "4059cb8d3e5f324a4c302291edf1d020f99d781ea52081fbd76f27a72e8dd05a",
+      "page_text_sha256": "1d17054658919ef97e9cedaf7376129efc47022d6cb421ddd9226d4dec1bf0b8",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "574fc797c1d60c5dbb01f3aca819dfe1621a05d2f8ef24bdbe68c975424c50a3",
+        "en-US-JennyNeural": "60e7c2a476d30a5350a813c607255a4286acc6b678e4bfb93afd1d5961018477"
+      }
+    },
+    "reference/fear-rejection.md": {
+      "entry_id": "fear-rejection",
+      "canonical_entry_sha256": "16f44447c63e4f9e5ab34498e720ce0a6f783fcc07c830a8b5c9fadf31cb90e0",
+      "page_text_sha256": "1567a0b9eb9559d0125b81143f01dd5c2b567dffded28923de96011f7627ad2c",
+      "recorded_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "419242a8e24a6931759c13421eb2ae61bf0b5219d1f71d5028e4855797b61607"
+      },
+      "current_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "9718e4d2174714180fc6b7bc40474395e24e5855b3c9d46a15bbc9d7b841dc48"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "c48f6225608f2fcdd6cf7b5b33b04f59b2d99e8c980828ce330e8f3710968b66",
+        "en-US-JennyNeural": "c04a6b46e35a2df4a675a08bd3ac2893c2cc6176a706bb2fa4f6063687fdd783"
+      }
+    },
+    "reference/financial-control.md": {
+      "entry_id": "financial-control",
+      "canonical_entry_sha256": "182050771b8d67f1698a2b7fdf149b9a11b614979f69b12a8da02384f49594db",
+      "page_text_sha256": "8bb3198ee6e67a9bf6f34d52b97a9d3f6995f533f8f8ffadb5d619b903d64cc3",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "d7fb1d5e3dee8117b696b3c63e21094c2c8b9aa7b3f890399520e31708d39d7c",
+        "en-US-JennyNeural": "f87180fe234a55f15237619df8e39ea782aca0be966843707744ec238d84dcce"
+      }
+    },
+    "reference/followthrough.md": {
+      "entry_id": "followthrough",
+      "canonical_entry_sha256": "25bf38799bddea0b4f8ac6b7ccd63df33beea8876aa6280595123ce43faf4308",
+      "page_text_sha256": "bf5e2f70717dfd639401f20b5875e2f2e78e62480de2107a3fcc823bc75c6d00",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "86cbe04cef8c2ab81f9680c4f666fa77139b5f79046e2b81b1b0a4e65d9de3e1",
+        "en-US-JennyNeural": "d8eea3fa51a6e01f9c099bcbbbb2968049560704281c38b9e45b8923a10b9428"
+      }
+    },
+    "reference/gaslighting.md": {
+      "entry_id": "gaslighting",
+      "canonical_entry_sha256": "da03897dd93fce371a59116d5189ff85ef4d70e06b2e682dd4c8a81fdc15ea7d",
+      "page_text_sha256": "2fdf69a8ad49e81e5e5f39120685fdb0387106c21897d76bc138276a59846b12",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "c80f057a1e1470388e1bcf6a4a83f4909988a854e0b564eab02a0bd8bc1840cf",
+        "en-US-JennyNeural": "aa07fa6ebf8ceee86368dfbfcc205b6444871880d2e08c2af3470bd2d1f3a997"
+      }
+    },
+    "reference/guilt-pressure.md": {
+      "entry_id": "guilt-pressure",
+      "canonical_entry_sha256": "ae10c59c6082d32d6c20bdf61e78ddfbbcfe67ece651981cf1726df19e4b0f7d",
+      "page_text_sha256": "b5d58b3da097dc7cf99f4b8e0a47cb55823499b25458f279462bc76dffd9fc49",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "c74b0ac18850235e211cf99b20a3064f97d8b2112318594c003aa39fca67dda8",
+        "en-US-JennyNeural": "3d44e6e8952020c999d304894a7e4ee6447d8f63b5cc71641b6c8beaa1edc77c"
+      }
+    },
+    "reference/habits.md": {
+      "entry_id": "habits",
+      "canonical_entry_sha256": "7b5fe87f246c142f866808e0af893390cd793a21ed7bd70d737ee34eddc70dac",
+      "page_text_sha256": "f0608ea87ef38559296285197d1f64fcd5691c74da7a1bcca7bb7af1709fd654",
+      "recorded_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "419242a8e24a6931759c13421eb2ae61bf0b5219d1f71d5028e4855797b61607"
+      },
+      "current_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "9718e4d2174714180fc6b7bc40474395e24e5855b3c9d46a15bbc9d7b841dc48"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "416559de14dd6f3c014a02d9c6a1a8b1efed8966c4f252de543e53d80c337816",
+        "en-US-JennyNeural": "93cd34927ce273a5e80f07d8d4bd33717d21121c789fab20bacf3668116d415d"
+      }
+    },
+    "reference/interrupt.md": {
+      "entry_id": "interrupt",
+      "canonical_entry_sha256": "54a84ebdf25c472747ec1a423b74aa55686086e0882b87c0243505ae006de3d3",
+      "page_text_sha256": "53b59e704ff4026b883ff055acd67d9697c75f9ebc5296c74ea6c6388f9ffb4e",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "81480a7731dafc74b8a2d5b914da856240c6b8e0df7853ce23201dc96e60b60c",
+        "en-US-JennyNeural": "14c65cb09901a7041b4d075454ef9f14ea6a9029848f4546024db101dfb0e2e4"
+      }
+    },
+    "reference/intimidation.md": {
+      "entry_id": "intimidation",
+      "canonical_entry_sha256": "867bf050a1be4d57d134c1825c14780a2230c12040798e72d6443dccdd94f5bf",
+      "page_text_sha256": "55cd6bc4992edb2f6541cd9438e6cb6f7bd34bc9beb98b84e3e9087c71088927",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "e8f638331fe2e55e8b25d852513503e437299fd40f05fc700b9525b07b00547b",
+        "en-US-JennyNeural": "35f68d205f9ca950d79afbdf49c982944d9b344a3af4ed3f518c1d73d2e30b8d"
+      }
+    },
+    "reference/isolation.md": {
+      "entry_id": "isolation",
+      "canonical_entry_sha256": "eae58536580cb05fd1672f68d7e1a2df00a5013d00b2a5f2d17cf141e0991b54",
+      "page_text_sha256": "c0f4eb4c07b4626f67195a8a771ebce3a70f98e486ad8e1bb6b7354ecea1d61a",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "7fad13b99d5af5380fc4eec2fbca83938183d63e6511820521afde87843a1730",
+        "en-US-JennyNeural": "a691a6685fefae5d1793a24980795dec2a42ddf499529d7f390a1a162e748ed3"
+      }
+    },
+    "reference/jealousy.md": {
+      "entry_id": "jealousy",
+      "canonical_entry_sha256": "86c7847e18e3909b3f053b9bdf7cc5690fa7aa453fd12d67fbb2e826c546f734",
+      "page_text_sha256": "ed67ed1309d8fcdba2430c5ce90f8ef0f5e26f5a6d963dd12ad8d3dd48fdce8d",
+      "recorded_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "419242a8e24a6931759c13421eb2ae61bf0b5219d1f71d5028e4855797b61607"
+      },
+      "current_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "9718e4d2174714180fc6b7bc40474395e24e5855b3c9d46a15bbc9d7b841dc48"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "e531390079e295fb37a8aef27c0b99d8344e9ec108420e729c2d667405ae4117",
+        "en-US-JennyNeural": "a5bc80787d283be721b0e24c626ec671a0b7095680bc9a1073c32693bcb449a3"
+      }
+    },
+    "reference/learned.md": {
+      "entry_id": "learned",
+      "canonical_entry_sha256": "b8869caa86cb7548d02dfbe85fb12c390e7be43c01b34dde8d85ceed9223efbe",
+      "page_text_sha256": "b24915ce4a90bae85f17d7d22b2d722a82883a7bd6cb4a90950944a39d1f810a",
+      "recorded_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "419242a8e24a6931759c13421eb2ae61bf0b5219d1f71d5028e4855797b61607"
+      },
+      "current_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "9718e4d2174714180fc6b7bc40474395e24e5855b3c9d46a15bbc9d7b841dc48"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "abc08e332c56262fa752b8dcdf941b0b55765f0eaaa2db03502b35bd2984f017",
+        "en-US-JennyNeural": "a729c19c9168f78214ff9945a1a8581c8ca396e120c7aa180443accb195b54ae"
+      }
+    },
+    "reference/listening.md": {
+      "entry_id": "listening",
+      "canonical_entry_sha256": "a45695890440c4a59ecfdb22608f68ce1cd0e6fbb8ba5bd3482ff0f7a21a1361",
+      "page_text_sha256": "8fbd21feefbb17e4249509c02d91959f8834f0cde6b94df7db82ea0031d802ef",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "8331cb3a97377bb0add4f7542cd6d2e46f1b4bdf2a61f0eb3cbf9a5c55877ec4",
+        "en-US-JennyNeural": "87a49b123cddb24dd10aee57c52eaa04a4525aa42491c1ab6a966916b4307043"
+      }
+    },
+    "reference/minimising.md": {
+      "entry_id": "minimising",
+      "canonical_entry_sha256": "3720ec16c7b6c0705ca6380e778aedd8425921fb37f4d8497874264f5313d537",
+      "page_text_sha256": "71207d5ce13e953d3840dd088ba3e2244a44af5bb0fa9825cc61218247bb193f",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "0b69b477ae98556560614e7c55d6b0d42620203469a817d2c2bcbc5a0ff110fb",
+        "en-US-JennyNeural": "371d2be89b8a5fb119f4567582535e57ee5ce775d9dbbd0b623ace5d67314936"
+      }
+    },
+    "reference/monitoring.md": {
+      "entry_id": "monitoring",
+      "canonical_entry_sha256": "3d5be6f5abd8a567633f63557caca26a80f4aed69554b6dcd75d2998de3fefb7",
+      "page_text_sha256": "884c7fed1c5625555ef80e88bd11241f32223f692e7679af799a64dfa0a87d0f",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "e5f2b8260650312300fb042d60c97d8522eb464f9d23a94a95e47cb021a8a4b6",
+        "en-US-JennyNeural": "1407da9104539d8dfff21bb38c61f67062307e10d754f825b9ff427a669685a5"
+      }
+    },
+    "reference/narcissistic-behaviour.md": {
+      "entry_id": "narcissistic-behaviour",
+      "canonical_entry_sha256": "604c5fa4eec25fb0779e1b110ab3cb7e4f3141753604f19fdff35f5f72fade15",
+      "page_text_sha256": "e7a98194d557915993334706dbc7be9947388ebc0e8936b95c8cee1135eaaf83",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "7ce10fba2caa27e074a2c522b1166a6c1ecb7242af9acf26a7814108406a7359",
+        "en-US-JennyNeural": "5080eff54518caf023551e9bd22f69efff054e2c088a778fd8b64eddc17227fe"
+      }
+    },
+    "reference/over-responsibility.md": {
+      "entry_id": "over-responsibility",
+      "canonical_entry_sha256": "18fb924902eef06676c976439b93328f87073640143557c010147389c5ee9d6c",
+      "page_text_sha256": "2eb113dbe6a9b7988dce92a1203c8a8ec76f07c308671c6c31e2957fe65c01f5",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "6761c55d90cec55bfe32c34561245de7cdca1b33523f3ee50ff12e5ca1e3f446",
+        "en-US-JennyNeural": "c599113e156ab9496a4443c6470235c427bf21ac77449c69b88cdb6cd160e7bb"
+      }
+    },
+    "reference/passive-aggression.md": {
+      "entry_id": "passive-aggression",
+      "canonical_entry_sha256": "f732a63a18b24e74c9506b4da7c23b71613290bc5ab9d546db2c0f26bb54a3e6",
+      "page_text_sha256": "0e5d9344b056ec2558d37a41e19a368003876c1762c9f9484f197a869d201372",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "b73719c3c03fd75c42723209a2d35cc4740474e9d91a901b9bc3f10a601cb77d",
+        "en-US-JennyNeural": "cf3dd6bd32942b358efa3aff6a339526a878478414a2bf78e8f889676a450272"
+      }
+    },
+    "reference/perfectionism.md": {
+      "entry_id": "perfectionism",
+      "canonical_entry_sha256": "3fdca278de26ca77c21c16c7777323a9e89df8f1aaef2f4d58b342454ba0a618",
+      "page_text_sha256": "76fe249e59d283a98fb916d84a1d5888b7b688491c56939b25f5efb30e426484",
+      "recorded_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "419242a8e24a6931759c13421eb2ae61bf0b5219d1f71d5028e4855797b61607"
+      },
+      "current_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "9718e4d2174714180fc6b7bc40474395e24e5855b3c9d46a15bbc9d7b841dc48"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "6ac35460eadc796d0b14c32757c6c8fd8c44951f7948488996e25a4bac9bee86",
+        "en-US-JennyNeural": "607eaaf6c285f6a659a1b0b8ae9485d697073047e4e31045de19760c5d4ce4d9"
+      }
+    },
+    "reference/possessiveness.md": {
+      "entry_id": "possessiveness",
+      "canonical_entry_sha256": "4ead42387fdf86258aeb4282447dd97fa577af442fb8e8f39841d9c225ed8546",
+      "page_text_sha256": "d07a3f2bcf22bbf83f000db1617af2cb2ae630fa465564e0fcf5df668c11944f",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "61e3bc1b74adda312d0d228215a30b8a17358a2c4796f030e097a7f694fc3888",
+        "en-US-JennyNeural": "ca86b21b1a963c515d356f4cb56c360021a0ce8a87463ac494893ca5a7b8a4c1"
+      }
+    },
+    "reference/reassurance.md": {
+      "entry_id": "reassurance",
+      "canonical_entry_sha256": "4d068ca40ae44ad2db073ed014ee32f9b3724cef4210dffc95f8725c93f6ac7c",
+      "page_text_sha256": "3f1d633794aacb7aa309a6a74f38fda8700a75ddc90149199a029d6adcba3b9c",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "e70b5ea608bf6f91dee0aafaa968e78be76e513ce8b0cb26c2be198a51bae571",
+        "en-US-JennyNeural": "e6168f1bc05a846bfdad48899519912dd1848280b9fd89e08527d4582aa7cf3c"
+      }
+    },
+    "reference/repairing.md": {
+      "entry_id": "repairing",
+      "canonical_entry_sha256": "0f0c55dd56cd744d820e98e1cca1e6338d7dab806604c711d781452eb05a410e",
+      "page_text_sha256": "6cfc3c930e75f9a3d005149b2b330980b54cd097e6b82687ba51965c6a7d933e",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "5fd74e3fee4af4be9b69668f35b619a4d5b1fa5283c8f4df7d5082eeab058d4f",
+        "en-US-JennyNeural": "43ff7842fa070b095ccbcf577873e70374707a8afbf208618a421139e91a136c"
+      }
+    },
+    "reference/retaliation.md": {
+      "entry_id": "retaliation",
+      "canonical_entry_sha256": "2acffa353aee5fe0691370206aa9fd68ec2573ec6d6bd84ca292e29cb29a3c44",
+      "page_text_sha256": "ba0d5d69c3b2ef3bf422fe439fcfac0dffb4fef1c21ffd728bf15fd1176726b1",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "0317ff887dc8e5b8f41402f0256a0803e91e6437121e8005a8db2845eb514ec3",
+        "en-US-JennyNeural": "5dd54f7aa361ecf839fb3e064f89e64ba1f0b8e3b7a675cc2956f0a2ca83cbd9"
+      }
+    },
+    "reference/stonewalling.md": {
+      "entry_id": "stonewalling",
+      "canonical_entry_sha256": "393bfb31784dbb9515279bf7209f7e85d5b50c857e26e635c50497c0c9a16cd0",
+      "page_text_sha256": "452507a8ee940a637abaa87491f9e9a2228d0a2ed0a4222fa7eca66c70e5d9ec",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "8dec47945f2fa00083b12f8087e11d7648d78b888921fb0b5752edce01918357",
+        "en-US-JennyNeural": "bf643a84d498e25c5f97e87ebbcaadd5c859d7ff793c0da6b168449fa1795424"
+      }
+    },
+    "reference/stress.md": {
+      "entry_id": "stress",
+      "canonical_entry_sha256": "92f65250d8882d39fdb4afdb5aa1510fcf0617c866ab2cd3dcadde4a15291207",
+      "page_text_sha256": "d03507a46c6ef62615a85bb628b6bde2a56ffd3f047fcba45fff73ce2f151b7c",
+      "recorded_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "419242a8e24a6931759c13421eb2ae61bf0b5219d1f71d5028e4855797b61607"
+      },
+      "current_source_hashes": {
+        "reference/entries/emotion-and-learning.json": "9718e4d2174714180fc6b7bc40474395e24e5855b3c9d46a15bbc9d7b841dc48"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "62d954b7ea7d0ead26b2d267ef82df8f42afeef63ec49d5bf402cf5bd95a0938",
+        "en-US-JennyNeural": "d5a6544c7aebeba48815942ab4323d8587aa754768ff3ddb1746545832a0f436"
+      }
+    },
+    "reference/taking-credit.md": {
+      "entry_id": "taking-credit",
+      "canonical_entry_sha256": "8d936e914be610406e7e41ff76f5fe000003bfc2c0f9d8e0419e282314e8934d",
+      "page_text_sha256": "6d798bfaa59acee499504f6d6142c103432858616978e508abc31823a8047b9e",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "b507c102b2be40074724374cdf8327e08a37302105e18d01c1130ee5f6931f2d",
+        "en-US-JennyNeural": "1f3300c70e03b21bba70dcfe4b763a24aef96f07aca8c5d95e1e46db82454f68"
+      }
+    },
+    "reference/thirdparty.md": {
+      "entry_id": "thirdparty",
+      "canonical_entry_sha256": "6b406ad18a8d80439866a16866dbddaccc756e7fc8f8bc8638c04c5c2328b503",
+      "page_text_sha256": "ef979f8669a66569502cbb27d911ab910cc8be79bb87cee5b17998c53b1c5255",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "e16aef6c019e1c2b450ed73bbb9e879d4a99d11fd49830c12864f5c716f61178",
+        "en-US-JennyNeural": "0720dc4e2a6bb74e552c306c5cdf5829c9ccbb01f72052efb9ef7596943eacce"
+      }
+    },
+    "reference/vulnerability.md": {
+      "entry_id": "vulnerability",
+      "canonical_entry_sha256": "f36fa4d07d114221b842aebc567e9cdeffde52cb036ddc6badf0af47c15253ba",
+      "page_text_sha256": "900d762c57e26463478ea5686631446fcbac40685c81078c7fda7af16debb3f8",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "582ab5908e26facaf7db8a3d08de2cb52929a44f2742e0a8a8f66c45832f89b8",
+        "en-US-JennyNeural": "fdd3926a15311d0d8f9261242ca3433b4556acdfe25c224202a006a73ae03b92"
+      }
+    },
+    "reference/withdraw.md": {
+      "entry_id": "withdraw",
+      "canonical_entry_sha256": "396d49599b08d67645d25ea0ceae54e3dadb9ca98a0a93eb2562e67e9b53e7aa",
+      "page_text_sha256": "0818f9422eba02fe668108a4ba46138aa06fae953aee5070b660930635672995",
+      "recorded_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "0fd43fb20509953ada506bd295b1ef7bcc7ccaa5049c65416dd6a9bb881768d8"
+      },
+      "current_source_hashes": {
+        "reference/entries/behaviour-and-relationships.json": "7c0347095c2e0680772d17318fcd01a38f1a7f819febceb686125cba929f8304"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "ca733d846b1e1ec2eb8d8cf8954d73ba4fc7f8e08b31c62ab311da49d7c55577",
+        "en-US-JennyNeural": "0b1350384215d63cef2728f03b12550c833734b7a8a54a80d8b432cee339c7ff"
+      }
+    }
+  }
+}

@@ -126,18 +126,20 @@ def card(term, page):
     opening = f'<section class="glossary-reference-term glossary-entry" data-glossary-names="{names}" aria-labelledby="{term["id"]}">'
     back = relative(term['source'],page)+'#definition-'+term['id']
     listen = relative(term['source'],page)+'#page-narration-title'
+    from written_editions import editions
+    listening = '' if term['source'] in editions() else f' · <a href="{escape(listen,quote=True)}">Listen to the lesson</a>'
     contrast = ('<p class="glossary-compare">Compare with a <a href="#boundary">personal boundary</a>.</p>' if term['id']=='family-boundary-ambiguity' else '')
     kind = escape(term.get('kind',''))+' · ' if term.get('kind') else ''
     if term.get('alias_of'):
         target=next(t['title'] for t in core_terms() if t['id']==term['alias_of'])
-        return f'{opening}<h2 id="{term["id"]}">{escape(term["title"])}</h2><p>Another name for an <a href="#{term["alias_of"]}">{escape(target.lower())}</a>. Use that definition and example.</p><p class="glossary-entry-links"><a href="{back}">Read in context</a> · <a href="{listen}">Listen to the lesson</a></p>{BROWSE}</section>'
+        return f'{opening}<h2 id="{term["id"]}">{escape(term["title"])}</h2><p>Another name for an <a href="#{term["alias_of"]}">{escape(target.lower())}</a>. Use that definition and example.</p><p class="glossary-entry-links"><a href="{back}">Read in context</a>{listening}</p>{BROWSE}</section>'
     related = [t for t in [*terms(),*core_terms()] if t['id']!=term['id'] and t.get('scope')!='owner']
     meaning = ''.join(TermLinks('<p>'+escape(term['meaning'])+'</p>',related,page,mark_definitions=False).out).replace('href="glossary.html#','href="#')
     return f'''{opening}
 <h2 id="{term['id']}">{escape(term['title'])}</h2>
 <div class="definition" role="group" aria-label="Definition: {escape(term['title'],quote=True)}"><dl>
 <dt class="visually-hidden"><dfn>{escape(term['title'])}</dfn></dt><dd>{meaning}<p class="definition-example"><strong>Example:</strong> {escape(term['example'])}</p></dd></dl></div>
-{contrast}<p class="glossary-entry-links">{kind}<a href="{escape(back,quote=True)}">Read in context</a> · <a href="{escape(listen,quote=True)}">Listen to the lesson</a></p>{BROWSE}
+{contrast}<p class="glossary-entry-links">{kind}<a href="{escape(back,quote=True)}">Read in context</a>{listening}</p>{BROWSE}
 </section>'''
 
 
