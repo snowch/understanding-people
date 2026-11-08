@@ -1,10 +1,10 @@
 {
   "version": 1,
   "model": "Xenova/all-MiniLM-L6-v2",
-  "corpus_sha256": "63ce2cf429eef258094d3e1e4e1b8eb929f19ba834bbcae947e17ad10720c41c",
+  "corpus_sha256": "d48984eeb6359ae740545fac18080257f4b5886cc6c7a7ff9265c37cc049013d",
   "engine_sha256": "45813ba2d63d419e23af6f51c2a63ef87556940dc2dacd50280cecad1f6183e4",
   "passages": 1956,
   "dimensions": 384,
   "storage": "signed-int8-per-row-max127-cosine",
-  "vectors_sha256": "1fb3b34cf494653d667e79e25a3945a2b79b9d7a611a55e56a17091cd3b74065"
+  "vectors_sha256": "97220d67d2486003f0d6d0760ac6a7821a07cedd57ece343ee1464468c302348"
 }

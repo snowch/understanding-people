@@ -87,7 +87,7 @@ These are editorial reading connections, not evidence of a cause or diagnosis in
 ## Put it into practice {#practice}
 
 1. Write one AI question without assuming the motive. Separate two observations, your first interpretation and one important unknown.
-2. Use the prompt below or the app’s editable preview. Ask for a credible alternative and a useful action that does not depend on a diagnosis.
+2. Use the adaptable prompt on this page or the app’s editable preview. Ask for a credible alternative and a useful action that does not depend on a diagnosis.
 3. Review one claim against a real source and record what changed in your thinking. Save any useful response as a suggestion, not an event.
 
 <!-- practice-notes: reference-ai-reflection | Use AI without reinforcing a first impression -->
