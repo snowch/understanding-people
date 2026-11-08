@@ -13,5 +13,12 @@
   {"query":"I want to understand what the other person meant before disagreeing", "expected":["reference/listening.html","chapters/08-questions-listening-disagreement.html"]},
   {"query":"confirmation bias", "expected":["reference/confirmation-bias.html"]},
   {"query":"correspondence bias", "expected":["reference/correspondence-bias.html"]},
-  {"query":"What does narcissistic personality disorder mean?", "expected":["reference/pd-narcissistic.html","reference/personality-disorders.html"]}
+  {"query":"What does narcissistic personality disorder mean?", "expected":["reference/pd-narcissistic.html","reference/personality-disorders.html"]},
+  {"query":"matriarch", "expected":["reference/familynorms.html"], "required":true},
+  {"query":"patriarch", "expected":["reference/familynorms.html"], "required":true},
+  {"query":"peacemaker", "expected":["reference/listening.html","reference/shared-agreement.html"], "required":true},
+  {"query":"scapegoat", "expected":["reference/blame-shifting.html"], "required":true},
+  {"query":"introvert", "expected":["reference/extraversion.html"], "required":true},
+  {"query":"procrastination", "expected":["reference/habits.html","chapters/10-motivation-influence-cooperation.html"], "required":true},
+  {"query":"micromanaging", "expected":["reference/boundaries.html","reference/power.html","chapters/07-culture-groups-power.html"], "required":false, "note":"Known weak retrieval: keep measuring this case; do not claim it has a dedicated entry or that the top results are equivalent."}
 ]

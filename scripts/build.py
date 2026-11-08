@@ -229,7 +229,7 @@ def build(include_narration=True, include_search=True):
     audio_hash = hashlib.sha256((ROOT / "assets/audio.js").read_bytes()).hexdigest()[:12]
     settings_hash = hashlib.sha256((ROOT / 'assets/settings.js').read_bytes()).hexdigest()[:12]
     audiobook_hash = hashlib.sha256((ROOT / 'assets/audiobooks.js').read_bytes()).hexdigest()[:12]
-    search_hash = hashlib.sha256(b''.join((ROOT/'assets/search'/p).read_bytes() for p in ['search.mjs','rank.mjs','worker.mjs','engine.json','vectors.json']) + json.dumps(sources, ensure_ascii=False).encode()).hexdigest()[:12]
+    search_hash = hashlib.sha256(b''.join((ROOT/'assets/search'/p).read_bytes() for p in ['search.mjs','rank.mjs','query.mjs','worker.mjs','engine.json','vectors.json','../library.js']) + json.dumps(sources, ensure_ascii=False).encode()).hexdigest()[:12]
     narration_manifest = load_narration_manifest() if include_narration else None
     editions = {voice: load_narration_manifest(voice) for voice in VOICES} if include_narration else {}
     audiobook_data = load_audiobook(CHAPTERS, PAGES, editions) if include_narration else None
@@ -257,6 +257,7 @@ def build(include_narration=True, include_search=True):
         body = body.replace("<table>", '<div class="table-scroll" role="region" aria-label="Comparison table" tabindex="0"><table>')
         body = body.replace("</table>", "</table></div>")
         body = re.sub(r'(src="[^"]*assets/audio\.js)(?:\?[^"]*)?"', rf'\1?v={audio_hash}"', body)
+        body = re.sub(r'(src="[^"]*assets/library\.js)(?:\?[^"]*)?"', rf'\1?v={search_hash}"', body)
         narration_html = render_narration(name, title, body, page, narration_manifest, editions)
         if narration_html:
             # The entry's primary Listen link should reach its current lesson;

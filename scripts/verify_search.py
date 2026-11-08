@@ -33,6 +33,15 @@ def verify(base, screenshots=False):
         page=context.new_page();requests=[];errors=[]
         page.on('request',lambda r:requests.append(r.url))
         page.on('pageerror',lambda e:errors.append(str(e)))
+        page.goto(base+'reference/index.html')
+        library=page.get_by_role('searchbox',name='Find a topic or behaviour')
+        library.fill('matriarch')
+        expect(page.locator('.library-entry:visible h3',has_text='Family expectations')).to_be_visible()
+        expect(page.locator('#library-query-note')).to_contain_text('no dedicated entry')
+        matriarch_topics=page.locator('.library-entry:visible h3').all_text_contents()
+        library.fill('patriarch')
+        expect(page.locator('.library-entry:visible h3',has_text='Family expectations')).to_be_visible()
+        assert matriarch_topics==page.locator('.library-entry:visible h3').all_text_contents()
         page.goto(base+'chapters/01-before-you-explain.html')
         page.locator('.header-search').click()
         expect(page.locator('h1')).to_have_text('Search the book')
@@ -43,6 +52,10 @@ def verify(base, screenshots=False):
         page.locator('#meaning-search').uncheck()
         query.fill('confirmation bias');query.press('Enter')
         expect(page.locator('#search-results li h3').first).to_have_text('Confirmation bias')
+        query.fill('matriarch');query.press('Enter')
+        expect(page.locator('#search-results li h3').first).to_have_text('Family expectations')
+        expect(page.locator('#search-term-note')).to_contain_text('no dedicated entry')
+        expect(page.locator('#search-results li .search-result-kind').first).to_contain_text('Related topic')
         assert not any('/models/' in u or '/vendor/' in u or '.wasm' in u for u in requests)
         page.locator('#meaning-search').check()
         outcomes=[]
@@ -54,12 +67,13 @@ def verify(base, screenshots=False):
             hit=next((i+1 for i,path in enumerate(paths) if path in case['expected']),None)
             outcomes.append({'query':case['query'],'rank':hit,'seconds':round(time.monotonic()-start,2),'top3':paths[:3]})
             print(json.dumps(outcomes[-1]),flush=True)
+            if case.get('required'):assert hit is not None and hit<=3,outcomes[-1]
             assert len(paths)==len(set(paths))
         # A model benchmark is a regression aid, not proof that all questions work.
         Path('/tmp/book-search-relevance.json').write_text(json.dumps(outcomes,indent=2))
         passed=sum(r['rank'] is not None and r['rank']<=3 for r in outcomes)
         print(f'Relevance: {passed}/{len(cases)} questions have an expected reading in the first three.',flush=True)
-        assert passed>=13, outcomes
+        assert passed>=len(cases)-2, outcomes
         assert outcomes[0]['rank']==1
         # A plain refusal should not lead with a personality-disorder label.
         query.fill(cases[0]['query']);query.press('Enter')

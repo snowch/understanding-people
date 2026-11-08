@@ -1,5 +1,5 @@
 const buildQuery=new URL(import.meta.url).search;
-const {createRanker,terms,normalise}=await import('./rank.mjs'+buildQuery);
+const {createRanker,terms,normalise,planQuery}=await import('./rank.mjs'+buildQuery);
 const form=document.querySelector('#book-search-form');
 if(form){
  const query=document.querySelector('#book-search-query'),meaning=document.querySelector('#meaning-search');
@@ -40,10 +40,12 @@ if(form){
  }
  function render(){
   list.replaceChildren();region.hidden=false;
+  const plan=planQuery(current,data.documents),note=document.querySelector('#search-term-note');
+  note.textContent=plan.notice;note.hidden=!plan.notice;
   for(const result of results.slice(0,limit)){
    const d=data.documents[result.document],p=data.passages[result.passage];
    const li=document.createElement('li'),kind=document.createElement('p'),h=document.createElement('h3');
-   kind.className='search-result-kind';kind.textContent=d.clinical?'Clinical reference':d.kind;
+   kind.className='search-result-kind';kind.textContent=(result.related?'Related topic · ':'')+(d.clinical?'Clinical reference':d.kind);
    h.append(link(d.title,d.url+'#'+p.anchor));
    li.append(kind,h);
    if(p.heading!==d.title){const section=document.createElement('p');section.className='search-result-section';section.textContent=p.heading;li.append(section);}
@@ -84,7 +86,7 @@ if(form){
    };
    worker.onerror=()=>{if(job===id){worker.terminate();worker=null;fail('Meaning search could not load. Keyword results are still available.');}};
    timer=setTimeout(()=>{if(job===id){stop();fail('Meaning search took too long. Keyword results are still available; try again when your connection is ready.');}},120000);
-   worker.postMessage({id,text:current});
+   worker.postMessage({id,text:planQuery(current,data.documents).embeddingText});
   }catch(error){if(job!==id)return;fail('The search files could not load. Try again online, or browse the book below.');region.hidden=true;}
  }
  function textCleanup(){loading.textContent='';loading.classList.remove('visually-hidden');}

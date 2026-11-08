@@ -48,6 +48,14 @@ Keep the existing topic-based reference navigation. Entries and recordings belon
 
 Healthy interaction needs as much attention as difficult behaviour. Otherwise the library will train readers to look mainly for problems. These areas define the coverage to develop; they are not an exhaustive classification of human behaviour.
 
+### Reader-reported gap: language, status and belonging
+
+On 8 November 2026 the reader asked about naming asymmetry: using names, titles or kinship labels differently in a way that might elevate a matriarch relative to in-laws. Existing status, power, family-expectation and culture entries cover adjacent ideas, but do not explicitly teach this pattern. This is a content-development gap, not a published entry or a completed evidence review.
+
+Develop this within the behaviour coverage, linked to possible purposes and social context. Separate the observable naming difference from a possible function (signalling status, marking insiders/outsiders, preserving a role) and from a claim of deliberate strategy. Compare cultural convention, affection, personal preference, habit and practical clarity. Ask what the exact terms are, whether comparable people receive different treatment, who is present, whether it repeats, what exceptions exist, and what happens after a respectful request about naming. A difference alone does not establish intent; a family-role label does not establish manipulation.
+
+Research leads include sociolinguistic work on forms of address, power, solidarity and belonging. Verify sources and limits before making research claims. Explain the concept first; use a short supporting example and constructive response options. Extend an existing entry or create a distinct reference only where the content warrants it. Search vocabulary can connect readers to adjacent material in the meantime, but must disclose that it is related reading rather than a full treatment of the requested term.
+
 ## Use a consistent reference entry structure
 
 Each substantial entry should answer:
