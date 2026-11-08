@@ -48,6 +48,8 @@ Keep the existing topic-based reference navigation. Entries and recordings belon
 
 Healthy interaction needs as much attention as difficult behaviour. Otherwise the library will train readers to look mainly for problems. These areas define the coverage to develop; they are not an exhaustive classification of human behaviour.
 
+The [research coverage audit of 8 November 2026](research-gap-audit.md) compares the current 111 entries and twelve chapters with selected research across language, kinship, relationships, behaviour change and organisations. It identifies eighteen development clusters, distinguishes missing explanations from partial coverage and search gaps, and records thirty-two sources with access limits. Its proposed first release covers naming and belonging, family membership and different standards, invisible work, interaction cycles and helpful support. These are prioritised development recommendations, not new published reference entries or a systematic evidence review.
+
 ### Reader-reported gap: language, status and belonging
 
 On 8 November 2026 the reader asked about naming asymmetry: using names, titles or kinship labels differently in a way that might elevate a matriarch relative to in-laws. Existing status, power, family-expectation and culture entries cover adjacent ideas, but do not explicitly teach this pattern. This is a content-development gap, not a published entry or a completed evidence review.
