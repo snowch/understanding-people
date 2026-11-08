@@ -220,7 +220,11 @@ def build(include_narration=True, include_search=True):
         sources[name] = (heading[1], text[heading.end():])
     if OUT.exists():
         shutil.rmtree(OUT)
-    shutil.copytree(ROOT / "assets", OUT / "assets")
+    from narration_delivery import excluded_paths
+    released_mp3s = excluded_paths()
+    def release_media_filter(folder, names):
+        return [name for name in names if (Path(folder)/name).relative_to(ROOT).as_posix() in released_mp3s]
+    shutil.copytree(ROOT / "assets", OUT / "assets", ignore=release_media_filter)
     # Chapter 1 media is paused while its text is revised; retain sources in Git.
     for retired in ("media/chapter-01", "media/audio/chapter-01"):
         shutil.rmtree(OUT / "assets" / retired, ignore_errors=True)

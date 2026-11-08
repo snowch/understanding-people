@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "source": "reference/feedback-and-speaking-up.md",
+  "title": "Feedback & speaking up",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Useful feedback and safety are different from comfort",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Feedback gives information about an action or result that can guide another attempt. Psychological safety concerns whether interpersonal risks, such as admitting uncertainty or reporting an error, are expected to bring punishment or humiliation. It does not mean universal agreement, constant comfort or freedom from accountability.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A vague or public correction can be heard as a judgment of someone’s worth. Teams also learn from what follows a concern. A warm invitation to speak carries little weight if previous reports brought ridicule, exclusion or retaliation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Avraham Kluger and Angelo DeNisi combined feedback experiments. Performance improved on average, but more than a third of the interventions reduced it. Their account emphasises where feedback directs attention. The average finding does not supply a fixed wording or praise formula.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate the action, standard and next attempt",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "In a fictional example, a manager says, be more professional. The employee cannot tell what to change. Saying that a client did not receive the revised date, then asking who will send the update, identifies an action and a future process. The employee may still have information that changes the manager’s account.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Was the standard known, is the feedback usable, and is there an opportunity to act on it? Defending against inaccurate criticism is not automatically defensiveness. A quiet colleague may need time to think, have no concern, or reasonably fear the consequences of speaking.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Lance Frazier and colleagues combined workplace studies on psychological safety and its connections with leadership and work outcomes. This cannot guarantee safety in one organisation or show that one invitation changes the consequences. Look at actual responses to questions and mistakes, including whose input gets acknowledged.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Respond to the information, then follow through",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Describe the relevant action and impact, ask for missing information, and agree a feasible next step. Leave person-level insults out of the task. A specific correction can still be firm and require accountability.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If someone raises a risk, acknowledge it, explain what action follows and return with an update. If you hold authority, notice whether you invite disagreement and then debate every concern until it disappears. Being approachable includes what you do with unwelcome information.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A person facing retaliation may need a confidential or formal route rather than another direct conversation. No technique in this book guarantees protection. Frequent praise is not proof of safety, and a disagreement alone does not establish an unsafe workplace.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check whether the exchange helped",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall one feedback exchange. What action, standard and chance to improve could you identify? What could the other person reasonably dispute? Pause for longer if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful answer might recognise that a missed client update needs fixing while leaving open whether the assigned owner had received the new date. The next step should resolve the task and the missing information.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, give or request one clarification and agree a next step. If you received a concern, state what you will do with it. Review whether the task improved and whether questions or corrections stayed welcome, including unintended effects.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

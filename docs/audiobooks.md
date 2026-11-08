@@ -2,11 +2,13 @@
 
 The user requested a chaptered Android audiobook and a download from the book, emphasizing that separate chapter downloads would be onerous. The download page therefore offers one complete M4B per voice, plus an optional smaller course-only M4B per voice. A person downloads one file for the chosen edition; chapters are internal markers, not separate downloads.
 
-The complete editions contain all 136 authored recordings, beginning with introduction → chapters 1–12 → conclusion, then reference entries in catalogue/topic order, then supporting guides. The course-only editions contain just the first fourteen tracks. Andrew and Jenny remain separate files and have independently measured durations and chapter boundaries. The book and its reference library keep their existing pages and player URLs.
+The complete editions contain all 161 authored recordings, beginning with introduction → chapters 1–12 → conclusion, then reference entries in catalogue/topic order, then supporting guides. The course-only editions contain just the first fourteen tracks. Andrew and Jenny remain separate files and have independently measured durations and chapter boundaries. The book and its reference library keep their existing pages and player URLs.
+
+The 8 November edition includes the 25 newer references and two refreshed guides. Its release also hosts 50 individually playable reference MP3s; source files remain verified in Git, while these selected MP3s are omitted from Pages. The previous published edition remains available at its original release tag.
 
 ## Packaging
 
-Read the local spoken-narration skill before audio work. This task reuses the approved recordings and performs no new speech synthesis or editorial rewriting. It preserves their decoded audio, including reflection prompts and pauses, and encodes the combined result as mono 24 kHz AAC-LC in an M4B container. Narration remains synthetic and carries the existing voice ID. The book's existing icon is embedded unchanged as cover artwork.
+Read the local spoken-narration skill before audio work. Packaging reuses approved recordings and performs no speech synthesis or editorial rewriting. It preserves their decoded audio, including reflection prompts and pauses, and encodes the combined result as mono 24 kHz AAC-LC in an M4B container. Narration remains synthetic and carries the existing voice ID. The book's existing icon is embedded unchanged as cover artwork.
 
 `scripts/package_audiobooks.py` decodes each existing MP3 once to PCM and records exact sample counts and decoded hashes. It derives chapter starts from those sample counts, rather than adding MP3 container durations, which can accumulate encoder-padding errors. All chapter names are embedded in both the QuickTime and Nero chapter representations. Metadata is placed before the audio for fast start/seeking. Each file receives the audiobook media-kind tag and author, voice and edition metadata.
 
@@ -17,7 +19,7 @@ python scripts/package_audiobooks.py --release-tag audiobooks-2026-11-07
 python scripts/build.py
 ```
 
-Large release files are written to `/workspace/audiobook-release/`; temporary PCM/metadata stays under `/workspace/audiobook-packaging-cache/`. The combined WAVs are removed after encoding. Neither directory is inside the repository or Pages output. Keep final M4Bs, checksum list and a copy of the manifest in the release artifacts, not in Git or the approximately 905 MB website. Release hosting avoids exceeding the Pages size budget or duplicating narration in its offline cache.
+Large release files are written to `/workspace/audiobook-release/`; temporary PCM/metadata stays under `/workspace/audiobook-packaging-cache/`. The combined WAVs are removed after encoding. Neither directory is inside the repository or Pages output. Keep final M4Bs, checksum list and a copy of the manifest in the release artifacts, not in Git or the Pages website. Release hosting avoids exceeding the Pages size budget or duplicating narration in its offline cache.
 
 ## Validate and publish
 

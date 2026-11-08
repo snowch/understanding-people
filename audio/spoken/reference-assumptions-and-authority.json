@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "source": "reference/assumptions-and-authority.md",
+  "title": "Assumptions in questions & decision rights",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Hear the assumption inside the question",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A question can request information while treating a different claim as settled. That background assumption is called a presupposition. You can challenge it without rejecting the whole conversation. It also helps to distinguish knowing about a decision from having the right to make it.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Imagine a colleague asks why you are refusing to support a launch. You support the launch but have questioned its date. Answering only why you are refusing can leave a disputed premise in place. A clearer reply separates support for the launch from agreement that Friday is workable.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Linguist Christopher Potts explains how background assumptions and implied meanings work in context. His account is about language, not a test of manipulative intent. Ordinary conversation relies on assumptions; a mistaken or abbreviated question can sound like an intentional attempt to constrain an answer.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate the request from decision rights",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Ask two questions. What is this wording assuming, and what answer is it asking for? Then check whether the assumption is shared or supported. If several people are affected, identify who can decide, who should be consulted and whose consent is needed.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Melisa Stevanovic and Anssi Peräkylä analysed workplace planning discussions. People could accept a proposal while resisting the speaker’s assumed right to decide it. That distinction can help you think, but a study of one workplace does not determine every family’s decision rights.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "An implication is something suggested by words in context. Some people make time for family might sound like criticism after you decline a visit. That interpretation may be worth checking; the wording alone does not establish the intention. Compare the explanation with what happens next.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Correct the premise and return to the issue",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Use a short correction and a route forward. I have not agreed to host; are you asking whether I can? If an assumption is partly accurate, acknowledge that part and clarify the rest. This leaves room for a genuine discussion rather than a contest over every phrase.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "You can ask for direct discussion when repeated insinuations have an unwanted effect, even if the speaker disputes your reading. Plausible deniability is not proof of deception. Apply the same standard to hints you expect other people to understand.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Practise one clear correction",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a confusing request. Can you state its assumed claim separately from its actual question, and give a harmless possible explanation for the wording? Pause for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the launch example, the assumed claim is that questioning the date means opposing the launch. The actual decision is whether Friday is workable. A useful response affirms support, corrects the deadline assumption and asks which constraints need comparing.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Later, write one correction and one question that returns to the real decision. Try them where appropriate, then review whether the issue became clearer and whether your own interpretation needed changing. The cue is: check the assumption before answering within it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

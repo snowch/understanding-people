@@ -17,7 +17,7 @@
           "pause_after_ms": 900
         },
         {
-          "text": "The written library groups its entries by topic and lets you search locally. This audio explains how to use that structure rather than reading every entry aloud. A developed reference contains an explanation, selected evidence and practical suggestions. Developed does not mean exhaustive, clinically validated or specialist-reviewed.",
+          "text": "The written library now contains a hundred and thirty-six entries across eight topics. This audio explains how to use it rather than reciting titles. Each entry brings together explanation, selected evidence and practical suggestions. Developed does not mean exhaustive, clinically validated or specialist-reviewed.",
           "pause_after_ms": 1600
         }
       ]
@@ -47,6 +47,10 @@
         {
           "text": "If someone declines help, for instance, compare the offer, timing and decisions involved before inferring distrust. You might then read about choice, relationship history or a clear request. Keep the distinctions that fit the information you actually have, and leave room for a reason the library has not named.",
           "pause_after_ms": 1600
+        },
+        {
+          "text": "New entries examine names and belonging, invisible work, changing standards, family roles and other situations that broad labels can hide. Treat a term such as gaslighting or a popular relationship label as a reason to examine conduct and evidence, not as a shortcut to someone’s entire character.",
+          "pause_after_ms": 1600
         }
       ]
     },
@@ -60,6 +64,10 @@
         },
         {
           "text": "Include your own contribution. Did your request leave a real choice? Was the agreement clear? Did the next interaction become more workable? A result can improve understanding without producing agreement or proving that your first explanation was correct.",
+          "pause_after_ms": 1600
+        },
+        {
+          "text": "You can save useful pages from search or while reading and return to the passage later. The reading list stays in this browser, separate from practice notes. For deeper learning, revisit one saved idea after trying a small action and compare what actually happened with what you expected.",
           "pause_after_ms": 1600
         }
       ]

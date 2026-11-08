@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "repository": "snowch/understanding-people",
+  "release_tag": "audiobooks-2026-11-08",
+  "pages": [
+    "reference/naming-and-belonging.md",
+    "reference/assumptions-and-authority.md",
+    "reference/family-membership.md",
+    "reference/unequal-treatment.md",
+    "reference/invisible-work.md",
+    "reference/interaction-cycles.md",
+    "reference/responsive-support.md",
+    "reference/oversight-and-delegation.md",
+    "reference/sequential-requests.md",
+    "reference/adult-attachment.md",
+    "reference/procrastination-planning.md",
+    "reference/feedback-and-speaking-up.md",
+    "reference/personality-facets.md",
+    "reference/exclusion-and-reputation.md",
+    "reference/social-comparison.md",
+    "reference/gatekeeping.md",
+    "reference/comparing-occasions.md",
+    "reference/ai-reflection.md",
+    "reference/blame-reversal.md",
+    "reference/changing-standards.md",
+    "reference/intense-and-inconsistent-contact.md",
+    "reference/negotiation-and-mediation.md",
+    "reference/parentification.md",
+    "reference/shame-anger-and-repair.md",
+    "reference/digital-misunderstandings.md"
+  ]
+}

@@ -11136,46 +11136,46 @@
       "title": "Using the reference library",
       "mode": "spoken-lesson",
       "script_source": "audio/spoken/reference-index.json",
-      "script_sha256": "73913ee92ace57945a1b404ab61316f2a32c6a465b37f9ef8bd187e0403b535b",
-      "page_text_sha256": "a8b5baa93f4a7bb5aa5c51828fe6f467b90ab3ca46bb2604f68b766c2c7a140b",
+      "script_sha256": "1ba266e8effd801a88e6bf4352cb7af67c4a98b319095bab8c97a5d700452dfc",
+      "page_text_sha256": "1f8b3c5bdd2931dee94d94925502699911a0dab1b83a004e764f52e6251ad48d",
       "source_hashes": {
-        "reference/catalog.json": "dd3dcf18c12c98e21024fd20aa41325dc15af4bef27a0ed163c6a122b42b3d14"
+        "reference/catalog.json": "5d427407d856224cd735f9010a386a363699132241fdcb25969402347b6f605d"
       },
-      "text_sha256": "73913ee92ace57945a1b404ab61316f2a32c6a465b37f9ef8bd187e0403b535b",
-      "audio_sha256": "0f1455ba1ed70be0cc10d15e7f022b3eb83b73a4bf6a27e5a0c5eb0cf8765322",
-      "transcript_sha256": "dde152cf782183eb142a5d9f8aa726939d142c2e224e948bf453c3006246bc6d",
-      "words": 461,
-      "duration": 201.0,
+      "text_sha256": "1ba266e8effd801a88e6bf4352cb7af67c4a98b319095bab8c97a5d700452dfc",
+      "audio_sha256": "6210696c6a9741510d4a835dcb7c9b7953336efbf8e69ecb182124073bb9a9c0",
+      "transcript_sha256": "5760d2aff314c234d5062647c145ecf89e35ab26bbfd443fdb35bcc4489156c2",
+      "words": 552,
+      "duration": 239.184,
       "sections": [
         {
           "title": "Start with a description, not a verdict",
           "anchor": "main",
           "start": 0,
-          "end": 43.282
+          "end": 42.666
         },
         {
           "title": "Check the explanation you brought with you",
           "anchor": "thinking-and-interpretation",
-          "start": 43.282,
-          "end": 80.853
+          "start": 42.666,
+          "end": 80.237
         },
         {
           "title": "Follow a behaviour toward several possibilities",
           "anchor": "behaviour-and-relationships",
-          "start": 80.853,
-          "end": 123.896
+          "start": 80.237,
+          "end": 143.149
         },
         {
           "title": "Choose a response within your influence",
           "anchor": "responding-and-collaborating",
-          "start": 123.896,
-          "end": 159.407
+          "start": 143.149,
+          "end": 197.609
         },
         {
           "title": "Use clinical vocabulary with the right limits",
           "anchor": "clinical-vocabulary",
-          "start": 159.407,
-          "end": 200.933
+          "start": 197.609,
+          "end": 239.135
         }
       ],
       "provider_words_verified": true,
@@ -11191,64 +11191,78 @@
         },
         {
           "paragraph": 1,
-          "start": 41.681916666666666,
-          "end": 43.28191666666667,
+          "start": 41.066125,
+          "end": 42.666125,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
         },
         {
           "paragraph": 2,
-          "start": 60.48475,
-          "end": 61.38475,
+          "start": 59.86895833333333,
+          "end": 60.76895833333333,
           "requested_ms": 900,
           "verified_silence_ms": 740
         },
         {
           "paragraph": 3,
-          "start": 79.25275,
-          "end": 80.85275,
+          "start": 78.63695833333334,
+          "end": 80.23695833333333,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
         },
         {
           "paragraph": 4,
-          "start": 102.047375,
-          "end": 102.947375,
+          "start": 101.43158333333334,
+          "end": 102.33158333333333,
           "requested_ms": 900,
           "verified_silence_ms": 740
         },
         {
           "paragraph": 5,
-          "start": 122.29595833333333,
-          "end": 123.89595833333334,
+          "start": 121.68016666666666,
+          "end": 123.28016666666667,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
         },
         {
           "paragraph": 6,
-          "start": 140.47670833333333,
-          "end": 141.37670833333334,
-          "requested_ms": 900,
-          "verified_silence_ms": 740
-        },
-        {
-          "paragraph": 7,
-          "start": 157.80733333333333,
-          "end": 159.40733333333333,
+          "start": 141.548875,
+          "end": 143.148875,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
         },
         {
-          "paragraph": 8,
-          "start": 178.94579166666668,
-          "end": 179.84579166666666,
+          "paragraph": 7,
+          "start": 159.729625,
+          "end": 160.629625,
           "requested_ms": 900,
           "verified_silence_ms": 740
         },
         {
+          "paragraph": 8,
+          "start": 177.06025,
+          "end": 178.66025,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
           "paragraph": 9,
-          "start": 199.33325,
-          "end": 200.93325,
+          "start": 196.00883333333334,
+          "end": 197.60883333333334,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 10,
+          "start": 217.14729166666666,
+          "end": 218.04729166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 237.53475,
+          "end": 239.13475,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
         }
@@ -17960,46 +17974,46 @@
       "title": "Using research sources for the reference library",
       "mode": "spoken-lesson",
       "script_source": "audio/spoken/reference-sources.json",
-      "script_sha256": "a1627e8d61875a0bf448936e5d14c81cd76c9296bad94edce41d5b85fa3153b7",
-      "page_text_sha256": "cc0793c22a10f97b8a137ea4f3021abd2820988190d2f0388e4625148db1acc1",
+      "script_sha256": "c56fea5293b688c36bd2810bb932ab36db0c2c5c0c2e8eed843bb4a9190779ad",
+      "page_text_sha256": "9c38a948e1af4cc18ad2ee95fce5ecd4f0837ee2fc7bc6f5ef2d484bc8473faf",
       "source_hashes": {
-        "reference/research-sources.json": "844591348b59194555e6242f6814dcccdc660fea8ede256a0ec016dbe1a6e86a"
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
       },
-      "text_sha256": "a1627e8d61875a0bf448936e5d14c81cd76c9296bad94edce41d5b85fa3153b7",
-      "audio_sha256": "a0e45e4a02a37a28f694d05cebf91deed14caea474f0165026ab115946e93fd9",
-      "transcript_sha256": "002ae728b6606c9bedcc4107f149c59b5e5ee746bb33e8b193adfc801929e2aa",
-      "words": 480,
-      "duration": 204.048,
+      "text_sha256": "c56fea5293b688c36bd2810bb932ab36db0c2c5c0c2e8eed843bb4a9190779ad",
+      "audio_sha256": "bc93e6a79a20f3d0b974dde97e20f48a260b9fd3562ab042ceda6d8a4894f9f8",
+      "transcript_sha256": "6e7ab31878556d06e7e4f9291b26ea1d41381b701c864347a2c623f043c2332f",
+      "words": 579,
+      "duration": 258.168,
       "sections": [
         {
           "title": "A source list is a way to inspect a claim",
           "anchor": "main",
           "start": 0,
-          "end": 39.512
+          "end": 46.925
         },
         {
           "title": "Ask what kind of work the source describes",
           "anchor": "anthropology",
-          "start": 39.512,
-          "end": 82.946
+          "start": 46.925,
+          "end": 90.36
         },
         {
           "title": "Keep the result within its scope",
           "anchor": "deception",
-          "start": 82.946,
-          "end": 124.464
+          "start": 90.36,
+          "end": 154.11
         },
         {
           "title": "Distinguish research from public guidance",
           "anchor": "nhs-abuse",
-          "start": 124.464,
-          "end": 164.53
+          "start": 154.11,
+          "end": 194.175
         },
         {
           "title": "Check access and generalisation",
           "anchor": "weird",
-          "start": 164.53,
-          "end": 203.978
+          "start": 194.175,
+          "end": 258.1
         }
       ],
       "provider_words_verified": true,
@@ -18015,66 +18029,80 @@
         },
         {
           "paragraph": 1,
-          "start": 37.911625,
-          "end": 39.511625,
+          "start": 45.325125,
+          "end": 46.925125,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
         },
         {
           "paragraph": 2,
-          "start": 61.562666666666665,
-          "end": 62.462666666666664,
+          "start": 68.97616666666667,
+          "end": 69.87616666666666,
           "requested_ms": 900,
           "verified_silence_ms": 740
         },
         {
           "paragraph": 3,
-          "start": 81.34604166666666,
-          "end": 82.94604166666667,
+          "start": 88.75954166666666,
+          "end": 90.35954166666667,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
         },
         {
           "paragraph": 4,
-          "start": 100.83295833333334,
-          "end": 101.73295833333333,
+          "start": 108.24645833333334,
+          "end": 109.14645833333333,
           "requested_ms": 900,
           "verified_silence_ms": 740
         },
         {
           "paragraph": 5,
-          "start": 122.86416666666666,
-          "end": 124.46416666666667,
+          "start": 130.27766666666668,
+          "end": 131.87766666666667,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
         },
         {
           "paragraph": 6,
-          "start": 146.88033333333334,
-          "end": 147.78033333333335,
-          "requested_ms": 900,
-          "verified_silence_ms": 740
+          "start": 152.50975,
+          "end": 154.10975,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
         },
         {
           "paragraph": 7,
-          "start": 162.9295,
-          "end": 164.5295,
-          "requested_ms": 1600,
-          "verified_silence_ms": 1440
-        },
-        {
-          "paragraph": 8,
-          "start": 179.4685,
-          "end": 180.3685,
+          "start": 176.52591666666666,
+          "end": 177.42591666666667,
           "requested_ms": 900,
           "verified_silence_ms": 740
         },
         {
-          "paragraph": 9,
-          "start": 202.377625,
-          "end": 203.977625,
+          "paragraph": 8,
+          "start": 192.57508333333334,
+          "end": 194.17508333333333,
           "requested_ms": 1600,
           "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 209.11408333333333,
+          "end": 210.01408333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 232.02320833333334,
+          "end": 233.62320833333334,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 11,
+          "start": 249.09958333333333,
+          "end": 258.0995833333333,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
         }
       ]
     },
@@ -19904,7 +19932,3219 @@
           "verified_silence_ms": 1440
         }
       ]
+    },
+    "reference/naming-and-belonging.md": {
+      "title": "Names, respect & belonging",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-naming-and-belonging.json",
+      "script_sha256": "7fc82313e079c048d6e104d7f142d8d6fcffd0fb6a480b81252ee021473ca4f1",
+      "page_text_sha256": "571fada7448031ace3985c75bee595c3813a50b994afa04f23d7d7616561c81e",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "7fc82313e079c048d6e104d7f142d8d6fcffd0fb6a480b81252ee021473ca4f1",
+      "audio_sha256": "bdfb33d3fc59457094e8fe83e1340137b3e310c1cd8557aaf0dee102983e36d4",
+      "transcript_sha256": "6c0f4e0f0f9c5b38584cc6c787c4fbe5b14a907f1c1ea320c5e47d00ec834d87",
+      "words": 467,
+      "duration": 210.672,
+      "sections": [
+        {
+          "title": "What a naming difference can mean",
+          "anchor": "main",
+          "start": 0,
+          "end": 60.029
+        },
+        {
+          "title": "Compare preferences and treatment",
+          "anchor": "what-to-notice-and-check",
+          "start": 60.029,
+          "end": 119.376
+        },
+        {
+          "title": "Correct the address without proving a strategy",
+          "anchor": "how-to-respond",
+          "start": 119.376,
+          "end": 154.697
+        },
+        {
+          "title": "Try a fair comparison",
+          "anchor": "practice",
+          "start": 154.697,
+          "end": 210.62
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 18.740666666666666,
+          "end": 19.640666666666668,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 38.23425,
+          "end": 39.13425,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 58.429291666666664,
+          "end": 60.029291666666666,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 79.10616666666667,
+          "end": 80.00616666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 99.47491666666667,
+          "end": 100.37491666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 117.77645833333334,
+          "end": 119.37645833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 133.57666666666665,
+          "end": 134.47666666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 153.09729166666668,
+          "end": 154.69729166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 166.019125,
+          "end": 175.019125,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 190.50379166666667,
+          "end": 191.40379166666668,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 209.020125,
+          "end": 210.620125,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/assumptions-and-authority.md": {
+      "title": "Assumptions in questions & decision rights",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-assumptions-and-authority.json",
+      "script_sha256": "29412973619a07f04f64c83ec992de2c9448875dcd0360a5a0cd06061190d919",
+      "page_text_sha256": "2e960c66cc38fa951db512cf278cd9aa5d3eed51d228ffbd2d778b87fbcfcd53",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "29412973619a07f04f64c83ec992de2c9448875dcd0360a5a0cd06061190d919",
+      "audio_sha256": "c58f4c9d0efc7c4af3ff2ade033030dd32ccacb84b634e5f2b45953422761b2b",
+      "transcript_sha256": "088753d2217a36478f65543ebfcc5bb4499ffe5f8592a1813ddd17fa2c4a4c04",
+      "words": 461,
+      "duration": 200.544,
+      "sections": [
+        {
+          "title": "Hear the assumption inside the question",
+          "anchor": "main",
+          "start": 0,
+          "end": 56.415
+        },
+        {
+          "title": "Separate the request from decision rights",
+          "anchor": "what-to-notice-and-check",
+          "start": 56.415,
+          "end": 111.762
+        },
+        {
+          "title": "Correct the premise and return to the issue",
+          "anchor": "how-to-respond",
+          "start": 111.762,
+          "end": 146.454
+        },
+        {
+          "title": "Practise one clear correction",
+          "anchor": "practice",
+          "start": 146.454,
+          "end": 200.488
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 16.7535,
+          "end": 17.6535,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 34.76116666666667,
+          "end": 35.66116666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 54.81466666666667,
+          "end": 56.41466666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 72.62375,
+          "end": 73.52375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 90.759375,
+          "end": 91.659375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 110.16208333333333,
+          "end": 111.76208333333334,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 128.81879166666667,
+          "end": 129.71879166666668,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 144.85445833333333,
+          "end": 146.45445833333332,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 157.68833333333333,
+          "end": 166.68833333333333,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 182.260125,
+          "end": 183.160125,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 198.88758333333334,
+          "end": 200.48758333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/family-membership.md": {
+      "title": "Family membership, roles & loyalties",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-family-membership.json",
+      "script_sha256": "909cca45056395cb21b17a13bfc60658b93a5b3ef306f5d3fa4d23d7eefebc59",
+      "page_text_sha256": "4e95b42ec1fc7bd1ed6bfe8b5b47bc452f61a9700caf6595d75f048ff48d4b63",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "909cca45056395cb21b17a13bfc60658b93a5b3ef306f5d3fa4d23d7eefebc59",
+      "audio_sha256": "6fcda3296ab4426c0dfd28d65e1ca083a19008fd33683e10d2b701c41b9572f8",
+      "transcript_sha256": "e679d9e6e5787bf37db4c6dd85ee57c2627d9c6ef2ac5a5a6e24647fff8100ba",
+      "words": 500,
+      "duration": 229.32,
+      "sections": [
+        {
+          "title": "Belonging and obligations are different questions",
+          "anchor": "main",
+          "start": 0,
+          "end": 65.249
+        },
+        {
+          "title": "Identify the actual expectation",
+          "anchor": "what-to-notice-and-check",
+          "start": 65.249,
+          "end": 119.819
+        },
+        {
+          "title": "Make a current agreement",
+          "anchor": "how-to-respond",
+          "start": 119.819,
+          "end": 179.412
+        },
+        {
+          "title": "Review clarity and choice",
+          "anchor": "practice",
+          "start": 179.412,
+          "end": 229.259
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 23.608125,
+          "end": 24.508125,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 44.67758333333333,
+          "end": 45.57758333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 63.649375,
+          "end": 65.249375,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 81.12779166666667,
+          "end": 82.02779166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 99.662,
+          "end": 100.562,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 118.21895833333333,
+          "end": 119.81895833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 135.53916666666666,
+          "end": 136.43916666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 157.90191666666666,
+          "end": 158.80191666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 177.8125,
+          "end": 179.4125,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 192.25075,
+          "end": 201.25075,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 213.95525,
+          "end": 214.85525,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 227.658875,
+          "end": 229.258875,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/unequal-treatment.md": {
+      "title": "Different standards & unequal treatment",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-unequal-treatment.json",
+      "script_sha256": "c8be8a3d59866af90ce05becb97ceb524b1b33dd6980a5dd5dc0c721997743bf",
+      "page_text_sha256": "3dc76df8cef678a3c054070dd3e918b63364fbb7b613dc76bf3b5cce0b1ce812",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "c8be8a3d59866af90ce05becb97ceb524b1b33dd6980a5dd5dc0c721997743bf",
+      "audio_sha256": "2f509dabe4cc2d9a0bc77626d433a361c4ebd4d7f3608a5f815838e9552029fa",
+      "transcript_sha256": "708fc5eb52ea8a906d2527a98a24533eff5a5f16925b55d3e94fe2d37cd140c3",
+      "words": 468,
+      "duration": 217.824,
+      "sections": [
+        {
+          "title": "Difference does not settle fairness",
+          "anchor": "main",
+          "start": 0,
+          "end": 56.107
+        },
+        {
+          "title": "Make the comparison specific",
+          "anchor": "what-to-notice-and-check",
+          "start": 56.107,
+          "end": 115.405
+        },
+        {
+          "title": "Ask for a fair future rule",
+          "anchor": "how-to-respond",
+          "start": 115.405,
+          "end": 168.06
+        },
+        {
+          "title": "Test the comparison fairly",
+          "anchor": "practice",
+          "start": 168.06,
+          "end": 217.756
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 18.311791666666668,
+          "end": 19.211791666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 36.2105,
+          "end": 37.1105,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 54.507041666666666,
+          "end": 56.10704166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 72.71325,
+          "end": 73.61325,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 90.122125,
+          "end": 91.022125,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 113.805375,
+          "end": 115.405375,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 130.449625,
+          "end": 131.349625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 148.94695833333333,
+          "end": 149.84695833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 166.45991666666666,
+          "end": 168.05991666666668,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 179.897375,
+          "end": 188.897375,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 200.36975,
+          "end": 201.26975,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 216.15579166666666,
+          "end": 217.75579166666665,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/invisible-work.md": {
+      "title": "Invisible work & shared responsibility",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-invisible-work.json",
+      "script_sha256": "0b60a31977330ee345c0501a4f3e11aa6419b791bddee928cc9a7b7dc5ee04bc",
+      "page_text_sha256": "ece0e9cf2352abb85c2fa870c072f124d4de7ac8ce09dd36a268b32888ecaf59",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "0b60a31977330ee345c0501a4f3e11aa6419b791bddee928cc9a7b7dc5ee04bc",
+      "audio_sha256": "979a601cef1d0a1cd5e4cde7a42572f6edcc31e3a5f51e975280cb19de766d6f",
+      "transcript_sha256": "694820856b778e5121f69052d59100e0832c225c945af70432eb9fd338379b09",
+      "words": 472,
+      "duration": 215.808,
+      "sections": [
+        {
+          "title": "Count coordination as work",
+          "anchor": "main",
+          "start": 0,
+          "end": 51.203
+        },
+        {
+          "title": "Trace the whole task",
+          "anchor": "what-to-notice-and-check",
+          "start": 51.203,
+          "end": 105.545
+        },
+        {
+          "title": "Transfer ownership, with resources",
+          "anchor": "how-to-respond",
+          "start": 105.545,
+          "end": 162.177
+        },
+        {
+          "title": "Try one manageable change",
+          "anchor": "practice",
+          "start": 162.177,
+          "end": 215.741
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 16.918666666666667,
+          "end": 17.818666666666665,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 33.151583333333335,
+          "end": 34.05158333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 49.6025,
+          "end": 51.2025,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 68.068375,
+          "end": 68.968375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 85.999625,
+          "end": 86.899625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 103.94495833333333,
+          "end": 105.54495833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 123.186125,
+          "end": 124.086125,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 140.48675,
+          "end": 141.38675,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 160.57658333333333,
+          "end": 162.17658333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 175.54329166666668,
+          "end": 184.54329166666668,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 196.52375,
+          "end": 197.42375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 214.140625,
+          "end": 215.740625,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/interaction-cycles.md": {
+      "title": "Pressure, withdrawal & interaction cycles",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-interaction-cycles.json",
+      "script_sha256": "dc48355ac1abdaf459fd9f685ae5a5dfcc7feb3cf3868e007b83b47db62c59d0",
+      "page_text_sha256": "25bc9ec4b683ca3dab6e2013da4798bab7c063205ba5942431290fc39bbedc06",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "dc48355ac1abdaf459fd9f685ae5a5dfcc7feb3cf3868e007b83b47db62c59d0",
+      "audio_sha256": "3dbf3267c688588ff9f2d1bf09498702e6acd8c7be2b0cb4a1c089ea228b30ff",
+      "transcript_sha256": "da592162bfa727333a42dbf4db506568dfdd79a4d0c73019688987ad8ec00680",
+      "words": 457,
+      "duration": 208.392,
+      "sections": [
+        {
+          "title": "Notice the sequence, not just the labels",
+          "anchor": "main",
+          "start": 0,
+          "end": 65.873
+        },
+        {
+          "title": "Distinguish a pause from an unresolved refusal",
+          "anchor": "what-to-notice-and-check",
+          "start": 65.873,
+          "end": 122.137
+        },
+        {
+          "title": "Change one feasible part",
+          "anchor": "how-to-respond",
+          "start": 122.137,
+          "end": 154.805
+        },
+        {
+          "title": "Review whether the issue was addressed",
+          "anchor": "practice",
+          "start": 154.805,
+          "end": 208.335
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 19.93525,
+          "end": 20.83525,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 38.827125,
+          "end": 39.727125,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 64.27304166666667,
+          "end": 65.87304166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 81.69975,
+          "end": 82.59975,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 101.27216666666666,
+          "end": 102.17216666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 120.53679166666667,
+          "end": 122.13679166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 136.180875,
+          "end": 137.080875,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 153.20475,
+          "end": 154.80475,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 165.19870833333334,
+          "end": 174.19870833333334,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 189.66433333333333,
+          "end": 190.56433333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 206.73520833333333,
+          "end": 208.33520833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/responsive-support.md": {
+      "title": "Support that feels helpful",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-responsive-support.json",
+      "script_sha256": "279f7f8331c0f2a2ff756d1cf27a4e673eb41e59b23c264d291eccb1403402d5",
+      "page_text_sha256": "83defc2bffd8373558a6c335696d0b3509ca7a201abd719b27ca9ec0422503c8",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "279f7f8331c0f2a2ff756d1cf27a4e673eb41e59b23c264d291eccb1403402d5",
+      "audio_sha256": "85c37c3e1fea39265fde2beab645009ee91a5b7d749c174d66dda63e8dc93cf8",
+      "transcript_sha256": "959e3a8e743fb4baebafdd40d27482bd41b642c5b647967f36e11f20ef44f7c9",
+      "words": 472,
+      "duration": 209.208,
+      "sections": [
+        {
+          "title": "Good intentions and useful help can differ",
+          "anchor": "main",
+          "start": 0,
+          "end": 57.618
+        },
+        {
+          "title": "Check the fit of the offer",
+          "anchor": "what-to-notice-and-check",
+          "start": 57.618,
+          "end": 107.049
+        },
+        {
+          "title": "Offer something specific, with a real option to decline",
+          "anchor": "how-to-respond",
+          "start": 107.049,
+          "end": 160.357
+        },
+        {
+          "title": "Look for usefulness and choice",
+          "anchor": "practice",
+          "start": 160.357,
+          "end": 209.138
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 18.301708333333334,
+          "end": 19.201708333333332,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 35.60066666666667,
+          "end": 36.50066666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 56.018208333333334,
+          "end": 57.618208333333335,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 73.25204166666667,
+          "end": 74.15204166666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 88.74833333333333,
+          "end": 89.64833333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 105.449,
+          "end": 107.049,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 122.77816666666666,
+          "end": 123.67816666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 141.69033333333334,
+          "end": 142.59033333333332,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 158.75741666666667,
+          "end": 160.35741666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 171.04204166666668,
+          "end": 180.04204166666668,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 190.72433333333333,
+          "end": 191.62433333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 207.537625,
+          "end": 209.137625,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/oversight-and-delegation.md": {
+      "title": "Oversight, delegation & micromanagement",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-oversight-and-delegation.json",
+      "script_sha256": "3179e4cb480bb15d89e448cbe25a46102657262d8d1687126d24e3d6413342fd",
+      "page_text_sha256": "56b4ce2c4c8e5180db2b0f088bac430b4cb90ce6c375f8bf799e894eb4facbfd",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "3179e4cb480bb15d89e448cbe25a46102657262d8d1687126d24e3d6413342fd",
+      "audio_sha256": "746fc8e4c4d601c47c294a1013a2ab20fd558791d3d2e854e8c03fa7a6bcaf43",
+      "transcript_sha256": "5a150f2ff82359eaedfa9739c6f46dcbf83ddbc04e8c65743173fbf1aef06e83",
+      "words": 453,
+      "duration": 215.232,
+      "sections": [
+        {
+          "title": "Autonomy and accountability can coexist",
+          "anchor": "main",
+          "start": 0,
+          "end": 59.293
+        },
+        {
+          "title": "Ask what each check is for",
+          "anchor": "what-to-notice-and-check",
+          "start": 59.293,
+          "end": 112.042
+        },
+        {
+          "title": "Agree outcomes and a review rhythm",
+          "anchor": "how-to-respond",
+          "start": 112.042,
+          "end": 162.429
+        },
+        {
+          "title": "Try one proportionate adjustment",
+          "anchor": "practice",
+          "start": 162.429,
+          "end": 215.181
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 19.66375,
+          "end": 20.56375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 37.270291666666665,
+          "end": 38.170291666666664,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 57.69316666666667,
+          "end": 59.293166666666664,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 73.361,
+          "end": 74.261,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 90.64383333333333,
+          "end": 91.54383333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 110.44245833333333,
+          "end": 112.04245833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 126.51645833333333,
+          "end": 127.41645833333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 141.72458333333333,
+          "end": 142.62458333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 160.829125,
+          "end": 162.429125,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 172.651875,
+          "end": 181.651875,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 195.408375,
+          "end": 196.308375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 213.58129166666666,
+          "end": 215.18129166666668,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/sequential-requests.md": {
+      "title": "Escalating requests & everyday influence",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-sequential-requests.json",
+      "script_sha256": "e38da5a41013e5dfb889187dd36889bdc2a69ddc5aabec85b3b178a5f578fe35",
+      "page_text_sha256": "89b9ba166a11e763bc4f9b997ccc75d92b94bf37d97e37f5aacea2513ae3267c",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "e38da5a41013e5dfb889187dd36889bdc2a69ddc5aabec85b3b178a5f578fe35",
+      "audio_sha256": "d440c59d72a9f251602781fa8c29f44d75af9a729adf6b0acdca86052bce13ea",
+      "transcript_sha256": "204ff60ecedbdd36db53e4c3a62abae27096217c2fd717bb53b684bf1c313f33",
+      "words": 504,
+      "duration": 221.112,
+      "sections": [
+        {
+          "title": "Assess the commitment being asked for now",
+          "anchor": "main",
+          "start": 0,
+          "end": 64.373
+        },
+        {
+          "title": "Compare the original and current terms",
+          "anchor": "what-to-notice-and-check",
+          "start": 64.373,
+          "end": 119.684
+        },
+        {
+          "title": "Keep consent current",
+          "anchor": "how-to-respond",
+          "start": 119.684,
+          "end": 170.918
+        },
+        {
+          "title": "Review whether the decision stayed voluntary",
+          "anchor": "practice",
+          "start": 170.918,
+          "end": 221.058
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 19.45,
+          "end": 20.35,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 39.24641666666667,
+          "end": 40.14641666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 62.77345833333333,
+          "end": 64.37345833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 82.42583333333333,
+          "end": 83.32583333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 100.68229166666667,
+          "end": 101.58229166666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 118.08354166666666,
+          "end": 119.68354166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 135.736,
+          "end": 136.636,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 150.16441666666665,
+          "end": 151.06441666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 169.31770833333334,
+          "end": 170.91770833333334,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 181.432875,
+          "end": 190.432875,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 203.72316666666666,
+          "end": 204.62316666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 219.45795833333332,
+          "end": 221.05795833333335,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/adult-attachment.md": {
+      "title": "Adult attachment: anxiety, avoidance & security",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-adult-attachment.json",
+      "script_sha256": "7b59f7170ba6c268c14a594e016c08373e2193869aca5cb48d9a0ce2acd49ea9",
+      "page_text_sha256": "c51405edcf949eb4f949e3da65b7e6f4a037f0539ff4561279e3a5d88602da99",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "7b59f7170ba6c268c14a594e016c08373e2193869aca5cb48d9a0ce2acd49ea9",
+      "audio_sha256": "7d2a47cb51a85c7918497cc4e3636a6461e3576bd9620c999a0c421663c43b9a",
+      "transcript_sha256": "0f80c7c837c92e3770c239103a16a32c56168084ad1e58b065076081bb2bfc24",
+      "words": 447,
+      "duration": 217.392,
+      "sections": [
+        {
+          "title": "Expectations about closeness are not fixed types",
+          "anchor": "main",
+          "start": 0,
+          "end": 67.873
+        },
+        {
+          "title": "Compare relationships and current reliability",
+          "anchor": "what-to-notice-and-check",
+          "start": 67.873,
+          "end": 127.952
+        },
+        {
+          "title": "Make availability and limits clearer",
+          "anchor": "how-to-respond",
+          "start": 127.952,
+          "end": 166.096
+        },
+        {
+          "title": "Choose a practical response before a label",
+          "anchor": "practice",
+          "start": 166.096,
+          "end": 217.334
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 22.381458333333335,
+          "end": 23.281458333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 43.54920833333333,
+          "end": 44.44920833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 66.27341666666666,
+          "end": 67.87341666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 87.98608333333334,
+          "end": 88.88608333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 105.38766666666666,
+          "end": 106.28766666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 126.35241666666667,
+          "end": 127.95241666666666,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 143.88420833333333,
+          "end": 144.78420833333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 164.49608333333333,
+          "end": 166.09608333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 178.21841666666666,
+          "end": 187.21841666666666,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 200.45858333333334,
+          "end": 201.35858333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 215.73395833333333,
+          "end": 217.33395833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/procrastination-planning.md": {
+      "title": "Procrastination & making a start",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-procrastination-planning.json",
+      "script_sha256": "7bf15e386ea4ae143ee40f95368d43c6714e77f994df16cd026cf5a7e0b0546d",
+      "page_text_sha256": "86e8558725047eed55d5ac5b8683a93f4fe46b154e9064eb3c1340ee3d0f021f",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "7bf15e386ea4ae143ee40f95368d43c6714e77f994df16cd026cf5a7e0b0546d",
+      "audio_sha256": "4e75868da6c712ca21a3ebc272cbd5af4368554e4e55656ed7539c4d7d7891ac",
+      "transcript_sha256": "4415826b9e65fee1f66144ce07cd10891bd0b8377aeaa2a886ac9f0e176679d8",
+      "words": 470,
+      "duration": 209.688,
+      "sections": [
+        {
+          "title": "Wanting an outcome and starting are different",
+          "anchor": "main",
+          "start": 0,
+          "end": 53.431
+        },
+        {
+          "title": "Find the first obstacle",
+          "anchor": "what-to-notice-and-check",
+          "start": 53.431,
+          "end": 103.598
+        },
+        {
+          "title": "Make a cue and obstacle plan",
+          "anchor": "how-to-respond",
+          "start": 103.598,
+          "end": 157.309
+        },
+        {
+          "title": "Review the start as well as completion",
+          "anchor": "practice",
+          "start": 157.309,
+          "end": 209.624
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 16.030541666666668,
+          "end": 16.930541666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 36.10391666666667,
+          "end": 37.00391666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 51.831208333333336,
+          "end": 53.43120833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 70.98679166666666,
+          "end": 71.88679166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 86.35683333333333,
+          "end": 87.25683333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 101.99795833333333,
+          "end": 103.59795833333334,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 120.49991666666666,
+          "end": 121.39991666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 136.44216666666668,
+          "end": 137.34216666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 155.70870833333333,
+          "end": 157.30870833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 169.72708333333333,
+          "end": 178.72708333333333,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 190.79666666666665,
+          "end": 191.69666666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 208.024,
+          "end": 209.624,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/feedback-and-speaking-up.md": {
+      "title": "Feedback & speaking up",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-feedback-and-speaking-up.json",
+      "script_sha256": "a32ddf20e74eba5699f94e31b9fb04132c9a7f9ab30eaa2ca313edd7280a9104",
+      "page_text_sha256": "885d3f723fc2150c2df4cbe3ca4aa94dcf8004953126463db632469c680f0963",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "a32ddf20e74eba5699f94e31b9fb04132c9a7f9ab30eaa2ca313edd7280a9104",
+      "audio_sha256": "7618590157055a799adedc6dc3cdb19b71310c8e8403215c2d9fff58592e4b74",
+      "transcript_sha256": "a7a72cc07931b9023f4493cb3b73e95c0f55c740e588406dbf2351554fe48b02",
+      "words": 483,
+      "duration": 216.96,
+      "sections": [
+        {
+          "title": "Useful feedback and safety are different from comfort",
+          "anchor": "main",
+          "start": 0,
+          "end": 56.428
+        },
+        {
+          "title": "Separate the action, standard and next attempt",
+          "anchor": "what-to-notice-and-check",
+          "start": 56.428,
+          "end": 116.306
+        },
+        {
+          "title": "Respond to the information, then follow through",
+          "anchor": "how-to-respond",
+          "start": 116.306,
+          "end": 166.511
+        },
+        {
+          "title": "Check whether the exchange helped",
+          "anchor": "practice",
+          "start": 166.511,
+          "end": 216.904
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 20.42770833333333,
+          "end": 21.327708333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 36.06454166666666,
+          "end": 36.96454166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 54.82816666666667,
+          "end": 56.42816666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 76.39575,
+          "end": 77.29575,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 94.115,
+          "end": 95.015,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 114.70579166666667,
+          "end": 116.30579166666666,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 130.12808333333334,
+          "end": 131.02808333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 147.757875,
+          "end": 148.657875,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 164.91104166666668,
+          "end": 166.51104166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 178.42125,
+          "end": 187.42125,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 198.786875,
+          "end": 199.686875,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 215.30391666666668,
+          "end": 216.90391666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/personality-facets.md": {
+      "title": "Personality facets & situation differences",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-personality-facets.json",
+      "script_sha256": "505f0808e155c4a6c7baf9474bb3a951b9bec01ffec917667182d0e64f0c69e0",
+      "page_text_sha256": "8db9886da254727b37dad61f3d0fc40196fdf7287a19d8030d919d18e07d922c",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "505f0808e155c4a6c7baf9474bb3a951b9bec01ffec917667182d0e64f0c69e0",
+      "audio_sha256": "35a06cc64367e8294b5512131f0f567234553d5df0e7f759b096f1f9a0bfa921",
+      "transcript_sha256": "e4f8b16c0a7311c0715880847d0c87dd4c86ce2b83d05024143fc561f81eb3ed",
+      "words": 455,
+      "duration": 213.312,
+      "sections": [
+        {
+          "title": "A broad label can hide a useful distinction",
+          "anchor": "main",
+          "start": 0,
+          "end": 61.206
+        },
+        {
+          "title": "Compare the tendency that matters",
+          "anchor": "what-to-notice-and-check",
+          "start": 61.206,
+          "end": 117.019
+        },
+        {
+          "title": "A description is not an origin story",
+          "anchor": "change-and-inheritance",
+          "start": 117.019,
+          "end": 161.942
+        },
+        {
+          "title": "Try an arrangement before a trait verdict",
+          "anchor": "practice",
+          "start": 161.942,
+          "end": 213.257
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 19.392791666666668,
+          "end": 20.292791666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 42.71458333333333,
+          "end": 43.614583333333336,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 59.606,
+          "end": 61.206,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 76.57970833333333,
+          "end": 77.47970833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 99.01716666666667,
+          "end": 99.91716666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 115.41933333333333,
+          "end": 117.01933333333334,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 139.99854166666665,
+          "end": 140.89854166666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 160.34241666666668,
+          "end": 161.94241666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 173.659625,
+          "end": 182.659625,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 196.627375,
+          "end": 197.527375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 211.656875,
+          "end": 213.256875,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/exclusion-and-reputation.md": {
+      "title": "Exclusion, gossip & reputation",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-exclusion-and-reputation.json",
+      "script_sha256": "096bd70b597cfa82731911257201a5e117310508d50ff67f22c7b1dd18f420aa",
+      "page_text_sha256": "69a8265b046e1a2cac0d774b4b55d03132d509260411e394a61c8f2f7df46301",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "096bd70b597cfa82731911257201a5e117310508d50ff67f22c7b1dd18f420aa",
+      "audio_sha256": "61b2712709bf68576abdeffc8636e9c26ea76c8a76e4ea3aad298b471109ad41",
+      "transcript_sha256": "e323a58d2ec19462fd398389415fb23bf4e94296f0e988ec00a906ee3d44884b",
+      "words": 475,
+      "duration": 222.6,
+      "sections": [
+        {
+          "title": "Trace the exclusion or story",
+          "anchor": "main",
+          "start": 0,
+          "end": 58.493
+        },
+        {
+          "title": "Separate observation from transmission",
+          "anchor": "what-to-notice-and-check",
+          "start": 58.493,
+          "end": 109.518
+        },
+        {
+          "title": "Check claims rather than appearances",
+          "anchor": "how-to-respond",
+          "start": 109.518,
+          "end": 170.45
+        },
+        {
+          "title": "Make one proportionate clarification",
+          "anchor": "practice",
+          "start": 170.45,
+          "end": 222.549
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 19.591291666666667,
+          "end": 20.491291666666665,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 36.09520833333333,
+          "end": 36.99520833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 56.893,
+          "end": 58.493,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 72.708375,
+          "end": 73.608375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 93.19904166666667,
+          "end": 94.09904166666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 107.91783333333333,
+          "end": 109.51783333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 127.53495833333334,
+          "end": 128.43495833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 144.28404166666667,
+          "end": 145.18404166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 168.850375,
+          "end": 170.450375,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 182.88133333333334,
+          "end": 191.88133333333334,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 203.33304166666667,
+          "end": 204.23304166666668,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 220.94945833333333,
+          "end": 222.54945833333332,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/social-comparison.md": {
+      "title": "Social comparison & envy",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-social-comparison.json",
+      "script_sha256": "83e43c3ae7ad243466e5c43f6eaea604204d822f013d4ac33355988604df9682",
+      "page_text_sha256": "59a4ed243529f11762879435d2d9f692ea7b91f42a5309491172c691c6d0b0f9",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "83e43c3ae7ad243466e5c43f6eaea604204d822f013d4ac33355988604df9682",
+      "audio_sha256": "2b19f17cf5fc08a017df3be247070bf36eccce7d10df4dafb048816abaadf4e4",
+      "transcript_sha256": "e83200567323c3c1b4dd142d0aefad0a7bf79da43a9d73df13c01eb987efbaa5",
+      "words": 484,
+      "duration": 219.624,
+      "sections": [
+        {
+          "title": "Separate the comparison from the judgment",
+          "anchor": "main",
+          "start": 0,
+          "end": 59.417
+        },
+        {
+          "title": "Check what you actually know",
+          "anchor": "what-to-notice-and-check",
+          "start": 59.417,
+          "end": 113.505
+        },
+        {
+          "title": "Choose a useful process or let the comparison go",
+          "anchor": "how-to-respond",
+          "start": 113.505,
+          "end": 167.145
+        },
+        {
+          "title": "Review mood, action and fairness separately",
+          "anchor": "practice",
+          "start": 167.145,
+          "end": 219.575
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 18.50829166666667,
+          "end": 19.408291666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 37.885041666666666,
+          "end": 38.785041666666665,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 57.81733333333333,
+          "end": 59.41733333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 77.29841666666667,
+          "end": 78.19841666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 96.47475,
+          "end": 97.37475,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 111.90508333333334,
+          "end": 113.50508333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 128.575,
+          "end": 129.475,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 148.51041666666666,
+          "end": 149.41041666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 165.54529166666666,
+          "end": 167.14529166666668,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 177.61225,
+          "end": 186.61225,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 201.425125,
+          "end": 202.325125,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 217.97520833333334,
+          "end": 219.57520833333334,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/gatekeeping.md": {
+      "title": "Access, participation & gatekeeping",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-gatekeeping.json",
+      "script_sha256": "4ddd7750be6cdf5c2b12cf140428ab42c804e26c4d80634f64f26b0c6466b0ee",
+      "page_text_sha256": "3d0bba2851d3a2ba56421abd0b3e56b292b20da8840f2126c8abd27cca493503",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "4ddd7750be6cdf5c2b12cf140428ab42c804e26c4d80634f64f26b0c6466b0ee",
+      "audio_sha256": "b776368cefc98c7c99acc03ec45a23eb9801206fbf72fc6722a61d7df46f3989",
+      "transcript_sha256": "e234b3b24e4e4feb5a240077ad8d169619ca277be8da3c28e4b963ca189f6dfd",
+      "words": 422,
+      "duration": 201.312,
+      "sections": [
+        {
+          "title": "Name the access decision first",
+          "anchor": "main",
+          "start": 0,
+          "end": 60.873
+        },
+        {
+          "title": "Check consent and authority",
+          "anchor": "what-to-notice-and-check",
+          "start": 60.873,
+          "end": 115.085
+        },
+        {
+          "title": "Find the least intrusive workable route",
+          "anchor": "how-to-respond",
+          "start": 115.085,
+          "end": 148.659
+        },
+        {
+          "title": "Review participation and privacy together",
+          "anchor": "practice",
+          "start": 148.659,
+          "end": 201.259
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 21.398,
+          "end": 22.298,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 40.13545833333333,
+          "end": 41.03545833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 59.27316666666667,
+          "end": 60.87316666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 76.3795,
+          "end": 77.2795,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 95.52625,
+          "end": 96.42625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 113.48491666666666,
+          "end": 115.08491666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 129.27891666666667,
+          "end": 130.17891666666668,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 147.05858333333333,
+          "end": 148.65858333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 161.48083333333332,
+          "end": 170.48083333333332,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 183.331625,
+          "end": 184.231625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 199.65866666666668,
+          "end": 201.25866666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/comparing-occasions.md": {
+      "title": "Compare occasions & test an explanation",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-comparing-occasions.json",
+      "script_sha256": "91765c3d7fc1bd4bc5928d446b7f443d5c536efe2a59e5d33b898680cbd1f9e1",
+      "page_text_sha256": "101fca7568eefec79b748b107a34905a05154867740262f718278ffe46b97bad",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "91765c3d7fc1bd4bc5928d446b7f443d5c536efe2a59e5d33b898680cbd1f9e1",
+      "audio_sha256": "f1ccc26ded62b3101af9172680bb9d744ab50388d663f682e32a393c7ea3f15a",
+      "transcript_sha256": "7ce946e95c9710486f9787c573f686715a27ad736d4f2dc1fb7417c46f2754e4",
+      "words": 481,
+      "duration": 217.32,
+      "sections": [
+        {
+          "title": "A repeated event is not yet an explanation",
+          "anchor": "main",
+          "start": 0,
+          "end": 58.506
+        },
+        {
+          "title": "Compare genuine opportunities",
+          "anchor": "what-to-notice-and-check",
+          "start": 58.506,
+          "end": 111.909
+        },
+        {
+          "title": "Use a modest prediction and a safe action",
+          "anchor": "how-to-respond",
+          "start": 111.909,
+          "end": 166.898
+        },
+        {
+          "title": "Decide what to retain, change or stop",
+          "anchor": "practice",
+          "start": 166.898,
+          "end": 217.271
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 20.346583333333335,
+          "end": 21.246583333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 37.697625,
+          "end": 38.597625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 56.905875,
+          "end": 58.505875,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 73.26966666666667,
+          "end": 74.16966666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 92.68475,
+          "end": 93.58475,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 110.30908333333333,
+          "end": 111.90908333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 127.10475,
+          "end": 128.00475,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 148.774625,
+          "end": 149.674625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 165.29825,
+          "end": 166.89825,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 176.627125,
+          "end": 185.627125,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 197.35070833333333,
+          "end": 198.25070833333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 215.67070833333332,
+          "end": 217.27070833333335,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/blame-reversal.md": {
+      "title": "Denial, attack & blame reversal",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-blame-reversal.json",
+      "script_sha256": "0ff742b0354f0679c5340f6f9398ccc535711f6ed0f040aa83202ceb3b97e7b9",
+      "page_text_sha256": "7bc49016050cd125ac163e078934489ab16e0fb5f068f560a5ef4286064efe4e",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "0ff742b0354f0679c5340f6f9398ccc535711f6ed0f040aa83202ceb3b97e7b9",
+      "audio_sha256": "aac4a26cd882513dbf9ce082ad9c6a93c112c332aae976910819797a10ac0549",
+      "transcript_sha256": "b7232a5e147ce876b63e84cdb3e1dc2a62abfbc896d806633e2abb8a923d5979",
+      "words": 438,
+      "duration": 196.728,
+      "sections": [
+        {
+          "title": "Recognise the sequence without using it as proof",
+          "anchor": "main",
+          "start": 0,
+          "end": 57.735
+        },
+        {
+          "title": "Keep both issues and their evidence distinct",
+          "anchor": "what-to-notice-and-check",
+          "start": 57.735,
+          "end": 107.609
+        },
+        {
+          "title": "Return to conduct or seek an appropriate process",
+          "anchor": "how-to-respond",
+          "start": 107.609,
+          "end": 146.166
+        },
+        {
+          "title": "Use the label as a reminder, not your evidence",
+          "anchor": "practice",
+          "start": 146.166,
+          "end": 196.661
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 18.689333333333334,
+          "end": 19.589333333333332,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 35.178,
+          "end": 36.078,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 56.134541666666664,
+          "end": 57.734541666666665,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 72.01304166666667,
+          "end": 72.91304166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 91.67883333333333,
+          "end": 92.57883333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 106.00920833333333,
+          "end": 107.60920833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 124.60204166666666,
+          "end": 125.50204166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 144.56608333333332,
+          "end": 146.16608333333335,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 157.302625,
+          "end": 166.302625,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 177.687625,
+          "end": 178.587625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 195.061,
+          "end": 196.661,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/ai-reflection.md": {
+      "title": "Use AI without reinforcing a first impression",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-ai-reflection.json",
+      "script_sha256": "32f0233c22a23de26af658b9e37e8fd41f44c2a6f1c893d31a076db22c3a6096",
+      "page_text_sha256": "93878e6d1f6bdad235a4024e3441e705fc408164d22ff96cd17103952d5ee940",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "32f0233c22a23de26af658b9e37e8fd41f44c2a6f1c893d31a076db22c3a6096",
+      "audio_sha256": "00c9cf2d471d790574e28e598f45ae67cd1014293e608bbfbb9d02294694e2dd",
+      "transcript_sha256": "248db39bec29f8c00b8a8eaa064f5ae0397274587e453acc4e4cff6b5ceadc8f",
+      "words": 484,
+      "duration": 223.032,
+      "sections": [
+        {
+          "title": "An AI explanation is not a new observation",
+          "anchor": "main",
+          "start": 0,
+          "end": 59.524
+        },
+        {
+          "title": "Keep four kinds of statement separate",
+          "anchor": "what-to-notice-and-check",
+          "start": 59.524,
+          "end": 117.319
+        },
+        {
+          "title": "Choose what to share and what to adopt",
+          "anchor": "how-to-respond",
+          "start": 117.319,
+          "end": 174.255
+        },
+        {
+          "title": "Check one claim before accepting the story",
+          "anchor": "practice",
+          "start": 174.255,
+          "end": 222.968
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 20.295708333333334,
+          "end": 21.195708333333332,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 39.91433333333333,
+          "end": 40.81433333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 57.924416666666666,
+          "end": 59.52441666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 79.97954166666666,
+          "end": 80.87954166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 99.528875,
+          "end": 100.428875,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 115.71941666666666,
+          "end": 117.31941666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 135.44375,
+          "end": 136.34375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 153.66033333333334,
+          "end": 154.56033333333335,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 172.65479166666665,
+          "end": 174.25479166666668,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 184.07779166666666,
+          "end": 193.07779166666666,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 204.819375,
+          "end": 205.719375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 221.36820833333334,
+          "end": 222.96820833333334,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/changing-standards.md": {
+      "title": "Changing criteria & moving goalposts",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-changing-standards.json",
+      "script_sha256": "e0836790511131f601518724be3c5ad16747b0ed1a33e18e4658293861c1eee1",
+      "page_text_sha256": "856ffb8b34d984174b4ea75de716f2db6c17cb05564e2b0e1d00f7d9affc6686",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "e0836790511131f601518724be3c5ad16747b0ed1a33e18e4658293861c1eee1",
+      "audio_sha256": "3694820828a4086ce16bdf62aaeadef9dca9ca3c410125ddeafaf88ed468d394",
+      "transcript_sha256": "abc67d4dc633fa8a482f946f579825e6705dfec311db735bfd419e9aac7d11d7",
+      "words": 440,
+      "duration": 195.768,
+      "sections": [
+        {
+          "title": "Distinguish a revised requirement from a moving target",
+          "anchor": "main",
+          "start": 0,
+          "end": 57.609
+        },
+        {
+          "title": "Compare the criterion, result and reason",
+          "anchor": "what-to-notice-and-check",
+          "start": 57.609,
+          "end": 107.953
+        },
+        {
+          "title": "Define completion and a change process",
+          "anchor": "how-to-respond",
+          "start": 107.953,
+          "end": 144.021
+        },
+        {
+          "title": "Review clarity and costs",
+          "anchor": "practice",
+          "start": 144.021,
+          "end": 195.697
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 16.295166666666667,
+          "end": 17.195166666666665,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 34.748583333333336,
+          "end": 35.648583333333335,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 56.008916666666664,
+          "end": 57.608916666666666,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 73.01033333333334,
+          "end": 73.91033333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 89.91404166666666,
+          "end": 90.81404166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 106.35295833333333,
+          "end": 107.95295833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 123.06225,
+          "end": 123.96225,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 142.421,
+          "end": 144.021,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 155.38891666666666,
+          "end": 164.38891666666666,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 178.06104166666665,
+          "end": 178.96104166666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 194.09720833333333,
+          "end": 195.69720833333332,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/intense-and-inconsistent-contact.md": {
+      "title": "Intense affection & inconsistent contact",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-intense-and-inconsistent-contact.json",
+      "script_sha256": "c1267543ea629fd5903fdb41dc88ef328bc60276bd5907becdcce28341b9db86",
+      "page_text_sha256": "7587b59c19b52381821ad2505483e1f5d8bb5e5de20421126c84a7d6d3130653",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "c1267543ea629fd5903fdb41dc88ef328bc60276bd5907becdcce28341b9db86",
+      "audio_sha256": "c185c65ecd75d8f46fb0320c89d0236a9e8ab460fb4d1c133b4450a46b3961ff",
+      "transcript_sha256": "c9e3ceac32199b05f103e46d9605607de89ff2841044d9ec01a0cedbdc0b274f",
+      "words": 444,
+      "duration": 204.816,
+      "sections": [
+        {
+          "title": "Describe the contact before assigning a tactic",
+          "anchor": "main",
+          "start": 0,
+          "end": 62.18
+        },
+        {
+          "title": "Compare promises and responses to choice",
+          "anchor": "what-to-notice-and-check",
+          "start": 62.18,
+          "end": 116.872
+        },
+        {
+          "title": "Choose your pace without proving intent",
+          "anchor": "how-to-respond",
+          "start": 116.872,
+          "end": 152.948
+        },
+        {
+          "title": "Review the response to a real preference",
+          "anchor": "practice",
+          "start": 152.948,
+          "end": 204.758
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 20.200375,
+          "end": 21.100375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 42.091791666666666,
+          "end": 42.991791666666664,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 60.57966666666667,
+          "end": 62.17966666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 80.42683333333333,
+          "end": 81.32683333333334,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 100.00770833333333,
+          "end": 100.90770833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 115.27179166666667,
+          "end": 116.87179166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 133.63025,
+          "end": 134.53025,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 151.34791666666666,
+          "end": 152.94791666666666,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 8,
+          "start": 164.17970833333334,
+          "end": 173.17970833333334,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 9,
+          "start": 184.51629166666666,
+          "end": 185.41629166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 10,
+          "start": 203.15825,
+          "end": 204.75825,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/negotiation-and-mediation.md": {
+      "title": "Negotiate a workable difference",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-negotiation-and-mediation.json",
+      "script_sha256": "0589a3ebb831cdc8decae2e50e4026e4a3c77ebd5348b9f30eac3c4dfb6cee2d",
+      "page_text_sha256": "f2cc109d55f2e0c9f6ae2581c18566df62a0bbf8cd3ff17ef7c83c6dd212715e",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "0589a3ebb831cdc8decae2e50e4026e4a3c77ebd5348b9f30eac3c4dfb6cee2d",
+      "audio_sha256": "3b0073f2b7f60238d61a98148a2ee218a49554a6818f33d7cabbea15e18dbdfb",
+      "transcript_sha256": "fab9a1e1615b9d36d21d6aa7cec5adc5ff3f6effbbc6a499e25c9191806054fa",
+      "words": 486,
+      "duration": 222.168,
+      "sections": [
+        {
+          "title": "Understand the concern behind the requested outcome",
+          "anchor": "main",
+          "start": 0,
+          "end": 57.421
+        },
+        {
+          "title": "Check constraints and the alternative to agreement",
+          "anchor": "what-to-notice-and-check",
+          "start": 57.421,
+          "end": 114.757
+        },
+        {
+          "title": "Make promises that can be kept",
+          "anchor": "how-to-respond",
+          "start": 114.757,
+          "end": 170.06
+        },
+        {
+          "title": "Judge more than whether someone said yes",
+          "anchor": "practice",
+          "start": 170.06,
+          "end": 222.105
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 19.0325,
+          "end": 19.9325,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 35.62070833333333,
+          "end": 36.52070833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 55.821375,
+          "end": 57.421375,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 75.45983333333334,
+          "end": 76.35983333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 96.94675,
+          "end": 97.84675,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 113.15716666666667,
+          "end": 114.75716666666666,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 133.28925,
+          "end": 134.18925,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 149.974,
+          "end": 150.874,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 168.46008333333333,
+          "end": 170.06008333333332,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 182.72070833333333,
+          "end": 191.72070833333333,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 203.66270833333334,
+          "end": 204.56270833333335,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 220.50533333333334,
+          "end": 222.10533333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/parentification.md": {
+      "title": "Children carrying adult responsibilities",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-parentification.json",
+      "script_sha256": "24de193bc06e3d802e58a48c435021c5eab4004301be2c928a163a12120657b8",
+      "page_text_sha256": "1a0dabe4b85086a583d716e7f352ad60cccd077caf4fd2cac7009ccea3454e52",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "24de193bc06e3d802e58a48c435021c5eab4004301be2c928a163a12120657b8",
+      "audio_sha256": "8ae31faf4b55a9a5a394867558c759289bc8d4cd5da421ecf0026836f8e9694c",
+      "transcript_sha256": "48316d2713d8317d1f61e19be43ae8d9615cdbee7d4740c0a574e9483716918b",
+      "words": 479,
+      "duration": 217.464,
+      "sections": [
+        {
+          "title": "Helping and carrying an adult role are different",
+          "anchor": "main",
+          "start": 0,
+          "end": 60.511
+        },
+        {
+          "title": "Examine demands, backup and impact",
+          "anchor": "what-to-notice-and-check",
+          "start": 60.511,
+          "end": 113.569
+        },
+        {
+          "title": "Restore adult ownership",
+          "anchor": "how-to-respond",
+          "start": 113.569,
+          "end": 164.758
+        },
+        {
+          "title": "Review whether the burden changed",
+          "anchor": "practice",
+          "start": 164.758,
+          "end": 217.395
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 18.205916666666667,
+          "end": 19.105916666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 37.91016666666667,
+          "end": 38.81016666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 58.91075,
+          "end": 60.51075,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 76.33966666666667,
+          "end": 77.23966666666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 93.27041666666666,
+          "end": 94.17041666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 111.969375,
+          "end": 113.569375,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 130.787375,
+          "end": 131.687375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 149.11341666666667,
+          "end": 150.01341666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 163.15808333333334,
+          "end": 164.75808333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 176.405625,
+          "end": 185.405625,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 198.39895833333333,
+          "end": 199.29895833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 215.79520833333333,
+          "end": 217.39520833333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/shame-anger-and-repair.md": {
+      "title": "Shame, anger & taking responsibility",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-shame-anger-and-repair.json",
+      "script_sha256": "49ef400ceec05aa9a6268279902d7fe7879ba471fe6e0b4e05a368a42955d2e4",
+      "page_text_sha256": "1917498e069f4b947466fde14d49b830024848cdfe7e59664c9def9972f46ff7",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "49ef400ceec05aa9a6268279902d7fe7879ba471fe6e0b4e05a368a42955d2e4",
+      "audio_sha256": "0bddbf5555ab18206bdbfb90fbd5aa144320c022bc357ecabc3d1ce3bfd0b63a",
+      "transcript_sha256": "496d89abfaeb0daf5614457066d0c3e25e56dba11292215e04930f0454abd6d2",
+      "words": 474,
+      "duration": 212.736,
+      "sections": [
+        {
+          "title": "An emotion label does not reveal another person’s mind",
+          "anchor": "main",
+          "start": 0,
+          "end": 55.721
+        },
+        {
+          "title": "Separate the event, feeling and judgment",
+          "anchor": "what-to-notice-and-check",
+          "start": 55.721,
+          "end": 111.061
+        },
+        {
+          "title": "Choose a concrete repair or safe pause",
+          "anchor": "how-to-respond",
+          "start": 111.061,
+          "end": 159.83
+        },
+        {
+          "title": "Review the action, not just the apology",
+          "anchor": "practice",
+          "start": 159.83,
+          "end": 212.684
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 18.680291666666665,
+          "end": 19.580291666666668,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 33.440375,
+          "end": 34.340375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 54.120916666666666,
+          "end": 55.72091666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 73.31329166666667,
+          "end": 74.21329166666666,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 92.1335,
+          "end": 93.0335,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 109.460875,
+          "end": 111.060875,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 126.07633333333334,
+          "end": 126.97633333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 143.572375,
+          "end": 144.472375,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 158.23025,
+          "end": 159.83025,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 170.549625,
+          "end": 179.549625,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 192.77758333333333,
+          "end": 193.67758333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 211.08404166666668,
+          "end": 212.68404166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
+    },
+    "reference/digital-misunderstandings.md": {
+      "title": "Messages, tone & delayed replies",
+      "mode": "spoken-lesson",
+      "script_source": "audio/spoken/reference-digital-misunderstandings.json",
+      "script_sha256": "cef19d926dba303310f18c6de3cfbef39e7bcfa31e09ff69a41fd1bcf46e76e3",
+      "page_text_sha256": "a024eea1d677d0211ed177ae4e8f4a086400136d631c8e70a51d50d3c305d4d6",
+      "source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "text_sha256": "cef19d926dba303310f18c6de3cfbef39e7bcfa31e09ff69a41fd1bcf46e76e3",
+      "audio_sha256": "b51aba8e41625e695cd59785e2040b6a811e5b0e286e3c4513c1ef7c93adef52",
+      "transcript_sha256": "906806d937f299c58f8e8e9313a2a37aac822277b692a70e476ba8185fe29195",
+      "words": 471,
+      "duration": 210.696,
+      "sections": [
+        {
+          "title": "Separate the words from the tone you supply",
+          "anchor": "main",
+          "start": 0,
+          "end": 55.225
+        },
+        {
+          "title": "Check the expectation and context",
+          "anchor": "what-to-notice-and-check",
+          "start": 55.225,
+          "end": 107.813
+        },
+        {
+          "title": "Clarify one specific point",
+          "anchor": "how-to-respond",
+          "start": 107.813,
+          "end": 157.781
+        },
+        {
+          "title": "Review what was actually clarified",
+          "anchor": "practice",
+          "start": 157.781,
+          "end": 210.633
+        }
+      ],
+      "provider_words_verified": true,
+      "pause_engine_version": 1,
+      "pauses_verified": true,
+      "pauses": [
+        {
+          "paragraph": 0,
+          "start": 17.358833333333333,
+          "end": 18.25883333333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 1,
+          "start": 34.753625,
+          "end": 35.653625,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 2,
+          "start": 53.62533333333333,
+          "end": 55.22533333333333,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 3,
+          "start": 72.32141666666666,
+          "end": 73.22141666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 4,
+          "start": 87.72245833333334,
+          "end": 88.62245833333333,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 5,
+          "start": 106.21341666666666,
+          "end": 107.81341666666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 6,
+          "start": 122.46316666666667,
+          "end": 123.36316666666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 7,
+          "start": 141.96304166666667,
+          "end": 142.86304166666667,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 8,
+          "start": 156.18145833333332,
+          "end": 157.78145833333335,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        },
+        {
+          "paragraph": 9,
+          "start": 168.63658333333333,
+          "end": 177.63658333333333,
+          "requested_ms": 9000,
+          "verified_silence_ms": 8840
+        },
+        {
+          "paragraph": 10,
+          "start": 190.61275,
+          "end": 191.51275,
+          "requested_ms": 900,
+          "verified_silence_ms": 740
+        },
+        {
+          "paragraph": 11,
+          "start": 209.03254166666667,
+          "end": 210.63254166666667,
+          "requested_ms": 1600,
+          "verified_silence_ms": 1440
+        }
+      ]
     }
   },
-  "generated": "2026-11-05T23:39:29.192484+00:00"
+  "generated": "2026-11-08T19:05:30.948186+00:00"
 }

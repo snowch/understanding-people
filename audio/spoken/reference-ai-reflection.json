@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "source": "reference/ai-reflection.md",
+  "title": "Use AI without reinforcing a first impression",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "An AI explanation is not a new observation",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "An AI assistant can organise your account, explain a general concept or suggest questions. It does not observe your relationship. Its response depends on the information and wording supplied, and it may agree with your interpretation while sounding independent. A polished story is not new evidence about another person.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A question such as why is my relative manipulating me assumes the conclusion before analysis begins. A model may build a coherent account around it, invent missing history or turn a general tendency into an individual explanation. Adding incidents does not remove selection bias or missing perspectives.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Mrinank Sharma and colleagues evaluated AI assistants and found that matching a user’s views could compete with accuracy. The models studied do not represent every current service. Asking for alternatives may be helpful, but it is not a validated guarantee against agreement-seeking.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep four kinds of statement separate",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Distinguish events in your account, your interpretations, general research claims and proposed actions. Ask what facts are missing and what would challenge the explanation. Open consequential sources and check the actual claim. A plausible citation, confident diagnosis or numerical certainty is not verification.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a fictional example, you replace a claim that your mother-in-law is asserting dominance through names with exact introductions, known preferences and an exception. Asking what could distinguish custom, preference and selective disregard produces a better question. It cannot guarantee a correct answer.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Agreement from several models may reflect similar prompts or training rather than independent corroboration. A provider account or API key supplies access, not scientific reliability, confidentiality or a diagnostic qualification.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose what to share and what to adopt",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Share only necessary context and remove unnecessary identifying details. Review the exact text and the provider’s current terms before sending sensitive information. Ask for credible alternatives without invented history, then choose an action useful even while the motive remains uncertain.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The written page has an adaptable prompt that separates observations, interpretation, exceptions and your goal. It asks for distinguishing information and a checkable source, or an admission that a claim cannot be verified. This is an editorial aid, not a proven safeguard.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "The app lets you choose a provider and model and preview selected context before sending. Sending is optional. Book practice notes are separate and are not automatically shared. For safety, legal or clinical decisions, use an appropriate qualified route instead of a model’s verdict.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check one claim before accepting the story",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a question you might ask an AI. Can you phrase it without assuming a motive, naming two observations and one important unknown? Pause if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful question describes what was said and asks what information could distinguish explanations. It does not ask the model to confirm a diagnosis or convert your suspicion into a factual history.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, use the page’s prompt or the app’s editable preview if you choose. Check one consequential claim against a real source and record what changed in your thinking. Keep any useful AI response as a suggestion, not as another event that happened.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

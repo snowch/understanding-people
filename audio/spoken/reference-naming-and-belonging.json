@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "source": "reference/naming-and-belonging.md",
+  "title": "Names, respect & belonging",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "What a naming difference can mean",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Names can communicate familiarity, respect and belonging. Naming asymmetry means using different kinds of address for people whose situations seem comparable. You can observe that difference directly. Whether it expresses preference, habit or a ranking needs another step of investigation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A title might follow an age convention, distinguish people with the same name, or reflect what someone wants to be called. It can also elevate one person or exclude another. Several influences may operate together, and a convention can preserve a hierarchy without anyone consciously planning each use.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Roger Brown and Albert Gilman examined how address pronouns express power and solidarity, drawing on historical material and language informants. Their mainly European-language material helps explain why address can matter. It cannot establish that a particular relative deliberately uses names to rank a family.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare preferences and treatment",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Consider a fictional family meal. One grandmother is introduced as Grandma Rose, the other as Helen. Before deciding that Helen is being put below Rose, ask what Helen prefers. If she chose Helen, the difference has a different meaning from repeatedly ignoring her request to be called Grandma Helen.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Compare who uses which terms, for whom, and in whose presence. Ask whether comparable preferences are respected. Look at invitations, speaking time and decisions separately, including occasions that challenge your first explanation. Different words do not necessarily mean different affection or rights.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Cross-cultural summaries from Carol Ember and colleagues distinguish kinship terms, descent and family organisation. These are related arrangements, not the same thing. Group patterns cannot tell you what one household values, and equal respect does not require identical names.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Correct the address without proving a strategy",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "You might say, please introduce me as Maya, or ask how the family convention works. Discuss concrete exclusion separately rather than relying on the name alone. Do not pressure someone to adopt a parental title they do not want.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "People may want to preserve their dignity during a correction. A brief correction now and a private discussion later can sometimes help. Privacy is an option, not a condition you must satisfy before objecting. One person’s wish to avoid embarrassment should not require another person to remain silent.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Try a fair comparison",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a naming difference you have noticed. What preference do you actually know, and what response to a clear request would weaken your first explanation? Pause the player if you want longer.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful answer might be that you know the words used, but not yet whether the person chose them. A respectful correction accepted without resistance would weaken an explanation based on deliberate disregard. It would not settle every question about the relationship.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, record one comparison and one occasion that does not fit your explanation. Where appropriate, clarify a preference, then review whether it was respected and whether participation changed. Remember the cue: compare the naming rule, the preference and the response.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "source": "reference/intense-and-inconsistent-contact.md",
+  "title": "Intense affection & inconsistent contact",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Describe the contact before assigning a tactic",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Rapid affection, repeated attempts to renew contact and intermittent messages are observable patterns. Popular terms such as love bombing, hoovering and breadcrumbing combine those actions with assumptions about intention. They do not have one agreed everyday meaning, and this reference does not treat them as validated person types.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Intense contact may reflect enthusiasm, different expectations or pressure to accelerate closeness. Irregular messages may reflect workload, ambivalence, practical constraints or a wish to keep a connection available without commitment. These are possibilities to check, not a complete explanation from the contact pattern alone.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Learning and attachment research offers general ideas about repetition, uncertainty and expectations. It cannot establish that a particular person deliberately arranged a reward schedule or has a fixed attachment type. Avoid using a general principle as proof of a private strategy.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare promises and responses to choice",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Look at promises and later actions. What happens when you ask for a slower pace, decline contact or state a limit? Does affection become conditional on commitment, money, privacy access or isolation? Include genuine exceptions and any agreement about availability.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Consider a fictional new acquaintance who sends frequent compliments and requests exclusivity within days. You say you want more time. Respect for that preference gives different information from guilt, threats or attempts to cut off other relationships. Pace alone cannot distinguish the explanations.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A busy week differs from repeated promises without follow-through. A wish to reconcile differs from ignoring a clear no. Ambiguity should not make every warm message suspicious, or make pressure acceptable because it arrives with affection.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose your pace without proving intent",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "State the pace and contact you want. Ask for a clear agreement where commitment matters, then look at follow-through. You can decline renewed contact without proving that it is a tactic. The other person does not need to accept a popular label for your limit to be valid.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For unwanted repeated contact, threats or surveillance, seek appropriate support rather than provoking a reaction to test someone. This material cannot assess your safety or diagnose the person. General uncertainty about intent does not require you to remain available.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review the response to a real preference",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall one sequence of contact, promises and follow-through. What pace had actually been agreed, and how did the person respond to a preference or refusal? Pause if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful answer about the new acquaintance records the request for more time and what followed. It does not infer a diagnosis from enthusiasm or dismiss guilt and threats as mere differences in style.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, record the sequence and an exception. Where safe, state one preference about contact or commitment. Review whether it was respected and whether the arrangement meets your needs. Seek support for threatening or intrusive conduct rather than continuing an experiment.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "source": "reference/shame-anger-and-repair.md",
+  "title": "Shame, anger & taking responsibility",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "An emotion label does not reveal another person’s mind",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Shame often involves a negative evaluation of the whole self; guilt often concerns an action or omission. Anger can concern a perceived wrong, obstacle or threat. These distinctions may help you describe an experience, but anger or defensiveness does not prove someone secretly feels shame.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "June Tangney and colleagues reviewed shame, guilt and other moral emotions. Their distinctions help separate concern about conduct from a global judgment of a person. They cannot identify someone’s inner emotion from the outside.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Public criticism, failure or threats to identity may intensify reactions. Withdrawal, attack, apology and repair can have different causes. Your own embarrassment can make acknowledging an error difficult too. The aim is a useful response, not uncovering an emotion the other person must admit.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Separate the event, feeling and judgment",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "In a fictional example, you miss an agreed deadline and think, I am useless. You can instead name the missed commitment, notify the person affected and renegotiate the work. This moves from global self-judgment to responsibility for an action without pretending that the failure did not matter.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When reflecting on yourself, identify what happened, the feeling you noticed and what you want to protect or correct. With someone else, use what they report instead of claiming access to hidden emotions. Compare practical pressure, public and private settings, and whether the criticism was accurate.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Anger can be a response to real unfairness. Calmness can coexist with harmful conduct. Remorse does not guarantee change, and an apology does not establish every detail of an allegation. Emotional display alone is a poor test of sincerity.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a concrete repair or safe pause",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Acknowledge the effect of your conduct and choose a correction you can carry out. When raising a concern, describe the action and consequences without making humiliation the tool. You can require accountability without declaring the whole person bad.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "George Bonanno and Charles Burton reviewed flexibility in coping and emotion regulation. Their framework emphasises noticing context, having several responses and adjusting to feedback. It is not evidence that one response, or this worksheet, always works.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A pause may help when it has an appropriate route back. Threats or violence require attention to safety rather than an exercise in finding the correct emotion label. You do not have to manage someone’s feelings before addressing harm.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review the action, not just the apology",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall a difficult reaction of your own. What was the event, what emotion did you notice, and what judgment did you add about yourself or someone else? Pause if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the missed deadline, a useful answer acknowledges both the practical failure and the extra global judgment. The repair might include warning the affected person, agreeing a realistic delivery and changing how a risk is flagged.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, choose one repair, clarification or pause. State what you are responsible for without taking responsibility for everything. Review whether the issue was addressed and conduct changed. Feeling remorse or displaying emotion does not replace that follow-through.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

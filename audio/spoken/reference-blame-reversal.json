@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "source": "reference/blame-reversal.md",
+  "title": "Denial, attack & blame reversal",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Recognise the sequence without using it as proof",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "DARVO stands for deny, attack, reverse victim and offender. It describes denying an allegation, attacking the person raising it and reversing responsibility. Naming that sequence may help you keep track of conduct and evidence. It cannot establish that the original allegation is true.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A counter-accusation can divert attention toward the speaker’s credibility or character. But someone falsely accused may also deny an allegation and raise a legitimate concern about their treatment. The pattern of words alone does not settle the competing accounts.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Sarah Harsey and Jennifer Freyd varied fictional sexual-assault accounts read by undergraduates. Denial, attack and blame reversal affected judgments of those described. The experiment concerns observers in a specific scenario; it is not a test of guilt, a family prevalence estimate or a personality-disorder assessment.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep both issues and their evidence distinct",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Record the original action, evidence and request. Then separate the counter-claim and its evidence. Does the response address the issue or mainly attack the speaker? What could independently support or weaken either account?",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a fictional example, a question about missing shared funds receives the reply that asking proves you are controlling and that the other person is the real victim. The payment history still needs checking. A separate concern about intrusive monitoring can also be examined; it does not itself explain where the money went.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A relevant factual correction is not automatically bad-faith denial. Nor does a real counter-complaint erase the first issue. Include whether you sometimes use criticism of someone else to avoid your own responsibility.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Return to conduct or seek an appropriate process",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "When safe and appropriate, return to the specific issue. We can discuss that concern separately; what happened to the agreed payment? Do not make a confession the only acceptable outcome. A calm manner does not prove truth, and an emotional response does not disprove it.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For serious harm, preserve relevant records where safe and use suitable support or a formal process. A shared argument need not have one wholly innocent participant, but serious coercion must not be flattened into mutual misunderstanding. Keeping issues separate should help examine responsibility, not dilute it.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Use the label as a reminder, not your evidence",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Consider a response sequence you are concerned about. What was the original issue, what counter-claim followed, and what supports or challenges each? Pause for longer if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful answer keeps the payment record and any monitoring concern distinct. It does not use the word DARVO as proof of missing money, or let a personal attack replace checking the transaction.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, choose one safe clarification, boundary or support route. Review whether the conduct was addressed and whether each person could raise a legitimate concern. The practical aim is a fairer process and useful protection, not winning a label dispute.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

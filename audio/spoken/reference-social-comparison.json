@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "source": "reference/social-comparison.md",
+  "title": "Social comparison & envy",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Separate the comparison from the judgment",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Social comparison means evaluating something about yourself by reference to someone else. Envy concerns an advantage another person has that you would like. Jealousy usually concerns a threatened loss of a valued relationship or position. These feelings can overlap without being interchangeable.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A comparison can offer information or an attainable model. It can also become a painful judgment about your worth. Its meaning depends on what matters to you, whether the comparison fits and whether the advantage seems reachable. Online outcomes may hide resources, effort and setbacks.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A critical review of social comparison, envy and well-being on social media found mixed and conditional evidence. Comparison is not uniformly harmful, and social-media findings cannot explain every offline experience. The practical question is what this comparison is doing in your situation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Check what you actually know",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "In a fictional example, a friend publishes a book and you feel behind. You do not know their available time, support or goals. Asking about a writing routine may offer a model. Inferring that you lack talent from their publication date adds something the comparison cannot establish.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Name the known fact and your added judgment separately. They earn more is different from I am a failure. What conditions are known, and what is missing? Compare occasions when the result was motivation, avoidance, hostility or useful learning, including neutral and positive comparisons.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Criticism of an unfair allocation may be justified. Calling it envy does not answer the fairness question. Admiration need not conceal resentment, and another person’s success can reveal a real unmet need or a goal worth choosing.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Choose a useful process or let the comparison go",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Identify an outcome you can actually pursue, or decide that the comparison is not useful. Seek information about a process rather than comparing a whole life with a selected result. You can appreciate another person while admitting disappointment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Cameron Anderson and colleagues reviewed the desire for respect and admiration, distinguishing status from power, money and belonging. A broad motive cannot explain every disagreement or wish for recognition. Avoid turning the fact that comparison matters into a complete story about someone’s intentions.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If the arrangement is unfair, address the arrangement rather than attacking the person who benefited. If a comparison habit repeatedly disrupts a chosen goal, try changing that habit. Feeling better afterwards would not prove that every original concern was false.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review mood, action and fairness separately",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall a comparison that affected you. What fact did you observe, what judgment did you add, and what missing difference might change the meaning? Pause if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the book example, a useful answer might acknowledge disappointment while recognising that publication dates cannot compare talent without knowing the circumstances. Asking about a manageable writing routine could turn the comparison into practical information.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, choose a process to learn from or a comparison habit to change, and state what you want to improve. Review your mood, your action and any fairness concern separately. The goal is a clearer choice, not never comparing yourself again.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

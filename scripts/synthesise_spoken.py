@@ -244,6 +244,7 @@ def main():
     parser.add_argument('--workers', type=int, default=6)
     parser.add_argument('--page-workers', type=int, default=1)
     parser.add_argument('--plan', action='store_true')
+    parser.add_argument('--defer-build', action='store_true', help='Stage an explicit multi-voice/audio-release update; run the required full build after all recordings and release manifests are ready')
     args = parser.parse_args()
     assert 1 <= args.workers <= 24 and 1 <= args.page_workers <= 8
     if not args.all and not args.lessons:
@@ -258,9 +259,12 @@ def main():
     if args.plan:
         return
     CACHE.mkdir(parents=True, exist_ok=True)
-    build.build(include_narration=False)
+    # Binding pages deliberately omit players. Their temporary search metadata
+    # is not the published corpus, so do not rebuild/check the semantic index.
+    build.build(include_narration=False, include_search=False)
     asyncio.run(produce(selected, args.workers, args.page_workers, args.voice))
-    build.build()
+    if not args.defer_build:
+        build.build()
 
 
 if __name__ == '__main__':

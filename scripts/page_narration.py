@@ -187,6 +187,11 @@ def render(source, title, body, page, manifest, editions=None):
             path = ROOT / media_path(source, suffix, voice)
             assert path.is_file() and hashlib.sha256(path.read_bytes()).hexdigest() == entry[key], f"Narration file checksum mismatch: {path}"
         def edition_url(suffix, key):
+            if suffix == '.mp3':
+                from narration_delivery import remote_url
+                remote = remote_url(source, voice, entry)
+                if remote:
+                    return remote
             return Path(os.path.relpath(media_path(source, suffix, voice), page.parent)).as_posix() + '?v=' + entry[key][:12]
         variants[voice] = {'name': VOICES[voice]['name'], 'audio': edition_url('.mp3', 'audio_sha256'),
                            'filename': Path(source).stem + '-' + VOICES[voice]['id'] + '.mp3',

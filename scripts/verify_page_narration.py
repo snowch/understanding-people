@@ -76,7 +76,7 @@ def verify(base, voice=DEFAULT):
     from written_editions import recorded_sources, editions as written_editions
     expected = recorded_sources(PAGES)
     assert set(manifest['pages']) == expected
-    assert manifest['voice'] == VOICES[voice]['id'] and len(expected) == 136
+    assert manifest['voice'] == VOICES[voice]['id']
     for source, entry in manifest['pages'].items():
         assert entry['provider_words_verified']
         assert entry['duration'] > 0 and entry['sections'][0]['start'] == 0
@@ -84,8 +84,8 @@ def verify(base, voice=DEFAULT):
         for suffix, key in [('.mp3', 'audio_sha256'), ('.txt', 'transcript_sha256')]:
             assert hashlib.sha256((ROOT / media_path(source, suffix, voice)).read_bytes()).hexdigest() == entry[key]
     with sync_playwright() as pw:
-        proxy_url = os.environ.get('HTTPS_PROXY') if base.startswith('https://') else None
-        proxy = {'server': proxy_url} if proxy_url else None
+        proxy_url = os.environ.get('HTTPS_PROXY')
+        proxy = {'server': proxy_url, 'bypass':'localhost,127.0.0.1'} if proxy_url else None
         browser = pw.chromium.launch(proxy=proxy)
         context = browser.new_context(service_workers='block', accept_downloads=True, proxy=proxy)
         if voice != DEFAULT:
@@ -108,7 +108,9 @@ def verify(base, voice=DEFAULT):
             expect(panel).to_contain_text(VOICES[voice]['name'] + ' · Synthetic narration')
             expect(panel.locator('details')).not_to_have_attribute('open', '')
             audio_url = panel.locator('audio source').evaluate('e=>e.src')
-            assert audio_url.startswith(base + 'assets/media/narration/')
+            from narration_delivery import remote_url
+            remote = remote_url(source, voice, entry)
+            assert audio_url == remote if remote else audio_url.startswith(base + 'assets/media/narration/')
             response = context.request.get(audio_url, headers={'Range': 'bytes=0-511'})
             assert response.status == 206, (source, response.status)
             assert len(response.body()) == 512

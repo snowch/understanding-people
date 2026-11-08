@@ -44,6 +44,11 @@ jobs:
                   assert path.stat().st_size == edition['bytes'], path.name
                   assert hashlib.file_digest(path.open('rb'), 'sha256').hexdigest() == edition['sha256'], path.name
           Path('/tmp/audiobook-release/audiobook-manifest.json').write_bytes(Path('/tmp/approved-audiobook-manifest.json').read_bytes())
+          delivery = json.loads(Path('/tmp/audiobook-release/narration-assets.json').read_text())
+          for item in delivery['files']:
+              path = Path('/tmp/audiobook-release') / item['filename']
+              assert path.stat().st_size == item['bytes']
+              assert hashlib.file_digest(path.open('rb'), 'sha256').hexdigest() == item['sha256']
           PY
       - name: Upload to the existing draft release
         env:
@@ -51,7 +56,7 @@ jobs:
         run: |
           release_tag=$(/tmp/audiobook-venv/bin/python -c 'import json; print(json.load(open("/tmp/approved-audiobook-manifest.json"))["release_tag"])')
           gh release view "$release_tag" --repo "$GITHUB_REPOSITORY" --json isDraft --jq '.isDraft' | grep -x true
-          gh release upload "$release_tag" --repo "$GITHUB_REPOSITORY" /tmp/audiobook-release/*.m4b /tmp/audiobook-release/SHA256SUMS.txt /tmp/audiobook-release/audiobook-manifest.json
+          gh release upload "$release_tag" --repo "$GITHUB_REPOSITORY" /tmp/audiobook-release/*.m4b /tmp/audiobook-release/*.mp3 /tmp/audiobook-release/SHA256SUMS.txt /tmp/audiobook-release/audiobook-manifest.json /tmp/audiobook-release/narration-assets.json
       - name: Retain completed files if publication fails
         if: failure()
         uses: actions/upload-artifact@v4

@@ -28,7 +28,9 @@ def verify(folder, public=False):
     for voice, record in manifest['voices'].items():
         full, core = record['editions']['complete'], record['editions']['course']
         assert full['chapters'][:14] == core['chapters']
-        assert len(full['chapters']) == len({c['source'] for c in full['chapters']}) == 136
+        from build import CHAPTERS, PAGES
+        from book_audiobook import ordering
+        assert len(full['chapters']) == len({c['source'] for c in full['chapters']}) == len(ordering(CHAPTERS, PAGES)['complete'])
         assert len(core['chapters']) == 14
         assert all(c['end_sample'] > c['start_sample'] for c in full['chapters'])
     for edition in editions:

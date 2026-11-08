@@ -40,7 +40,7 @@ def verify(base, all_lessons=False, lessons=None, voice=DEFAULT):
         registry = {source: item for source, item in registry.items() if source in pilots}
         assert set(registry) == pilots
     with sync_playwright() as pw, tempfile.TemporaryDirectory() as folder:
-        proxy = {'server': os.environ['HTTPS_PROXY']} if base.startswith('https://') and os.environ.get('HTTPS_PROXY') else None
+        proxy = {'server': os.environ['HTTPS_PROXY'], 'bypass':'localhost,127.0.0.1'} if os.environ.get('HTTPS_PROXY') else None
         b = pw.chromium.launch(proxy=proxy)
         context = b.new_context(proxy=proxy, service_workers='block')
         preferences = {'version': 1, 'voice': voice, 'speed': 1}

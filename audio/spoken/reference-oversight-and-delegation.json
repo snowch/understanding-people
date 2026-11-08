@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "source": "reference/oversight-and-delegation.md",
+  "title": "Oversight, delegation & micromanagement",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Autonomy and accountability can coexist",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Oversight checks whether responsibilities, standards and risks are being managed. Delegation gives someone responsibility with enough authority and resources to act. Micromanagement is a common description of unnecessary detailed control, but the label alone cannot tell you how much supervision a task needs.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A frequent check may be proportionate in a safety-critical task and disruptive in routine work. New skills, earlier failures, unclear expectations or a supervisor’s difficulty letting go may contribute. Requested coaching also differs from unwanted takeover.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Gavin Slemp and colleagues combined workplace studies of autonomy-supportive supervision. Perceived support was associated with motivation, well-being and positive work behaviour. The largely correlational evidence cannot determine whether one manager’s checks are excessive, or show that removing all checks improves performance.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Ask what each check is for",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "List the decisions the person can genuinely make, the resources available and the purpose of each check. Does supervision reduce as competence is demonstrated? Are corrections about an agreed outcome or about the supervisor’s preferred style?",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Consider a fictional manager requesting hourly updates on a routine report. The writer proposes a draft by Thursday and an early warning if a dependency slips. That arrangement tests whether reliable visibility can meet the manager’s need without constant interruption.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Notice your own contribution whichever role you have. Missing updates can force others to chase. Equally, asking for responsibility while retaining every meaningful decision may make delegation nominal rather than real. Competence in one task does not establish readiness for every other task.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Agree outcomes and a review rhythm",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Define the outcome, constraints, decision rights and review rhythm. Agree an early warning threshold for risks rather than checking every move. Ask what support is needed, and give feedback against the standard you actually agreed.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "If you supervise, identify a real decision you will leave with the other person. If you are supervised, propose an update that could replace repeated chasing. Autonomy is not an exemption from agreed reporting or safeguarding duties.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Research on organisational fairness distinguishes outcomes, procedures, interpersonal treatment and information. That offers useful questions about an arrangement, not proof that a supervisor is dishonest or controlling. Review the practical effects before settling on a character explanation.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Try one proportionate adjustment",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose a task and one check whose purpose is unclear. What risk is it meant to address, and could a different update cover that risk? Pause for longer if you want.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the routine report, a scheduled draft and a specific escalation trigger may provide more useful information than hourly progress messages. For a different task with immediate safety risks, that review rhythm might be inadequate.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, record the outcome, decision rights, resources and agreed checks. Try one feasible adjustment and review quality, missed risks, interruptions and ownership. The aim is proportionate oversight, not proving that either person has the wrong personality.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

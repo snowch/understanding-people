@@ -1,3 +1,7 @@
+# Current coverage
+
+The 8 November expansion brings both voices to 161 substantive pages, adding 25 references and refreshing two guides. The other 134 recordings per voice remain unchanged. New reference MP3s stream from the immutable release and remain on demand; transcripts stay in Pages. See [narration expansion](narration-expansion.md). The details below record the earlier 136-page second-voice rollout.
+
 # Narrator choice and reading preferences
 
 The user authorized Jenny as a second full-book narrator on 5 November 2026. Both Andrew (`en-US-AndrewMultilingualNeural`) and Jenny (`en-US-JennyNeural`) cover all 136 substantive book/reference pages. Settings is a utility page with controls and previews, not a new learning node or narrated chapter.

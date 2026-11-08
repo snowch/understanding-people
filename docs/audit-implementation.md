@@ -1,3 +1,5 @@
+> The later narration request on 8 November supersedes the text-only delivery described below: the 25 new references and two guides now have reviewed spoken adaptations for Andrew and Jenny. See [narration expansion](narration-expansion.md). No new teaching images or videos are generated.
+
 # Implementing the research coverage audit
 
 8 November 2026. The eighteen development clusters in the [coverage audit](research-gap-audit.md) are implemented through 25 written references and connections from the existing chapters and entries. The library now has 136 references. These are sourced editorial explanations and practice suggestions, not a systematic review or validated assessment.

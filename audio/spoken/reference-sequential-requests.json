@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "source": "reference/sequential-requests.md",
+  "title": "Escalating requests & everyday influence",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Assess the commitment being asked for now",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "A request sequence uses more than one request in a way that may affect a later decision. Foot in the door means a small request followed by a larger one. Door in the face means a large request that is refused, followed by a smaller one. These names describe studied procedures, not guaranteed effects.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "An earlier yes can make consistency feel important. A smaller request after an excessive one can look like a concession, and a favour can create obligation. Genuine collaboration also uses gradual commitments and compromise. The sequence alone does not establish the requester’s intent.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Jerry Burger reviewed research on small requests followed by larger ones. Several processes may contribute, and conditions can eliminate or reverse an effect. A comparison by Alexandre Pascual and Nicolas Guéguen found no significant difference between the two procedures in the studies compared. That does not show either procedure always beats an ordinary request.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare the original and current terms",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "What has changed in the time, cost, privacy, authority or consequences involved? Was the later expectation disclosed? Can you reconsider without threats or shame? New information may genuinely change a project, and a smaller request may reasonably reflect your capacity.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a fictional example, a free assessment is followed by pressure to buy an expensive service before leaving. Accepting the assessment does not establish the package’s suitability. Compare evidence, price and alternatives whether the sequence was planned sales design or routine follow-up.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Claims such as everyone does it or this is your last chance also need checking. Ask who the comparison group is, why the deadline exists and what happens if you wait. Popularity does not establish quality, and claimed scarcity is not independent evidence of value.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Keep consent current",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Pause and assess the present request on its own terms. You might say, I agreed to review one page, not rewrite the report. Ask for the complete commitment and any missing evidence. A concession does not oblige you to accept unsuitable terms.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Apply that standard to your own requests. An earlier favour is not an unstated purchase of later agreement. If someone declines, invoking their gratitude or earlier yes can undermine the freedom you claim to offer.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A review by Papakonstantinou and colleagues found that the apparent benefit of social-norm health messages disappeared after adjustment for publication bias. That finding concerns specific interventions, not whether norms ever influence people. It is a reason to examine effectiveness claims carefully.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review whether the decision stayed voluntary",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Recall a request that grew. What did you originally agree to, what is now requested, and what information might explain the change? Pause the player if helpful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful answer separates a legitimate change of scope from an assumption that a small yes commits you to everything that follows. You can consider the new proposal without either automatically accepting it or accusing the requester of a tactic.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, record the changed terms and choose a clear limit or request for missing information. Review whether the eventual choice was informed and voluntary. If you made the request, ask whether the other person could genuinely say no.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -171,6 +171,11 @@ def main():
     MANIFEST.write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n')
     (args.output/'SHA256SUMS.txt').write_text('\n'.join(sums)+'\n')
     (args.output/'audiobook-manifest.json').write_bytes(MANIFEST.read_bytes())
+    from narration_delivery import export as export_narration
+    extra = export_narration(args.output)
+    with (args.output/'SHA256SUMS.txt').open('a') as stream:
+        for item in extra:
+            stream.write(item['sha256'] + '  ' + item['filename'] + '\n')
     print('All four single-file audiobooks verified. Publish release assets before pushing the download page.', flush=True)
 
 

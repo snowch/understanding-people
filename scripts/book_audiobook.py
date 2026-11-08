@@ -26,7 +26,7 @@ def ordering(chapters, pages):
     guides = [(source, 'Guide — ' + title) for source, title in pages if source in recorded and source not in used]
     complete = core + references + guides
     expected = recorded
-    assert len(core) == 14 and len(complete) == len(expected) == 136
+    assert len(core) == 14 and len(complete) == len(expected)
     assert {source for source, _ in complete} == expected
     return {'complete': complete, 'course': core}
 
@@ -75,7 +75,7 @@ def render(data, page):
     sequence = ''.join('<li><a href="' + escape(Path(os.path.relpath(target(c['source']), page.parent)).as_posix(), quote=True) + '">' + escape(c['title']) + '</a></li>' for c in chapters)
     return f'''<section class="audiobook-library" aria-labelledby="complete-audiobook">
 <h2 id="complete-audiobook">The recorded book, in one file</h2>
-<p>The recorded edition contains the course, reference library and reading guides in 136 sections. Newer written references and revisions are available in the online library; they are not included in these recordings.</p>
+<p>This edition contains the course, reference library and reading guides in {len(data['voices']['andrew']['editions']['complete']['chapters'])} sections, including the expanded reference library. Each section is adapted for listening, with time to reflect.</p>
 <div class="audiobook-editions">{''.join(cards)}</div>
 <details class="audiobook-course"><summary>Smaller download: just the course</summary><p>One file per voice, containing the introduction, twelve chapters and conclusion. The reference library and reading guides are left out of this smaller edition.</p><div class="audiobook-course-links">{core}</div></details>
 <details class="audiobook-contents"><summary>The first fourteen chapters</summary><ol>{sequence}</ol><p>The complete edition continues with reference entries grouped by topic, then reading and support guides.</p></details>

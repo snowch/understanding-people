@@ -88,7 +88,6 @@
           "keywords": "loaded questions presupposition implicature framing epistemic deontic authority agenda control who decides patronising",
           "appNode": "assumptions-and-authority",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/07-culture-groups-power.md",
@@ -108,7 +107,6 @@
           "keywords": "one off repeated pattern compare occasions hypothesis diary journal observation evidence exceptions causality intention conditioning strategy",
           "appNode": "comparing-occasions",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/02-what-counts-as-knowing.md",
@@ -630,7 +628,6 @@
           "keywords": "naming asymmetry names titles honorifics kinship matriarch patriarch mother in law inlaws face saving respect insiders outsiders",
           "appNode": "naming-and-belonging",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/07-culture-groups-power.md",
@@ -649,7 +646,6 @@
           "keywords": "favouritism favoritism double standards differential treatment siblings golden child scapegoat unfair rules inlaws comparisons",
           "appNode": "unequal-treatment",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/03-needs-motives-goals.md",
@@ -669,7 +665,6 @@
           "keywords": "demand withdraw pursue withdraw escalation cycle stonewalling silent treatment argument reassurance co regulation",
           "appNode": "interaction-cycles",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/05-emotion-stress-coping.md",
@@ -689,7 +684,6 @@
           "keywords": "foot in the door door in the face persuasion tactics social proof reciprocity commitment consistency escalating requests scarcity compliance",
           "appNode": "sequential-requests",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/03-needs-motives-goals.md",
             "chapters/07-culture-groups-power.md",
@@ -709,7 +703,6 @@
           "keywords": "ostracism exclusion gossip reputation rumours rumors smear campaign social proof shunning ignoring triangulation third party",
           "appNode": "exclusion-and-reputation",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/07-culture-groups-power.md",
@@ -729,7 +722,6 @@
           "keywords": "DARVO deny attack reverse victim offender blame reversal victim blaming credibility accusations counter accusations",
           "appNode": "blame-reversal",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/08-questions-listening-disagreement.md",
@@ -747,7 +739,6 @@
           "keywords": "moving goalposts goalpost changing criteria double standards shifting standards changing agreement lowball terms scope creep",
           "appNode": "changing-standards",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/02-what-counts-as-knowing.md",
             "chapters/08-questions-listening-disagreement.md",
@@ -766,7 +757,6 @@
           "keywords": "love bombing lovebombing hoovering breadcrumbing intermittent attention hot cold intense affection rapid closeness contact",
           "appNode": "intense-and-inconsistent-contact",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/03-needs-motives-goals.md",
@@ -1035,7 +1025,6 @@
           "keywords": "facets personality nuances assertiveness sociability organisation organization productivity compassion respectfulness trust big five traits",
           "appNode": "personality-facets",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/06-personality-habits-situations.md"
@@ -1143,7 +1132,6 @@
           "keywords": "procrastination putting off delaying implementation intentions mental contrasting if then plans motivation studying task aversion",
           "appNode": "procrastination-planning",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/03-needs-motives-goals.md",
             "chapters/05-emotion-stress-coping.md",
@@ -1163,7 +1151,6 @@
           "keywords": "envy jealousy comparison upward downward social media success status resentment inferiority inspiration schadenfreude",
           "appNode": "social-comparison",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/03-needs-motives-goals.md",
             "chapters/04-beliefs-identity-history.md",
@@ -1181,7 +1168,6 @@
           "keywords": "shame guilt anger embarrassment humiliation defensive rage self worth blame repair emotion regulation",
           "appNode": "shame-anger-and-repair",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/04-beliefs-identity-history.md",
             "chapters/05-emotion-stress-coping.md",
@@ -1434,7 +1420,6 @@
           "keywords": "inlaws mother in law stepfamily blended family kinship matriarch patriarch coalitions loyalty boundaries grief acculturation filial",
           "appNode": "family-membership",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/04-beliefs-identity-history.md",
             "chapters/07-culture-groups-power.md",
@@ -1454,7 +1439,6 @@
           "keywords": "mental load cognitive labour labor emotional labour household chores weaponised weaponized incompetence coordination kin keeping invisible work",
           "appNode": "invisible-work",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/03-needs-motives-goals.md",
             "chapters/07-culture-groups-power.md",
@@ -1477,7 +1461,6 @@
           "keywords": "attachment anxious avoidant secure disorganised disorganized attachment style intimacy closeness reassurance independence",
           "appNode": "adult-attachment",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/04-beliefs-identity-history.md",
             "chapters/06-personality-habits-situations.md",
@@ -1496,7 +1479,6 @@
           "keywords": "gatekeeping access information decisions caregiving coparenting inlaws mother in law grandmother control participation permission",
           "appNode": "gatekeeping",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/07-culture-groups-power.md",
             "chapters/08-questions-listening-disagreement.md",
@@ -1514,7 +1496,6 @@
           "keywords": "parentification role reversal child caregiving emotional parent adult responsibilities young carer family duty triangulation childhood",
           "appNode": "parentification",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/06-personality-habits-situations.md",
             "chapters/07-culture-groups-power.md",
@@ -1532,7 +1513,6 @@
           "keywords": "texting email WhatsApp message tone sarcasm delayed reply unanswered left on read ghosting punctuation digital communication",
           "appNode": "digital-misunderstandings",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/08-questions-listening-disagreement.md",
@@ -1688,7 +1668,6 @@
           "keywords": "responsiveness validation support matching empathy unwanted advice help autonomy competence relatedness co regulation",
           "appNode": "responsive-support",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/03-needs-motives-goals.md",
             "chapters/08-questions-listening-disagreement.md",
@@ -1707,7 +1686,6 @@
           "keywords": "micromanaging micromanagement delegation oversight supervision manager checking trust autonomy decision rights accountability",
           "appNode": "oversight-and-delegation",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/03-needs-motives-goals.md",
             "chapters/07-culture-groups-power.md",
@@ -1727,7 +1705,6 @@
           "keywords": "feedback psychological safety speak up criticism manager coaching errors mistakes dissent retaliation voice sandwich",
           "appNode": "feedback-and-speaking-up",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/07-culture-groups-power.md",
             "chapters/08-questions-listening-disagreement.md",
@@ -1747,7 +1724,6 @@
           "keywords": "AI LLM guidance analysis Gemini OpenAI Claude Mistral sycophancy confirmation bias hallucinations prompts privacy",
           "appNode": "ai-reflection",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/01-before-you-explain.md",
             "chapters/02-what-counts-as-knowing.md",
@@ -1765,7 +1741,6 @@
           "keywords": "negotiation mediation bargaining interests positions compromise BATNA dependency power conflict resolution deal client",
           "appNode": "negotiation-and-mediation",
           "status": "developed",
-          "audioStatus": "text",
           "foundation": [
             "chapters/03-needs-motives-goals.md",
             "chapters/07-culture-groups-power.md",

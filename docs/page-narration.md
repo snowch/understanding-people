@@ -4,6 +4,10 @@ The user chose **en-US-AndrewMultilingualNeural** on 3 November 2026. The first 
 
 ## Current scope
 
+On 8 November 2026 the user requested narration for the expanded content. The current edition covers **161 substantive pages in both voices**: 25 new reference lessons plus refreshed library and source guides, alongside 134 unchanged recordings per voice. The new references use immutable release-hosted MP3s to keep Pages within its size budget; transcripts remain with the book. The text-only exception registry is empty again. See [the expansion](narration-expansion.md) for production and delivery details.
+
+## Earlier rollout
+
 The user subsequently requested Jenny as a second voice, with a Settings page. Both narrators cover the same 136 authored lessons. The original Andrew edition is unchanged and remains the default; `en-US-JennyNeural` uses a separate manifest, audio/transcript directory and independently measured section timings. The controls-only Settings page is excluded from narration. See [voice settings](voice-settings.md) for production, storage and browser checks.
 
 On 5 November 2026 the user authorized completing the improved recordings for all pages. All **136 substantive pages** now use authored spoken adaptations: the introduction, twelve chapters, conclusion, 111 reference entries and eleven supporting/resource pages. The four initial pilots (Chapter 1, confirmation bias, correspondence bias and declining help) are preserved. The remaining 132 page readings are replaced by individually authored scripts with source-fidelity peer review. Their top player says **Listen to this lesson**. The three earlier audio compatibility notices still route to their parent content and receive no independent narration. No new reference pages, sidebar branches or graph nodes are created for listening.

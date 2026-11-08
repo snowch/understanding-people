@@ -26,6 +26,7 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - run: python -m unittest discover -s scripts -p test_search.py
       - run: python -m unittest discover -s scripts -p test_written_editions.py
+      - run: python -m unittest discover -s scripts -p test_narration_delivery.py
       - run: node --test scripts/test_search_worker.mjs scripts/test_search_query.mjs
       - run: python scripts/build.py
       - uses: actions/configure-pages@v5

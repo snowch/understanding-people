@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "source": "reference/changing-standards.md",
+  "title": "Changing criteria & moving goalposts",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Distinguish a revised requirement from a moving target",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Moving the goalposts is an everyday phrase for changing a standard after someone has met it or begun meeting it. Such changes can make completion hard to evaluate. The phrase describes something to investigate, not a diagnosis of the person changing the requirement.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "New information, an overlooked risk or an incomplete first agreement may justify a revision. A change might also add work without renegotiation or avoid acknowledging that an earlier condition was satisfied. Your own assumption that finished had a shared meaning can contribute to confusion.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Research on organisational fairness distinguishes outcomes, procedures, interpersonal treatment and information. That offers several questions about a change, rather than proving dishonesty or supplying a single correct allocation. Planning research in health settings likewise does not validate a particular work or family agreement.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Compare the criterion, result and reason",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Write the original criterion, what was done, the changed criterion and the reason given. Was the revision relevant and proportionate? Was it communicated when the information became available? Can either person renegotiate the cost or timing?",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a fictional example, a client accepts a page layout and then requests a new section. The designer asks whether it replaces earlier work or changes the scope and deadline. A genuine new need can be accommodated through a new agreement without calling it manipulation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Compare revisions across occasions and include evidence that the first agreement was ambiguous. Correcting an unsafe plan differs from adding an unrelated condition whenever an earlier one is satisfied. Scope can expand without anyone planning that result.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Define completion and a change process",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Agree a concrete standard and how revisions will be handled. You might say that this review covers three requirements and that an additional request needs a revised date. Allow necessary corrections without turning every preference into an urgent requirement.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "For recurring unfair changes, document decisions and consider an appropriate escalation or boundary instead of chasing an indefinitely shifting target. You can address the burden while intent is uncertain. If you set the requirements, explain new information and acknowledge the cost imposed by a revision.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review clarity and costs",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a changed requirement. What were the original terms, what changed and what new information mattered? Where might the first agreement have been unclear? Pause if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful answer about the new page section identifies the actual extra work and a revised deadline rather than arguing about whether the client is a manipulative person. It leaves room for a legitimate new need and a fair renegotiation.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, propose a completion standard and a way to handle further changes. Review whether revisions became clearer, costs were shared fairly and any evidence changed your explanation. The aim is an agreement you can evaluate and sustain.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "source": "reference/procrastination-planning.md",
+  "title": "Procrastination & making a start",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Wanting an outcome and starting are different",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Procrastination usually means delaying an intended action even though you expect the delay to make things worse. It differs from choosing a different priority or waiting for an essential resource. Calling yourself lazy does not tell you which difficulty is getting in the way.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "A task may feel unclear, unpleasant, too large or threatening to your self-image. Postponement can bring immediate relief, making it attractive again. But lack of time, sleep, materials, access or skill may also be decisive. A detailed plan cannot supply missing resources.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Thomas Webb and Paschal Sheeran combined experiments in which intentions changed. Behaviour generally changed less than intentions did. That supports separating a promise from follow-through; it does not tell you why one person failed to act.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Find the first obstacle",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "Compare what happens just before you postpone and what you do instead. Does a clearer task or smaller first step change the response? Check whether you actually want the goal and whether the timing is realistic. Deliberately changing a goal is not necessarily procrastination.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a fictional example, you intend to study for an hour but keep avoiding the chapter. The first problem is not knowing which exercises matter. Asking for the relevant exercise list may help more than another reminder to feel motivated.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Persistent mood or concentration difficulties may warrant support, but delay alone identifies no condition. Try to identify the most likely obstacle rather than collecting every possible reason or using a psychological label as the answer.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Make a cue and obstacle plan",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "Connect a cue to a small action. After breakfast, I will open the draft and write its first heading. Then plan for a likely obstacle. If I do not know what comes next, I will write the question I need answered. Keep the plan realistic and changeable.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Mental contrasting means considering a desired outcome alongside a present obstacle. Implementation intentions connect a cue with a response. These ideas give planning some structure; imagining success alone does not specify the work.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Sezer and colleagues compared daily with one-off planning over a week. The daily group reported less bedtime procrastination. This specific, short study does not establish a lasting treatment for every kind of delay. Planning here is a practical application to review, not a guarantee.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review the start as well as completion",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Choose an action you delayed and an occasion when you started successfully. What specific difference could matter? What small action could follow a cue you will actually encounter? Pause if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "For the study example, a workable first action might be getting the exercise list, not promising an uninterrupted hour of work. That step tests whether uncertainty about the task was an obstacle.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, record your cue, first action and response to one likely obstacle. Review whether you started, what remained difficult and whether the goal or resources need changing. One completed step is useful evidence, not proof of a lifelong habit.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}

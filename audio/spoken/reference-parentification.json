@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "source": "reference/parentification.md",
+  "title": "Children carrying adult responsibilities",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "source_files": [
+    "reference/entries/audit-expansion.json",
+    "reference/research-sources.json"
+  ],
+  "sections": [
+    {
+      "title": "Helping and carrying an adult role are different",
+      "anchor": "main",
+      "paragraphs": [
+        {
+          "text": "Parentification describes young people taking adult-like roles that do not fit their developmental needs. It may involve practical care or responsibility for an adult’s emotional stability. The issue is the demand and its context, not simply whether a child helps or feels proud of contributing.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Illness, loss, financial strain or lack of adult support can shift responsibilities to a child without an explicit discussion. They may gain skills or meaning while also carrying too much. Acknowledging one does not erase the other, and an adult’s helpfulness does not reveal a particular childhood history.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Jacinda Dariotis and colleagues reviewed ninety-five studies of developmentally inappropriate adult-like roles. Outcomes varied with demands, support and circumstances. Family contribution is not automatically parentification, and the evidence cannot determine one person’s history or show that every responsibility harms a child.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Examine demands, backup and impact",
+      "anchor": "what-to-notice-and-check",
+      "paragraphs": [
+        {
+          "text": "What are adults requiring, how often and with what backup? What happens if the child cannot do it? Are they expected to manage adult conflict, hold distressing secrets or provide indispensable care? Include their perspective and practical needs.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "In a fictional comparison, one child helps prepare dinner with an adult nearby. Another must miss school to manage a parent’s daily care without backup. These are different developmental demands. The distinction is not which child loves their family more.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "Age, intensity, support and effects on school, rest and relationships matter. Cultural context can explain expectations without making every burden acceptable. A single observation is not a clinical assessment, while a serious unmet need still warrants appropriate help.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Restore adult ownership",
+      "anchor": "how-to-respond",
+      "paragraphs": [
+        {
+          "text": "If you hold responsibility, arrange adult support rather than simply telling the child to say no. Keep contributions bounded, supported and compatible with education, rest and relationships. Do not make the child responsible for mediating adult disagreement or proving loyalty.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "CDC developmental guidance encourages discussing concerns or lost skills with a clinician. Milestone information is not a substitute for validated screening or a way to diagnose a child from one task. This reference cannot assess an individual child or select treatment.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "An adult reflecting on their own history can explore current patterns and seek support without deciding a complete causal story from memory. A label can be a starting point for questions, not proof of everything that happened or why.",
+          "pause_after_ms": 1600
+        }
+      ]
+    },
+    {
+      "title": "Review whether the burden changed",
+      "anchor": "practice",
+      "paragraphs": [
+        {
+          "text": "Think of a current responsibility, or a past one from your own life. What was required, what adult backup existed, and what effects do you know rather than infer? Pause if useful.",
+          "pause_after_ms": 9000
+        },
+        {
+          "text": "A useful answer distinguishes an occasional supported contribution from an ongoing role that displaces school or rest. It looks for practical support, not for evidence that a child cares enough to keep carrying the load.",
+          "pause_after_ms": 900
+        },
+        {
+          "text": "When you can write, identify one appropriate adult support, bounded task or professional route. Review whether demands and backup actually change. For historical reflection, judge whether the work helps you now rather than treating a label as proof of the whole past.",
+          "pause_after_ms": 1600
+        }
+      ]
+    }
+  ]
+}
