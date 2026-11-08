@@ -1,0 +1,1293 @@
+{
+  "entries": [
+    {
+      "id": "naming-and-belonging",
+      "cue": "Compare the naming rule, the preference and the response.",
+      "meaning": "Names, titles and kinship terms do more than identify someone: they can communicate familiarity, respect or a place in a group. Naming asymmetry means using different kinds of address for people whose situations seem comparable. The difference is observable; its meaning and whether it is deliberate need separate investigation.",
+      "arise": "A title may follow an age convention, a person’s preference, an established family habit or a way of distinguishing two people with the same name. It may also elevate one person or mark another as less included. Several influences can operate together. A convention can preserve a hierarchy without anyone consciously planning each use.",
+      "sources": [
+        "address",
+        "kinship"
+      ],
+      "alternatives": "Different terms need not mean different affection or rights. “Mum” expresses a relationship to the speaker that a first name may not. Equal respect does not require identical words. Conversely, calling something a tradition does not settle whether people may choose how they are addressed.",
+      "notice": "Compare who uses which exact terms, for whom, in whose presence and under which rule. Are comparable requests respected? Does the difference extend to invitations, speaking time or decisions? Include occasions that contradict the status explanation. A readily corrected habit and deliberate repeated disregard after a clear request give different information.",
+      "respond": "Start with the name you want used: “Please introduce me as Maya.” If appropriate, ask how the convention works rather than accusing someone of a strategy. Discuss any concrete exclusion separately. You can ask for respectful address without proving why the old wording was used; do not pressure another person to adopt a parental title they do not want.",
+      "example": "At family meals, one grandmother is introduced as “Grandma Rose” and the other as “Helen”. Before inferring a ranking, the parents check preferences. Helen says she chose her name. If instead she requested “Grandma Helen” and was repeatedly ignored, the same surface difference would raise a different concern.",
+      "takeaways": [
+        "A naming difference is an observation, not proof of intent.",
+        "Check convention, preference and comparable treatment together.",
+        "A clear request about address can be useful while the explanation remains uncertain."
+      ],
+      "practice": [
+        "Choose one naming difference, including an occasion when the apparent rule changed. Record the exact terms and each person’s stated preference, if known.",
+        "Where appropriate, clarify the convention or express one naming preference. Write what response would weaken your first explanation.",
+        "Review whether the preference was respected and whether participation or treatment changed; do not treat one correction as proof about the whole relationship."
+      ],
+      "related": [
+        {
+          "node": "status",
+          "why": "Names can communicate recognition without determining decision authority."
+        },
+        {
+          "node": "familynorms",
+          "why": "Family conventions can differ, including within one family."
+        },
+        {
+          "node": "language-context",
+          "why": "Meaning depends on speaker, relationship and setting."
+        },
+        {
+          "node": "unequal-treatment",
+          "why": "Compare naming with treatment rather than assuming either proves the other."
+        }
+      ],
+      "sections": [
+        {
+          "id": "face-and-dignity",
+          "title": "Preserving dignity without accepting a hierarchy",
+          "paragraphs": [
+            "Face means the social identity or respect someone wants recognised in an interaction. Face-saving can include allowing a correction without public humiliation. It can support collaboration; it can also become pressure if preserving one person’s dignity always requires another person to remain silent.",
+            "A practical option is to correct the introduction briefly and discuss a recurring disagreement privately if safe. Privacy is an option for reducing unnecessary embarrassment, not a condition that must be met before you may object. A factual correction does not become disrespectful merely because someone dislikes it."
+          ],
+          "sources": [
+            "facework"
+          ]
+        }
+      ],
+      "question": "Whose naming preference is respected, whose is not, and what would weaken a status explanation?"
+    },
+    {
+      "id": "assumptions-and-authority",
+      "cue": "Check the assumption before answering within it.",
+      "meaning": "A question can ask for information while treating another claim as already settled. That background assumption is a presupposition. You can dispute it without refusing the whole conversation. A related issue is decision authority: a speaker may present a proposal as if everyone has already agreed that they can decide.",
+      "arise": "Ordinary conversation depends on shared assumptions, so a presupposition is not inherently a trick. Trouble arises when an uncertain, disputed or false claim is smuggled into the starting point. You may answer the apparent question and accidentally leave that starting point unchallenged.",
+      "sources": [
+        "presupposition",
+        "authority"
+      ],
+      "alternatives": "A mistaken assumption, an abbreviated question and an intentional attempt to constrain the discussion can sound similar. A person may reasonably know more about a task while lacking authority to decide another person’s commitments. Being confident or senior does not settle either issue.",
+      "notice": "Write the question as two parts: what is being assumed, and what answer is requested. Check whether the assumption is shared or evidenced. Then identify who can decide, who should be consulted and whose consent is needed. Notice whether a correction is accepted or the same disputed premise is repeatedly imposed.",
+      "respond": "Use a short correction and a route forward: “I have not agreed to host. Are you asking whether I can?” If the assumption is partly correct, acknowledge that part and clarify the rest. Ask for an explicit decision process where several people are affected. Avoid treating every indirect request as hostile.",
+      "example": "A colleague asks, “Why are you refusing to support the launch?” You supported the launch but questioned its date. “I support the launch; I have not agreed that Friday is workable. Which deadline constraints should we compare?” corrects the premise and returns to the actual decision.",
+      "takeaways": [
+        "Questions can carry assumptions that need checking.",
+        "Knowledge, expertise and the right to decide are different.",
+        "Correct a disputed premise and identify the decision that actually remains."
+      ],
+      "practice": [
+        "Choose a confusing request and write its assumed claim separately from its requested answer. Include a harmless explanation for the wording.",
+        "Draft one sentence that corrects the uncertain part and one that returns to the real question or decision. Use it where appropriate.",
+        "Review whether the issue and decision rights became clearer, including any correction to your own reading."
+      ],
+      "related": [
+        {
+          "node": "deflecting",
+          "why": "Correcting a false premise differs from avoiding a relevant question."
+        },
+        {
+          "node": "clearrequest",
+          "why": "Make the actual request and its ownership explicit."
+        },
+        {
+          "node": "power",
+          "why": "Expertise does not automatically confer authority over another person."
+        },
+        {
+          "node": "listening",
+          "why": "Clarification can reveal an innocent shorthand or a real disagreement."
+        }
+      ],
+      "sections": [
+        {
+          "id": "implied-meaning",
+          "title": "What is suggested without being directly said",
+          "paragraphs": [
+            "An implication is meaning a listener draws from words in context. “Some people make time for family” might be heard as criticism when you decline a visit, but the wording alone does not establish that intention. Ask about the specific implication if it matters, and compare what follows with the explanation.",
+            "Do not equate plausible deniability with proven deception. You can describe the practical effect of a repeated insinuation and request direct discussion, even if the speaker disputes your interpretation. Apply the same standard to hints you expect others to understand."
+          ],
+          "sources": [
+            "presupposition"
+          ]
+        }
+      ],
+      "question": "Which claim is being assumed, and who actually has the right to make this decision?"
+    },
+    {
+      "id": "family-membership",
+      "cue": "Separate belonging, responsibility and the right to decide.",
+      "meaning": "Family membership concerns who is recognised as part of a family. Family roles concern what people are expected to do. These can become uncertain after a partnership, separation, bereavement, migration, illness or a change in caregiving. Uncertainty about membership or roles is called family boundary ambiguity; it differs from setting a personal limit.",
+      "arise": "People may bring different ideas of loyalty, privacy, respect and obligation into the same household. Someone may assume that marrying into a family includes accepting its routines, while the new partner understands visits and disclosure as choices. Neither person’s unspoken assumption establishes an agreement.",
+      "sources": [
+        "family-boundary",
+        "kinship"
+      ],
+      "alternatives": "A necessary care duty differs from an assumed entitlement to another adult’s decisions. Chosen family, estrangement and stepfamily ties may not follow legal or biological categories. A leading woman in a family is not the same as a matrilineal descent system or a custom of living near the wife’s relatives.",
+      "notice": "Identify which issue is contested: an invitation, information, money, care work, a decision or recognition. Ask whose agreement is needed and who bears the consequences. Notice whether people are being asked to prove loyalty by excluding someone else. Seek each person’s account without turning one relative into the permanent family spokesperson.",
+      "respond": "Make the specific expectation explicit. Negotiate a workable current arrangement, including privacy and care needs. Acknowledge a relationship’s importance without promising access or obedience. A partner can support a respectful boundary without being required to reject their relatives. If refusal brings threats or restrictions, prioritise support over persuading everyone to agree.",
+      "example": "After a wedding, a parent assumes they will receive every update about the couple’s finances. The couple agree to share visit plans but keep finances private. This clarifies information rights; it does not require deciding whether the parent is protective, anxious or controlling.",
+      "takeaways": [
+        "Belonging, duties and decision rights are separate questions.",
+        "Family changes can require renegotiating old expectations.",
+        "Clarify one arrangement instead of assigning a fixed role or motive to each relative."
+      ],
+      "practice": [
+        "Choose one family expectation and distinguish membership, practical responsibility and decision authority. Note where people appear to understand it differently.",
+        "Where safe, agree one concrete arrangement: what is shared or done, by whom, with whose consent and for how long.",
+        "Review who gained clarity or carried extra work. Include whether disagreement remained possible without a loyalty test."
+      ],
+      "related": [
+        {
+          "node": "familynorms",
+          "why": "Make an assumed family rule explicit."
+        },
+        {
+          "node": "life-transitions",
+          "why": "New circumstances can make an old role unworkable."
+        },
+        {
+          "node": "thirdparty",
+          "why": "Distinguish support, mediation and alliance recruitment."
+        },
+        {
+          "node": "gatekeeping",
+          "why": "Examine who controls participation and information."
+        },
+        {
+          "node": "grief",
+          "why": "A loss can alter responsibilities without prescribing who must replace the person."
+        }
+      ],
+      "sections": [
+        {
+          "id": "culture-and-change",
+          "title": "Cultural adaptation is not automatically conflict",
+          "paragraphs": [
+            "Acculturation concerns changes associated with living across cultural settings. Parents and children may differ in language, practices or values without being in conflict. Ask which particular expectation differs; a broad “traditional versus modern” story can hide agreement as well as practical barriers.",
+            "Serena Shukla and colleagues reviewed 98 records in 2025. More than half found no association between the studied cultural gaps and child, parenting or family outcomes. This challenges the assumption that different rates of adaptation necessarily damage a family."
+          ],
+          "sources": [
+            "acculturation"
+          ]
+        },
+        {
+          "id": "roles-after-loss",
+          "title": "When illness or loss changes a role",
+          "paragraphs": [
+            "After a death or illness, tasks and emotional expectations may move suddenly. Separate care that genuinely needs covering from an assumption that a child or new partner must replace the absent adult. A temporary arrangement needs an owner, resources and a review date. Grief can explain strain without removing anyone’s choice about an ongoing role."
+          ],
+          "sources": [
+            "family-boundary"
+          ]
+        }
+      ],
+      "question": "Which expectation concerns belonging, which concerns work, and which concerns a decision that needs consent?"
+    },
+    {
+      "id": "unequal-treatment",
+      "cue": "Compare like situations and explain relevant differences.",
+      "meaning": "Unequal treatment means people receive different resources, opportunities, attention or rules. A double standard applies a different judgment to comparable conduct without a relevant justification. Differences can be unfair, but equal treatment and fair treatment are not always identical: people may have different needs or responsibilities.",
+      "arise": "Unequal treatment can follow preference, habit, accessibility needs, role duties, resource constraints or a judgment about past reliability. It can also privilege an insider or repeatedly burden the same person. These are alternatives to check, not a complete list or a way to infer the reason from the unequal outcome alone.",
+      "sources": [
+        "differential",
+        "fairness"
+      ],
+      "alternatives": "A younger child needing more help is different from one child being praised for behaviour another is punished for. A temporary illness can justify changed duties without making every later difference necessary. Differences between adult in-laws are not directly explained by research on parents and young siblings.",
+      "notice": "Choose a specific comparison: same conduct, relevant circumstances, rule and consequence. Record any stated reason and an exception that challenges your account. Ask who can question the rule and whether the explanation is consistently applied. Avoid counting every welcome difference as favouritism or dismissing a concern because the people are not identical.",
+      "respond": "Raise the actual allocation or standard: “We were both late; why was only one person excluded?” Ask for a transparent future rule or a needs-based adjustment. You can seek fair treatment without demanding identical affection. If you set the rules, explain relevant differences before resentment grows and be willing to correct an inconsistency.",
+      "example": "Two siblings are expected to contribute to a family event. One is excused because of a medical appointment, while the other was refused an exception for a similar appointment. Comparing the circumstances and rule is more informative than immediately naming one the “golden child”.",
+      "takeaways": [
+        "Unequal treatment can be justified or unfair; compare the relevant circumstances.",
+        "Child-sibling research cannot establish an adult family strategy.",
+        "Ask for a clear rule or adjustment rather than a permanent family label."
+      ],
+      "practice": [
+        "Record one pair of comparable occasions, the different response and the reason given. Note any important difference that weakens the comparison.",
+        "Request one fair future rule or explain a relevant adjustment if you are making the decision.",
+        "Review how the rule was applied next time, including exceptions, effects and any change in your original explanation."
+      ],
+      "related": [
+        {
+          "node": "fairness",
+          "why": "Fair outcomes, fair procedures and respectful explanations can differ."
+        },
+        {
+          "node": "criticism",
+          "why": "Compare feedback standards and whose conduct receives attention."
+        },
+        {
+          "node": "family-membership",
+          "why": "Belonging and responsibilities can be contested separately."
+        },
+        {
+          "node": "blame-shifting",
+          "why": "Being allocated blame differs from being given a particular duty."
+        }
+      ],
+      "sections": [
+        {
+          "id": "labels",
+          "title": "Golden child and scapegoat are descriptions to unpack",
+          "paragraphs": [
+            "These popular labels can name a painful experience, but they can also make a family seem to have a permanent script. Replace the label with what someone receives or is blamed for, how often comparable events happen, and who has a chance to correct the account. Do not assume that a favoured child welcomes the role or is responsible for another adult’s treatment.",
+            "A single serious discriminatory or threatening incident can warrant action; you do not need a long pattern to take it seriously. Repetition is useful for understanding a recurring standard, not a requirement for asking for help."
+          ]
+        }
+      ],
+      "question": "What important difference could justify the unequal treatment, and is that reason applied consistently?"
+    },
+    {
+      "id": "invisible-work",
+      "cue": "Share ownership of the task, including noticing and coordinating.",
+      "meaning": "Invisible work is effort that others may not see when counting completed tasks. Cognitive work includes noticing needs, finding options, remembering deadlines and checking progress. Doing a chore and owning the work needed to make it happen are different contributions. Emotional effort, physical work and planning can overlap but are not interchangeable.",
+      "arise": "A division such as “I help when asked” can leave one person managing the whole system. Different schedules, knowledge, access and expectations can shape the arrangement. A capable person may gradually become the default coordinator because they notice problems first; this does not by itself establish anyone else’s deliberate strategy.",
+      "sources": [
+        "mental-work",
+        "planning"
+      ],
+      "alternatives": "Missing a task can reflect unclear ownership, lack of skill, illness, time pressure, disagreement about standards or avoidance. “Weaponised incompetence” implies someone deliberately performs inability to shift work; the burden can be real without that intent being established. One poorly done task is not a motive detector.",
+      "notice": "Trace one recurring task from noticing the need through completion. Who decides what is adequate, obtains resources, reminds others and fixes omissions? Compare what happens after ownership, standards and training are clear. Include whether you reclaim tasks before the other person has a realistic opportunity to complete them.",
+      "respond": "Allocate an outcome and its coordination, not just instructions to be followed. Agree sufficient standards, budget, timing and when to raise a problem. Allow a different workable method. Where a person cannot take the whole task, divide it explicitly and count coordination as a contribution. Do not put safety-critical care at risk to prove a point.",
+      "example": "One partner cooks dinner while the other chooses meals, checks supplies, writes the list and reminds them to start. “We share cooking” misses the planning burden. Giving one person ownership of a whole meal night, with agreed resources, changes the arrangement being tested.",
+      "takeaways": [
+        "Completed chores do not capture all the work.",
+        "A repeated burden deserves attention even when intent is uncertain.",
+        "Agree ownership, sufficient standards and review without imposing one preferred method."
+      ],
+      "practice": [
+        "Map one recurring task: noticing, planning, deciding, doing and following up. Record who currently owns each part.",
+        "Agree one feasible transfer or division of ownership, including resources, support and what counts as complete.",
+        "Review total effort and coordination burden as well as completion. Note whether your own reminders or standards helped or recreated the old arrangement."
+      ],
+      "related": [
+        {
+          "node": "capacity",
+          "why": "Count coordination and recovery when considering what is manageable."
+        },
+        {
+          "node": "over-responsibility",
+          "why": "Repeated rescue can conceal an unworkable division of work."
+        },
+        {
+          "node": "shared-agreement",
+          "why": "Make ownership and early warnings explicit."
+        },
+        {
+          "node": "oversight-and-delegation",
+          "why": "Distinguish accountable ownership from constant instruction."
+        }
+      ],
+      "sections": [
+        {
+          "id": "care-and-connection",
+          "title": "Remembering relationships is work too",
+          "paragraphs": [
+            "Arranging visits, remembering birthdays, checking on relatives and passing on updates can become a substantial coordination role. Sometimes called kin-keeping, it should be discussed as actual work rather than assumed to belong to the person who has always done it. Ask which activities matter, who wants them and what can be shared or stopped.",
+            "Recognising the work does not mean every tradition must continue or that people owe unlimited emotional availability. Decide what is worthwhile and sustainable. The household cognitive-labour study supports examining unseen work, not a universal theory of all family relationship maintenance."
+          ]
+        }
+      ],
+      "question": "Who notices, plans and follows up, and what would change if ownership included that work?"
+    },
+    {
+      "id": "interaction-cycles",
+      "cue": "Describe the sequence, then choose one safe point to change.",
+      "meaning": "An interaction cycle is a recurring sequence: one action is followed by another, which affects what comes next. In a demand–withdraw pattern, one person presses for discussion or change while the other disengages. Looking at the sequence can reveal more than labelling one person “pushy” and the other “avoidant”.",
+      "arise": "An unanswered concern may lead to repeated questioning; repeated questioning may make a conversation harder to tolerate. Either response can have understandable reasons while the sequence remains unhelpful. This is a possible pattern to examine, not proof that both people contribute equally or that their motives are alike.",
+      "sources": [
+        "demand-withdraw",
+        "cycle-context"
+      ],
+      "alternatives": "A pause, a practical inability to act, refusal of an unreasonable demand and deliberate punishment through silence need distinguishing. A temporary pause communicates a limit and, when appropriate and safe, a way to return. No one owes renewed contact with a threatening person. Calling abuse a mutual cycle can obscure unequal power and responsibility.",
+      "notice": "Record the order of actions, the actual request and what each person could realistically do. Was a concern ever addressed? Did a promised return happen? Compare a calmer occasion and note changed resources, not only changed wording. Include your own interruptions, repeated messages or unclear demands without taking responsibility for another person’s threats.",
+      "respond": "Choose a feasible point to interrupt the sequence: one specific issue, a different time, a smaller request or a clear pause and return plan. State what remains unresolved. If someone repeatedly refuses any workable route, you may need a practical boundary or support rather than more careful phrasing. Do not deliberately provoke a response to test a theory.",
+      "example": "You send five follow-up messages when a partner stops responding during work. You agree to discuss the issue after dinner, with no further messages meanwhile. Whether the conversation actually happens matters more than the promise. If it repeatedly does not, the next decision concerns a workable arrangement, not simply sending fewer texts.",
+      "takeaways": [
+        "Track the order of actions and the conditions around them.",
+        "A useful pause differs from indefinite avoidance or coercive silence.",
+        "Changing your part can help you learn; it does not make you responsible for another person’s harm."
+      ],
+      "practice": [
+        "Write one short sequence: what happened before, what each person did, and what happened next. Include a comparable occasion when it went differently.",
+        "Choose one safe change within your control and agree a return point where appropriate. Predict what it could clarify.",
+        "Review whether the issue was addressed, whether the change was sustainable and whether a different arrangement or support is needed."
+      ],
+      "related": [
+        {
+          "node": "withdraw",
+          "why": "Check the purpose, communication and return route of a pause."
+        },
+        {
+          "node": "stonewalling",
+          "why": "Repeated disengagement can leave issues unresolved."
+        },
+        {
+          "node": "reassurance",
+          "why": "Repeated questions can be part of a sequence rather than a fixed trait."
+        },
+        {
+          "node": "capacity",
+          "why": "Resources can determine whether a requested change is feasible."
+        },
+        {
+          "node": "boundaries",
+          "why": "A limit can be useful even while the full explanation remains uncertain."
+        }
+      ],
+      "sections": [],
+      "question": "What sequence keeps recurring, when does it differ, and which safe point could I change?"
+    },
+    {
+      "id": "responsive-support",
+      "cue": "Check what matters, offer a contribution, then accept the correction.",
+      "meaning": "Responsive support is a response that the other person experiences as understanding, acknowledging and caring about what matters to them. Good intentions and helpful effects are different. Advice, reassurance, practical help and quiet attention can each fit some circumstances and miss others.",
+      "arise": "You may move quickly into the kind of help you would want, assume that a problem needs solving, or take over to reduce your own discomfort. The other person may need information, companionship, a chance to practise or a concrete task completed. Asking helps, but people may also be uncertain about what they need.",
+      "sources": [
+        "responsiveness",
+        "family-response",
+        "needs-support"
+      ],
+      "alternatives": "Acknowledging distress does not mean accepting every explanation as true. Supporting autonomy means preserving meaningful choice, not abandoning someone to do everything alone. Repeated reassurance can sometimes leave the underlying question unchanged. A person may decline a thoughtful offer for reasons unrelated to the relationship.",
+      "notice": "Can the person correct your summary? Does the offer address the task they named and leave important choices with them? Compare the recipient’s account with what changed in practice. If help is declined, distinguish its kind, timing, conditions and helper. Include whether your wish to be useful makes refusal feel like rejection.",
+      "respond": "Try a brief summary and one concrete option: “The repeated changes are exhausting. Would checking the schedule together help?” Make no a real option and state your own capacity. If the answer is unclear, offer a small reversible contribution and review it. Do not use a supportive tone to seek agreement to an unwanted demand.",
+      "example": "A daughter struggling with homework declines an explanation of the whole problem. She wants to try it and have you check one step. Helping with that step can support competence and choice; taking over because you know the solution would change the kind of support.",
+      "takeaways": [
+        "Help is evaluated partly through the recipient’s experience.",
+        "Validation, agreement, reassurance and taking over are different responses.",
+        "Respect corrections and refusals, and review the practical effect."
+      ],
+      "practice": [
+        "Recall one offer you made or received. Identify the stated concern and what the offer actually changed; note where you are guessing.",
+        "Ask for or offer one specific contribution that preserves choice and fits available time. Invite a correction rather than a required thank-you.",
+        "Review usefulness, ownership and connection. A clear refusal or better understanding of the need can be a useful result."
+      ],
+      "related": [
+        {
+          "node": "refusehelp",
+          "why": "A refusal may concern the offer rather than all assistance."
+        },
+        {
+          "node": "listening",
+          "why": "Understanding the concern comes before choosing support."
+        },
+        {
+          "node": "acknowledging",
+          "why": "Recognise an experience without claiming agreement with every conclusion."
+        },
+        {
+          "node": "competence",
+          "why": "Assistance can leave room to learn and act."
+        },
+        {
+          "node": "autonomy",
+          "why": "Accepting chosen help can preserve independence."
+        }
+      ],
+      "sections": [
+        {
+          "id": "when-no-answer",
+          "title": "When asking does not produce a clear answer",
+          "paragraphs": [
+            "“What do you need?” can itself be demanding when someone is exhausted or distressed. Offer a manageable choice without making it a test: “I can bring dinner or check in tomorrow; neither is fine too.” These are practical suggestions, not a research-validated script.",
+            "If the person wants something you cannot provide, be honest about your limit and discuss another route where appropriate. Responsiveness does not mean being permanently available, solving every problem or remaining in an unsafe exchange."
+          ]
+        }
+      ],
+      "question": "What mattered to the recipient, and how did the offered help preserve or remove their choice?"
+    },
+    {
+      "id": "oversight-and-delegation",
+      "cue": "Agree the outcome, decision space and necessary checks.",
+      "meaning": "Oversight checks whether responsibilities, risks and standards are being managed. Delegation gives someone responsibility with enough authority and resources to act. Micromanagement is a common description of unnecessarily detailed control over how another person works; the label alone does not establish where the appropriate level of supervision lies.",
+      "arise": "Frequent checks may follow genuine risk, a new skill, previous failures, unclear expectations or a manager’s difficulty relinquishing control. The same check can be proportionate in a safety-critical task and disruptive in routine work. A person may experience repeated direction as evidence that their judgment is not trusted.",
+      "sources": [
+        "leader-support",
+        "fairness"
+      ],
+      "alternatives": "Autonomy is not absence of accountability. Clear standards differ from prescribing every step, and requested coaching differs from unwanted takeover. Conversely, “trust me” does not remove agreed reporting or safeguarding duties. Someone’s competence in one area cannot establish readiness for a different task.",
+      "notice": "List the decisions the person can actually make, the reason for each check and the resources available. Does the frequency reduce as demonstrated competence increases? Are corrections about an agreed outcome or the supervisor’s preferred style? Include whether delays or missing updates force others to chase information.",
+      "respond": "Agree an outcome, acceptable constraints, decision rights and a review rhythm. Use an early warning threshold for risks rather than checking every move. Ask what support is needed, and give feedback against an agreed standard. If you are the supervisor, make a real decision you will leave with the other person; if supervised, propose a reliable update that could replace repeated chasing.",
+      "example": "A manager asks for hourly progress messages on a routine report. The writer proposes a draft by Thursday and an early warning if a dependency slips. Agreeing that rhythm tests whether clearer visibility meets the manager’s need without constant interruption.",
+      "takeaways": [
+        "Good delegation joins responsibility with authority and resources.",
+        "The need for checks depends on task, skill and consequences.",
+        "Review outcomes and coordination costs rather than guessing a manager’s personality."
+      ],
+      "practice": [
+        "Choose one task and list its outcome, risks, decision rights and current checks. Identify one check whose purpose is unclear.",
+        "Propose one proportionate review rhythm or a specific decision to delegate. State when more support or escalation would be needed.",
+        "Review quality, missed risks, interruptions and ownership. Adjust the arrangement using results, not a verdict about who is controlling."
+      ],
+      "related": [
+        {
+          "node": "autonomy",
+          "why": "Meaningful choice can exist within shared constraints."
+        },
+        {
+          "node": "monitoring",
+          "why": "Monitoring can be agreed, protective or intrusive depending on its purpose and scope."
+        },
+        {
+          "node": "shared-agreement",
+          "why": "Specify outcomes and early warnings together."
+        },
+        {
+          "node": "invisible-work",
+          "why": "Delegation should not leave all planning with the original owner."
+        }
+      ],
+      "sections": [],
+      "question": "Which check addresses a real risk, and which could be replaced by an agreed outcome and update?"
+    },
+    {
+      "id": "sequential-requests",
+      "cue": "Evaluate the current request on its own terms.",
+      "meaning": "A request sequence uses more than one request in a way that may affect the later decision. Foot-in-the-door describes a small request followed by a larger one. Door-in-the-face describes a large request that is refused, followed by a smaller one. These name studied procedures, not guaranteed effects or proof of a requester’s motive.",
+      "arise": "Earlier agreement can make consistency feel important. A retreat from an excessive request can look like a concession, and a favour can create a sense of obligation. Genuine collaboration also uses gradual commitments and compromise. Examine the actual terms, transparency and freedom to decline, rather than treating any sequence as manipulation.",
+      "sources": [
+        "sequential",
+        "request-comparison",
+        "norm-messages"
+      ],
+      "alternatives": "A project may genuinely change after new information. A smaller request may be a reasonable adjustment to your capacity. Urgency may reflect a real deadline or an artificial sales device. Ask what makes the deadline necessary and what happens if you wait; a claim of scarcity is not independent evidence of value.",
+      "notice": "Compare the first and current requests: time, cost, privacy, authority and consequences. Did the requester disclose what they expected next? Can you reconsider without being threatened or shamed? Include whether you used a small favour as an unstated purchase of later agreement.",
+      "respond": "Pause and assess the present request: “I agreed to review one page, not rewrite the report.” Ask for the complete commitment and relevant evidence. A concession does not oblige you to accept unsuitable terms. If another person declines, do not escalate pressure by invoking gratitude or their earlier yes.",
+      "example": "A service offers a free assessment, then asks you to buy an expensive package before leaving. Attending the assessment does not establish the package’s suitability. Comparing price, evidence and alternatives is useful whether the sequence was deliberate sales design or ordinary follow-up.",
+      "takeaways": [
+        "A request sequence can influence a decision without determining it.",
+        "An earlier yes does not create unlimited consent or obligation.",
+        "Check reasons, terms and the real cost of saying no."
+      ],
+      "practice": [
+        "Choose one request that grew or changed. Record the original terms, later terms and any information that explains the change.",
+        "Assess the current request independently; ask for missing terms or state a clear limit without using a counter-tactic.",
+        "Review whether the decision remained informed and voluntary. If you made the request, review whether the other person could genuinely decline."
+      ],
+      "related": [
+        {
+          "node": "persuade",
+          "why": "Reactance and reasons can both affect persuasion."
+        },
+        {
+          "node": "creating-obligation",
+          "why": "A favour does not automatically confer a right to later compliance."
+        },
+        {
+          "node": "reciprocity",
+          "why": "Voluntary mutual consideration differs from an unstated debt."
+        },
+        {
+          "node": "changing-standards",
+          "why": "Changed terms should be distinguished from new evidence or agreed revision."
+        }
+      ],
+      "sections": [
+        {
+          "id": "norms-and-claims",
+          "title": "“Everyone does it” is a claim to check",
+          "paragraphs": [
+            "Descriptive norms concern what people do; prescriptive norms concern what they approve of. A statement about either may be inaccurate, selective or irrelevant to your circumstances. Popularity does not establish quality, and disapproval does not settle whether a request is fair.",
+            "The social-norm messaging review above found that benefits disappeared after publication-bias adjustment in its health-intervention setting. This is a reason to check claims of effectiveness, not to conclude that norms never matter. For your decision, ask who the comparison group is and whether their circumstances fit."
+          ],
+          "sources": [
+            "norm-messages"
+          ]
+        }
+      ],
+      "question": "What changed between the first request and this one, and would I choose this commitment on its own terms?"
+    },
+    {
+      "id": "adult-attachment",
+      "cue": "Look at this relationship and situation before assigning a style.",
+      "meaning": "Adult attachment research examines expectations and responses around closeness, support and separation. Two commonly studied dimensions are attachment anxiety—concern about availability or rejection—and attachment avoidance—discomfort with dependence or closeness. These are dimensions, not diagnoses or four permanent kinds of person.",
+      "arise": "Earlier experiences can contribute to expectations, while current relationships and circumstances also matter. A response may differ with a dependable friend and an unreliable partner. A developmental story is a possibility to explore through the person’s account, not something established by one refusal, unanswered message or argument.",
+      "sources": [
+        "attachment",
+        "attachment-time"
+      ],
+      "alternatives": "Independence is not automatically avoidance, and a request for reassurance can fit a genuinely inconsistent situation. Avoidant attachment is different from avoidant personality disorder. Cultural practices, communication preferences, trauma, workload and safety can affect contact or help-seeking without establishing an attachment explanation.",
+      "notice": "Ask which situations evoke concern about rejection or loss of choice and what reassurance or distance actually changes. Compare relationships and exceptions. Does the concern fit current conduct? Include whether your own inconsistency or repeated pursuit changes the interaction. Do not require someone to accept a style label to have their concern heard.",
+      "respond": "Make availability and boundaries clearer where you can: say when you will reply, ask directly about a need and respect the answer. Support can include reliable contact and chosen independence. If recurring distress or relationship difficulties are impairing life, appropriate professional support may help; this reference cannot determine a cause or treatment.",
+      "example": "A person worries after a partner repeatedly cancels without notice but feels secure with friends who keep plans. The contrast suggests checking current reliability before deciding they are an “anxious person”. It does not rule out broader expectations; both may matter.",
+      "takeaways": [
+        "Attachment anxiety and avoidance describe dimensions, not fixed identities.",
+        "Current reliability, context and relationship differences matter.",
+        "Use clearer agreements and appropriate support without diagnosing a relative."
+      ],
+      "practice": [
+        "Describe one closeness or support difficulty and a contrasting occasion or relationship. Separate the current facts from a proposed attachment explanation.",
+        "Choose one clear request or self-directed response that respects both people’s boundaries; write what it could clarify.",
+        "Review the practical result and remaining uncertainty. Do not use reassurance-seeking or withdrawal alone to assign a type."
+      ],
+      "related": [
+        {
+          "node": "reassurance",
+          "why": "Clarify whether the underlying uncertainty is being resolved."
+        },
+        {
+          "node": "vulnerability",
+          "why": "Disclosure and dependence involve choices and circumstances."
+        },
+        {
+          "node": "difficulty-trusting",
+          "why": "Trust can reflect present evidence as well as earlier expectations."
+        },
+        {
+          "node": "responsive-support",
+          "why": "Chosen, responsive help can coexist with independence."
+        },
+        {
+          "node": "pd-avoidant",
+          "why": "A clinical diagnosis and an attachment dimension are different concepts."
+        }
+      ],
+      "sections": [],
+      "question": "What differs across relationships or situations, and could current reliability explain the concern?"
+    },
+    {
+      "id": "procrastination-planning",
+      "cue": "Name the obstacle and make the first action small and specific.",
+      "meaning": "Procrastination usually means delaying an intended action despite expecting the delay to make things worse. It differs from a deliberate priority decision or waiting for a necessary resource. A person may value an outcome while avoiding the immediate discomfort of starting; wanting success does not settle what makes action difficult.",
+      "arise": "A task may feel unclear, unpleasant, risky to one’s self-image or too large to begin. Relief after postponing can make avoidance attractive again. Lack of time, sleep, materials, accessibility or skill may also be decisive. These possibilities can overlap; calling yourself lazy does not distinguish them.",
+      "sources": [
+        "intentions",
+        "planning",
+        "daily-plans"
+      ],
+      "alternatives": "A missed task can reflect disagreement, a changed goal or genuinely insufficient capacity. Persistent concentration or mood difficulties may warrant suitable support, but procrastination alone identifies no condition. A detailed plan cannot supply missing money, safety or knowledge.",
+      "notice": "Compare what happens just before postponement and what happens instead. Does a clearer task or smaller first step change the response? Identify the obstacle most likely to occur, rather than collecting every possible reason. Include whether your chosen goal is actually wanted and whether the timing is realistic.",
+      "respond": "Specify a cue and an action: “After breakfast, I will open the draft and write its first heading.” Then plan for one likely obstacle: “If I do not know the next section, I will write the question I need answered.” Review and adjust rather than adding punishment. Planning is an editorial application of research, not a guarantee of completing the larger goal.",
+      "example": "You intend to study for an hour but keep avoiding the chapter. The actual first difficulty is not knowing which problems matter. Asking for the relevant exercise list may help more than another reminder to be motivated.",
+      "takeaways": [
+        "An intention and the conditions for starting are different.",
+        "Check a practical barrier before attributing delay to character.",
+        "Use a realistic cue, small action, obstacle plan and review."
+      ],
+      "practice": [
+        "Choose one intended action you delayed and one occasion you started successfully. Identify a specific difference rather than writing “more willpower”.",
+        "Write a cue–action plan and a response to one likely obstacle. Try it at a realistic opportunity.",
+        "Review whether you started, what remained difficult and whether the goal or resources need changing. Completion of one step is not proof of a new lifelong habit."
+      ],
+      "related": [
+        {
+          "node": "habits",
+          "why": "Repeated cues can make a chosen action easier to initiate."
+        },
+        {
+          "node": "change-conditions",
+          "why": "Check capability and opportunity alongside motivation."
+        },
+        {
+          "node": "capacity",
+          "why": "A plan must fit actual time and resources."
+        },
+        {
+          "node": "perfectionism",
+          "why": "Fear of producing imperfect work can change the first step you need."
+        }
+      ],
+      "sections": [
+        {
+          "id": "contrast-and-plan",
+          "title": "Imagine the obstacle as well as the outcome",
+          "paragraphs": [
+            "Mental contrasting pairs a desired outcome with a present obstacle. Implementation intentions connect a cue with a response. You can use the ideas by naming a worthwhile outcome, a real obstacle and a feasible “if this happens, I will…” action. A positive image alone does not define the work.",
+            "The daily-planning study above concerned bedtime procrastination and compared daily with one-off practice over a week. It supports a bounded planning lead; it does not show that this exercise treats every cause of delay. Keep the plan changeable when circumstances provide new information."
+          ],
+          "sources": [
+            "daily-plans"
+          ]
+        }
+      ],
+      "question": "What happened just before I delayed, and which practical obstacle should the first action address?"
+    },
+    {
+      "id": "feedback-and-speaking-up",
+      "cue": "Make the issue specific and the response to concerns reliable.",
+      "meaning": "Feedback gives information about an action or result that can guide a next attempt. Psychological safety concerns whether people expect interpersonal risks—such as admitting uncertainty, asking a question or reporting a mistake—to be met without punishment or humiliation. It is different from comfort, universal agreement or freedom from accountability.",
+      "arise": "A person may hear a task correction as a judgment of their worth, especially when it is vague, public or tied to status. Teams also learn from what happens after someone raises a concern. A warm invitation to speak is weak evidence if earlier reports led to ridicule, exclusion or retaliation.",
+      "sources": [
+        "feedback-process",
+        "speak-up"
+      ],
+      "alternatives": "Defending against an inaccurate criticism is not automatically defensiveness. A quiet employee may have no concern, need time to think or reasonably fear consequences. Frequent praise is not evidence of safety, and a disagreement does not by itself establish an unsafe climate.",
+      "notice": "Separate the specific work, the standard and the next opportunity to act. Ask whether the feedback is usable and whether the standard was known. For speaking up, compare actual responses to questions or mistakes, including whose input is acknowledged. If you hold authority, notice whether you invite disagreement and then debate every concern until it disappears.",
+      "respond": "Describe the relevant action and impact, ask for missing information, then agree a feasible next step. Keep person-level insults out of the task. When someone raises a risk, acknowledge it, clarify what action follows and return with an update. A person facing retaliation may need a confidential or formal route; no conversation technique guarantees protection.",
+      "example": "A manager says, “Be more professional.” The employee cannot tell what to change. “The client did not receive the revised delivery date; can we agree who sends that update?” identifies an action and a future process. The employee may still supply information that changes the manager’s account.",
+      "takeaways": [
+        "Feedback can help or hinder; usable information and context matter.",
+        "Safety is learned partly from the consequences of speaking up.",
+        "Specific standards and reliable follow-up support accountability without humiliation."
+      ],
+      "practice": [
+        "Choose one feedback exchange. Write the action, standard and opportunity to change; note anything the other person could legitimately dispute.",
+        "Give or request one specific clarification and agree a next step. If you receive a concern, state what you will do with it.",
+        "Review whether the information improved the task and whether questions or corrections remained welcome. Include unintended effects."
+      ],
+      "related": [
+        {
+          "node": "criticism",
+          "why": "Specific feedback differs from repeated unsolicited personal judgments."
+        },
+        {
+          "node": "defensive",
+          "why": "Check whether the criticism heard matches what was intended or evidenced."
+        },
+        {
+          "node": "power",
+          "why": "The consequences of disagreement can be unequal."
+        },
+        {
+          "node": "accountability",
+          "why": "Responsibility needs a feasible way to correct the work."
+        },
+        {
+          "node": "encouragement",
+          "why": "Support improvement without using praise to secure agreement."
+        }
+      ],
+      "sections": [],
+      "question": "What could the person actually change, and what happened when someone last raised a concern?"
+    },
+    {
+      "id": "personality-facets",
+      "cue": "Describe the specific tendency and compare settings.",
+      "meaning": "A broad personality domain summarises several related tendencies. Facets are narrower parts of that domain. For example, being sociable and being assertive are not identical; being organised and working steadily are also distinguishable. Broad labels can hide these useful differences.",
+      "arise": "People differ in average tendencies, and the same person varies across situations. Familiarity, risk, skill, audience and current resources affect how a tendency appears. A trait is a description of a recurring pattern, not a hidden force that explains every action or a moral rating of the person.",
+      "sources": [
+        "bigfive",
+        "facets",
+        "states"
+      ],
+      "alternatives": "A quiet meeting participant may be reflective, uncertain, excluded or uninterested in that topic. Reliability on a chosen task differs from neatness or punctuality in every setting. Narrower descriptions can be useful without suggesting that every small variation needs a new type or a test score.",
+      "notice": "Name the behaviour relevant to your actual question: speaking up, seeking company, planning or following through. Compare several opportunities across time and contexts, including exceptions. Ask what the person reports and what you have not observed. Selective anecdotes about someone else do not provide a valid assessment.",
+      "respond": "Use a practical preference or arrangement where possible: written preparation before a meeting, clear responsibilities or a quieter setting. Check whether the adjustment helps. If you want a formal personality assessment, use a suitable authorised measure with its instructions and limits; this entry neither reproduces nor administers one.",
+      "example": "A colleague enjoys lunch with a large group but rarely challenges a decision. Calling them “extraverted” does not settle whether they will be assertive in a high-stakes meeting. Asking for their view in advance may reveal expertise, disagreement or a preference about the setting.",
+      "takeaways": [
+        "Broad domains contain distinguishable narrower tendencies.",
+        "Traits describe patterns across opportunities, not the meaning of one action.",
+        "A practical adjustment may be more useful than deciding a global label."
+      ],
+      "practice": [
+        "Replace one broad label with a specific tendency relevant to your situation. Record two opportunities and an exception or missing comparison.",
+        "Ask about a preference or change one practical condition rather than announcing a trait verdict.",
+        "Review what the comparison supports and what remains unknown. Do not convert your notes into a personality score."
+      ],
+      "related": [
+        {
+          "node": "extraversion",
+          "why": "Sociability and assertiveness can differ within a broad domain."
+        },
+        {
+          "node": "conscientiousness",
+          "why": "Orderliness does not determine every kind of follow-through."
+        },
+        {
+          "node": "agreeableness",
+          "why": "Consideration can coexist with firm disagreement."
+        },
+        {
+          "node": "correspondence",
+          "why": "Situations can be overlooked when explaining conduct as character."
+        }
+      ],
+      "sections": [
+        {
+          "id": "change-and-inheritance",
+          "title": "What a trait description does not explain",
+          "paragraphs": [
+            "A description such as “often independent” does not identify whether the pattern arose through inheritance, learning, current demands or chosen values. Similar behaviour in relatives can reflect several influences. Heritability concerns variation in populations, not the inherited percentage of an individual action.",
+            "The useful question is often which situations make the response easier or harder to change, and which adjustments the person wants. A trait description does not mean change is impossible or that someone must change to match your preference."
+          ],
+          "sources": [
+            "heritability"
+          ]
+        }
+      ],
+      "question": "Which specific tendency matters here, and what comparable situation challenges the broad label?"
+    },
+    {
+      "id": "exclusion-and-reputation",
+      "cue": "Check who did what and where each story came from.",
+      "meaning": "Ostracism means being ignored or excluded. It differs from someone restricting your access to other people, although both can affect belonging. Reputation is what others believe about a person; gossip passes information about someone who is absent. Gossip can inform, protect or distort, depending on its content and transmission.",
+      "arise": "Exclusion may follow conflict, practical limits, mistaken assumptions or a deliberate attempt to marginalise. Stories can circulate because people seek support, warn others, entertain a group or recruit agreement. Information that is memorable or negative may receive disproportionate attention even without a coordinated campaign.",
+      "sources": [
+        "ostracism",
+        "gossip-evidence"
+      ],
+      "alternatives": "An invitation is not always owed, and choosing distance from harmful conduct differs from punishing someone for dissent. A warning is not false because it is negative or second-hand. Conversely, several people repeating one account do not create several independent observations.",
+      "notice": "Separate direct observation, the original report and later retellings. What changed in the telling? Who has first-hand knowledge, and who could correct an error? Compare ordinary logistical explanations for an exclusion with repeated selective treatment. Notice whether you have shared a vivid claim more confidently than its source supports.",
+      "respond": "Check a consequential claim before passing it on. Correct your own inaccurate account clearly and avoid unnecessary identifying detail. For an ordinary exclusion, clarify the arrangement or express a preference without demanding inclusion. For threats, discrimination or restricted contact, a suitable support or formal route may matter more than winning a reputation dispute.",
+      "example": "Three relatives say a cousin refused to help. All heard it from one person; no one asked what was requested. Tracing the account reveals one source rather than three confirmations. The original report may still be true, but confidence should not grow merely with repetition.",
+      "takeaways": [
+        "Exclusion, contact restriction and reputation are related but different issues.",
+        "Repeated retellings are not independent corroboration.",
+        "Check consequential claims while respecting legitimate support-seeking and safety."
+      ],
+      "practice": [
+        "Choose one exclusion or story and identify what you observed directly, what was reported and where it originated. Note an alternative explanation.",
+        "Make one proportionate clarification or correct something you passed on. Avoid confronting someone if doing so could expose them or you to harm.",
+        "Review whether the information became more accurate or participation clearer. Do not count agreement from more listeners as new evidence."
+      ],
+      "related": [
+        {
+          "node": "belonging",
+          "why": "Felt inclusion and the number of contacts are not identical."
+        },
+        {
+          "node": "isolation",
+          "why": "Restricting someone’s contacts differs from not inviting them."
+        },
+        {
+          "node": "thirdparty",
+          "why": "Clarify the purpose and information carried by another person."
+        },
+        {
+          "node": "audience",
+          "why": "Public presentation and reputation can interact without proving deception."
+        },
+        {
+          "node": "getting-support",
+          "why": "A person can seek confidential help without first confronting others."
+        }
+      ],
+      "sections": [
+        {
+          "id": "audience-and-presentation",
+          "title": "Presenting ourselves to different audiences",
+          "paragraphs": [
+            "Impression management means shaping how others see you. It can include accurate explanations of your contribution, selective emphasis or deception; changing presentation alone does not determine which occurred. Compare the factual claims and commitments, not simply whether someone sounds different in public.",
+            "Peck and Levashina’s 2017 meta-analysis examined interviews and job-performance ratings. The relationship between self-presentation and ratings varied with tactics and research design. Applying that literature to an individual family is an editorial comparison, not evidence of a hidden strategy. Ask what information, role or audience expectation actually changed."
+          ],
+          "sources": [
+            "impression"
+          ]
+        }
+      ],
+      "question": "What was directly observed, where did each account originate, and which reports are retellings?"
+    },
+    {
+      "id": "social-comparison",
+      "cue": "Ask what the comparison means and what action it invites.",
+      "meaning": "Social comparison means evaluating something about yourself by reference to someone else. Envy concerns an advantage another person has that you would like. Jealousy usually concerns a threatened loss of a valued relationship or position. These experiences can overlap, but they are not interchangeable.",
+      "arise": "A comparison may provide useful information, an attainable model or a painful judgment about your worth. Its meaning depends on what matters to you, whether the comparison is fair and whether the advantage seems reachable. Online information may show selected outcomes while hiding resources, effort and setbacks.",
+      "sources": [
+        "comparison",
+        "status"
+      ],
+      "alternatives": "Criticism of an unfair allocation can be justified; it is not dismissed by calling it envy. Admiration need not conceal resentment. Someone else’s success may highlight a real unmet need, a chosen goal or a comparison that does not fit your circumstances.",
+      "notice": "Identify the exact comparison and what you inferred: “They earned more” differs from “I am a failure.” What conditions are known and which are missing? Compare your response across occasions: motivation, avoidance, hostility or useful learning. Include positive or neutral comparisons instead of collecting only painful ones.",
+      "respond": "Name a desired outcome you can actually pursue, or decide the comparison is not useful. Seek information about a process rather than comparing a whole life with a selected result. Appreciate another person without pretending you feel no disappointment. Address an unfair arrangement directly rather than attacking the person who benefited.",
+      "example": "A friend publishes a book and you feel behind. You do not know their time, support or goals. Asking about a writing routine may supply a useful model; concluding you lack talent from their publication date adds a claim the comparison cannot establish.",
+      "takeaways": [
+        "Comparison can inform, inspire or distress; its effects vary.",
+        "Envy, jealousy and a legitimate fairness concern are different.",
+        "Translate a useful comparison into a chosen action, or stop using an unsuitable standard."
+      ],
+      "practice": [
+        "Record one comparison, the known facts and the judgment you added about yourself or another person. Identify one missing difference in circumstances.",
+        "Choose a useful process to learn from or change a comparison habit that repeatedly disrupts a goal. State what you want the change to improve.",
+        "Review mood, action and fairness concerns separately. Do not assume that feeling better means the original concern was false."
+      ],
+      "related": [
+        {
+          "node": "jealousy",
+          "why": "Wanting an advantage differs from fearing a loss."
+        },
+        {
+          "node": "status",
+          "why": "Recognition can matter without becoming a verdict on personal worth."
+        },
+        {
+          "node": "appreciation",
+          "why": "Specific acknowledgment can coexist with your own disappointment."
+        },
+        {
+          "node": "fairness",
+          "why": "An unequal arrangement deserves examination independently of envy."
+        }
+      ],
+      "sections": [],
+      "question": "What fact am I comparing, what judgment did I add, and what relevant circumstance is missing?"
+    },
+    {
+      "id": "gatekeeping",
+      "cue": "Identify the gate, the authority and the effect.",
+      "meaning": "Gatekeeping describes influencing another person’s access to information, participation, people or resources. It can facilitate involvement or restrict it. A person coordinating care or protecting privacy may have a legitimate role; the same broad word can also describe exclusion or control. State the actual access decision before interpreting it.",
+      "arise": "Someone may control access because they have an agreed responsibility, hold key information or have become the default organiser. They may be trying to manage risk, avoid conflict, preserve a role or exclude another participant. The literature on parental gatekeeping has a narrower scope than every everyday use of the word.",
+      "sources": [
+        "gatekeeping",
+        "family-boundary"
+      ],
+      "alternatives": "Privacy and safeguarding can justify limits; nobody is owed another adult’s medical information or unrestricted contact. A child’s needs and legal arrangements can constrain access. Conversely, being the organiser does not automatically confer authority to decide everything. Coparenting studies cannot establish a grandmother’s or in-law’s strategy.",
+      "notice": "Specify what access was requested, whose consent matters and who can grant it. Is the rule explained and consistent? Are there practical alternatives? Is information withheld selectively, or does the organiser also lack it? Include whether your own request assumes a right that has not been agreed.",
+      "respond": "Clarify the role and seek the least intrusive route that meets the actual need. An agreed update process can reduce reliance on one messenger where appropriate. Respect privacy and legitimate refusals. Where access is restricted through threats, financial control or coercion, consider qualified support rather than trying to bypass the person covertly.",
+      "example": "One sibling receives all care updates and others feel excluded. The parent wants some details private but welcomes a shared schedule. Agreeing to share the schedule with consent solves a coordination problem without treating all medical information as a family entitlement.",
+      "takeaways": [
+        "Gatekeeping can facilitate involvement, manage legitimate limits or exclude.",
+        "Consent and actual decision authority matter.",
+        "Describe the access and its effect before assigning a strategy."
+      ],
+      "practice": [
+        "Choose one access decision and record what was requested, whose consent was needed and the reason given. Identify a legitimate limit as well as a concerning possibility.",
+        "Ask for one clear role or agreed information route that respects the relevant person’s wishes.",
+        "Review whether participation improved without loss of privacy or choice. Record unresolved concerns separately."
+      ],
+      "related": [
+        {
+          "node": "family-membership",
+          "why": "Membership does not imply unlimited decision rights."
+        },
+        {
+          "node": "power",
+          "why": "Control of information or resources can affect choices."
+        },
+        {
+          "node": "thirdparty",
+          "why": "A messenger’s role needs clarity."
+        },
+        {
+          "node": "monitoring",
+          "why": "Information access is different from a right to continuous monitoring."
+        }
+      ],
+      "sections": [],
+      "question": "What access is being limited, whose consent matters, and what legitimate or concerning reason could fit?"
+    },
+    {
+      "id": "comparing-occasions",
+      "cue": "Compare an occasion, an exception and what would change your mind.",
+      "meaning": "A pattern is a recurring relationship among actions and circumstances. Several similar memories can suggest a pattern, but they do not by themselves establish its cause. Comparing occasions means checking what repeats, what changes and what information distinguishes explanations. It is a way to reason under uncertainty, not a test that reads someone’s intentions.",
+      "arise": "Memorable or painful events can dominate an account. After adopting a label, you may notice matching conduct and overlook exceptions. A short record made near an event can help preserve the original observation. The record remains your perspective and may omit information that matters to another person.",
+      "sources": [
+        "near-event",
+        "individual-inference",
+        "progress"
+      ],
+      "alternatives": "Repetition may reflect a continuing constraint, a habit, a relationship expectation or deliberate influence. A one-off act can still be serious. Shared behaviour across relatives does not separate genetics from learning, and a repeated effect does not prove a long-term strategy.",
+      "notice": "Choose a narrow question: when does this kind of help get declined, rather than “what kind of person are they?” Compare opportunities, including times the behaviour could have occurred but did not. Distinguish no observation from a genuine absence. Ask what evidence would make a rival explanation more plausible.",
+      "respond": "Choose a respectful clarification or a small reversible change within your control, then compare the result with a modest prediction. Keep the original account and add later learning rather than rewriting it. Stop if tracking becomes rumination, surveillance or an obstacle to a practical decision. Seek support for serious harm without waiting to complete a log.",
+      "example": "Your father declines help with finances but accepts lifts and help carrying bags. The contrast weakens “he refuses all help”. It makes decision ownership, privacy and the nature of the task worth checking; it does not prove any of those explanations.",
+      "takeaways": [
+        "Compare opportunities and exceptions, not only memorable repetitions.",
+        "A possible explanation needs information that could challenge it.",
+        "A useful action and review can improve choices while the motive remains uncertain."
+      ],
+      "practice": [
+        "In the notes below, record one occasion and a genuine comparison or missing comparison. Put two plausible explanations and evidence against each in your interpretation field.",
+        "Choose one safe action that could clarify a difference. State what you expect and what result would make you reconsider.",
+        "On the review date, record the result, costs and remaining uncertainty. Decide what to retain, change or stop rather than scoring someone’s character."
+      ],
+      "related": [
+        {
+          "node": "observation",
+          "why": "Keep conduct separate from your account of its meaning."
+        },
+        {
+          "node": "confirmation",
+          "why": "Include evidence that could challenge the first explanation."
+        },
+        {
+          "node": "alternatives",
+          "why": "Compare explanations rather than collecting labels."
+        },
+        {
+          "node": "review",
+          "why": "Preserve the prediction and add later learning."
+        },
+        {
+          "node": "ai-reflection",
+          "why": "Generated interpretations do not supply new observations."
+        }
+      ],
+      "sections": [
+        {
+          "id": "comparison-template",
+          "title": "Optional comparison template",
+          "paragraphs": [
+            "| Record | What to include |\n| --- | --- |\n| Occasion | Exact action, context and what you observed directly. |\n| Comparison | A similar opportunity, an exception, or an explicit gap in information. |\n| Explanations | At least two credible possibilities, including constraints or misunderstanding where relevant. |\n| Distinguishing information | A question or observation that could weaken the first account. |\n| Action | A safe step within your control and what you expect it to clarify. |\n| Review | Later result, unintended effects, other feedback and what remains unknown. |",
+            "Use the existing notes below or an equivalent private notebook. Do not record more identifying information than needed. Several reports of the same event remain one occasion; AI restating a report does not create another source."
+          ],
+          "optional": true
+        }
+      ],
+      "question": "Which occasion and exception could distinguish two credible explanations, and what remains unobserved?"
+    },
+    {
+      "id": "ai-reflection",
+      "cue": "Ask for alternatives; verify claims; keep the decision yours.",
+      "meaning": "An AI assistant can help organise an account, explain a general concept or suggest questions. It does not observe your relationship. Its response is generated from the information and wording supplied, and may agree with your interpretation while sounding independent. A polished explanation is not new evidence about another person.",
+      "arise": "A prompt such as “Why is my relative manipulating me?” assumes the conclusion before analysis begins. A model may build a coherent story around that wording, invent missing history or present general tendencies as an individual explanation. Supplying more incidents does not eliminate selection bias or missing perspectives.",
+      "sources": [
+        "ai-agreement",
+        "kunda"
+      ],
+      "alternatives": "A useful suggestion can still rest on an unverified premise. Agreement from several models may reflect similar prompts or training rather than independent corroboration. A provider account or API key establishes access, not scientific reliability, confidentiality or a diagnosis.",
+      "notice": "Separate reported events, your interpretations, general research claims and proposed actions. Ask which facts are missing and what would challenge the explanation. Open consequential sources and check whether they support the actual claim. Do not treat a plausible citation, numerical certainty or confident diagnosis as verification.",
+      "respond": "Share only the context needed and remove unnecessary identifying details. Review the exact text before sending and the provider’s current terms for sensitive data. Ask for alternatives and an action useful under uncertainty; keep output as a suggestion until you decide what, if anything, to adopt. For safety, legal or clinical decisions, use an appropriate qualified route rather than relying on the model’s verdict.",
+      "example": "You replace “My mother-in-law is asserting dominance through names” with the exact introductions, known preferences and an exception. Asking what could distinguish custom, preference and selective disregard produces a better question. It does not guarantee a correct answer.",
+      "takeaways": [
+        "AI does not add independent observations of your situation.",
+        "Prompt wording and missing context can shape a convincing story.",
+        "Keep suggestions separate, check sources and choose a proportionate next step."
+      ],
+      "practice": [
+        "Write one AI question without assuming the motive. Separate two observations, your first interpretation and one important unknown.",
+        "Use the prompt below or the app’s editable preview. Ask for a credible alternative and a useful action that does not depend on a diagnosis.",
+        "Review one claim against a real source and record what changed in your thinking. Save any useful response as a suggestion, not an event."
+      ],
+      "related": [
+        {
+          "node": "confirmation",
+          "why": "An agreeable model can reinforce selective reasoning."
+        },
+        {
+          "node": "comparing-occasions",
+          "why": "A comparison supplies information that generated certainty cannot."
+        },
+        {
+          "node": "uncertainty",
+          "why": "Confidence in wording is different from evidence."
+        },
+        {
+          "node": "getting-support",
+          "why": "Use appropriate help for high-stakes decisions."
+        }
+      ],
+      "sections": [
+        {
+          "id": "prompt",
+          "title": "A prompt to adapt",
+          "paragraphs": [
+            "Copy this only after replacing the bracketed parts with information you want to share:",
+            "```text\nHelp me think through an interaction. Treat my account as incomplete.\nObserved or reported events: [exact actions, context and source].\nMy interpretation: [what I currently think].\nAn exception or missing perspective: [what does not fit or is unknown].\nMy goal: [understanding, a decision, collaboration or a boundary].\nSeparate facts in my account, possible explanations and your suggestions.\nGive credible alternatives without inventing history or diagnosing anyone.\nWhat information could change the leading explanation?\nSuggest one action within my control and what to review afterward.\nFor research claims, identify a checkable source or say you cannot verify it.\n```",
+            "This is an editorial aid, not a validated safeguard. In the app, Settings → AI connections selects a provider and model. Sending is optional; preview and redact the selected context first. The book’s practice notes are separate from app notes and are not automatically shared."
+          ]
+        }
+      ],
+      "question": "Which part is an observation, which is a generated explanation, and what evidence could change the first story?"
+    },
+    {
+      "id": "blame-reversal",
+      "cue": "Keep the original conduct and any counter-complaint separate.",
+      "meaning": "DARVO abbreviates deny, attack, reverse victim and offender. It describes a response in which an allegation is denied, the person raising it is attacked and responsibility is reversed. Naming the sequence can help keep attention on conduct and evidence. It is not a method for determining that the original allegation is true.",
+      "arise": "A counter-accusation can redirect attention from an issue to the credibility or character of the person who raised it. An observer may lose track of the original question. However, someone falsely accused may also deny it and raise a legitimate concern about how they were treated. The pattern of words alone cannot settle the competing accounts.",
+      "sources": [
+        "darvo",
+        "fairness"
+      ],
+      "alternatives": "A relevant factual correction is not automatically denial in bad faith. A real counter-complaint deserves attention without erasing the first issue. A shared argument need not have one wholly innocent and one wholly responsible participant; serious coercion also should not be flattened into mutual misunderstanding.",
+      "notice": "Record the original action, evidence and request. Then record the counter-claim and its evidence separately. Does the response address the specific issue or mainly attack the speaker? What would independently support or weaken each account? Include whether you use a criticism of another person to avoid your own responsibility.",
+      "respond": "Where appropriate and safe, return to the specific issue: “We can discuss that concern separately; what happened to the agreed payment?” Do not demand a confession as the only acceptable outcome. For serious harm, preserve relevant records where safe and seek a suitable support or formal process. A calm tone does not prove truth and an emotional response does not disprove it.",
+      "example": "When asked about missing shared funds, a partner responds that the question proves you are controlling and that they are the real victim. The payment history still needs checking. A separate concern about intrusive monitoring can also be examined; it does not by itself answer where the money went.",
+      "takeaways": [
+        "A reversal sequence can redirect attention without proving either account.",
+        "Separate the original conduct, credibility attacks and any genuine counter-claim.",
+        "Use evidence and suitable support rather than a label as a verdict."
+      ],
+      "practice": [
+        "Choose one response sequence and separate the original issue from later personal attacks or counter-claims. Record what supports and challenges each.",
+        "Choose a safe factual clarification, boundary or appropriate support route. Avoid using the DARVO label as your evidence.",
+        "Review whether the conduct was addressed and whether the process respected each person’s ability to raise a legitimate concern."
+      ],
+      "related": [
+        {
+          "node": "denial",
+          "why": "Check the evidence for the disputed event."
+        },
+        {
+          "node": "blame-shifting",
+          "why": "Responsibility can move without the original issue being resolved."
+        },
+        {
+          "node": "accountability",
+          "why": "A usable account includes conduct, consequences and correction."
+        },
+        {
+          "node": "getting-support",
+          "why": "Serious or unsafe situations can require a different process."
+        }
+      ],
+      "sections": [],
+      "specialistCaveat": true,
+      "question": "What supports the original concern and the counter-claim separately, and which conduct remains unanswered?"
+    },
+    {
+      "id": "changing-standards",
+      "cue": "Name the agreed standard and the reason for changing it.",
+      "meaning": "Moving the goalposts is an everyday phrase for changing the standard after someone has met, or started meeting, the earlier one. A change can make progress or agreement difficult to evaluate. It is a description to investigate, not an established diagnosis of the person making the change.",
+      "arise": "Requirements may change because new information appears, a risk becomes clear or the first agreement was incomplete. They may also shift because someone avoids admitting agreement or seeks more work without renegotiation. You may contribute by assuming a shared definition of “finished” that was never checked.",
+      "sources": [
+        "planning",
+        "fairness"
+      ],
+      "alternatives": "Learning something new can justify a revision. Correcting an unsafe plan differs from adding an unrelated condition whenever the earlier one is satisfied. Scope creep may be unplanned rather than strategic. An unfair change can still require action while intent remains uncertain.",
+      "notice": "Write the original criterion, what was done, the changed criterion and the reason given. Was the change relevant, proportionate and communicated when the information became available? Compare whether revisions apply consistently and whether either person can renegotiate cost or timing. Include evidence that the original understanding was ambiguous.",
+      "respond": "Confirm an operational standard and how changes will be handled: “This review covers these three requirements; a new request needs a revised date.” Allow necessary corrections without making every preference an urgent requirement. For recurring unfair changes, document decisions and consider an appropriate escalation or boundary rather than chasing an indefinitely moving target.",
+      "example": "A client accepts a page layout, then asks for a new section. The designer asks whether this replaces earlier work or changes the scope and deadline. A genuine new need can be accommodated through a new agreement; it need not be labelled manipulation.",
+      "takeaways": [
+        "A changed standard can reflect new information, ambiguity or unfair pressure.",
+        "Compare the original terms, timing and stated reason for revision.",
+        "Use a clear change process and a feasible definition of completion."
+      ],
+      "practice": [
+        "Choose one changed requirement and record the original terms, later change and relevant new information. Identify where the first agreement was unclear.",
+        "Propose one concrete completion standard and a way to renegotiate future changes.",
+        "Review whether revisions became clearer and costs were shared fairly. Note any evidence that changes your view of why the pattern occurred."
+      ],
+      "related": [
+        {
+          "node": "shared-agreement",
+          "why": "A definition of completion makes revisions discussable."
+        },
+        {
+          "node": "followthrough",
+          "why": "Check what was actually promised before judging a missed commitment."
+        },
+        {
+          "node": "unequal-treatment",
+          "why": "Different rules and changed rules are distinct comparisons."
+        },
+        {
+          "node": "sequential-requests",
+          "why": "A larger later request requires its own evaluation."
+        }
+      ],
+      "sections": [],
+      "question": "What was the original criterion, what changed, and what new information might justify the revision?"
+    },
+    {
+      "id": "intense-and-inconsistent-contact",
+      "cue": "Look at pace, choice and reliability rather than the label.",
+      "meaning": "Rapid affection, repeated attempts to renew contact and intermittent messages are observable patterns. Popular terms such as love bombing, hoovering and breadcrumbing bundle these actions with assumptions about intention. They do not have one meaning across everyday use, and this entry does not treat them as validated person types.",
+      "arise": "Intense contact can reflect enthusiasm, different expectations or pressure to accelerate closeness. Irregular contact can reflect workload, ambivalence, practical constraints or a wish to keep a connection available without committing. Rewards and uncertainty may influence attention, but that general learning principle does not establish a deliberate schedule or someone’s underlying motive.",
+      "sources": [
+        "habit",
+        "attachment"
+      ],
+      "alternatives": "Enthusiasm differs from affection made conditional on rapid commitment, access or compliance. A busy week differs from repeated promises with no follow-through. Seeking reconciliation differs from ignoring a clear no. The relevant distinction is the actual conduct and freedom to choose, not whether the other person accepts a popular label.",
+      "notice": "Compare promises with actions over time, the response to a slower pace or refusal, and whether boundaries are respected. Does contact bring pressure for money, privacy access, isolation or immediate commitment? Include genuine exceptions and agreements about availability. Do not interpret every warm message followed by distance as a coordinated tactic.",
+      "respond": "Set a pace and level of contact you want. Ask for a clear agreement where a commitment matters and judge its follow-through. You can decline renewed contact without proving a strategy. For unwanted repeated contact, threats or surveillance, seek appropriate support and avoid escalating a test of the person’s intentions.",
+      "example": "A new acquaintance sends frequent compliments and asks for an exclusive commitment within days. You say you want more time. Respect for that preference gives different information from guilt, threats or attempts to cut off your other relationships. The pace alone cannot distinguish the explanations.",
+      "takeaways": [
+        "Popular labels can bundle conduct with unproven motives.",
+        "Compare pace, promises, boundaries and the cost of saying no.",
+        "Choose contact and support based on conduct and impact, even without certainty about intent."
+      ],
+      "practice": [
+        "Record one sequence of contact, promises and follow-through without assigning a label. Include the agreed pace, if any, and an exception.",
+        "Where safe, state one preference or boundary about pace, contact or commitment. Do not provoke a reaction to test the person.",
+        "Review whether the preference was respected and whether the arrangement meets your needs. Seek support for threatening or intrusive conduct."
+      ],
+      "related": [
+        {
+          "node": "boundary-pushing",
+          "why": "Responses to a clear limit are useful information."
+        },
+        {
+          "node": "followthrough",
+          "why": "Promises need comparison with later actions."
+        },
+        {
+          "node": "reassurance",
+          "why": "Uncertainty and repeated contact can affect each other."
+        },
+        {
+          "node": "coercive-patterns",
+          "why": "Restrictions and threats need attention independently of affection."
+        }
+      ],
+      "sections": [],
+      "specialistCaveat": true,
+      "question": "How do promises, pace and responses to a clear preference compare over time?"
+    },
+    {
+      "id": "negotiation-and-mediation",
+      "cue": "Clarify the need, the choices and what happens without agreement.",
+      "meaning": "Negotiation is an attempt to reach an arrangement when preferences or interests differ. A position is the outcome someone asks for; an interest is a concern that outcome serves. Understanding the concern can reveal options beyond one demand. Mediation involves a third person helping a process; it is different from that person imposing a decision.",
+      "arise": "A fixed demand may serve several concerns, such as cost, reliability, recognition or privacy. People can also genuinely want incompatible outcomes. Cooperation and competition can coexist: both parties may benefit from an agreement while disagreeing about its terms. Better understanding does not ensure a mutually acceptable bargain exists.",
+      "sources": [
+        "negotiation",
+        "fairness"
+      ],
+      "alternatives": "Compromise is not automatically fair, and splitting a difference can preserve an unreasonable starting point. A person may lack the authority, resources or freedom to agree. Bargaining over another person’s consent or safety is different from choosing a visit time. Mediation can be unsuitable where threats or coercion prevent free participation.",
+      "notice": "Ask what each proposal would solve, what constraints are real and which commitments depend on others. Compare options and the practical alternative if no agreement is reached. Unequal dependence can make a nominal choice costly; include employment, money, care and housing rather than assuming both parties can walk away equally.",
+      "respond": "Prepare one clear request, its underlying concern and more than one feasible option. Check decision authority and define what agreement would require from each person. Use a neutral facilitator only where the role, consent and process fit. If no suitable agreement exists, a respectful refusal or appropriate support may be the constructive result.",
+      "example": "A client insists on delivery Friday; the supplier cannot complete the whole order safely. The client’s actual concern is a Monday demonstration. A smaller tested delivery might serve it, but only if both agree what is included. If no feasible option meets the need, pretending to agree creates a later failure.",
+      "takeaways": [
+        "Understand concerns as well as stated demands.",
+        "Options must fit resources, consent and decision authority.",
+        "No agreement can be preferable to an unsafe or unworkable compromise."
+      ],
+      "practice": [
+        "Choose one disagreement and distinguish your requested outcome, underlying concern and real alternative without agreement. Record the other person’s stated concern without inventing it.",
+        "Offer one feasible option or ask a question that could reveal another. State what cannot be promised and who can decide.",
+        "Review clarity, fairness, feasibility and freedom to decline, not only whether an agreement was signed."
+      ],
+      "related": [
+        {
+          "node": "shared-agreement",
+          "why": "Turn agreement into clear, feasible responsibilities."
+        },
+        {
+          "node": "thirdparty",
+          "why": "Clarify the mediator’s role and limits."
+        },
+        {
+          "node": "power",
+          "why": "Dependence can alter the real cost of refusing."
+        },
+        {
+          "node": "boundaries",
+          "why": "Some limits should be stated rather than traded."
+        }
+      ],
+      "sections": [
+        {
+          "id": "repair-after-agreement",
+          "title": "Repair needs follow-through",
+          "paragraphs": [
+            "An apology may acknowledge an earlier problem without restoring confidence that a new arrangement will be kept. Distinguish an explanation, responsibility, a proposed correction and later conduct. Ask what needs to change in the process, not which wording should make the other person forgive.",
+            "The existing apology research concerns judgments of hypothetical apologies, not proof of restored trust after real harm. A useful review checks sustained conduct and respects the affected person’s choice about renewed contact."
+          ],
+          "sources": [
+            "apology"
+          ]
+        }
+      ],
+      "question": "Which concern does each proposal serve, and what is realistically possible without agreement?"
+    },
+    {
+      "id": "parentification",
+      "cue": "Compare the demand with the child’s development, support and choices.",
+      "meaning": "Parentification describes young people taking adult-like roles or responsibilities that do not fit their developmental needs. This can involve practical care or being made responsible for an adult’s emotional stability. The issue is the demand and its context, not simply whether a child helps or is proud of contributing.",
+      "arise": "Illness, loss, financial strain or a lack of adult support can shift responsibilities to a child. The role may become expected without explicit discussion. A child may gain skills or meaning while also carrying an excessive burden; acknowledging one does not erase the other. You cannot infer a particular childhood history from an adult’s helpfulness.",
+      "sources": [
+        "parentification",
+        "cdc-development"
+      ],
+      "alternatives": "Supported chores, culturally valued contribution and a temporary task differ from a child becoming a parent’s confidant, mediator or indispensable carer. Age, available support, intensity and impact on education, rest and relationships matter. Cultural context helps explain expectations without making every burden acceptable.",
+      "notice": "Identify what adults require, how often and with what backup. What happens if the child cannot do it? Are they expected to manage adult conflict or keep distressing secrets? Include the child’s perspective and practical needs. A single observation is not a clinical assessment; a serious unmet need still warrants appropriate help.",
+      "respond": "Where you hold responsibility, restore adult ownership and arrange practical support rather than simply telling the child to say no. Make contributions bounded, supported and compatible with school, rest and relationships. An adult reflecting on their own history can explore current patterns and seek support without deciding a complete causal story from memory.",
+      "example": "A child helps prepare dinner while an adult is nearby: this can be an ordinary contribution. A child who must miss school to manage a parent’s daily care without backup faces a different demand. The comparison concerns development and support, not whether either child loves their family.",
+      "takeaways": [
+        "Family contribution is not automatically parentification.",
+        "Demands, developmental fit, support and impact need comparison.",
+        "Adults and systems should address unmet needs rather than place the solution on the child alone."
+      ],
+      "practice": [
+        "Choose a current responsibility or, for your own reflection, a past one. Record the demand, available adult backup and effects; separate remembered facts from interpretation.",
+        "Identify one appropriate adult support, bounded task or professional route. Do not test a child’s loyalty or require them to mediate.",
+        "Review whether the burden and backup changed. For historical reflection, assess current usefulness rather than treating a label as proof of the whole past."
+      ],
+      "related": [
+        {
+          "node": "child-development",
+          "why": "Developmental needs and access to support matter."
+        },
+        {
+          "node": "over-responsibility",
+          "why": "Adult patterns of rescue do not establish their childhood cause."
+        },
+        {
+          "node": "family-membership",
+          "why": "Roles can change after illness or loss without being appropriately renegotiated."
+        },
+        {
+          "node": "getting-support",
+          "why": "Unmet care needs may require practical or qualified support."
+        }
+      ],
+      "sections": [],
+      "specialistCaveat": true,
+      "question": "How does the responsibility fit the child’s development, adult backup and actual choices?"
+    },
+    {
+      "id": "shame-anger-and-repair",
+      "cue": "Describe the action and responsibility without a verdict on the whole person.",
+      "meaning": "Shame often concerns a negative evaluation of the whole self; guilt often concerns an action or omission. Anger concerns a perceived wrong, obstacle or threat and can have several sources. These distinctions help name an experience, but a defensive or angry response does not prove that someone secretly feels shame.",
+      "arise": "Public criticism, perceived failure or threats to identity may intensify a reaction. A person may withdraw, attack, apologise or seek repair for different reasons. Your own embarrassment can also make it difficult to acknowledge an error. The goal is to understand enough to choose a useful action, not discover an emotion the other person must admit.",
+      "sources": [
+        "moral-emotions",
+        "flexibility"
+      ],
+      "alternatives": "Anger can fit real unfairness; calmness can coexist with harmful conduct. Remorse does not guarantee change, and an apology does not establish every detail of an allegation. Concern about a specific action can support repair without requiring a global statement that a person is bad.",
+      "notice": "If you are reflecting on yourself, identify the action, the judgment you added and what you want to protect or correct. With another person, use what they report rather than claiming access to their inner feelings. Compare public and private settings, practical pressures and the accuracy of the criticism.",
+      "respond": "Acknowledge the concrete effect of your conduct and choose a correction you can carry out. When raising a concern, describe the action and its consequences without using humiliation as leverage. A pause can help if it has an appropriate return route. Threats or violence require attention to safety, not an exercise in finding the right emotion label.",
+      "example": "You miss an agreed deadline and think, “I am useless.” You can instead state what happened, notify the person affected and renegotiate the work. This changes a global self-judgment into responsibility for a specific action without pretending the missed deadline did not matter.",
+      "takeaways": [
+        "Shame, guilt and anger are distinguishable experiences, not behavioural diagnoses.",
+        "Global self-condemnation and specific responsibility are different.",
+        "Use accurate acknowledgment, a practical correction and review."
+      ],
+      "practice": [
+        "Recall your own difficult reaction. Separate the event, the emotion you noticed and the judgment you added about yourself or someone else.",
+        "Choose one specific repair, clarification or pause; state what you are responsible for without taking responsibility for everything.",
+        "Review whether the issue was addressed and conduct changed. Do not score emotional display as proof of sincerity."
+      ],
+      "related": [
+        {
+          "node": "defensive",
+          "why": "A response may concern the perceived criticism, not only the words intended."
+        },
+        {
+          "node": "repairing",
+          "why": "Responsibility includes follow-through and respect for the affected person’s choices."
+        },
+        {
+          "node": "status",
+          "why": "Public recognition and humiliation can change the setting."
+        },
+        {
+          "node": "stress",
+          "why": "Resources and timing can affect what is manageable."
+        }
+      ],
+      "sections": [],
+      "question": "What specific action needs addressing, and what global judgment about myself or another person did I add?"
+    },
+    {
+      "id": "digital-misunderstandings",
+      "cue": "Check the message and the expectation before supplying the tone.",
+      "meaning": "Written messages contain words but may lack the voice, timing and shared setting that help convey tone in person. Readers can supply a tone that the sender did not intend. A delayed reply tells you the response has not arrived; it does not alone explain availability, care or intention.",
+      "arise": "A sender may mentally hear a joke or a friendly phrase that is not evident to the reader. Readers bring expectations from earlier exchanges. Work patterns, notification settings, accessibility, overload, avoidance or a disputed commitment can affect replies. More than one may apply; these are possibilities rather than a complete list.",
+      "sources": [
+        "digital-tone",
+        "eyal"
+      ],
+      "alternatives": "Ambiguity does not make every hurtful message harmless. Direct insults and threats remain conduct to address. Read receipts are not reliable evidence of a person’s capacity to respond thoughtfully. Repeatedly breaking an explicit communication agreement differs from failing to meet an expectation that was never discussed.",
+      "notice": "Separate exact wording, the tone you supplied and the reply expectation. Was a response requested, by when, and was urgency explained? Compare similar messages and any relevant agreement. Include whether your own short reply could be read differently without assuming that every interpretation is equally plausible.",
+      "respond": "For an ordinary ambiguity, clarify the specific point: “Did you mean that as a suggestion or a decision?” State a real deadline and use an agreed channel for urgent matters. Where helpful, change to a medium that allows questions, with the other person’s consent. Do not keep escalating messages to obtain reassurance or demand access after a clear refusal.",
+      "example": "A colleague replies “Fine.” You hear annoyance, but the message does not specify it. A brief clarification about the decision may be more useful than asking why they are angry. If earlier messages contain explicit criticism, that additional context should not be ignored.",
+      "takeaways": [
+        "Intended tone and received tone can differ.",
+        "Delay, availability and affection are separate questions.",
+        "Clarify the actual commitment and use proportionate contact."
+      ],
+      "practice": [
+        "Choose one ambiguous message and record the exact words, inferred tone and known context. Identify what would challenge your reading.",
+        "Send one proportionate clarification or agree a realistic reply expectation where appropriate. Respect a refusal of further contact.",
+        "Review what was clarified and what remains unknown. A faster reply alone does not prove a change in care or intention."
+      ],
+      "related": [
+        {
+          "node": "observation",
+          "why": "Keep the words separate from the tone you add."
+        },
+        {
+          "node": "confirmation",
+          "why": "Earlier beliefs can shape which messages seem significant."
+        },
+        {
+          "node": "followthrough",
+          "why": "Compare a missed reply with the communication actually agreed."
+        },
+        {
+          "node": "intense-and-inconsistent-contact",
+          "why": "Recurring contact patterns need context and attention to boundaries."
+        }
+      ],
+      "sections": [],
+      "question": "Which tone or reply expectation did I supply, and what could clarify the actual commitment?"
+    }
+  ]
+}

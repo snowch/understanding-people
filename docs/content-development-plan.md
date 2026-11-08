@@ -8,6 +8,8 @@ At this planning baseline, the repository contains twelve draft chapters and thr
 
 Implementation update, 2 November 2026: the [reference inventory](reference-inventory.md) maps all 111 app reference topics to book URLs, development status and foundation chapters. The 108 former stubs now have original written entries with selected evidence, alternatives, examples, takeaways and saved practice notes; the three earlier developed entries remain. The [reference source log](../reference/sources.md) states what was read and each source’s limits. This is a selected first written edition, not a systematic evidence review or specialist-reviewed manual. Practice goals and skills remain separate. No new visual or audio material was produced for this expansion.
 
+Implementation update, 8 November 2026: all eighteen areas in the research audit now have written explanations, connected practice and private-app reading/map routes. Twenty-five new entries expand the library to 136 references, with 102 source records. See the [delivery record](audit-implementation.md) for the mapping, additional research leads, source access, retained recordings and verification limits.
+
 ## Map the content before writing more
 
 Create a content inventory connecting each topic to:
@@ -52,7 +54,7 @@ The [research coverage audit of 8 November 2026](research-gap-audit.md) compares
 
 ### Reader-reported gap: language, status and belonging
 
-On 8 November 2026 the reader asked about naming asymmetry: using names, titles or kinship labels differently in a way that might elevate a matriarch relative to in-laws. Existing status, power, family-expectation and culture entries cover adjacent ideas, but do not explicitly teach this pattern. This is a content-development gap, not a published entry or a completed evidence review.
+On 8 November 2026 the reader asked about naming asymmetry: using names, titles or kinship labels differently in a way that might elevate a matriarch relative to in-laws. The resulting [Names, respect and belonging](../reference/naming-and-belonging.md) entry now explains this pattern and alternatives, linked to status, power, family expectations and cultural context. Its selected sources do not constitute a systematic evidence review or identify an individual's intent.
 
 Develop this within the behaviour coverage, linked to possible purposes and social context. Separate the observable naming difference from a possible function (signalling status, marking insiders/outsiders, preserving a role) and from a claim of deliberate strategy. Compare cultural convention, affection, personal preference, habit and practical clarity. Ask what the exact terms are, whether comparable people receive different treatment, who is present, whether it repeats, what exceptions exist, and what happens after a respectful request about naming. A difference alone does not establish intent; a family-role label does not establish manipulation.
 

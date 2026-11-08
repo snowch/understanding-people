@@ -235,7 +235,8 @@ def build(include_narration=True, include_search=True):
     audiobook_data = load_audiobook(CHAPTERS, PAGES, editions) if include_narration else None
     if narration_manifest is not None:
         from spoken_narration import scripts as spoken_scripts
-        expected_spoken = {name for name, _ in PAGES if narration_eligible(name)}
+        from written_editions import recorded_sources
+        expected_spoken = recorded_sources(PAGES)
         assert set(spoken_scripts()) == expected_spoken, 'Every reading page needs an authored spoken script before publication'
         unfinished = [name for name in expected_spoken if narration_manifest['pages'].get(name, {}).get('mode') != 'spoken-lesson']
         assert not unfinished, f'Authored narration is incomplete: {sorted(unfinished)}'
@@ -248,6 +249,8 @@ def build(include_narration=True, include_search=True):
         converter = markdown.Markdown(extensions=["tables", "fenced_code", "toc", "sane_lists", "md_in_html", "attr_list"],
                                       extension_configs={"toc": {"toc_depth": "2-3"}})
         body = converter.convert(text)
+        from reading_connections import render as reading_connections
+        body += reading_connections(name, page)
         if name == 'settings.md':
             body = body.replace('<!-- voice-settings -->', render_settings(editions))
         if name == 'downloads/index.md':
@@ -259,14 +262,14 @@ def build(include_narration=True, include_search=True):
         body = re.sub(r'(src="[^"]*assets/audio\.js)(?:\?[^"]*)?"', rf'\1?v={audio_hash}"', body)
         body = re.sub(r'(src="[^"]*assets/library\.js)(?:\?[^"]*)?"', rf'\1?v={search_hash}"', body)
         narration_html = render_narration(name, title, body, page, narration_manifest, editions)
-        if narration_html:
+        if '<audio' in narration_html:
             # The entry's primary Listen link should reach its current lesson;
             # older optional recordings retain their own anchors/bookmarks.
             body = re.sub(r'(<nav class="reference-formats"[^>]*>)(.*?)(</nav>)',
                           lambda match: match[1] + match[2].replace('href="#listen"', 'href="#page-narration-title"') + match[3],
                           body, flags=re.S)
         narration_script = (f'<script defer src="{relative(Path("assets/audio.js"), page)}?v={audio_hash}"></script>'
-                            if narration_html and 'assets/audio.js' not in body else '')
+                            if '<audio' in narration_html and 'assets/audio.js' not in body else '')
         nav_html = book_navigation(name, page)
         pagination_html = context_pagination(name, page, CHAPTERS)
         breadcrumb_html = breadcrumbs(name, page, title)

@@ -174,6 +174,9 @@ def render(source, title, body, page, manifest, editions=None):
         return ""
     sections = speech_sections(title, body)
     editions = editions or {DEFAULT: manifest}
+    from written_editions import verify as verify_written
+    if verify_written(source, fingerprint(sections), editions):
+        return '<p class="narration-update">Written edition · Audio for this text is not available. Existing audiobook downloads retain their recorded edition.</p>'
     variants = {}
     for voice, edition in editions.items():
         entry = edition['pages'].get(source)

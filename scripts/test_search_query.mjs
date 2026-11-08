@@ -39,3 +39,11 @@ test('word-only search also offers clearly marked related role topics',()=>{
  assert.ok(results.every(r=>r.related));
  assert.equal(createRanker({documents,passages,dimensions:384})('zzqvpxj987').length,0);
 });
+
+test('reviewed aliases find their actual concept without assigning unknown labels',()=>{
+ const documents=[{url:'reference/invisible-work.html',title:'Invisible work',keywords:'',aliases:['mental load']}];
+ const passages=[{document:0,anchor:'main',heading:'Invisible work',text:'Planning and coordinating work that otherwise goes unseen.'}];
+ const rank=createRanker({documents,passages,dimensions:384});
+ assert.equal(rank('mental load')[0].document,0);
+ assert.equal(rank('unrecognisedxyz').length,0);
+});

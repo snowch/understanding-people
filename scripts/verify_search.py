@@ -24,7 +24,7 @@ def verify(base, screenshots=False):
     for d in index['documents']:
         for kind in ['listen', 'practice']:
             assert not d[kind] or d[kind] in docs[d['url']].ids, (d['url'],kind,d[kind])
-    assert len(index['documents']) == 136
+    assert len(index['documents']) == 161
     cases = json.loads((ROOT/'docs/search-questions.json').read_text())
     with sync_playwright() as pw:
         proxy={'server':os.environ['HTTPS_PROXY']} if base.startswith('https://') and os.environ.get('HTTPS_PROXY') else None

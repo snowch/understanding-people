@@ -48,7 +48,7 @@ def catalogue(out, pages, chapters):
         entry = entries.get(source, {})
         kind = ('Reference' if source in entries else f'Chapter {chapter_numbers[source]}' if source in chapter_numbers
                 else 'Glossary' if source == 'glossary.md' else 'Introduction' if source == 'book.md' else 'Reading guide')
-        doc = {'url': url, 'title': title, 'kind': kind, 'keywords': entry.get('keywords', ''),
+        doc = {'url': url, 'title': title, 'kind': kind, 'keywords': entry.get('keywords', ''), 'aliases': entry.get('aliases', []),
                'clinical': 'disorder' in title.lower(),
                'listen': 'page-narration-title' if 'page-narration-title' in ids else None, 'practice': practice}
         document_id = len(documents); documents.append(doc)

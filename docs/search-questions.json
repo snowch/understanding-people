@@ -1,24 +1,318 @@
 [
-  {"query":"Dad refuses help even when he is struggling", "expected":["reference/declining-help.html"]},
-  {"query":"Why do I only notice evidence that I am right?", "expected":["reference/confirmation-bias.html"]},
-  {"query":"I keep assuming someone's behaviour reveals their character", "expected":["reference/correspondence-bias.html","chapters/01-before-you-explain.html"]},
-  {"query":"Someone keeps criticising me in front of others", "expected":["reference/criticism.html"]},
-  {"query":"I keep putting off things I want to do", "expected":["reference/habits.html","chapters/10-motivation-influence-cooperation.html","chapters/05-emotion-stress-coping.html"]},
-  {"query":"I speak over people before they have finished", "expected":["reference/interrupt.html","reference/listening.html"]},
-  {"query":"How do I make a small change stick instead of giving up?", "expected":["reference/habits.html","chapters/12-putting-understanding-to-work.html","chapters/10-motivation-influence-cooperation.html"]},
-  {"query":"Whenever I give feedback they act like I am attacking them", "expected":["reference/defensive.html","reference/criticism.html"]},
-  {"query":"My partner denies things they said and makes me doubt my memory", "expected":["reference/gaslighting.html"]},
-  {"query":"How can I say no when people keep pushing me?", "expected":["reference/boundaries.html","reference/boundary-pushing.html","chapters/11-conflict-manipulation-boundaries.html"]},
-  {"query":"How can I get my child involved in deciding how to study?", "expected":["reference/autonomy.html","reference/adolescence.html","chapters/10-motivation-influence-cooperation.html"]},
-  {"query":"I want to understand what the other person meant before disagreeing", "expected":["reference/listening.html","chapters/08-questions-listening-disagreement.html"]},
-  {"query":"confirmation bias", "expected":["reference/confirmation-bias.html"]},
-  {"query":"correspondence bias", "expected":["reference/correspondence-bias.html"]},
-  {"query":"What does narcissistic personality disorder mean?", "expected":["reference/pd-narcissistic.html","reference/personality-disorders.html"]},
-  {"query":"matriarch", "expected":["reference/familynorms.html"], "required":true},
-  {"query":"patriarch", "expected":["reference/familynorms.html"], "required":true},
-  {"query":"peacemaker", "expected":["reference/listening.html","reference/shared-agreement.html"], "required":true},
-  {"query":"scapegoat", "expected":["reference/blame-shifting.html"], "required":true},
-  {"query":"introvert", "expected":["reference/extraversion.html"], "required":true},
-  {"query":"procrastination", "expected":["reference/habits.html","chapters/10-motivation-influence-cooperation.html"], "required":true},
-  {"query":"micromanaging", "expected":["reference/boundaries.html","reference/power.html","chapters/07-culture-groups-power.html"], "required":false, "note":"Known weak retrieval: keep measuring this case; do not claim it has a dedicated entry or that the top results are equivalent."}
+  {
+    "query": "Dad refuses help even when he is struggling",
+    "expected": [
+      "reference/declining-help.html"
+    ]
+  },
+  {
+    "query": "Why do I only notice evidence that I am right?",
+    "expected": [
+      "reference/confirmation-bias.html"
+    ]
+  },
+  {
+    "query": "I keep assuming someone's behaviour reveals their character",
+    "expected": [
+      "reference/correspondence-bias.html",
+      "chapters/01-before-you-explain.html"
+    ]
+  },
+  {
+    "query": "Someone keeps criticising me in front of others",
+    "expected": [
+      "reference/criticism.html"
+    ]
+  },
+  {
+    "query": "I keep putting off things I want to do",
+    "expected": [
+      "reference/habits.html",
+      "chapters/10-motivation-influence-cooperation.html",
+      "chapters/05-emotion-stress-coping.html"
+    ]
+  },
+  {
+    "query": "I speak over people before they have finished",
+    "expected": [
+      "reference/interrupt.html",
+      "reference/listening.html"
+    ]
+  },
+  {
+    "query": "How do I make a small change stick instead of giving up?",
+    "expected": [
+      "reference/habits.html",
+      "chapters/12-putting-understanding-to-work.html",
+      "chapters/10-motivation-influence-cooperation.html"
+    ]
+  },
+  {
+    "query": "Whenever I give feedback they act like I am attacking them",
+    "expected": [
+      "reference/defensive.html",
+      "reference/criticism.html"
+    ]
+  },
+  {
+    "query": "My partner denies things they said and makes me doubt my memory",
+    "expected": [
+      "reference/gaslighting.html"
+    ]
+  },
+  {
+    "query": "How can I say no when people keep pushing me?",
+    "expected": [
+      "reference/boundaries.html",
+      "reference/boundary-pushing.html",
+      "chapters/11-conflict-manipulation-boundaries.html"
+    ]
+  },
+  {
+    "query": "How can I get my child involved in deciding how to study?",
+    "expected": [
+      "reference/autonomy.html",
+      "reference/adolescence.html",
+      "chapters/10-motivation-influence-cooperation.html"
+    ]
+  },
+  {
+    "query": "I want to understand what the other person meant before disagreeing",
+    "expected": [
+      "reference/listening.html",
+      "chapters/08-questions-listening-disagreement.html"
+    ]
+  },
+  {
+    "query": "confirmation bias",
+    "expected": [
+      "reference/confirmation-bias.html"
+    ]
+  },
+  {
+    "query": "correspondence bias",
+    "expected": [
+      "reference/correspondence-bias.html"
+    ]
+  },
+  {
+    "query": "What does narcissistic personality disorder mean?",
+    "expected": [
+      "reference/pd-narcissistic.html",
+      "reference/personality-disorders.html"
+    ]
+  },
+  {
+    "query": "matriarch",
+    "expected": [
+      "reference/familynorms.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "patriarch",
+    "expected": [
+      "reference/familynorms.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "peacemaker",
+    "expected": [
+      "reference/listening.html",
+      "reference/shared-agreement.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "scapegoat",
+    "expected": [
+      "reference/blame-shifting.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "introvert",
+    "expected": [
+      "reference/extraversion.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "procrastination",
+    "expected": [
+      "reference/procrastination-planning.html",
+      "reference/habits.html",
+      "chapters/10-motivation-influence-cooperation.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "micromanaging",
+    "expected": [
+      "reference/oversight-and-delegation.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "naming asymmetry",
+    "expected": [
+      "reference/naming-and-belonging.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "loaded questions",
+    "expected": [
+      "reference/assumptions-and-authority.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "family membership",
+    "expected": [
+      "reference/family-membership.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "double standards",
+    "expected": [
+      "reference/unequal-treatment.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "mental load",
+    "expected": [
+      "reference/invisible-work.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "demand withdraw",
+    "expected": [
+      "reference/interaction-cycles.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "responsive support",
+    "expected": [
+      "reference/responsive-support.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "foot in the door",
+    "expected": [
+      "reference/sequential-requests.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "attachment anxiety",
+    "expected": [
+      "reference/adult-attachment.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "psychological safety",
+    "expected": [
+      "reference/feedback-and-speaking-up.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "personality facets",
+    "expected": [
+      "reference/personality-facets.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "ostracism",
+    "expected": [
+      "reference/exclusion-and-reputation.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "envy",
+    "expected": [
+      "reference/social-comparison.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "gatekeeping",
+    "expected": [
+      "reference/gatekeeping.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "compare occasions",
+    "expected": [
+      "reference/comparing-occasions.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "AI sycophancy",
+    "expected": [
+      "reference/ai-reflection.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "DARVO",
+    "expected": [
+      "reference/blame-reversal.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "moving goalposts",
+    "expected": [
+      "reference/changing-standards.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "love bombing",
+    "expected": [
+      "reference/intense-and-inconsistent-contact.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "negotiation",
+    "expected": [
+      "reference/negotiation-and-mediation.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "parentification",
+    "expected": [
+      "reference/parentification.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "shame and anger",
+    "expected": [
+      "reference/shame-anger-and-repair.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "email tone",
+    "expected": [
+      "reference/digital-misunderstandings.html"
+    ],
+    "required": true
+  }
 ]

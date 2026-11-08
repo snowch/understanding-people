@@ -1,5 +1,5 @@
 {
-  "method": "Selected research records/abstracts and public guidance checked on 2 November 2026. Access scope is recorded per source; this is not a systematic review. Source wording, questionnaires, diagnostic checklists, figures and recordings are not reproduced. All explanatory prose and teaching examples are original editorial writing.",
+  "method": "Selected research records, abstracts, accessible source sections and public guidance checked on 2 and 8 November 2026. Access scope and date are recorded per source; this is not a systematic review. Source wording, questionnaires, diagnostic checklists, figures and recordings are not reproduced. Explanations and fictional examples are original editorial writing.",
   "sources": {
     "gilbert": {
       "title": "Gilbert & Malone (1995). The correspondence bias.",
@@ -585,6 +585,339 @@
       "access": "Research record and abstract read through Europe PMC; no claim of full-text review.",
       "checked": "2026-11-02",
       "record": "https://europepmc.org/article/MED/34689345"
+    },
+    "address": {
+      "title": "Brown & Gilman (1960). The Pronouns of Power and Solidarity.",
+      "url": "https://pages.mtu.edu/~rlstrick/rsvtxt/pronoun.htm",
+      "explanation": "Roger Brown and Albert Gilman examined how address pronouns express power and solidarity, drawing on historical material and language informants.",
+      "limit": "The mainly European-language material does not show that a particular family uses names deliberately to establish rank.",
+      "access": "Accessible institutional text: introduction and power/solidarity discussion read.",
+      "checked": "2026-11-08",
+      "record": "https://pages.mtu.edu/~rlstrick/rsvtxt/pronoun.htm"
+    },
+    "kinship": {
+      "title": "Ember, Droe & Russell (2022). Residence and Kinship.",
+      "url": "https://hraf.yale.edu/ehc/summaries/residence-and-kinship",
+      "explanation": "Carol Ember and colleagues summarise cross-cultural research on kinship terms, descent, residence and family organisation. These are related but distinct arrangements.",
+      "limit": "Ethnographic group patterns do not determine one household’s practices or justify assuming values from ethnicity.",
+      "access": "HRAF overview and sections on residence, descent and kin terminology read.",
+      "checked": "2026-11-08",
+      "record": "https://hraf.yale.edu/ehc/summaries/residence-and-kinship"
+    },
+    "presupposition": {
+      "title": "Potts (2014 draft). Presupposition and Implicature.",
+      "url": "https://web.stanford.edu/~cgpotts/manuscripts/potts-blackwellsemantics.pdf",
+      "explanation": "Linguist Christopher Potts explains how language can carry background assumptions and implied meanings alongside its main assertion. Context affects how these are understood.",
+      "limit": "This is a linguistics handbook draft, not a test of manipulative intent. Indirect or presupposing language is also routine communication.",
+      "access": "Introduction and presupposition sections of the author’s accessible draft read.",
+      "checked": "2026-11-08",
+      "record": "https://web.stanford.edu/~cgpotts/manuscripts/potts-blackwellsemantics.pdf"
+    },
+    "authority": {
+      "title": "Stevanovic & Peräkylä (2012). Deontic Authority in Interaction.",
+      "url": "https://researchportal.helsinki.fi/en/publications/deontic-authority-in-interaction-the-right-to-announce-propose-an/",
+      "explanation": "Melisa Stevanovic and Anssi Peräkylä analysed recorded workplace planning discussions. People could accept a plan while resisting another speaker’s assumed right to decide it.",
+      "limit": "Conversation analysis of a specific workplace does not establish every family’s decision rights or validate a tactic detector.",
+      "access": "Institutional research record and abstract read.",
+      "checked": "2026-11-08",
+      "record": "https://researchportal.helsinki.fi/en/publications/deontic-authority-in-interaction-the-right-to-announce-propose-an/"
+    },
+    "facework": {
+      "title": "Cardon & Okoro (2010). A Meta-Analysis of the Cultural Propositions about Conflict Management Styles in Face-Negotiation Theory.",
+      "url": "https://docs.lib.purdue.edu/rpcg/vol1/iss1/2/",
+      "explanation": "Peter Cardon and Ephraim Okoro reviewed studies testing cultural propositions about conflict styles and face: the respect or social identity people seek to maintain in interaction.",
+      "limit": "The accessible abstract describes the review’s questions without detailed results. No country-specific prediction or claim that a face-saving technique works is drawn from it.",
+      "access": "Institutional abstract and bibliographic record only; detailed results not reviewed.",
+      "checked": "2026-11-08",
+      "record": "https://docs.lib.purdue.edu/rpcg/vol1/iss1/2/"
+    },
+    "family-boundary": {
+      "title": "Carroll, Olson & Buckmiller (2007). Family Boundary Ambiguity: A 30-Year Review.",
+      "url": "https://scholarsarchive.byu.edu/facpub/4337/",
+      "explanation": "Jason Carroll and colleagues reviewed 37 studies across settings including divorce, stepfamilies, illness and caregiving. Boundary ambiguity concerns uncertainty about family membership or roles.",
+      "limit": "This differs from deciding a personal limit. The review does not supply a checklist for assigning family roles or blame.",
+      "access": "Institutional abstract and research record read.",
+      "checked": "2026-11-08",
+      "record": "https://scholarsarchive.byu.edu/facpub/4337/"
+    },
+    "differential": {
+      "title": "Jensen & Thomsen (2024). Parental differential treatment of siblings linked with internalizing and externalizing behavior: A meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38439142/",
+      "explanation": "Jensen and Thomsen combined research involving 26,451 participants. Differences in parental treatment were associated with children’s internalising and externalising difficulties.",
+      "limit": "The largely White child/adolescent samples do not establish an adult in-law’s motive, and association does not identify a single cause.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/38439142/"
+    },
+    "mental-work": {
+      "title": "Daminger (2019). The Cognitive Dimension of Household Labor.",
+      "url": "https://doi.org/10.1177/0003122419859007",
+      "explanation": "Sociologist Allison Daminger used interviews with members of 35 couples to examine cognitive household work, including anticipating needs, identifying options and monitoring progress.",
+      "limit": "This qualitative study offers distinctions for examining work. It is not a population estimate or a rule about what women or men always do.",
+      "access": "Publisher abstract read; full interview methods and article not reviewed.",
+      "checked": "2026-11-08",
+      "record": "https://doi.org/10.1177/0003122419859007"
+    },
+    "demand-withdraw": {
+      "title": "Schrodt, Witt & Shimkowski (2014). A Meta-Analytical Review of the Demand/Withdraw Pattern of Interaction.",
+      "url": "https://doi.org/10.1080/03637751.2013.813632",
+      "explanation": "Paul Schrodt and colleagues combined 74 studies linking demand–withdraw interaction with relational, communication and individual outcomes. The sequence concerns one person pressing for change while another disengages.",
+      "limit": "The associations do not establish who caused a conflict or equal responsibility for harm.",
+      "access": "Abstract read through EBSCO bibliographic record; publisher full text restricted.",
+      "checked": "2026-11-08",
+      "record": "https://doi.org/10.1080/03637751.2013.813632"
+    },
+    "cycle-context": {
+      "title": "Ross and colleagues (2019). Communication that is maladaptive for middle-class couples is adaptive for socioeconomically disadvantaged couples.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30321045/",
+      "explanation": "Jaclyn Ross and colleagues followed couples over time. Associations between demand–withdraw communication and relationship satisfaction varied with socioeconomic resources.",
+      "limit": "These observational studies do not prescribe withdrawal or excuse coercion; practical capacity can change what a request and response mean.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/30321045/"
+    },
+    "responsiveness": {
+      "title": "Arican-Dinc & Gable (2023). Responsiveness in romantic partners’ interactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37515977/",
+      "explanation": "Arican-Dinc and Gable reviewed perceived responsiveness: feeling that a partner understands, validates and cares about what one has shared.",
+      "limit": "Romantic-interaction research does not validate a universal support script. Validation of an experience need not mean agreement with every factual claim.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/37515977/"
+    },
+    "family-response": {
+      "title": "Cook, Dezangré & De Mol (2018). Sources of perceived responsiveness in family relationships.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29745679/",
+      "explanation": "William Cook and colleagues studied 207 two-parent, two-child families. Perceived responsiveness reflected contributions from the perceiver, the other person and their particular relationship.",
+      "limit": "The design does not establish a causal remedy or represent all family structures. One interaction is not simply a personality reading.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/29745679/"
+    },
+    "needs-support": {
+      "title": "Slemp and colleagues (2024). Interpersonal supports for basic psychological needs and their relations with motivation, well-being, and performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38635183/",
+      "explanation": "Gavin Slemp and colleagues combined 881 independent samples. Support for autonomy, competence and relatedness was associated with need satisfaction, well-being and performance.",
+      "limit": "These associations support considering several kinds of support together; they do not validate this book’s exercises or establish the cause of one refusal.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/38635183/"
+    },
+    "leader-support": {
+      "title": "Slemp and colleagues (2018). Leader autonomy support in the workplace: A meta-analytic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30237648/",
+      "explanation": "Gavin Slemp and colleagues combined 83 unique workplace samples. Perceived autonomy-supportive supervision was associated with autonomous motivation, well-being and positive work behaviour.",
+      "limit": "The largely correlational evidence cannot determine whether one manager’s oversight is excessive or show that removing all checks improves work.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/30237648/"
+    },
+    "sequential": {
+      "title": "Burger (1999). The foot-in-the-door compliance procedure: a multiple-process analysis and review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15661679/",
+      "explanation": "Jerry Burger reviewed research on small requests followed by larger requests. Several processes may contribute, including consistency, commitment and reactance; conditions can also eliminate or reverse the effect.",
+      "limit": "This is not a guaranteed way to obtain agreement or a way to infer a requester’s intent.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/15661679/"
+    },
+    "request-comparison": {
+      "title": "Pascual & Guéguen (2005). Foot-in-the-door and door-in-the-face: a comparative meta-analytic study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15825914/",
+      "explanation": "Alexandre Pascual and Nicolas Guéguen compared studies of small-then-large and large-then-smaller requests. They found no significant difference between the procedures in those direct comparisons.",
+      "limit": "Comparing the two procedures does not alone establish that either beats an ordinary request in every setting.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/15825914/"
+    },
+    "norm-messages": {
+      "title": "Papakonstantinou and colleagues (2025). A systematic review and meta-analysis of social norms messaging approaches for improving health behaviours.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40983670/",
+      "explanation": "Papakonstantinou and colleagues reviewed 89 trials of social-norm health messages. The apparent average benefit disappeared after adjustment for publication bias.",
+      "limit": "This finding concerns specific health interventions in developed countries, not whether social norms ever influence people.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/40983670/"
+    },
+    "attachment": {
+      "title": "Zhang and colleagues (2022). The relationship between adult attachment and mental health: A meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36201836/",
+      "explanation": "Zhang and colleagues combined studies of attachment anxiety and avoidance. Both dimensions were associated with mental-health measures.",
+      "limit": "The associations do not diagnose anyone or establish a fixed attachment type or childhood cause.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/36201836/"
+    },
+    "attachment-time": {
+      "title": "Hadden, Smith & Webster (2014). Relationship duration moderates associations between attachment and relationship quality.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24026179/",
+      "explanation": "Benjamin Hadden and colleagues reviewed associations between attachment dimensions, relationship satisfaction and commitment. Relationship duration moderated associations in cross-sectional samples.",
+      "limit": "Differences between longer and shorter relationships do not establish a person’s future or show that duration caused deterioration.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/24026179/"
+    },
+    "daily-plans": {
+      "title": "Sezer and colleagues (2025). An experimental investigation of daily mental contrasting with implementation intentions and goal motives in reducing bedtime procrastination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40219795/",
+      "explanation": "Sezer and colleagues compared daily with one-off planning in a week-long registered study of 297 participants. The daily group reported less bedtime procrastination.",
+      "limit": "The specific comparison and short duration do not establish a durable treatment for every kind of procrastination.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/40219795/"
+    },
+    "feedback-process": {
+      "title": "Kluger & DeNisi (1996). The effects of feedback interventions on performance.",
+      "url": "https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/",
+      "explanation": "Avraham Kluger and Angelo DeNisi combined feedback experiments. Performance improved on average, but more than a third of the interventions reduced it. Their account emphasises where feedback directs attention.",
+      "limit": "No fixed wording or praise formula follows from the average result; task and context matter.",
+      "access": "Institutional abstract and research record read.",
+      "checked": "2026-11-08",
+      "record": "https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/"
+    },
+    "speak-up": {
+      "title": "Frazier and colleagues (2017). Psychological Safety: A Meta-Analytic Review and Extension.",
+      "url": "https://digitalcommons.odu.edu/management_fac_pubs/13/",
+      "explanation": "Lance Frazier and colleagues combined 136 workplace samples to examine psychological safety and its connections with leadership, work behaviour and performance.",
+      "limit": "The evidence does not guarantee that speaking up is safe in a particular organisation or that one invitation will change its consequences.",
+      "access": "Institutional abstract and research record read.",
+      "checked": "2026-11-08",
+      "record": "https://digitalcommons.odu.edu/management_fac_pubs/13/"
+    },
+    "facets": {
+      "title": "Stewart and colleagues. The finer details? The predictability of life outcomes from Big Five domains, facets, and nuances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34236710/",
+      "explanation": "Ross Stewart and colleagues compared broad traits, facets and narrower descriptions when predicting 53 self-reported outcomes in a large dataset with separate training and validation samples. Narrower descriptions carried useful information.",
+      "limit": "Prediction is not a causal account. The study does not license scoring someone from selected anecdotes or copying assessment items.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/34236710/"
+    },
+    "ostracism": {
+      "title": "Williams (2007). Ostracism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16968209/",
+      "explanation": "Kipling Williams reviewed research on being ignored, rejected or excluded. Such experiences can threaten belonging and other needs, with different behavioural responses.",
+      "limit": "A painful exclusion does not establish its cause, and one missed invitation does not prove deliberate ostracism.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/16968209/"
+    },
+    "gossip-evidence": {
+      "title": "Grayson, Feinberg, Willer & Zaki (2025). Ironic effects of prosocial gossip in driving inaccurate social perceptions.",
+      "url": "https://doi.org/10.1016/j.jesp.2024.104682",
+      "explanation": "Samantha Grayson and colleagues reanalysed economic-game gossip and ran an experiment with new readers. Negative stories were disproportionately shared, leading readers to underestimate how cooperatively the original groups behaved.",
+      "limit": "Economic-game findings do not establish that every warning is biased or that a specific family’s reputation is false.",
+      "access": "Abstract read in Stanford GSB Preserve institutional record: https://gsbpreserve.stanford.edu/view/43150/ironic-effects-of-prosocial-gossip-in-driving-inaccurate-social-perceptions",
+      "checked": "2026-11-08",
+      "record": "https://doi.org/10.1016/j.jesp.2024.104682"
+    },
+    "comparison": {
+      "title": "Social comparison and envy on social media: A critical review (2022).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35184028/",
+      "explanation": "A 2022 critical review examined social comparison, envy and well-being on social media. The evidence included mixed, conditional and person-dependent findings.",
+      "limit": "Comparison is not uniformly harmful, and findings about social media cannot explain every offline comparison.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/35184028/"
+    },
+    "gatekeeping": {
+      "title": "Reis and colleagues (2025). Relations Between Parental Gatekeeping and Parenting in Families With Children: A Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40439085/",
+      "explanation": "Reis and colleagues reviewed 16 studies of parental gatekeeping and parenting. They describe complex, bidirectional relationships and disagreement about concepts and measurement.",
+      "limit": "The literature largely concerns coparenting and father involvement. It does not directly establish a grandmother’s or in-law’s strategy.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/40439085/"
+    },
+    "near-event": {
+      "title": "Shiffman, Stone & Hufford (2008). Ecological momentary assessment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18509902/",
+      "explanation": "Saul Shiffman and colleagues reviewed repeated sampling of experiences close to the time they occur and in everyday settings. This can reduce reliance on global retrospective reports.",
+      "limit": "A private notebook is not a validated assessment or proof of causality. Recording must remain proportionate and should not become surveillance.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/18509902/"
+    },
+    "individual-inference": {
+      "title": "Fisher, Medaglia & Jeronimus (2018). Lack of group-to-individual generalizability is a threat to human subjects research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29915059/",
+      "explanation": "Aaron Fisher and colleagues examined six repeated-measures datasets and highlighted difficulties transferring aggregate patterns to individual processes.",
+      "limit": "This is a reason to check individual context and uncertainty, not a claim that population research can never inform individuals; methodological debate continues.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/29915059/"
+    },
+    "ai-agreement": {
+      "title": "Sharma and colleagues. Towards Understanding Sycophancy in Language Models (ICLR 2024; arXiv revision 2025).",
+      "url": "https://arxiv.org/abs/2310.13548",
+      "explanation": "Mrinank Sharma and colleagues evaluated five AI assistants and found that matching a user’s views could compete with giving accurate answers.",
+      "limit": "The evaluated models do not represent every current service. A prompt asking for alternatives is not a validated guarantee against sycophancy.",
+      "access": "Author abstract and version record read; not a claim of evaluating the app’s current providers.",
+      "checked": "2026-11-08",
+      "record": "https://arxiv.org/abs/2310.13548"
+    },
+    "darvo": {
+      "title": "Harsey & Freyd (2023). The Influence of Deny, Attack, Reverse Victim and Offender and Insincere Apologies on Perceptions of Sexual Assault.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37154429/",
+      "explanation": "Sarah Harsey and Jennifer Freyd experimentally varied fictional sexual-assault accounts read by 230 undergraduates. Denial, attack and blame reversal affected judgments of the people described.",
+      "limit": "This concerns observers’ judgments in a specific scenario. It is not a test of guilt, family prevalence or personality disorder.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/37154429/"
+    },
+    "impression": {
+      "title": "Peck & Levashina (2017). Impression Management and Interview and Job Performance Ratings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28261135/",
+      "explanation": "Jennifer Peck and Julia Levashina combined research on impression management in interviews and performance ratings. Associations varied by tactic and research design.",
+      "limit": "These workplace findings do not establish dishonesty whenever someone changes their presentation across audiences.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/28261135/"
+    },
+    "parentification": {
+      "title": "Dariotis and colleagues (2023). Parentification Vulnerability, Reactivity, Resilience, and Thriving: A Mixed Methods Systematic Literature Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37444045/",
+      "explanation": "Jacinda Dariotis and colleagues reviewed 95 studies of young people taking developmentally inappropriate adult-like roles. Outcomes varied with demands, support and other circumstances.",
+      "limit": "Family contribution is not automatically parentification. Findings do not determine one adult’s childhood history or imply that every responsibility harms a child.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/37444045/"
+    },
+    "moral-emotions": {
+      "title": "Tangney, Stuewig & Mashek (2007). Moral emotions and moral behavior.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16953797/",
+      "explanation": "June Tangney and colleagues reviewed shame, guilt and other moral emotions, distinguishing evaluations of the whole self from concern about a specific action.",
+      "limit": "These distinctions do not reveal another person’s inner emotion from their behaviour or make anger proof of shame.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/16953797/"
+    },
+    "digital-tone": {
+      "title": "Kruger, Epley, Parker & Ng (2005). Egocentrism over e-mail: can we communicate as well as we think?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16393025/",
+      "explanation": "Justin Kruger and colleagues ran five experiments suggesting that people overestimate how well an intended tone comes across in email.",
+      "limit": "The experiments do not show that every short message is misunderstood or that a delayed reply is harmless. Contemporary platforms and relationships may differ.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/16393025/"
+    },
+    "negotiation": {
+      "title": "Boothby, Cooney & Schweitzer (2023). Embracing Complexity: A Review of Negotiation Research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36130067/",
+      "explanation": "Erica Boothby, Gus Cooney and Maurice Schweitzer reviewed negotiation research, emphasising context, interaction, power and conditions that change familiar effects.",
+      "limit": "The review does not supply a universally effective bargaining script. Mediation requires separate attention to consent, authority and safety.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/36130067/"
+    },
+    "acculturation": {
+      "title": "Shukla and colleagues (2025). When and how do parent-child acculturation gaps matter?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40073496/",
+      "explanation": "Serena Shukla and colleagues reviewed 98 records concerning immigrant parents and children. More than half found no association between cultural gaps and the examined child, parenting or family outcomes.",
+      "limit": "Different rates of cultural adaptation are not inherently a family problem. Specific domains and circumstances matter.",
+      "access": "NCBI bibliographic record and abstract read; no claim of full-text review.",
+      "checked": "2026-11-08",
+      "record": "https://pubmed.ncbi.nlm.nih.gov/40073496/"
     }
   }
 }

@@ -16,14 +16,16 @@ REPOSITORY = 'snowch/understanding-people'
 
 
 def ordering(chapters, pages):
+    from written_editions import recorded_sources
+    recorded = recorded_sources(pages)
     core = [('book.md', 'Introduction')]
     core += [(source, f'{i:02}. {title}') for i, (title, source) in enumerate(chapters, 1)]
     core += [('conclusion.md', 'Conclusion — What to take with you')]
-    references = [(entry['source'], 'Reference — ' + entry['title']) for entry in ENTRIES]
+    references = [(entry['source'], 'Reference — ' + entry['title']) for entry in ENTRIES if entry['source'] in recorded]
     used = {source for source, _ in [*core, *references]}
-    guides = [(source, 'Guide — ' + title) for source, title in pages if eligible(source) and source not in used]
+    guides = [(source, 'Guide — ' + title) for source, title in pages if source in recorded and source not in used]
     complete = core + references + guides
-    expected = {source for source, _ in pages if eligible(source)}
+    expected = recorded
     assert len(core) == 14 and len(complete) == len(expected) == 136
     assert {source for source, _ in complete} == expected
     return {'complete': complete, 'course': core}
@@ -72,8 +74,8 @@ def render(data, page):
     chapters = data['voices']['andrew']['editions']['course']['chapters']
     sequence = ''.join('<li><a href="' + escape(Path(os.path.relpath(target(c['source']), page.parent)).as_posix(), quote=True) + '">' + escape(c['title']) + '</a></li>' for c in chapters)
     return f'''<section class="audiobook-library" aria-labelledby="complete-audiobook">
-<h2 id="complete-audiobook">The complete book, in one file</h2>
-<p>The course comes first, followed by the reference library and reading guides. Use the chapter list to jump to any of the 136 sections.</p>
+<h2 id="complete-audiobook">The recorded book, in one file</h2>
+<p>The recorded edition contains the course, reference library and reading guides in 136 sections. Newer written references and revisions are available in the online library; they are not included in these recordings.</p>
 <div class="audiobook-editions">{''.join(cards)}</div>
 <details class="audiobook-course"><summary>Smaller download: just the course</summary><p>One file per voice, containing the introduction, twelve chapters and conclusion. The reference library and reading guides are left out of this smaller edition.</p><div class="audiobook-course-links">{core}</div></details>
 <details class="audiobook-contents"><summary>The first fourteen chapters</summary><ol>{sequence}</ol><p>The complete edition continues with reference entries grouped by topic, then reading and support guides.</p></details>

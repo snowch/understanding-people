@@ -73,7 +73,8 @@ class RangeHandler(SimpleHTTPRequestHandler):
 def verify(base, voice=DEFAULT):
     base = base.rstrip('/') + '/'
     manifest = json.loads(manifest_path(voice).read_text())
-    expected = {s for s, _ in PAGES if eligible(s)}
+    from written_editions import recorded_sources, editions as written_editions
+    expected = recorded_sources(PAGES)
     assert set(manifest['pages']) == expected
     assert manifest['voice'] == VOICES[voice]['id'] and len(expected) == 136
     for source, entry in manifest['pages'].items():
@@ -96,6 +97,10 @@ def verify(base, voice=DEFAULT):
         page.on('request', lambda request: media.append(request.url) if urlsplit(request.url).path.endswith('.mp3') else None)
         for source, entry in manifest['pages'].items():
             page.goto(base + destination(source).as_posix())
+            if source in written_editions():
+                expect(page.locator('.page-narration')).to_have_count(0)
+                expect(page.locator('.narration-update')).to_contain_text('Written edition')
+                continue
             panel = page.locator('.page-narration')
             expect(panel).to_have_count(1)
             expect(panel.locator('audio')).to_have_attribute('preload', 'none')
@@ -113,7 +118,7 @@ def verify(base, voice=DEFAULT):
             for anchor in {s['anchor'] for s in entry['sections']}:
                 expect(page.locator('[id="' + anchor + '"]')).to_have_count(1)
         assert not media, media  # Native players do not fetch on arrival.
-        samples = ['book.md', 'chapters/01-before-you-explain.md', 'reference/confirmation-bias.md', 'reference/gaslighting.md', 'reference/sources.md', 'glossary.md']
+        samples = ['book.md', 'chapters/01-before-you-explain.md', 'reference/confirmation-bias.md', 'reference/gaslighting.md', 'reference/familynorms.md', 'glossary.md']
         for source in samples:
             page.goto(base + destination(source).as_posix())
             for width in [320, 390, 834, 1440]:
@@ -184,7 +189,7 @@ def verify(base, voice=DEFAULT):
         expect(r.locator('.page-narration')).to_contain_text('download the MP3 for offline listening')
         assert not errors, errors
         browser.close()
-    print(f'Passed: {len(expected)} current {VOICES[voice]["name"]} narrations; source/file checksums, all transcripts and range URLs, no automatic audio downloads, section seek/playback/speed, independent optional audio, MP3 download, keyboard/no-JS, light/dark responsive layouts, printing and offline text. No screenshots or recordings created.')
+    print(f'Passed: {len(expected)} retained recordings and {len(expected-set(written_editions()))} current {VOICES[voice]["name"]} players; source/file checksums, all transcripts and range URLs, no automatic audio downloads, section seek/playback/speed, independent optional audio, MP3 download, keyboard/no-JS, light/dark responsive layouts, printing and offline text. No screenshots or recordings created.')
 
 
 if __name__ == '__main__':

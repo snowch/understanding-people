@@ -25,6 +25,15 @@ def render():
         chunks += ['<span id="what-the-full-entry-will-cover"></span>', '## How it may arise',d['arise'], '## What the evidence supports']
         for key in d['sources']:
             ref=sources[key];chunks += [ref['explanation']+' '+ref['limit']+' ['+ref['title']+']('+ref['url']+')']
+        for section in d.get('sections', []):
+            parts=['## '+section['title']+' {#'+section['id']+'}', *section['paragraphs']]
+            if section.get('example'):parts += ['**A separate fictional example:** '+section['example']]
+            for key in section.get('sources', []):
+                ref=sources[key];used.add(key)
+                parts += ['['+ref['title']+']('+ref['url']+'). '+ref['limit']]
+            if section.get('optional'):
+                parts=['<details class="evidence-detail" markdown="1"><summary>'+section['title']+'</summary>',*parts,'</details>']
+            chunks += parts
         chunks += ['## What else could explain it? {#a-distinction-to-keep-in-mind}',d['alternatives'],'These alternatives are starting points, not an exhaustive list.','## What to notice and check',d['notice'],'## How to respond',d['respond'],'**A brief fictional example:** '+d['example']]
         chunks += ['## Read the foundations {#read-the-foundations-now}', '\n'.join('- ['+(ROOT/p).read_text().splitlines()[0][2:]+'](../'+p+')' for p in e['foundation'])]
         if d.get('related'):

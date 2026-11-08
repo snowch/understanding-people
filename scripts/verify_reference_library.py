@@ -11,8 +11,8 @@ ROOT=Path(__file__).resolve().parents[1]
 base=sys.argv[1].rstrip('/')+'/'
 cat=json.loads((ROOT/'reference/catalog.json').read_text());entries=[e for g in cat['groups'] for e in g['entries']]
 authored=[e for p in (ROOT/'reference/entries').glob('*.json') for e in json.loads(p.read_text())['entries']]
-assert len(entries)==111 and all(e['status']=='developed' for e in entries)
-assert len(authored)==108 and len({e['id'] for e in authored})==108
+assert len(entries)==136 and all(e['status']=='developed' for e in entries)
+assert len(authored)==133 and len({e['id'] for e in authored})==133
 assert not json.loads((ROOT/'reference/stubs.json').read_text())['entries']
 assert {e['id'] for e in authored}=={e['appNode'] for e in entries}-{'confirmation','correspondence','refusehelp'}
 bank=json.loads((ROOT/'reference/research-sources.json').read_text())['sources']
@@ -24,7 +24,7 @@ with sync_playwright() as pw:
     b=pw.chromium.launch();context=b.new_context(service_workers='block');page=context.new_page();errors=[];media=[]
     page.on('pageerror',lambda e:errors.append(str(e)))
     page.on('request',lambda r:media.append(r.url) if urlsplit(r.url).path.endswith(('.mp3','.mp4','.webm','.wav')) else None)
-    page.goto(base+'reference/index.html');expect(page.locator('.library-entry')).to_have_count(111)
+    page.goto(base+'reference/index.html');expect(page.locator('.library-entry')).to_have_count(136)
     expect(page.locator('.nav-stub')).to_have_count(0)
     for e in entries:
         page.goto(urljoin(base,e['source'].replace('.md','.html')))
@@ -54,9 +54,9 @@ with sync_playwright() as pw:
         for slug in ['index','sources','gaslighting','pd-narcissistic','agreeableness','autonomy']:
             page.goto(base+'reference/'+slug+'.html');assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),(width,slug)
         page.goto(base+'reference/index.html');page.locator('#library-query').fill('gaslighting');page.locator('.library-entry:visible h3 a').click();expect(page.locator('main h1')).to_have_text('Gaslighting & undermining your reality')
-        page.goto(base+'reference/index.html');page.locator('#library-status').select_option('developed');expect(page.locator('.library-entry:visible')).to_have_count(111)
+        page.goto(base+'reference/index.html');page.locator('#library-status').select_option('developed');expect(page.locator('.library-entry:visible')).to_have_count(136)
         page.locator('#library-status').select_option('stub');expect(page.locator('#library-empty')).to_be_visible()
     nojs=b.new_context(java_script_enabled=False,service_workers='block',viewport={'width':390,'height':900});q=nojs.new_page();q.goto(base+'reference/autonomy.html');q.locator('.practice-notes > summary').focus();q.keyboard.press('Enter');expect(q.locator('.practice-notes textarea').first).to_be_visible();expect(q.locator('.practice-notes noscript')).to_be_visible()
     assert not errors,errors
     b.close()
-print('Passed: all 111 written routes, 108 authored coverage, citations/access scope, old anchors, practice structure, note isolation/escaping/reload, clinical prompts, no unsolicited media, search, status filters, responsive widths and no-JavaScript notes. No recordings or screenshots created.')
+print('Passed: all 136 written routes, 133 authored coverage, citations/access scope, old anchors, practice structure, note isolation/escaping/reload, clinical prompts, no unsolicited media, search, status filters, responsive widths and no-JavaScript notes. No recordings or screenshots created.')

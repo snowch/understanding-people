@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "pages": {
+    "reference/naming-and-belonging.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "571fada7448031ace3985c75bee595c3813a50b994afa04f23d7d7616561c81e"
+    },
+    "reference/assumptions-and-authority.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "2e960c66cc38fa951db512cf278cd9aa5d3eed51d228ffbd2d778b87fbcfcd53"
+    },
+    "reference/family-membership.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "4e95b42ec1fc7bd1ed6bfe8b5b47bc452f61a9700caf6595d75f048ff48d4b63"
+    },
+    "reference/unequal-treatment.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "3dc76df8cef678a3c054070dd3e918b63364fbb7b613dc76bf3b5cce0b1ce812"
+    },
+    "reference/invisible-work.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "ece0e9cf2352abb85c2fa870c072f124d4de7ac8ce09dd36a268b32888ecaf59"
+    },
+    "reference/interaction-cycles.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "25bc9ec4b683ca3dab6e2013da4798bab7c063205ba5942431290fc39bbedc06"
+    },
+    "reference/responsive-support.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "83defc2bffd8373558a6c335696d0b3509ca7a201abd719b27ca9ec0422503c8"
+    },
+    "reference/oversight-and-delegation.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "56b4ce2c4c8e5180db2b0f088bac430b4cb90ce6c375f8bf799e894eb4facbfd"
+    },
+    "reference/sequential-requests.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "89b9ba166a11e763bc4f9b997ccc75d92b94bf37d97e37f5aacea2513ae3267c"
+    },
+    "reference/adult-attachment.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "c51405edcf949eb4f949e3da65b7e6f4a037f0539ff4561279e3a5d88602da99"
+    },
+    "reference/procrastination-planning.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "86e8558725047eed55d5ac5b8683a93f4fe46b154e9064eb3c1340ee3d0f021f"
+    },
+    "reference/feedback-and-speaking-up.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "885d3f723fc2150c2df4cbe3ca4aa94dcf8004953126463db632469c680f0963"
+    },
+    "reference/personality-facets.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "b065286199825aa0933a3a0169f2b181ef35ec483515407f69f95e4013304a76"
+    },
+    "reference/exclusion-and-reputation.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "69a8265b046e1a2cac0d774b4b55d03132d509260411e394a61c8f2f7df46301"
+    },
+    "reference/social-comparison.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "59a4ed243529f11762879435d2d9f692ea7b91f42a5309491172c691c6d0b0f9"
+    },
+    "reference/gatekeeping.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "3d0bba2851d3a2ba56421abd0b3e56b292b20da8840f2126c8abd27cca493503"
+    },
+    "reference/comparing-occasions.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "101fca7568eefec79b748b107a34905a05154867740262f718278ffe46b97bad"
+    },
+    "reference/ai-reflection.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "79e06a6f25c350b1aea608427d9c65b1f5c1af6c515a60b36b5978866e8d21f5"
+    },
+    "reference/blame-reversal.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "7bc49016050cd125ac163e078934489ab16e0fb5f068f560a5ef4286064efe4e"
+    },
+    "reference/changing-standards.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "856ffb8b34d984174b4ea75de716f2db6c17cb05564e2b0e1d00f7d9affc6686"
+    },
+    "reference/intense-and-inconsistent-contact.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "7587b59c19b52381821ad2505483e1f5d8bb5e5de20421126c84a7d6d3130653"
+    },
+    "reference/negotiation-and-mediation.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "f2cc109d55f2e0c9f6ae2581c18566df62a0bbf8cd3ff17ef7c83c6dd212715e"
+    },
+    "reference/parentification.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "1a0dabe4b85086a583d716e7f352ad60cccd077caf4fd2cac7009ccea3454e52"
+    },
+    "reference/shame-anger-and-repair.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "1917498e069f4b947466fde14d49b830024848cdfe7e59664c9def9972f46ff7"
+    },
+    "reference/digital-misunderstandings.md": {
+      "status": "new-text",
+      "date": "2026-11-08",
+      "reason": "Research audit expansion: original written reference, without a new recording.",
+      "page_text_sha256": "a024eea1d677d0211ed177ae4e8f4a086400136d631c8e70a51d50d3c305d4d6"
+    },
+    "reference/index.md": {
+      "status": "revised-text",
+      "date": "2026-11-08",
+      "reason": "Library catalogue or source log expanded; preserve its earlier recording without presenting it as the revised text.",
+      "page_text_sha256": "1f8b3c5bdd2931dee94d94925502699911a0dab1b83a004e764f52e6251ad48d",
+      "recorded_page_text_sha256": "a8b5baa93f4a7bb5aa5c51828fe6f467b90ab3ca46bb2604f68b766c2c7a140b",
+      "recorded_source_hashes": {
+        "reference/catalog.json": "dd3dcf18c12c98e21024fd20aa41325dc15af4bef27a0ed163c6a122b42b3d14"
+      },
+      "current_source_hashes": {
+        "reference/catalog.json": "a18c71e1c4dcfb90b38493d280d9ecaeae75b6855915616d952e9e70fff2742e"
+      }
+    },
+    "reference/sources.md": {
+      "status": "revised-text",
+      "date": "2026-11-08",
+      "reason": "Library catalogue or source log expanded; preserve its earlier recording without presenting it as the revised text.",
+      "page_text_sha256": "1cd12f1ad3050b6a4edc425cccb310f6508478a407526aefd15b4b5b1b9508de",
+      "recorded_page_text_sha256": "cc0793c22a10f97b8a137ea4f3021abd2820988190d2f0388e4625148db1acc1",
+      "recorded_source_hashes": {
+        "reference/research-sources.json": "844591348b59194555e6242f6814dcccdc660fea8ede256a0ec016dbe1a6e86a"
+      },
+      "current_source_hashes": {
+        "reference/research-sources.json": "087d7a109f8456a86b089fe37a6f9c9e3d322248a4baed5e74144768d6694336"
+      }
+    }
+  }
+}

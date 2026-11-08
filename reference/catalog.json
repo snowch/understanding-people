@@ -80,6 +80,44 @@
             "chapters/02-what-counts-as-knowing.md",
             "chapters/09-truth-lies-uncertainty.md"
           ]
+        },
+        {
+          "source": "reference/assumptions-and-authority.md",
+          "title": "Assumptions in questions & decision rights",
+          "summary": "Separate what a question asks from what it assumes, and a proposal from a decision someone is entitled to make.",
+          "keywords": "loaded questions presupposition implicature framing epistemic deontic authority agenda control who decides patronising",
+          "appNode": "assumptions-and-authority",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/08-questions-listening-disagreement.md"
+          ],
+          "aliases": [
+            "loaded questions",
+            "presupposition",
+            "deontic authority",
+            "epistemic authority"
+          ]
+        },
+        {
+          "source": "reference/comparing-occasions.md",
+          "title": "Compare occasions & test an explanation",
+          "summary": "Investigate recurrence, exceptions and competing explanations through proportionate observation, action and review.",
+          "keywords": "one off repeated pattern compare occasions hypothesis diary journal observation evidence exceptions causality intention conditioning strategy",
+          "appNode": "comparing-occasions",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/02-what-counts-as-knowing.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ],
+          "aliases": [
+            "compare occasions",
+            "one off or pattern"
+          ]
         }
       ]
     },
@@ -307,6 +345,12 @@
             "chapters/01-before-you-explain.md",
             "chapters/08-questions-listening-disagreement.md",
             "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "speak over",
+            "speaking over",
+            "talking over",
+            "cutting people off"
           ]
         },
         {
@@ -346,6 +390,11 @@
             "chapters/01-before-you-explain.md",
             "chapters/08-questions-listening-disagreement.md",
             "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "checking understanding",
+            "check understanding",
+            "before disagreeing"
           ]
         },
         {
@@ -424,6 +473,11 @@
             "chapters/01-before-you-explain.md",
             "chapters/08-questions-listening-disagreement.md",
             "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "criticising",
+            "criticizing",
+            "repeated criticism"
           ]
         },
         {
@@ -567,6 +621,162 @@
             "chapters/01-before-you-explain.md",
             "chapters/08-questions-listening-disagreement.md",
             "chapters/11-conflict-manipulation-boundaries.md"
+          ]
+        },
+        {
+          "source": "reference/naming-and-belonging.md",
+          "title": "Names, respect & belonging",
+          "summary": "How names and titles can express familiarity, belonging or rank, and what a naming difference does not establish.",
+          "keywords": "naming asymmetry names titles honorifics kinship matriarch patriarch mother in law inlaws face saving respect insiders outsiders",
+          "appNode": "naming-and-belonging",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/08-questions-listening-disagreement.md"
+          ],
+          "aliases": [
+            "naming asymmetry",
+            "forms of address",
+            "honorifics"
+          ]
+        },
+        {
+          "source": "reference/unequal-treatment.md",
+          "title": "Different standards & unequal treatment",
+          "summary": "Compare favouritism and double standards with differences that reflect needs, responsibilities or prior agreements.",
+          "keywords": "favouritism favoritism double standards differential treatment siblings golden child scapegoat unfair rules inlaws comparisons",
+          "appNode": "unequal-treatment",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/03-needs-motives-goals.md",
+            "chapters/07-culture-groups-power.md"
+          ],
+          "aliases": [
+            "double standards",
+            "favouritism",
+            "favoritism",
+            "golden child"
+          ]
+        },
+        {
+          "source": "reference/interaction-cycles.md",
+          "title": "Pressure, withdrawal & interaction cycles",
+          "summary": "Understand repeated sequences in which each person’s response changes what happens next.",
+          "keywords": "demand withdraw pursue withdraw escalation cycle stonewalling silent treatment argument reassurance co regulation",
+          "appNode": "interaction-cycles",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "demand withdraw",
+            "demand-withdraw",
+            "pursue withdraw"
+          ]
+        },
+        {
+          "source": "reference/sequential-requests.md",
+          "title": "Escalating requests & everyday influence",
+          "summary": "Recognise request sequences, reconsider each decision and distinguish persuasion from pressure.",
+          "keywords": "foot in the door door in the face persuasion tactics social proof reciprocity commitment consistency escalating requests scarcity compliance",
+          "appNode": "sequential-requests",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "foot in the door",
+            "door in the face",
+            "sequential requests"
+          ]
+        },
+        {
+          "source": "reference/exclusion-and-reputation.md",
+          "title": "Exclusion, gossip & reputation",
+          "summary": "Distinguish being excluded from restriction of your contacts, and check how stories about people are transmitted.",
+          "keywords": "ostracism exclusion gossip reputation rumours rumors smear campaign social proof shunning ignoring triangulation third party",
+          "appNode": "exclusion-and-reputation",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "ostracism",
+            "gossip",
+            "reputation"
+          ]
+        },
+        {
+          "source": "reference/blame-reversal.md",
+          "title": "Denial, attack & blame reversal",
+          "summary": "Recognise a sequence that redirects accountability while distinguishing it from legitimate defence or counter-complaint.",
+          "keywords": "DARVO deny attack reverse victim offender blame reversal victim blaming credibility accusations counter accusations",
+          "appNode": "blame-reversal",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "DARVO",
+            "blame reversal"
+          ]
+        },
+        {
+          "source": "reference/changing-standards.md",
+          "title": "Changing criteria & moving goalposts",
+          "summary": "Distinguish justified revisions from repeated changes that make an agreement impossible to satisfy.",
+          "keywords": "moving goalposts goalpost changing criteria double standards shifting standards changing agreement lowball terms scope creep",
+          "appNode": "changing-standards",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/02-what-counts-as-knowing.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ],
+          "aliases": [
+            "moving goalposts",
+            "scope creep"
+          ]
+        },
+        {
+          "source": "reference/intense-and-inconsistent-contact.md",
+          "title": "Intense affection & inconsistent contact",
+          "summary": "Examine pace, consent, reliability and impact behind labels such as love bombing or breadcrumbing.",
+          "keywords": "love bombing lovebombing hoovering breadcrumbing intermittent attention hot cold intense affection rapid closeness contact",
+          "appNode": "intense-and-inconsistent-contact",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/03-needs-motives-goals.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "love bombing",
+            "hoovering",
+            "breadcrumbing"
           ]
         }
       ]
@@ -817,6 +1027,23 @@
           "foundation": [
             "chapters/06-personality-habits-situations.md"
           ]
+        },
+        {
+          "source": "reference/personality-facets.md",
+          "title": "Personality facets & situation differences",
+          "summary": "Use narrower trait distinctions while avoiding character judgments from a few incidents.",
+          "keywords": "facets personality nuances assertiveness sociability organisation organization productivity compassion respectfulness trust big five traits",
+          "appNode": "personality-facets",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/06-personality-habits-situations.md"
+          ],
+          "aliases": [
+            "personality facets",
+            "personality nuances"
+          ]
         }
       ]
     },
@@ -907,6 +1134,62 @@
           "foundation": [
             "chapters/05-emotion-stress-coping.md",
             "chapters/06-personality-habits-situations.md"
+          ]
+        },
+        {
+          "source": "reference/procrastination-planning.md",
+          "title": "Procrastination & making a start",
+          "summary": "Turn an intention into a feasible next action while checking resources, task feelings and obstacles.",
+          "keywords": "procrastination putting off delaying implementation intentions mental contrasting if then plans motivation studying task aversion",
+          "appNode": "procrastination-planning",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ],
+          "aliases": [
+            "procrastination",
+            "implementation intentions",
+            "mental contrasting"
+          ]
+        },
+        {
+          "source": "reference/social-comparison.md",
+          "title": "Social comparison & envy",
+          "summary": "Understand comparison with other people without treating every comparison as harmful or every disappointment as envy.",
+          "keywords": "envy jealousy comparison upward downward social media success status resentment inferiority inspiration schadenfreude",
+          "appNode": "social-comparison",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/04-beliefs-identity-history.md",
+            "chapters/05-emotion-stress-coping.md"
+          ],
+          "aliases": [
+            "envy",
+            "social comparison"
+          ]
+        },
+        {
+          "source": "reference/shame-anger-and-repair.md",
+          "title": "Shame, anger & taking responsibility",
+          "summary": "Distinguish a judgment about the whole self from concern about an action, without inferring emotions from outward conduct.",
+          "keywords": "shame guilt anger embarrassment humiliation defensive rage self worth blame repair emotion regulation",
+          "appNode": "shame-anger-and-repair",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/04-beliefs-identity-history.md",
+            "chapters/05-emotion-stress-coping.md",
+            "chapters/08-questions-listening-disagreement.md"
+          ],
+          "aliases": [
+            "shame and anger",
+            "guilt"
           ]
         }
       ]
@@ -1143,6 +1426,123 @@
             "chapters/07-culture-groups-power.md",
             "chapters/04-beliefs-identity-history.md"
           ]
+        },
+        {
+          "source": "reference/family-membership.md",
+          "title": "Family membership, roles & loyalties",
+          "summary": "Understand uncertainty about who belongs, who has responsibilities and how family roles change.",
+          "keywords": "inlaws mother in law stepfamily blended family kinship matriarch patriarch coalitions loyalty boundaries grief acculturation filial",
+          "appNode": "family-membership",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/04-beliefs-identity-history.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "family membership",
+            "boundary ambiguity",
+            "kinship",
+            "acculturation"
+          ]
+        },
+        {
+          "source": "reference/invisible-work.md",
+          "title": "Invisible work & shared responsibility",
+          "summary": "Make planning, remembering and coordination visible when dividing household, care or team work.",
+          "keywords": "mental load cognitive labour labor emotional labour household chores weaponised weaponized incompetence coordination kin keeping invisible work",
+          "appNode": "invisible-work",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ],
+          "aliases": [
+            "mental load",
+            "cognitive labour",
+            "cognitive labor",
+            "weaponised incompetence",
+            "weaponized incompetence",
+            "kin keeping"
+          ]
+        },
+        {
+          "source": "reference/adult-attachment.md",
+          "title": "Adult attachment: anxiety, avoidance & security",
+          "summary": "Understand dimensions of relationship expectations without assigning fixed types or diagnoses.",
+          "keywords": "attachment anxious avoidant secure disorganised disorganized attachment style intimacy closeness reassurance independence",
+          "appNode": "adult-attachment",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/04-beliefs-identity-history.md",
+            "chapters/06-personality-habits-situations.md",
+            "chapters/08-questions-listening-disagreement.md"
+          ],
+          "aliases": [
+            "attachment anxiety",
+            "attachment avoidance",
+            "attachment styles"
+          ]
+        },
+        {
+          "source": "reference/gatekeeping.md",
+          "title": "Access, participation & gatekeeping",
+          "summary": "Examine how someone facilitates or restricts participation while distinguishing privacy, care and safety duties.",
+          "keywords": "gatekeeping access information decisions caregiving coparenting inlaws mother in law grandmother control participation permission",
+          "appNode": "gatekeeping",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "gatekeeping",
+            "parental gatekeeping"
+          ]
+        },
+        {
+          "source": "reference/parentification.md",
+          "title": "Children carrying adult responsibilities",
+          "summary": "Distinguish developmentally inappropriate adult roles from supported, age-appropriate family contribution.",
+          "keywords": "parentification role reversal child caregiving emotional parent adult responsibilities young carer family duty triangulation childhood",
+          "appNode": "parentification",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/06-personality-habits-situations.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/11-conflict-manipulation-boundaries.md"
+          ],
+          "aliases": [
+            "parentification",
+            "role reversal"
+          ]
+        },
+        {
+          "source": "reference/digital-misunderstandings.md",
+          "title": "Messages, tone & delayed replies",
+          "summary": "Interpret short or unanswered messages with attention to wording, medium, expectations and missing information.",
+          "keywords": "texting email WhatsApp message tone sarcasm delayed reply unanswered left on read ghosting punctuation digital communication",
+          "appNode": "digital-misunderstandings",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/09-truth-lies-uncertainty.md"
+          ],
+          "aliases": [
+            "email tone",
+            "text tone",
+            "delayed replies"
+          ]
         }
       ]
     },
@@ -1279,6 +1679,102 @@
             "chapters/08-questions-listening-disagreement.md",
             "chapters/10-motivation-influence-cooperation.md",
             "chapters/12-putting-understanding-to-work.md"
+          ]
+        },
+        {
+          "source": "reference/responsive-support.md",
+          "title": "Support that feels helpful",
+          "summary": "Match help to the person’s concern, choices and capabilities, and check whether it helped.",
+          "keywords": "responsiveness validation support matching empathy unwanted advice help autonomy competence relatedness co regulation",
+          "appNode": "responsive-support",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ],
+          "aliases": [
+            "responsive support",
+            "perceived responsiveness",
+            "support matching"
+          ]
+        },
+        {
+          "source": "reference/oversight-and-delegation.md",
+          "title": "Oversight, delegation & micromanagement",
+          "summary": "Distinguish proportionate checks from unnecessary control and agree ownership of shared work.",
+          "keywords": "micromanaging micromanagement delegation oversight supervision manager checking trust autonomy decision rights accountability",
+          "appNode": "oversight-and-delegation",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ],
+          "aliases": [
+            "micromanaging",
+            "micromanagement",
+            "delegation"
+          ]
+        },
+        {
+          "source": "reference/feedback-and-speaking-up.md",
+          "title": "Feedback & speaking up",
+          "summary": "Give task-focused feedback and examine whether people can raise a concern without costly consequences.",
+          "keywords": "feedback psychological safety speak up criticism manager coaching errors mistakes dissent retaliation voice sandwich",
+          "appNode": "feedback-and-speaking-up",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/07-culture-groups-power.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ],
+          "aliases": [
+            "psychological safety",
+            "speaking up",
+            "feedback"
+          ]
+        },
+        {
+          "source": "reference/ai-reflection.md",
+          "title": "Use AI without reinforcing a first impression",
+          "summary": "Use an LLM to organise questions and alternatives while keeping generated suggestions separate from observations.",
+          "keywords": "AI LLM guidance analysis Gemini OpenAI Claude Mistral sycophancy confirmation bias hallucinations prompts privacy",
+          "appNode": "ai-reflection",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/01-before-you-explain.md",
+            "chapters/02-what-counts-as-knowing.md",
+            "chapters/12-putting-understanding-to-work.md"
+          ],
+          "aliases": [
+            "AI sycophancy",
+            "AI reflection"
+          ]
+        },
+        {
+          "source": "reference/negotiation-and-mediation.md",
+          "title": "Negotiate a workable difference",
+          "summary": "Compare interests, options and alternatives while recognising limits to bargaining and mediation.",
+          "keywords": "negotiation mediation bargaining interests positions compromise BATNA dependency power conflict resolution deal client",
+          "appNode": "negotiation-and-mediation",
+          "status": "developed",
+          "audioStatus": "text",
+          "foundation": [
+            "chapters/03-needs-motives-goals.md",
+            "chapters/07-culture-groups-power.md",
+            "chapters/08-questions-listening-disagreement.md",
+            "chapters/10-motivation-influence-cooperation.md"
+          ],
+          "aliases": [
+            "negotiation",
+            "mediation"
           ]
         }
       ]

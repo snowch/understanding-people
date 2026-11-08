@@ -2,6 +2,8 @@
 
 8 November 2026. Baseline: main at 0b1f8f0, with twelve foundation chapters and 111 developed reference entries.
 
+Implementation: the [audit delivery record](audit-implementation.md) maps all eighteen areas and the additional research leads to the expanded written explanations, app connections, edition handling and checks. The findings below retain the audit's original baseline.
+
 The largest opportunity is to explain **how interactions work over time**: how people establish roles, communicate rank, distribute responsibility, influence decisions and respond to one another. The library already describes many individual behaviours. It needs more connections between those behaviours, their context and useful ways to respond.
 
 Naming asymmetry is a good example. Recognition, power and family expectations are covered, but the reader cannot learn how names and titles can signal different relationships. Adding another paragraph about status would not fully close that gap.

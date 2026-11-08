@@ -173,6 +173,12 @@ footer { margin-top:50px; padding-top:24px; font-size:11px; color:var(--muted); 
 .library-entry p { font:400 14px/1.65 var(--ui); }
 .library-group > h2 { margin-top:42px; }
 .reference-formats a { font-size:13px; border-color:var(--line); border-radius:7px; }
+.reading-connections { display:block; padding-block:1rem; border-top:1px solid var(--line); }
+.reading-connections details { width:100%; }
+.reading-connections summary { color:var(--accent); cursor:pointer; font-weight:600; }
+.reading-connections li { margin-block:.8rem; }
+.reading-connections a { display:inline; padding:0; border:0; border-radius:0; background:none; font:inherit; text-decoration:underline; text-underline-offset:.18em; }
+.narration-update { color:var(--muted); font-family:var(--ui); font-size:.9rem; line-height:1.6; margin-block:1rem 1.5rem; }
 .book-preferences { font-family:var(--ui); }
 .book-preferences legend { font-family:var(--reading); }
 .voice-option { border-radius:12px; background:var(--surface); }
