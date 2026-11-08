@@ -61,6 +61,12 @@ def verify(base):
   expect(p.locator('.recorded-edition-note')).to_contain_text('later written additions')
   expect(p.locator('.recorded-edition-note a')).to_have_count(3)
   p.goto(base+'reference/learned.html');expect(p.locator('.page-narration')).to_have_count(1)
+  for slug in ('family-membership','unequal-treatment','power','familynorms'):
+   p.goto(base+'reference/'+slug+'.html')
+   routes=p.locator('.reading-connections');routes.locator('> details > summary').click()
+   expect(routes.get_by_role('link',name='People-pleasing & automatic agreement')).to_have_count(1)
+   hrefs=routes.locator('a').evaluate_all('(els)=>els.map(e=>e.href)')
+   assert len(hrefs)==len(set(hrefs)),slug
   nc=b.new_context(proxy=proxy,java_script_enabled=False,service_workers='block');q=nc.new_page()
   q.goto(base+'reference/people-pleasing.html#agreement-relief-cycle')
   expect(q.locator('#agreement-relief-cycle')).to_be_visible()
