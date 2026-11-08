@@ -1,4 +1,51 @@
 /* Course presentation. Component behavior and print fallbacks live in book.css. */
+.mobile-navigation { display:none; }
+.header-actions .header-search { display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:50%; color:var(--accent); }
+.header-actions .header-search span { display:none; }
+.header-actions .header-search:hover { background:var(--wash); }
+.book-search { margin:30px 0 42px; }
+.prose > p.search-intro:first-child { font:400 16px/1.65 var(--ui); color:var(--muted); margin:16px 0; }
+.book-search #search-results-title { margin-top:28px; }
+.book-search form { border:1px solid var(--line); border-radius:14px; padding:26px; background:var(--wash); font:400 14px/1.6 var(--ui); }
+.book-search form > label { display:block; font-weight:600; margin-bottom:10px; }
+.book-search-input { display:flex; gap:10px; }
+.book-search-input input { flex:1; min-width:0; width:100%; padding:14px 16px; border:1px solid var(--track); background:var(--surface); color:var(--ink); border-radius:8px; font:400 16px/1.5 var(--ui); }
+.book-search-input button { border:1px solid var(--accent); border-radius:8px; background:var(--accent); color:var(--paper); padding:10px 22px; min-height:48px; font-weight:600; }
+.search-options { display:flex; align-items:center; flex-wrap:wrap; gap:8px 20px; margin-top:14px; }
+.search-options label { display:flex; gap:8px; align-items:center; min-height:44px; cursor:pointer; }
+.search-options input { width:18px; height:18px; accent-color:var(--accent); }
+.search-options button,.search-examples button,#search-more { background:transparent; color:var(--accent); border:1px solid var(--line); border-radius:8px; padding:10px 14px; font:400 13px/1.5 var(--ui); min-height:44px; text-align:left; }
+.search-options button:hover,.search-examples button:hover,#search-more:hover { background:var(--surface); border-color:var(--track); }
+.book-search .search-help { margin:10px 0 0; color:var(--muted); font:400 13px/1.65 var(--ui); }
+#search-loading:empty { display:none; }
+#search-loading:not(:empty) { border-top:1px solid var(--line); padding-top:12px; color:var(--ink); }
+#search-suggestions { margin:26px 0; font:400 13px/1.6 var(--ui); }
+.search-examples { display:flex; flex-wrap:wrap; gap:8px; }
+.search-results { list-style:none; padding:0!important; margin:24px 0; }
+.search-results > li { border-top:1px solid var(--line); padding:24px 0 26px; margin:0; }
+.search-results h3 { font:500 29px/1.25 var(--reading); margin:5px 0 12px; }
+.search-results h3 a { text-decoration:none; }
+.search-results h3 a:hover { text-decoration:underline; }
+.search-results .search-result-kind { font:500 12px/1.5 var(--ui); color:var(--muted); margin:0; }
+.search-results .search-result-section { color:var(--muted); font:500 13px/1.5 var(--ui); margin:0 0 12px; }
+.search-results .search-excerpt { font:400 20px/1.65 var(--reading); margin:10px 0; }
+.search-result-actions { display:flex; flex-wrap:wrap; gap:8px 22px; font:400 13px/1.5 var(--ui); }
+.search-result-actions a { display:inline-flex; align-items:center; min-height:44px; }
+#search-results-count { font:400 13px/1.5 var(--ui); color:var(--muted); }
+@media(max-width:1050px) {
+ .header-actions .header-search { display:none; }
+ .mobile-navigation { display:block; position:relative; }
+ .mobile-search-link { position:absolute; right:6vw; top:7px; z-index:2; display:flex; gap:7px; align-items:center; min-height:44px; font:500 13px/1.5 var(--ui); }
+ .mobile-navigation .mobile-nav > summary { padding-right:95px; }
+}
+@media(max-width:600px) {
+ .mobile-search-link { right:22px; top:5px; }
+ .book-search form { padding:20px 16px; }
+ .book-search-input { flex-wrap:nowrap; }
+ .book-search-input button { padding:10px 12px; }
+ .search-results h3 { font-size:27px; }
+}
+@media print { .book-search form,#search-suggestions,.mobile-search-link { display:none; } }
 :root {
   --paper:#f7f6f0; --ink:#233a32; --muted:#56665c; --accent:#2a604c;
   --wash:#e8eee5; --line:#d7ded3; --surface:#fffefa; --track:#85958a;

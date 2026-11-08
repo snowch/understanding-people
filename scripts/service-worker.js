@@ -5,6 +5,9 @@ const CACHE_NAME = CACHE_PREFIX + '__VERSION__';
 const FILES = __FILES__;
 const absolute = path => new URL(path, self.registration.scope).href;
 const known = new Set(FILES.map(absolute));
+const MODEL_PREFIX = 'up-book-semantic-model-';
+const MODEL_CACHE = MODEL_PREFIX + '__SEARCH_VERSION__';
+const OPTIONAL_SEARCH = new Set(__SEARCH_FILES__.map(absolute));
 
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(FILES.map(absolute))));
@@ -12,7 +15,7 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
     const keys = await caches.keys();
-    await Promise.all(keys.filter(key => key.startsWith(CACHE_PREFIX) && key !== CACHE_NAME)
+    await Promise.all(keys.filter(key => (key.startsWith(CACHE_PREFIX) && key !== CACHE_NAME) || (key.startsWith(MODEL_PREFIX) && key !== MODEL_CACHE))
       .map(key => caches.delete(key)));
     await self.clients.claim();
   })());
@@ -20,6 +23,23 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
   url.search = '';
+  if (event.request.method === 'GET' && OPTIONAL_SEARCH.has(url.href)) {
+    event.respondWith((async () => {
+      let cache;
+      try {
+        cache = await caches.open(MODEL_CACHE);
+        const saved = await cache.match(url.href);
+        if (saved) return saved;
+      } catch { /* Online search also works when storage is unavailable. */ }
+      const response = await fetch(event.request);
+      if (response.ok && cache) {
+        try { await cache.put(url.href, response.clone()); }
+        catch { /* Quota limits must not discard a usable network response. */ }
+      }
+      return response;
+    })());
+    return;
+  }
   if (event.request.method !== 'GET' || !known.has(url.href)) return;
   event.respondWith((async () => {
     try {

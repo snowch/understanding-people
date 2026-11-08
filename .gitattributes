@@ -1,0 +1,2 @@
+# Keep licensed vendor files byte-identical, including upstream whitespace.
+assets/search/vendor/* -whitespace

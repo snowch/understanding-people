@@ -25,6 +25,7 @@ from page_narration import eligible as narration_eligible
 from narration_voices import VOICES
 from book_settings import render as render_settings
 from book_audiobook import load as load_audiobook, render as render_audiobook
+from book_search import write_index as write_search_index
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site"
@@ -59,6 +60,7 @@ PAGES = [
     ("about.md", "About the book & author"),
     ("settings.md", "Settings"),
     ("downloads/index.md", "Download the audiobook"),
+    ("search.md", "Search the book"),
 ]
 CHAPTERS = [
     ("Why we misinterpret people", "chapters/01-before-you-explain.md"),
@@ -200,7 +202,7 @@ def practice_notes(match):
 </details>'''
 
 
-def build(include_narration=True):
+def build(include_narration=True, include_search=True):
     render_reference_entries()
     render_reference_stubs()
     render_reference()
@@ -227,6 +229,7 @@ def build(include_narration=True):
     audio_hash = hashlib.sha256((ROOT / "assets/audio.js").read_bytes()).hexdigest()[:12]
     settings_hash = hashlib.sha256((ROOT / 'assets/settings.js').read_bytes()).hexdigest()[:12]
     audiobook_hash = hashlib.sha256((ROOT / 'assets/audiobooks.js').read_bytes()).hexdigest()[:12]
+    search_hash = hashlib.sha256(b''.join((ROOT/'assets/search'/p).read_bytes() for p in ['search.mjs','rank.mjs','worker.mjs','engine.json','vectors.json']) + json.dumps(sources, ensure_ascii=False).encode()).hexdigest()[:12]
     narration_manifest = load_narration_manifest() if include_narration else None
     editions = {voice: load_narration_manifest(voice) for voice in VOICES} if include_narration else {}
     audiobook_data = load_audiobook(CHAPTERS, PAGES, editions) if include_narration else None
@@ -266,7 +269,7 @@ def build(include_narration=True):
         nav_html = book_navigation(name, page)
         pagination_html = context_pagination(name, page, CHAPTERS)
         breadcrumb_html = breadcrumbs(name, page, title)
-        contents = f'<details class="on-page"><summary>On this page</summary>{converter.toc}</details>' if converter.toc_tokens else ""
+        contents = f'<details class="on-page"><summary>On this page</summary>{converter.toc}</details>' if converter.toc_tokens and name != "search.md" else ""
         home = relative(Path("index.html"), page)
         settings_url = relative(Path('settings.html'), page) + ('?return=' + quote(page.as_posix(), safe='') if name != 'settings.md' else '')
         settings_link = f'<a class="header-settings" href="{escape(settings_url, quote=True)}" aria-label="Settings" title="Settings"' + (' aria-current="page"' if name == 'settings.md' else '') + '><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3" fill="var(--paper)"/><circle cx="15" cy="17" r="3" fill="var(--paper)"/></svg><span>Settings</span></a>'
@@ -277,6 +280,10 @@ def build(include_narration=True):
         notes_script = (f'<script defer src="{relative(Path("assets/practice.js"), page)}"></script>'
                         if 'class="practice-notes"' in body else '')
         audiobook_script = (f'<script defer src="{relative(Path("assets/audiobooks.js"), page)}?v={audiobook_hash}"></script>' if name == 'downloads/index.md' else '')
+        search_script = (f'<script type="module" src="{relative(Path("assets/search/search.mjs"), page)}?v={search_hash}"></script>' if name == 'search.md' else '')
+        search_url = relative(Path('search.html'), page)
+        search_icon = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>'
+        search_link = f'<a class="header-search" href="{search_url}" aria-label="Search the book" title="Search the book">{search_icon}<span>Search</span></a>'
         html = f'''<!doctype html>
 <html lang="en-GB">
 <head>
@@ -299,10 +306,11 @@ def build(include_narration=True):
 {notes_script}
 {narration_script}
 {audiobook_script}
+{search_script}
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><div class="header-actions">{settings_link}<a class="explore-book" href="{relative(Path('contents.html'), page)}">Explore the book <span aria-hidden="true">↗</span></a><a class="github-star" href="https://github.com/snowch/understanding-people" target="_blank" rel="noopener noreferrer" aria-label="Star Understanding people on GitHub (opens in a new tab)" title="Star Understanding people on GitHub"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.8 5.7 6.3.9-4.6 4.5 1.1 6.3-5.6-3-5.6 3 1.1-6.3L3 9.6l6.2-.9Z"/></svg><span>Star on GitHub</span></a><button class="install-button" type="button" aria-label="Install Understanding people" title="Install Understanding people" hidden><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 15v5h16v-5"/></svg></button></div></header>
+<header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><div class="header-actions">{search_link}{settings_link}<a class="explore-book" href="{relative(Path('contents.html'), page)}">Explore the book <span aria-hidden="true">↗</span></a><a class="github-star" href="https://github.com/snowch/understanding-people" target="_blank" rel="noopener noreferrer" aria-label="Star Understanding people on GitHub (opens in a new tab)" title="Star Understanding people on GitHub"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.8 5.7 6.3.9-4.6 4.5 1.1 6.3-5.6-3-5.6 3 1.1-6.3L3 9.6l6.2-.9Z"/></svg><span>Star on GitHub</span></a><button class="install-button" type="button" aria-label="Install Understanding people" title="Install Understanding people" hidden><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 15v5h16v-5"/></svg></button></div></header>
 <dialog id="install-help" aria-labelledby="install-title">
 <h2 id="install-title">Install Understanding people</h2>
 <p>Add the book to your home screen or desktop for a separate reading window.</p>
@@ -310,7 +318,7 @@ def build(include_narration=True):
 <p>If your browser has no install option, you can bookmark the book and read it here.</p>
 <form method="dialog"><button type="submit">Close</button></form>
 </dialog>
-<details class="mobile-nav"><summary>Browse the book & library</summary><nav aria-label="Book on mobile">{nav_html}</nav></details>
+<div class="mobile-navigation"><a class="mobile-search-link" href="{search_url}" aria-label="Search the book">{search_icon}<span>Search</span></a><details class="mobile-nav"><summary>Browse the book & library</summary><nav aria-label="Book on mobile">{nav_html}</nav></details></div>
 <div class="layout">
 <aside class="book-sidebar"><p class="nav-label">Explore the guide</p><nav aria-label="Book navigation">{nav_html}</nav></aside>
 <main id="main" tabindex="-1">{breadcrumb_html}<article>
@@ -334,7 +342,13 @@ if (current && sidebar.clientHeight) {{
         output.parent.mkdir(parents=True, exist_ok=True)
         output.write_text(html, encoding="utf-8")
     (OUT / ".nojekyll").touch()
+    if include_search:
+        search_files = write_search_index(OUT, PAGES, CHAPTERS)
+    else:
+        search_files = ['assets/search/' + f['path'] for f in json.loads((ROOT/'assets/search/engine.json').read_text())['assets']]
+    engine_hash = hashlib.sha256((ROOT/'assets/search/engine.json').read_bytes()).hexdigest()[:16]
     files = sorted(p.relative_to(OUT).as_posix() for p in OUT.rglob("*") if p.is_file())
+    assert sum((OUT/name).stat().st_size for name in files) < 1_000_000_000, 'Pages output exceeds the conservative 1 GB budget; keep large optional media in Releases.'
     digest = hashlib.sha256()
     for name in files:
         digest.update(name.encode())
@@ -343,8 +357,9 @@ if (current && sidebar.clientHeight) {{
     digest.update(worker.encode())
     # Audio and video stream on demand. Excluding them also lets browser range requests
     # bypass the worker rather than receiving a cached whole-file response.
-    offline_files = [name for name in files if not name.lower().endswith((".mp4", ".mp3"))]
+    offline_files = [name for name in files if not name.lower().endswith((".mp4", ".mp3")) and name not in search_files]
     worker = worker.replace("__VERSION__", digest.hexdigest()[:16]).replace("__FILES__", json.dumps(["./", *offline_files]))
+    worker = worker.replace('__SEARCH_VERSION__', engine_hash).replace('__SEARCH_FILES__', json.dumps(search_files))
     (OUT / "sw.js").write_text(worker, encoding="utf-8")
     print(f"Built {check_links()} pages; all local links and anchors resolve.")
 

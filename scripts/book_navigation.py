@@ -45,7 +45,7 @@ def navigation(source, page, chapters):
         number_html = f'<span class="nav-number">{number}</span>' if number is not None else ''
         return f'<li><a href="{href(item, page, fragment)}"{current}>{number_html}<span class="nav-title">{escape(title)}{' <small class="nav-stub">Stub</small>' if stub else ''}</span></a></li>'
 
-    book = ''.join(link(s, t) for s, t in [('contents.md', 'Contents & reading routes'), ('how-to-use.md', 'How to use this book'), ('downloads/index.md', 'Download the audiobook')])
+    book = ''.join(link(s, t) for s, t in [('search.md', 'Search the book'), ('contents.md', 'Contents & reading routes'), ('how-to-use.md', 'How to use this book'), ('downloads/index.md', 'Download the audiobook')])
     book += '<li><ol class="chapter-list">' + link('book.md', 'Introduction', '—')
     book += ''.join(link(s, t, f'{i:02}') for i, (t, s) in enumerate(chapters, 1))
     book += link('conclusion.md', 'Conclusion', '—') + '</ol></li>'
@@ -109,7 +109,7 @@ def pagination(source, page, chapters):
 
 def render_library():
     chunks = ['# Reference library', f"Browse {len(ENTRIES)} written reference entries across {len(GROUPS)} topics. Each explains the concept, compares alternatives, links selected evidence and offers a practical next step. These are developing references, not a systematic review or an individual assessment.",
-              '<div class="library-search" hidden><label for="library-query">Find a topic or behaviour</label><div class="library-search-controls"><input id="library-query" type="search" placeholder="Try beliefs, attribution or independence…" aria-describedby="library-result-count"><button type="button" id="library-clear" hidden>Clear search</button></div><label for="library-status">Show entries</label><select id="library-status"><option value="all">All entries</option><option value="developed">Developed entries</option><option value="stub">Stubs — full entries planned</option></select><p id="library-result-count" role="status" aria-live="polite"></p></div>',
+              '<div class="library-search" hidden><label for="library-query">Find a topic or behaviour</label><div class="library-search-controls"><input id="library-query" type="search" placeholder="Try beliefs, attribution or independence…" aria-describedby="library-result-count"><button type="button" id="library-clear" hidden>Clear search</button></div><label for="library-status">Show entries</label><select id="library-status"><option value="all">All entries</option><option value="developed">Developed entries</option><option value="stub">Stubs — full entries planned</option></select><p id="library-result-count" role="status" aria-live="polite"></p><p><a href="../search.html">Search the whole book by meaning →</a></p></div>',
               '<nav class="library-topics" aria-label="Reference topics">' + ''.join(f'<a href="#{g["id"]}">{escape(g["title"])}</a>' for g in GROUPS) + '</nav>']
     for group in GROUPS:
         chunks += [f'<section class="library-group" markdown="1">', f'## {group["title"]} {{#{group["id"]}}}', group['description']]

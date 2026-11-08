@@ -1,0 +1,11 @@
+Self-hosted semantic search components
+
+Sentence embeddings: sentence-transformers/all-MiniLM-L6-v2, by the Sentence Transformers contributors; Apache License 2.0. ONNX conversion: Xenova/all-MiniLM-L6-v2, revision 751bff37182d3f1213fa05d7196b954e230abad9.
+Model card: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+Conversion: https://huggingface.co/Xenova/all-MiniLM-L6-v2
+
+Transformers.js 3.8.1, Copyright Hugging Face contributors, Apache License 2.0. Includes @huggingface/jinja (Apache License 2.0). License: vendor/LICENSE-transformers.txt
+
+ONNX Runtime Web 1.22.0-dev.20250409-89f8206ba4, Copyright Microsoft Corporation, MIT License. License: vendor/LICENSE-onnxruntime.txt; third-party notices: vendor/NOTICE-onnxruntime.txt
+
+engine.json records original download URLs, immutable model revision, sizes and SHA-256 hashes. No remote model/runtime/CDN is contacted in a reader's browser.

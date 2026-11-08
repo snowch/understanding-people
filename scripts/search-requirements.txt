@@ -1,0 +1,4 @@
+# Explicit embedding production only; not required by a normal static build.
+numpy==2.3.5
+onnxruntime==1.31.1
+tokenizers==0.23.3

@@ -4,6 +4,8 @@ A science-informed guide to understanding what drives people—including ourselv
 
 [Read the book](https://snowch.github.io/understanding-people/) · [Contents](contents.md) · [Evidence standards](evidence.md)
 
+[Search the book](https://snowch.github.io/understanding-people/search.html) — search by words or describe a situation in everyday language. Meaning search runs privately on the device, with a one-time model download of about 47 MB. Keyword results work immediately; no API key or account is needed. See [search production and checks](docs/semantic-search.md).
+
 [Download the audiobook](https://snowch.github.io/understanding-people/downloads/) — one M4B file per voice, with chapter markers for offline listening. The complete book includes all 136 recorded sections; smaller course-only files contain the introduction, twelve chapters and conclusion. Downloads are hosted in this repository's public releases, with app instructions on the book's download page. See [packaging and publication](docs/audiobooks.md).
 
 [Content development plan](docs/content-development-plan.md) — the agreed direction for revising the foundations, expanding the reference library, checking evidence and connecting practice with the app.

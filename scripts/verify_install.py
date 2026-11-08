@@ -7,7 +7,7 @@ Native install events are simulated; OS installation itself needs a real browser
 """
 import sys
 from urllib.parse import urljoin
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import sync_playwright, expect
 from build import PAGES, destination
 
 base = sys.argv[1]
@@ -63,8 +63,11 @@ with sync_playwright() as playwright:
     for path in ['', *(destination(source).as_posix() for source, _ in PAGES)]:
         response = page.goto(urljoin(base, path))
         assert response.ok, path
-        assert page.locator('h1').count() == 1
-        assert page.locator('.copyright').inner_text() == '© 2026 Christopher Snow'
+        redirects = {'audio/confirmation-bias-explained.html':'listen-explanation', 'audio/confirmation-bias-exercise.html':'listen-exercise'}
+        if path in redirects:
+            expect(page).to_have_url(urljoin(base, 'reference/confirmation-bias.html#'+redirects[path]))
+        expect(page.locator('h1'), f'Offline heading: {path}').to_have_count(1)
+        expect(page.locator('.copyright'), f'Offline copyright: {path}').to_have_text('© 2026 Christopher Snow')
         assert page.evaluate("getComputedStyle(document.body).backgroundColor") == 'rgb(247, 246, 240)'
     assert not errors, errors
     browser.close()
