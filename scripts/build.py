@@ -258,6 +258,14 @@ def build(include_narration=True, include_search=True):
         converter = markdown.Markdown(extensions=["tables", "fenced_code", "toc", "sane_lists", "md_in_html", "attr_list"],
                                       extension_configs={"toc": {"toc_depth": "2-3"}})
         body = converter.convert(text)
+        from reference_terminology import annotate, glossary, glossary_toc, controls as glossary_controls
+        from page_narration import speech_sections
+        original_speech = speech_sections(title, body)
+        body = annotate(name, body, page)
+        if name == 'glossary.md':
+            body = glossary(body, page)
+            converter.toc = glossary_toc(converter.toc)
+        assert speech_sections(title, body) == original_speech, f'Lookup presentation changed approved lesson text: {name}'
         from reading_connections import render as reading_connections
         body += reading_connections(name, page)
         if name == 'settings.md':
@@ -271,6 +279,8 @@ def build(include_narration=True, include_search=True):
         body = re.sub(r'(src="[^"]*assets/audio\.js)(?:\?[^"]*)?"', rf'\1?v={audio_hash}"', body)
         body = re.sub(r'(src="[^"]*assets/library\.js)(?:\?[^"]*)?"', rf'\1?v={search_hash}"', body)
         narration_html = render_narration(name, title, body, page, narration_manifest, editions)
+        lookup_controls = glossary_controls() if name == 'glossary.md' else ''
+        glossary_script = (f'<script defer src="{relative(Path("assets/glossary.js"), page)}?v={hashlib.sha256((ROOT/"assets/glossary.js").read_bytes()).hexdigest()[:12]}"></script>' if name == 'glossary.md' else '')
         if '<audio' in narration_html:
             # The entry's primary Listen link should reach its current lesson;
             # older optional recordings retain their own anchors/bookmarks.
@@ -301,7 +311,7 @@ def build(include_narration=True, include_search=True):
         search_icon = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>'
         search_link = f'<a class="header-search" href="{search_url}" aria-label="Search the book" title="Search the book">{search_icon}<span>Search</span></a>'
         html = f'''<!doctype html>
-<html lang="en-GB">
+<html lang="en-GB"{' class="glossary-page"' if name == 'glossary.md' else ''}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -323,6 +333,7 @@ def build(include_narration=True, include_search=True):
 {narration_script}
 {audiobook_script}
 {search_script}
+{glossary_script}
 <script defer src="{relative(Path('assets/reading-list.js'), page)}?v={reading_hash}"></script>
 </head>
 <body>
@@ -340,7 +351,7 @@ def build(include_narration=True, include_search=True):
 <aside class="book-sidebar"><p class="nav-label">Explore the guide</p><nav aria-label="Book navigation">{nav_html}</nav></aside>
 <main id="main" tabindex="-1">{breadcrumb_html}<article>
 <header class="chapter-header">{eyebrow_html}<h1>{escape(title)}</h1></header>
-{reading_tools}{reading_status}{narration_html}{contents}<div class="prose">{body}</div>
+{reading_tools}{reading_status}{narration_html}{contents}{lookup_controls}<div class="prose">{body}</div>
 </article>
 <nav class="pagination" aria-label="Continue reading">{pagination_html}</nav>
 <footer><div><span>Understanding people · Draft edition</span><p class="copyright">© 2026 Christopher Snow</p></div><a href="https://github.com/snowch/understanding-people/blob/main/{name}">Page source</a></footer>

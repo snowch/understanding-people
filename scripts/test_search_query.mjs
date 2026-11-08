@@ -9,7 +9,7 @@ test('role words bridge to real, non-clinical topics and disclose the missing en
   for(const alias of role.aliases){
    const plan=planQuery(alias);
    assert.equal(plan.role.name,role.name);
-   assert.match(plan.notice,/no dedicated entry/);
+   assert.match(plan.notice,/no dedicated reference article/);
    assert.match(plan.notice,/role label alone/);
   }
   for(const path of role.topics){

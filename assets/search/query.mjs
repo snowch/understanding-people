@@ -15,7 +15,7 @@ export function planQuery(query,documents=[]){
  const role=roleVocabulary.find(item=>item.aliases.includes(key));
  const direct=role&&documents.some(d=>role.aliases.some(alias=>(' '+d.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ')+' ').includes(' '+alias+' ')));
  if(role&&!direct)return {embeddingText:role.name+'. '+role.definition+' '+role.context,role,
-  notice:role.name+': '+role.definition+' There is no dedicated entry for this term; the pages below cover related topics. A role label alone does not tell you how someone behaves.'};
+  notice:role.name+': '+role.definition+' There is no dedicated reference article for this term; these results point to definitions and related topics. A role label alone does not tell you how someone behaves.'};
  const short=(text.match(/[\p{L}\p{N}]+/gu)||[]).length<=3;
  const question=/^(what|why|how|when|where|who|can|does|is|are|do)\b/i.test(text)||/[?]/.test(text);
  return {embeddingText:short&&!question?'What is '+text+'?':text,role:null,notice:''};

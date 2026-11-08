@@ -55,7 +55,7 @@ def verify(base, all_lessons=False, lessons=None, voice=DEFAULT):
             assert entry['mode'] == 'spoken-lesson' and entry['script_sha256'] == fingerprint(data)
             page.goto(base + destination(source).as_posix())
             panel = page.locator('.page-narration')
-            expect(panel.get_by_role('heading', name='Listen to this lesson')).to_be_visible()
+            expect(panel.get_by_role('heading', name='Listen to the foundation terms' if source=='glossary.md' else 'Listen to this lesson')).to_be_visible()
             expect(panel).to_contain_text('Spoken lesson')
             expect(panel.locator('[data-narration-name]')).to_have_text(VOICES[voice]['name'])
             expect(panel).to_contain_text('A spoken adaptation')

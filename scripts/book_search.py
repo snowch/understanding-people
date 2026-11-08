@@ -30,6 +30,8 @@ def packed(data):
 
 
 def catalogue(out, pages, chapters):
+    from reference_terminology import terms as glossary_terms
+    glossary_listen = {t['id']:t['source'].replace('.md','.html')+'#page-narration-title' for t in glossary_terms()}
     entries = {e['source']: e for e in ENTRIES}
     chapter_numbers = {s: i for i, (_, s) in enumerate(chapters, 1)}
     documents, passages = [], []
@@ -86,7 +88,10 @@ def catalogue(out, pages, chapters):
                 text = ' '.join(words[max(0, start-20):start+140])
                 if len(text) < 35:
                     continue
-                passages.append({'document': document_id, 'anchor': section['anchor'], 'heading': section['heading'], 'text': text})
+                passage = {'document': document_id, 'anchor': section['anchor'], 'heading': section['heading'], 'text': text}
+                if source == 'glossary.md' and section['anchor'] in glossary_listen:
+                    passage['listen_url'] = glossary_listen[section['anchor']]
+                passages.append(passage)
     return {'version': 1, 'documents': documents, 'passages': passages}
 
 

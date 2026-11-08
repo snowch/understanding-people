@@ -1,0 +1,1205 @@
+{
+  "version": 1,
+  "purpose": "Source-bound dictionary lookups for vocabulary used in references and the evidence guide. Main glossary audio remains the foundation-term tour; lookup entries link narrated parent lessons. No diagnostic tool or additional knowledge nodes.",
+  "terms": [
+    {
+      "id": "acculturation",
+      "title": "Acculturation",
+      "source": "reference/family-membership.md",
+      "anchor": "culture-and-change",
+      "source_sha256": "6347b0c31c901fa191ff7ae37df834d3f9d6f0236eb504089ede161fd36836c4",
+      "meaning": "Changes in practices, language or values associated with living across cultural settings. Different rates of change do not automatically mean a family is in conflict.",
+      "example": "A parent keeps one home language while their child uses another at school. The difference alone does not show that their relationship is damaged.",
+      "forms": [
+        "Acculturation"
+      ]
+    },
+    {
+      "id": "agreeableness",
+      "title": "Agreeableness",
+      "source": "reference/agreeableness.md",
+      "anchor": "main",
+      "source_sha256": "37afae7a4aa41821dc794b49a8633e47a2427d6dae5b9313e4ddd526dd47f051",
+      "meaning": "A broad personality dimension concerning how someone tends to approach others, including compassion, respect and trust. It does not mean agreeing with every request.",
+      "example": "A daughter declines career advice while listening carefully and discussing practical risks. Disagreement alone does not show a lack of care.",
+      "forms": [
+        "Agreeableness"
+      ],
+      "clinical": false,
+      "kind": "Personality concept"
+    },
+    {
+      "id": "antisocial-personality-disorder",
+      "title": "Antisocial personality disorder",
+      "source": "reference/pd-antisocial.md",
+      "anchor": "main",
+      "source_sha256": "e1d5298248215e7ef1964a3ffbe175f8d98868736ddeead1b6c145e5ac9d751b",
+      "meaning": "A clinical term involving a lasting pattern of disregarding others’ rights, assessed alongside life history and day-to-day functioning. It does not mean preferring solitude.",
+      "example": "A contractor repeatedly takes payment for work not completed. Records of the agreement, payments and work support a practical complaint or advice request. Assigning antisocial personality disorder adds a conclusion those records cannot establish.",
+      "forms": [
+        "Antisocial personality disorder"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "attachment-anxiety",
+      "title": "Attachment anxiety",
+      "source": "reference/adult-attachment.md",
+      "anchor": "main",
+      "source_sha256": "da422ea8e5827f63c1a5c8383641e6c7e6df996b9fdc3fd0f1f7a2637a82fdab",
+      "meaning": "Concern about whether another person will be available or will reject you. It is a dimension studied in attachment research, not a diagnosis or a permanent type.",
+      "example": "Someone worries when a partner repeatedly cancels, but feels secure with reliable friends. Current reliability needs checking before treating the worry as a general pattern.",
+      "forms": [
+        "Attachment anxiety"
+      ],
+      "kind": "Attachment dimension"
+    },
+    {
+      "id": "attachment-avoidance",
+      "title": "Attachment avoidance",
+      "source": "reference/adult-attachment.md",
+      "anchor": "main",
+      "source_sha256": "da422ea8e5827f63c1a5c8383641e6c7e6df996b9fdc3fd0f1f7a2637a82fdab",
+      "meaning": "Discomfort with dependence or emotional closeness, studied as a dimension of attachment. It is different from avoidant personality disorder and is not established by one preference for independence.",
+      "example": "Declining help on one task does not show discomfort with closeness across relationships.",
+      "forms": [
+        "Attachment avoidance"
+      ],
+      "kind": "Attachment dimension"
+    },
+    {
+      "id": "avoidant-personality-disorder",
+      "title": "Avoidant personality disorder",
+      "source": "reference/pd-avoidant.md",
+      "anchor": "main",
+      "source_sha256": "1187633dead91a0651bb62618a6714d4abcd813c6b9b2ce775137cf5cbe3d6c6",
+      "meaning": "A clinical term involving lasting difficulty entering relationships because of feelings of inadequacy and sensitivity to criticism, with significant effects on life. Quietness or declining a gathering is not enough to establish it.",
+      "example": "A relative declines a large celebration but asks to meet you quietly beforehand. That preference gives information about a workable form of contact. It does not establish a disorder, nor does it require pushing them into the event to see how they react.",
+      "forms": [
+        "Avoidant personality disorder"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "borderline-personality-disorder",
+      "title": "Borderline personality disorder",
+      "source": "reference/pd-borderline.md",
+      "anchor": "main",
+      "source_sha256": "9f0e224cfecad7d3a2faddffb434bb849636ee5125e5133cb3a114ec5839c7d2",
+      "meaning": "A clinical term involving broader difficulties with emotional responses, sense of self, relationships and sometimes impulsive actions. One intense reaction or fear of losing someone does not establish BPD.",
+      "example": "A friend becomes intensely distressed after cancelled plans. You can clarify the cancellation, offer a realistic next contact and ask what support is needed. That response does not require deciding that the distress is either BPD or a deliberate attempt to control you.",
+      "forms": [
+        "Borderline personality disorder",
+        "BPD"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "breadcrumbing",
+      "title": "Breadcrumbing",
+      "source": "reference/intense-and-inconsistent-contact.md",
+      "anchor": "main",
+      "source_sha256": "90050e2fb491a337455feb3fc79ed3e3bd41f9bc11476f209e5704edf8d1ae75",
+      "meaning": "An informal label for intermittent contact interpreted as keeping someone interested without commitment. Irregular messages alone do not settle the explanation.",
+      "example": "Occasional warm messages and repeated unkept promises may leave a commitment unclear. Clarify the arrangement and consider its actual follow-through.",
+      "forms": [
+        "Breadcrumbing"
+      ],
+      "defines_here": false,
+      "kind": "Everyday label"
+    },
+    {
+      "id": "coercive-control",
+      "title": "Coercive control",
+      "source": "reference/coercive-patterns.md",
+      "anchor": "main",
+      "source_sha256": "dc23ec939aaeacb77fe6ccb5b2fc80b2ffed80e1ca3eb64a702992d5b3969aa6",
+      "meaning": "Controlling or coercive patterns can restrict another person’s choices through threats, intimidation, monitoring, isolation or control of resources. The concern is how conduct works together over time and affects everyday freedom. A single serious incident can still warrant help; you do not have to wait for a complete pattern or legal conclusion.",
+      "example": "A partner offers to manage transport, then repeatedly cancels trips to friends and threatens financial consequences if alternative transport is used. The pattern concerns restricted choices, not merely who drives or whether the partner says they are helping.",
+      "forms": [
+        "controlling or coercive patterns"
+      ],
+      "clinical": false
+    },
+    {
+      "id": "cognitive-work",
+      "title": "Cognitive work",
+      "source": "reference/invisible-work.md",
+      "anchor": "main",
+      "source_sha256": "2c52d1df04a6ad9b9aa37d37e951507373f1f8590fcfa98256e924034e2e0ff9",
+      "meaning": "The effort of noticing needs, finding options, planning, remembering and checking progress. Completing the visible task is only one part of the work.",
+      "example": "One person cooks while another chooses meals, checks ingredients and reminds them to start. Counting cooking alone misses the coordination.",
+      "forms": [
+        "Cognitive work",
+        "cognitive household work",
+        "cognitive labour",
+        "cognitive labor"
+      ]
+    },
+    {
+      "id": "com-b",
+      "title": "COM-B",
+      "source": "reference/change-conditions.md",
+      "anchor": "main",
+      "source_sha256": "a7576337b2de947f20d4c5b439f90da03b7dbcc45f2f825a9ee136eaf69a2e36",
+      "meaning": "A behaviour-change framework that considers capability, opportunity and motivation together: can the person do it, do circumstances allow it, and what directs their action?",
+      "example": "A volunteer wants to complete a form but it does not work on their phone. More encouragement does not fix the access problem.",
+      "forms": [
+        "COM-B"
+      ]
+    },
+    {
+      "id": "compulsion",
+      "title": "Compulsion (in OCD)",
+      "source": "reference/ocd.md",
+      "anchor": "main",
+      "source_sha256": "7846a84cb8f9ae68842fe3e7c47042e1ebcd2f42bd84ed821711bb95846ecdd5",
+      "meaning": "An action or mental routine a person feels driven to repeat, often to reduce distress or respond to an obsession. Repetition alone does not establish OCD.",
+      "example": "Someone repeatedly checks to reduce distress. Understanding their experience and the wider impact requires more than observing one repeated action.",
+      "forms": [
+        "Compulsions",
+        "compulsions",
+        "compulsion"
+      ],
+      "defines_here": false
+    },
+    {
+      "id": "conscientiousness",
+      "title": "Conscientiousness",
+      "source": "reference/conscientiousness.md",
+      "anchor": "main",
+      "source_sha256": "15b50e823c49ffbc47769c44b32e594a506045dc543a3079376213430fe81d18",
+      "meaning": "Tendencies in organising action, handling responsibilities and following through. Organisation and persistence can differ; the term is not a rating of someone’s worth.",
+      "example": "A volunteer meets agreed tasks after a planning call but misses email requests. Compare the arrangements before deciding that the problem is a general character trait.",
+      "forms": [
+        "Conscientiousness"
+      ],
+      "clinical": false,
+      "kind": "Personality concept"
+    },
+    {
+      "id": "correlation",
+      "title": "Correlation",
+      "source": "reference/oversight-and-delegation.md",
+      "anchor": "main",
+      "source_sha256": "96ab4835f6eb4a8ee0d95856db8f2242a2ef42b560620fff95b95372ed8c3e3b",
+      "meaning": "Two measured things varying together. A correlation alone does not show that one caused the other, or explain an individual case.",
+      "example": "Supportive supervision and well-being may be associated. The association alone cannot establish what caused the difference.",
+      "forms": [
+        "correlational",
+        "correlation"
+      ],
+      "defines_here": false,
+      "kind": "Research vocabulary"
+    },
+    {
+      "id": "cross-sectional",
+      "title": "Cross-sectional research",
+      "source": "reference/adult-attachment.md",
+      "anchor": "main",
+      "source_sha256": "da422ea8e5827f63c1a5c8383641e6c7e6df996b9fdc3fd0f1f7a2637a82fdab",
+      "meaning": "Comparing people or groups at a particular time. Differences between people with shorter and longer relationships do not show how one person changes over time.",
+      "example": "A difference between people in short and long relationships cannot establish what will happen to your relationship.",
+      "forms": [
+        "cross-sectional"
+      ],
+      "defines_here": false,
+      "kind": "Research vocabulary"
+    },
+    {
+      "id": "darvo",
+      "title": "DARVO",
+      "source": "reference/blame-reversal.md",
+      "anchor": "main",
+      "source_sha256": "03e5bf910580406e25c36e5d36dd263242d18f091a56a39b42926d094e768c29",
+      "meaning": "Deny, attack, reverse victim and offender: denying an allegation, attacking the person raising it and reversing responsibility. Recognising the sequence does not establish that the original allegation is true.",
+      "example": "A question about missing shared funds receives a personal attack. The payment record and any genuine counter-complaint still need separate examination.",
+      "forms": [
+        "DARVO"
+      ],
+      "kind": "Response sequence"
+    },
+    {
+      "id": "decision-authority",
+      "title": "Decision authority",
+      "source": "reference/assumptions-and-authority.md",
+      "anchor": "main",
+      "source_sha256": "17fa82fbed3a86d8034ef9d770adf6f33efbb39fb131ccaa43f8c6cbed96360b",
+      "meaning": "The right to make a particular decision. Knowing more about a task or speaking confidently does not by itself give someone that right.",
+      "example": "A colleague may know the launch constraints without being entitled to commit your team to a date.",
+      "forms": [
+        "Decision authority"
+      ]
+    },
+    {
+      "id": "delegation",
+      "title": "Delegation",
+      "source": "reference/oversight-and-delegation.md",
+      "anchor": "main",
+      "source_sha256": "96ab4835f6eb4a8ee0d95856db8f2242a2ef42b560620fff95b95372ed8c3e3b",
+      "meaning": "Giving someone responsibility together with enough authority and resources to carry it out. Accountability can remain without prescribing every step.",
+      "example": "A report writer owns the draft and agreed decisions, with a scheduled review and a clear point for raising risks.",
+      "forms": [
+        "Delegation"
+      ]
+    },
+    {
+      "id": "demand-withdraw-pattern",
+      "title": "Demand–withdraw pattern",
+      "source": "reference/interaction-cycles.md",
+      "anchor": "main",
+      "source_sha256": "c483b02bdd77af0043bac2d1712708bd66c2b010546c3217f74bf28ecf029b42",
+      "meaning": "A recurring interaction in which one person presses for discussion or change while the other disengages. Describing the cycle does not establish equal responsibility for harm.",
+      "example": "More follow-up messages lead to less response, which leads to more messages. An agreed return time is useful only if the unresolved issue is actually addressed.",
+      "forms": [
+        "demand–withdraw pattern",
+        "demand-withdraw pattern",
+        "demand–withdraw"
+      ]
+    },
+    {
+      "id": "dependent-personality-disorder",
+      "title": "Dependent personality disorder",
+      "source": "reference/pd-dependent.md",
+      "anchor": "main",
+      "source_sha256": "701d97c406caac87813d64e4996412c30bdd3a008de09e1c9bfe99e1dce5fdb2",
+      "meaning": "A clinical term involving a lasting, excessive need for care, difficulty acting independently and fear of separation. Needing assistance, valuing mutual support or living with disability does not establish it.",
+      "example": "An adult asks a sibling to handle unfamiliar paperwork while they learn the process. That can be practical support. Whether there is a wider persistent difficulty cannot be decided from the request, and removing assistance would not establish an answer.",
+      "forms": [
+        "Dependent personality disorder"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "door-in-the-face",
+      "title": "Door-in-the-face",
+      "source": "reference/sequential-requests.md",
+      "anchor": "main",
+      "source_sha256": "5cf2f51297efef2244e82aa6ba931f218674fa2ada3c969d852eefdedfdf2660",
+      "meaning": "A large request that is refused, followed by a smaller request. This names a studied request sequence, not a guaranteed effect or proof of manipulation.",
+      "example": "After you decline a weekend commitment, someone asks for one hour. You can assess that hour on its own terms.",
+      "forms": [
+        "Door-in-the-face"
+      ]
+    },
+    {
+      "id": "double-standard",
+      "title": "Double standard",
+      "source": "reference/unequal-treatment.md",
+      "anchor": "main",
+      "source_sha256": "650cc0ae61b37b0244952e1de80bdff12eb72bef1b47f872782f49c7b6847744",
+      "meaning": "Judging comparable conduct differently without a relevant justification. Different treatment is not automatically unfair when needs or responsibilities differ.",
+      "example": "One sibling is excused for a medical appointment while another is refused a similar exception. Compare the circumstances and stated rule.",
+      "forms": [
+        "Double standard"
+      ]
+    },
+    {
+      "id": "emotional-blackmail",
+      "title": "Emotional blackmail",
+      "source": "reference/emotional-blackmail.md",
+      "anchor": "main",
+      "source_sha256": "5f2ab6f2b8ae7e73ce1e3d8466a3458d00b751fc407a3f0322898818a5cc2cfd",
+      "meaning": "Emotional blackmail is an everyday term for pressure that makes another person’s compliance the condition for avoiding a threatened emotional or practical consequence. It may involve threatened withdrawal, exposure or harm. It is not a clinical diagnosis, and not every expression of distress or consequence is blackmail.",
+      "example": "Someone threatens to expose private information unless you cancel a plan. The threatened disclosure and conditional demand are concrete concerns regardless of whether the person also feels hurt. Appropriate support can focus on the conduct and your options.",
+      "forms": [
+        "Emotional blackmail"
+      ],
+      "clinical": false,
+      "kind": "Everyday label"
+    },
+    {
+      "id": "envy",
+      "title": "Envy",
+      "source": "reference/social-comparison.md",
+      "anchor": "main",
+      "source_sha256": "096b9669eb53e9b131a5237e68011935e2eb3930896bc54c0eeeaced38e3f7ca",
+      "meaning": "Wanting an advantage someone else has. It differs from jealousy, which usually concerns a threatened loss of a valued relationship or position.",
+      "example": "A friend publishes a book and you wish you had achieved that too. The feeling does not establish anything about your talent.",
+      "forms": [
+        "Envy"
+      ]
+    },
+    {
+      "id": "ethnography",
+      "title": "Ethnography",
+      "source": "evidence.md",
+      "anchor": "match-the-method-to-the-question",
+      "source_sha256": "90f9311e290c28c6fab869438a73485bc75256bf70dfba23c1f8f7f1c8423942",
+      "meaning": "Studying people in everyday settings through sustained observation, often with interviews. Findings from one setting do not automatically describe every group.",
+      "example": "A researcher observes family practices in a community instead of assuming that a broad cultural label explains each household.",
+      "forms": [
+        "Ethnography"
+      ],
+      "kind": "Research vocabulary"
+    },
+    {
+      "id": "extraversion",
+      "title": "Extraversion",
+      "source": "reference/extraversion.md",
+      "anchor": "main",
+      "source_sha256": "3a9a34924c81794865dbe6a02df1a2ae668974b1cf730a09edf37504f4ee09f6",
+      "meaning": "Tendencies involving sociability, assertiveness and energy in engaging with the world. These aspects can differ, and introversion is not a disorder or a measure of social skill.",
+      "example": "Enjoying group lunches does not tell you whether someone will challenge a high-stakes decision. Sociability and assertiveness are different facets.",
+      "forms": [
+        "Extraversion"
+      ],
+      "clinical": false,
+      "kind": "Personality concept"
+    },
+    {
+      "id": "face",
+      "title": "Face",
+      "source": "reference/naming-and-belonging.md",
+      "anchor": "face-and-dignity",
+      "source_sha256": "e55800995136c3575081f38a4bcfecc5574adee37d575046f263369e971c9fdb",
+      "meaning": "How someone wants to be seen and respected in an interaction. Preserving their dignity does not require accepting an unfair hierarchy.",
+      "example": "Someone wants a mistaken introduction corrected without being humiliated. A brief correction can respect dignity while still addressing the mistake.",
+      "forms": [
+        "Face"
+      ],
+      "scope": "owner"
+    },
+    {
+      "id": "family-boundary-ambiguity",
+      "title": "Family boundary ambiguity",
+      "source": "reference/family-membership.md",
+      "anchor": "main",
+      "source_sha256": "6347b0c31c901fa191ff7ae37df834d3f9d6f0236eb504089ede161fd36836c4",
+      "meaning": "Uncertainty about who counts as part of a family or what responsibilities each person is expected to take on. This is different from setting a personal limit.",
+      "example": "After a separation, relatives disagree about whether a former partner is included in family events. The uncertainty concerns membership; deciding which events you will attend is a personal limit.",
+      "forms": [
+        "Family boundary ambiguity"
+      ]
+    },
+    {
+      "id": "foot-in-the-door",
+      "title": "Foot-in-the-door",
+      "source": "reference/sequential-requests.md",
+      "anchor": "main",
+      "source_sha256": "5cf2f51297efef2244e82aa6ba931f218674fa2ada3c969d852eefdedfdf2660",
+      "meaning": "A small request followed by a larger request. Earlier agreement can affect a later decision, but it does not oblige you to accept the new terms.",
+      "example": "You agree to review one page and are later asked to rewrite the report. The larger commitment needs its own decision.",
+      "forms": [
+        "Foot-in-the-door"
+      ]
+    },
+    {
+      "id": "gatekeeping",
+      "title": "Gatekeeping",
+      "source": "reference/gatekeeping.md",
+      "anchor": "main",
+      "source_sha256": "a406dc4cc162377c7092b134d1914bd062f8a95e776d82d59fcd0a1c2a9301d9",
+      "meaning": "Influencing someone’s access to information, people, participation or resources. This may facilitate involvement, protect legitimate privacy or restrict access; the word alone does not settle which.",
+      "example": "A parent agrees that siblings may share a care schedule while keeping some medical details private. Not all limits on access are exclusion.",
+      "forms": [
+        "Gatekeeping"
+      ]
+    },
+    {
+      "id": "golden-child",
+      "title": "Golden child",
+      "source": "reference/unequal-treatment.md",
+      "anchor": "main",
+      "source_sha256": "650cc0ae61b37b0244952e1de80bdff12eb72bef1b47f872782f49c7b6847744",
+      "meaning": "An informal label for someone perceived as repeatedly favoured. It does not establish a fixed family role, show that the person welcomes it or make them responsible for another adult’s treatment.",
+      "example": "One sibling appears to receive more exceptions. Compare the actual needs, conduct and rules before declaring a permanent family role.",
+      "forms": [
+        "golden child"
+      ],
+      "kind": "Everyday label",
+      "defines_here": false
+    },
+    {
+      "id": "guilt",
+      "title": "Guilt",
+      "source": "reference/shame-anger-and-repair.md",
+      "anchor": "main",
+      "source_sha256": "e3fc24f941f65deb3209b12f8851fd983105e173652d5c874f2668636dc6c74f",
+      "meaning": "A negative feeling about a specific action or omission. This differs from shame about the whole self, and does not by itself prove that repair will follow.",
+      "example": "After missing a deadline, you feel bad about the missed commitment and choose a concrete correction.",
+      "forms": [
+        "Guilt"
+      ]
+    },
+    {
+      "id": "guilt-tripping",
+      "title": "Guilt-tripping",
+      "source": "reference/guilt-pressure.md",
+      "anchor": "main",
+      "source_sha256": "573a9ddf58d5b8776178188309181d605fd98497962817aa20c06f48d5bc72e5",
+      "meaning": "Guilt-tripping is an everyday description of pressure that links refusal to being selfish, disloyal or responsible for another person’s suffering. It can be subtle or explicit. The label does not decide whether an obligation exists. The useful question is whether the request and responsibility are being considered fairly.",
+      "example": "A relative says declining one gathering means you do not care about the family. You can value the relationship and still discuss availability or another way to meet. The accusation does not by itself establish that attendance is your duty.",
+      "forms": [
+        "Guilt-tripping",
+        "guilt-tripping"
+      ],
+      "clinical": false,
+      "kind": "Everyday label"
+    },
+    {
+      "id": "heritability",
+      "title": "Heritability",
+      "source": "reference/personality-facets.md",
+      "anchor": "change-and-inheritance",
+      "source_sha256": "080ac472fd8319edb7e125b6bf50a0306dc916564389df2d45cf796799a0c2d5",
+      "meaning": "A measure of how genetic differences contribute to differences in a trait across a studied population. The estimate depends on the population and conditions; it is not the genetic percentage of one person’s action.",
+      "example": "A father and daughter both decline help. That resemblance does not separate inheritance from learning or shared circumstances.",
+      "forms": [
+        "Heritability"
+      ]
+    },
+    {
+      "id": "histrionic-personality-disorder",
+      "title": "Histrionic personality disorder",
+      "source": "reference/pd-histrionic.md",
+      "anchor": "main",
+      "source_sha256": "6e860707a4682d54147f52bcbcd0dfa216a1984564a3beb537916fb155edacd4",
+      "meaning": "A clinical term involving a lasting pattern of attention-seeking and emotionally expressive behaviour assessed in the person’s wider life. Clothing, expressiveness or someone calling a person dramatic does not establish it.",
+      "example": "A colleague speaks animatedly and enjoys presenting. That does not establish a disorder. If they repeatedly interrupt a shared meeting, address turn-taking and the meeting’s purpose rather than using a clinical label to criticise their style.",
+      "forms": [
+        "Histrionic personality disorder"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "hoovering",
+      "title": "Hoovering",
+      "source": "reference/intense-and-inconsistent-contact.md",
+      "anchor": "main",
+      "source_sha256": "90050e2fb491a337455feb3fc79ed3e3bd41f9bc11476f209e5704edf8d1ae75",
+      "meaning": "An informal label for attempts to renew contact or a relationship that are interpreted as drawing someone back into an unwanted pattern. A renewed approach does not by itself establish a strategy.",
+      "example": "After you decline renewed contact, repeated approaches may warrant a limit or support. You do not need to prove a hidden strategy to maintain your no.",
+      "forms": [
+        "Hoovering"
+      ],
+      "defines_here": false,
+      "kind": "Everyday label"
+    },
+    {
+      "id": "implementation-intention",
+      "title": "Implementation intention",
+      "source": "reference/procrastination-planning.md",
+      "anchor": "contrast-and-plan",
+      "source_sha256": "c678339048da1592f09d0b47cd9e53c590bf6af8684576c144ae20e5f44588b4",
+      "meaning": "An if–then plan connecting a specific cue or situation with an action. It cannot supply missing resources or guarantee the larger goal.",
+      "example": "If I do not know which exercise to start, I will write the question I need answered.",
+      "forms": [
+        "Implementation intentions",
+        "implementation intention"
+      ],
+      "alias_of": "if-then-plan"
+    },
+    {
+      "id": "impression-management",
+      "title": "Impression management",
+      "source": "reference/exclusion-and-reputation.md",
+      "anchor": "audience-and-presentation",
+      "source_sha256": "953729419a1e04ac658b3b187c9802100feb9115486f4e525d16be91f6234bb6",
+      "meaning": "Shaping how others see you. It may involve accurate explanation, selective emphasis or deception; changing presentation alone does not establish dishonesty.",
+      "example": "Someone explains their contribution differently in an interview and a team meeting. Compare the factual claims before inferring a hidden strategy.",
+      "forms": [
+        "Impression management"
+      ]
+    },
+    {
+      "id": "interaction-cycle",
+      "title": "Interaction cycle",
+      "source": "reference/interaction-cycles.md",
+      "anchor": "main",
+      "source_sha256": "c483b02bdd77af0043bac2d1712708bd66c2b010546c3217f74bf28ecf029b42",
+      "meaning": "A recurring sequence in which one person’s action affects another response and what happens next. Understanding the sequence does not settle who caused it or make responsibility equal.",
+      "example": "Repeated questioning and disengagement lead back to the same unresolved discussion. A safe change in timing may help clarify what is happening.",
+      "forms": [
+        "Interaction cycle"
+      ]
+    },
+    {
+      "id": "introversion",
+      "title": "Introversion",
+      "source": "reference/extraversion.md",
+      "anchor": "main",
+      "source_sha256": "3a9a34924c81794865dbe6a02df1a2ae668974b1cf730a09edf37504f4ee09f6",
+      "meaning": "A tendency toward lower levels of extraversion. It is not a disorder, proof of shyness or a measure of social skill; different facets and settings can vary.",
+      "example": "A person may prefer quieter company while leading a small discussion confidently.",
+      "forms": [
+        "Introversion",
+        "introversion"
+      ],
+      "defines_here": false,
+      "kind": "Personality concept"
+    },
+    {
+      "id": "jealousy",
+      "title": "Jealousy",
+      "source": "reference/jealousy.md",
+      "anchor": "main",
+      "source_sha256": "be93f71597d7e547a85640f273444e045911b57100632738277b30b7bed26754",
+      "meaning": "Jealousy often concerns a perceived threat to a valued relationship or position. Envy concerns wanting something another person has; the experiences can overlap. Feeling jealous does not establish that a threat is real, and it does not determine what someone will do. The useful focus is the concern, the evidence and the response.",
+      "example": "You feel sidelined when a close friend makes plans with someone else. Asking to arrange time together expresses a wish for connection. Insisting that the friend stop seeing the other person attempts to control their relationships.",
+      "forms": [
+        "Jealousy"
+      ],
+      "clinical": false
+    },
+    {
+      "id": "kin-keeping",
+      "title": "Kin-keeping",
+      "source": "reference/invisible-work.md",
+      "anchor": "care-and-connection",
+      "source_sha256": "2c52d1df04a6ad9b9aa37d37e951507373f1f8590fcfa98256e924034e2e0ff9",
+      "meaning": "Work that maintains family connections, such as arranging visits, remembering birthdays and passing on updates. It need not belong permanently to one person.",
+      "example": "One sibling organises every visit and remembers every birthday. Calling it a family tradition can hide their coordination work.",
+      "forms": [
+        "kin-keeping",
+        "kin keeping"
+      ]
+    },
+    {
+      "id": "longitudinal",
+      "title": "Longitudinal research",
+      "source": "reference/confirmation-bias.md",
+      "anchor": "main",
+      "source_sha256": "4700bf9cc95dd22870a0848c7ec0a97e9477081031410eeff9ada07406fd7a72",
+      "meaning": "Following participants or measures over time. Seeing a change over time does not by itself establish its cause.",
+      "example": "Researchers check the same participants again after a training activity. The design and comparison determine what can be concluded.",
+      "forms": [
+        "longitudinal"
+      ],
+      "defines_here": false,
+      "kind": "Research vocabulary"
+    },
+    {
+      "id": "love-bombing",
+      "title": "Love bombing",
+      "source": "reference/intense-and-inconsistent-contact.md",
+      "anchor": "main",
+      "source_sha256": "90050e2fb491a337455feb3fc79ed3e3bd41f9bc11476f209e5704edf8d1ae75",
+      "meaning": "An informal, inconsistently used label for intense affection or attention interpreted as pressure to accelerate closeness. Intensity alone cannot establish that intention.",
+      "example": "Frequent compliments followed by a request for immediate commitment need checking against how a slower pace or refusal is treated.",
+      "forms": [
+        "love bombing",
+        "love-bombing"
+      ],
+      "defines_here": false,
+      "kind": "Everyday label"
+    },
+    {
+      "id": "matriarch",
+      "title": "Matriarch",
+      "source": "reference/family-membership.md",
+      "anchor": "main",
+      "source_sha256": "6347b0c31c901fa191ff7ae37df834d3f9d6f0236eb504089ede161fd36836c4",
+      "meaning": "A woman recognised as a leading figure in a family. This describes a role, not a personality type, diagnosis or proof of control.",
+      "example": "A grandmother may be treated as the family’s leading figure without deciding every adult’s finances or visits. Ask which decisions she actually influences.",
+      "forms": [
+        "A leading woman in a family"
+      ],
+      "kind": "Family role",
+      "defines_here": false
+    },
+    {
+      "id": "matrilineal-descent",
+      "title": "Matrilineal descent",
+      "source": "reference/family-membership.md",
+      "anchor": "main",
+      "source_sha256": "6347b0c31c901fa191ff7ae37df834d3f9d6f0236eb504089ede161fd36836c4",
+      "meaning": "Tracing descent through the female line. This differs from having a leading woman in a family and does not by itself establish who holds decision-making authority.",
+      "example": "A group traces family descent through mothers, while separate rules determine decisions about resources.",
+      "forms": [
+        "matrilineal descent"
+      ],
+      "kind": "Kinship vocabulary",
+      "defines_here": false
+    },
+    {
+      "id": "matrilocal-residence",
+      "title": "Matrilocal residence",
+      "source": "reference/family-membership.md",
+      "anchor": "main",
+      "source_sha256": "6347b0c31c901fa191ff7ae37df834d3f9d6f0236eb504089ede161fd36836c4",
+      "meaning": "A residence arrangement in which a couple lives with or near the wife’s relatives. Where a couple lives does not by itself establish who has authority over them.",
+      "example": "Partners live near her relatives but keep their own financial decisions. Residence and decision rights are different questions.",
+      "forms": [
+        "living near the wife’s relatives",
+        "living near the wife's relatives"
+      ],
+      "kind": "Kinship vocabulary",
+      "defines_here": false
+    },
+    {
+      "id": "mediation",
+      "title": "Mediation",
+      "source": "reference/negotiation-and-mediation.md",
+      "anchor": "main",
+      "source_sha256": "79a0d1be4ca1f4ba0e9fb1cd8b46730e235c9cbefae52a1d531027997dd0a5e1",
+      "meaning": "A process in which a third person helps people work through a disagreement, rather than imposing a decision. Consent, authority and safety matter; coercion can make mediation unsuitable.",
+      "example": "A facilitator helps people clarify visit arrangements while leaving each person free to reject an unsuitable proposal.",
+      "forms": [
+        "Mediation"
+      ]
+    },
+    {
+      "id": "mental-contrasting",
+      "title": "Mental contrasting",
+      "source": "reference/procrastination-planning.md",
+      "anchor": "contrast-and-plan",
+      "source_sha256": "c678339048da1592f09d0b47cd9e53c590bf6af8684576c144ae20e5f44588b4",
+      "meaning": "Considering a desired outcome alongside a present obstacle, so that planning includes what may get in the way. Imagining success alone does not specify the action.",
+      "example": "You want to study, but do not know which problems matter. You identify that obstacle before planning another hour of revision.",
+      "forms": [
+        "Mental contrasting"
+      ]
+    },
+    {
+      "id": "meta-analysis",
+      "title": "Meta-analysis",
+      "source": "evidence.md",
+      "anchor": "match-the-method-to-the-question",
+      "source_sha256": "90f9311e290c28c6fab869438a73485bc75256bf70dfba23c1f8f7f1c8423942",
+      "meaning": "Combining numerical results from several studies. An average result can hide differences between studies or groups.",
+      "example": "An average benefit across studies may include some settings where the intervention did not help.",
+      "forms": [
+        "Meta-analysis"
+      ],
+      "kind": "Research vocabulary"
+    },
+    {
+      "id": "micromanagement",
+      "title": "Micromanagement",
+      "source": "reference/oversight-and-delegation.md",
+      "anchor": "main",
+      "source_sha256": "96ab4835f6eb4a8ee0d95856db8f2242a2ef42b560620fff95b95372ed8c3e3b",
+      "meaning": "A common description of unnecessarily detailed control over how someone works. The appropriate level of oversight depends on risk, skill and agreed responsibilities.",
+      "example": "Hourly checks on a routine report may be replaced by an agreed draft date and an early warning if a dependency slips.",
+      "forms": [
+        "Micromanagement"
+      ],
+      "kind": "Everyday label"
+    },
+    {
+      "id": "naming-asymmetry",
+      "title": "Naming asymmetry",
+      "source": "reference/naming-and-belonging.md",
+      "anchor": "main",
+      "source_sha256": "e55800995136c3575081f38a4bcfecc5574adee37d575046f263369e971c9fdb",
+      "meaning": "Using different kinds of names or titles for people whose situations seem comparable. The difference is observable; its meaning and whether it is deliberate need checking.",
+      "example": "One grandmother is called Grandma Rose and another Helen. Helen’s stated preference changes what the naming difference suggests.",
+      "forms": [
+        "Naming asymmetry"
+      ]
+    },
+    {
+      "id": "narcissism",
+      "title": "Narcissism (everyday use)",
+      "source": "reference/narcissistic-behaviour.md",
+      "anchor": "main",
+      "source_sha256": "9ff9071ebf8676bdc2566e344316b7a992e130e1e0a882e7111fcfb15bb59091",
+      "meaning": "In everyday use, a broad label for self-focus, entitlement or seeking admiration. This is not the same as a diagnosis of narcissistic personality disorder; describe the actual behaviour and context.",
+      "example": "A colleague takes credit for your work. Correcting the attribution addresses the conduct without deciding their whole personality.",
+      "forms": [
+        "Narcissistic",
+        "narcissistic",
+        "narcissism",
+        "narcissist"
+      ],
+      "kind": "Everyday label"
+    },
+    {
+      "id": "narcissistic-personality-disorder",
+      "title": "Narcissistic personality disorder",
+      "source": "reference/pd-narcissistic.md",
+      "anchor": "main",
+      "source_sha256": "44dd6d8ec8975e499e94a58217ad4f2e9aea3dc1082cf099ab84bbe329a7ea00",
+      "meaning": "A clinical term involving lasting difficulties around an inflated view of oneself, reliance on admiration and recognition of others’ needs. A selfish act, confidence or ambition alone does not establish NPD.",
+      "example": "A colleague takes credit for your work. Correcting attribution and documenting contributions addresses the event. Calling them a narcissist adds a clinical-sounding explanation that the event cannot establish and may distract from the remedy you need.",
+      "forms": [
+        "Narcissistic personality disorder",
+        "NPD"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "negative-emotionality",
+      "title": "Negative emotionality",
+      "source": "reference/emotionality.md",
+      "anchor": "main",
+      "source_sha256": "ea0ab41f67082b8601081c55f5c76ed577c5070047874671af4674b53de52350",
+      "meaning": "Tendencies toward experiences such as worry, sadness or emotional volatility. This describes patterns of experience, not a diagnosis or a criticism.",
+      "example": "You may worry strongly about an ambiguous email and still choose a thoughtful clarification. An emotion and the action that follows are different.",
+      "forms": [
+        "Negative emotionality"
+      ],
+      "clinical": false,
+      "kind": "Personality concept"
+    },
+    {
+      "id": "negative-reinforcement",
+      "title": "Negative reinforcement",
+      "source": "reference/reinforcement.md",
+      "anchor": "main",
+      "source_sha256": "a5ced269de3edef157a015e435a3f16d3007709a68116d7540a0d0bcdef290e1",
+      "meaning": "A consequence that makes a response more likely by removing something unpleasant. Negative means removal, not badness; reinforcement means an effect on future behaviour.",
+      "example": "If avoiding a difficult conversation brings relief and makes avoidance more likely next time, that relief can reinforce avoidance. One occasion alone does not establish the pattern.",
+      "forms": [
+        "Negative reinforcement"
+      ]
+    },
+    {
+      "id": "neurodivergent",
+      "title": "Neurodivergent",
+      "source": "reference/neurodiversity.md",
+      "anchor": "main",
+      "source_sha256": "110302ae42baae64b51288753fef5979ddaadde701b163874eac61df770ade00",
+      "meaning": "An umbrella term used in different ways, often including autism and ADHD. It is not one diagnosis or a personality type.",
+      "example": "Someone may identify as neurodivergent and ask for written instructions. Ask about that preference rather than predicting all their needs from the term.",
+      "forms": [
+        "Neurodivergent"
+      ]
+    },
+    {
+      "id": "neurodiversity",
+      "title": "Neurodiversity",
+      "source": "reference/neurodiversity.md",
+      "anchor": "main",
+      "source_sha256": "110302ae42baae64b51288753fef5979ddaadde701b163874eac61df770ade00",
+      "meaning": "Variation in how people experience, process and respond to the world. It does not describe one fixed communication style or diagnosis.",
+      "example": "Two people may need different ways to receive instructions. The useful adjustment depends on their needs, not an assumed group profile.",
+      "forms": [
+        "Neurodiversity"
+      ]
+    },
+    {
+      "id": "observational-study",
+      "title": "Observational study",
+      "source": "evidence.md",
+      "anchor": "match-the-method-to-the-question",
+      "source_sha256": "90f9311e290c28c6fab869438a73485bc75256bf70dfba23c1f8f7f1c8423942",
+      "meaning": "Recording what happens without assigning people to different conditions. Things occurring together do not prove that one causes the other.",
+      "example": "A study records communication and relationship satisfaction without assigning couples a communication style.",
+      "forms": [
+        "Observational study"
+      ],
+      "kind": "Research vocabulary"
+    },
+    {
+      "id": "obsession",
+      "title": "Obsession (in OCD)",
+      "source": "reference/ocd.md",
+      "anchor": "main",
+      "source_sha256": "7846a84cb8f9ae68842fe3e7c47042e1ebcd2f42bd84ed821711bb95846ecdd5",
+      "meaning": "In OCD, a recurring unwanted and intrusive thought, urge or image. An unwanted thought does not establish an intention to act or, by itself, a diagnosis.",
+      "example": "A distressing unwanted thought can conflict with what someone values. Its presence does not show that they want it to happen.",
+      "forms": [
+        "obsessions",
+        "obsession"
+      ],
+      "defines_here": false
+    },
+    {
+      "id": "ocd",
+      "title": "Obsessive-compulsive disorder",
+      "source": "reference/ocd.md",
+      "anchor": "main",
+      "source_sha256": "7846a84cb8f9ae68842fe3e7c47042e1ebcd2f42bd84ed821711bb95846ecdd5",
+      "meaning": "Obsessive-compulsive disorder: a clinical condition involving recurring intrusive obsessions, compulsions or both, with substantial distress or interference in life. It is not a synonym for tidiness.",
+      "example": "A friend repeatedly asks whether they locked a door and says the checking is consuming hours. Helping them arrange a clinical conversation addresses the reported impairment. Mocking the ritual or secretly altering the door to test them would not be an assessment.",
+      "forms": [
+        "Obsessive-compulsive disorder",
+        "OCD"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "ocpd",
+      "title": "Obsessive-compulsive personality disorder",
+      "source": "reference/pd-ocpd.md",
+      "anchor": "main",
+      "source_sha256": "296848d94aef6f8337c8600c9420246cce1fdc9f384929ee731b36b28d123421",
+      "meaning": "Obsessive-compulsive personality disorder: a clinical term involving lasting rigidity about order, perfection and control that disrupts flexibility or daily functioning. It differs from OCD and from simply liking tidiness.",
+      "example": "A shared task is delayed because every acceptable version is revised to match one person’s preferred format. Agreeing essential completion criteria addresses the collaboration problem. Whether there is OCPD requires a much broader assessment.",
+      "forms": [
+        "Obsessive-compulsive personality disorder",
+        "OCPD"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "openness",
+      "title": "Openness to experience",
+      "source": "reference/openness.md",
+      "anchor": "main",
+      "source_sha256": "601b957e0ed3a068ced8d12069cb3ded4d866f14bc16f70e5c33a8fef40ee4bd",
+      "meaning": "Tendencies toward curiosity, imagination and interest in ideas, art or beauty. This does not mean agreeing with every unfamiliar proposal.",
+      "example": "Someone enjoys exploring new music while preferring familiar financial arrangements. One choice does not settle a whole personality dimension.",
+      "forms": [
+        "Open-mindedness",
+        "openness to experience"
+      ],
+      "clinical": false,
+      "kind": "Personality concept"
+    },
+    {
+      "id": "ostracism",
+      "title": "Ostracism",
+      "source": "reference/exclusion-and-reputation.md",
+      "anchor": "main",
+      "source_sha256": "953729419a1e04ac658b3b187c9802100feb9115486f4e525d16be91f6234bb6",
+      "meaning": "Being ignored or excluded. A painful exclusion does not by itself establish its cause or whether it was deliberate.",
+      "example": "A missed invitation might reflect a mistaken assumption or deliberate exclusion. Compare the arrangement and any repeated selective treatment.",
+      "forms": [
+        "Ostracism"
+      ]
+    },
+    {
+      "id": "paranoid-personality-disorder",
+      "title": "Paranoid personality disorder",
+      "source": "reference/pd-paranoid.md",
+      "anchor": "main",
+      "source_sha256": "4c1e810571faa0744d3194cb86e948feabbf1a9638e79d986549e5358d7aa2e5",
+      "meaning": "A clinical term involving a widespread, lasting pattern of distrust and interpreting others’ motives as hostile without sufficient grounds. Justified caution or suspicion after betrayal is not enough to establish it.",
+      "example": "A neighbour believes a missed invitation was deliberate exclusion. Checking how invitations were distributed may clarify that occasion. It does not establish either a pervasive disorder or the accuracy of every earlier concern.",
+      "forms": [
+        "Paranoid personality disorder"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "parentification",
+      "title": "Parentification",
+      "source": "reference/parentification.md",
+      "anchor": "main",
+      "source_sha256": "1ad4f305b3dac7de3bc1e73b0037eb453f85fd57e91881057129c0612114a6e5",
+      "meaning": "A young person carrying adult-like responsibilities that do not fit their developmental needs. Helping with supported chores is not automatically parentification.",
+      "example": "Helping prepare dinner with an adult nearby differs from repeatedly missing school to provide daily care without adult backup.",
+      "forms": [
+        "Parentification"
+      ]
+    },
+    {
+      "id": "passive-aggression",
+      "title": "Passive aggression",
+      "source": "reference/passive-aggression.md",
+      "anchor": "main",
+      "source_sha256": "4b0647c758b8ffa6d9f385935840f380fee137d86ef8854f64ea1cdb4540e8d1",
+      "meaning": "Passive aggression is an everyday label for indirect expressions of resistance or hostility, such as pointed comments or obstructive conduct. It is an interpretation, not a validated category this book can identify from a few incidents. Describing the actual action is usually more useful than beginning with the label.",
+      "example": "A housemate agrees to a chore but repeatedly leaves it unfinished while making jokes about your standards. Clarifying the required outcome, whether they agree and what alternative is workable addresses the task without assuming one explanation for every delay.",
+      "forms": [
+        "Passive aggression"
+      ],
+      "clinical": false,
+      "kind": "Everyday label"
+    },
+    {
+      "id": "people-pleasing",
+      "title": "People-pleasing",
+      "source": "reference/people-pleasing.md",
+      "anchor": "main",
+      "source_sha256": "a9f7026b4b690e8cbc147d57591ccec60e1f8bde152d09a71aac1c5d89f9fab9",
+      "meaning": "People-pleasing is an everyday term for repeatedly accommodating others at the expense of your own preferences, capacity or limits, often to avoid disapproval. It is not a clinical diagnosis. Generosity and cooperation can be freely chosen, so the term should not be applied merely because someone is considerate.",
+      "example": "You accept an extra family task before thinking, then cancel your own appointment. Next time, saying “I need to check what I can manage” creates space for an honest answer. The aim is a workable commitment, not making the other person admire your boundary.",
+      "forms": [
+        "People-pleasing"
+      ],
+      "clinical": false,
+      "kind": "Everyday label"
+    },
+    {
+      "id": "perfectionism",
+      "title": "Perfectionism",
+      "source": "reference/perfectionism.md",
+      "anchor": "main",
+      "source_sha256": "dab335ebd6b516edbc0065f45c7fab955a83014ef92619f198693a570262ae51",
+      "meaning": "Perfectionism concerns demanding standards and the way people judge themselves or others when those standards are not met. A useful distinction is between striving for high quality and being preoccupied with mistakes, criticism or falling short. These can coexist. Careful work is not inherently a problem; rigidity and cost are important.",
+      "example": "You rewrite an ordinary meeting summary five times because it could be better. Agreeing that it must accurately state decisions, owners and dates gives a concrete endpoint. It separates the document’s job from an impossible requirement to eliminate every possible criticism.",
+      "forms": [
+        "Perfectionism"
+      ],
+      "clinical": false
+    },
+    {
+      "id": "personality-disorder",
+      "title": "Personality disorder",
+      "source": "reference/personality-disorders.md",
+      "anchor": "main",
+      "source_sha256": "3b412bc2e8bf92ab9301e8d72402b75502a8d7b59a39459d4fd6b3396fef3871",
+      "meaning": "A clinical description of lasting difficulties in patterns of thinking, feeling and relating that cause substantial distress or problems in daily life. It is not a synonym for being difficult, disliked or abusive.",
+      "example": "Repeated arguments about housework lead someone to say their partner has a personality disorder. The arguments may reveal a real problem, but they do not supply a clinical assessment of the partner’s broader life. The responsibilities and effects can still be addressed.",
+      "forms": [
+        "Personality disorders",
+        "personality disorder"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "personality-facet",
+      "title": "Personality facet",
+      "source": "reference/personality-facets.md",
+      "anchor": "main",
+      "source_sha256": "080ac472fd8319edb7e125b6bf50a0306dc916564389df2d45cf796799a0c2d5",
+      "meaning": "A narrower part of a broad personality dimension. Related tendencies, such as sociability and assertiveness, are not identical.",
+      "example": "A colleague enjoys group lunches but rarely challenges a high-stakes decision. Being sociable does not settle how assertive they will be.",
+      "forms": [
+        "Facets",
+        "facets",
+        "facet"
+      ],
+      "kind": "Personality concept"
+    },
+    {
+      "id": "positive-reinforcement",
+      "title": "Positive reinforcement",
+      "source": "reference/reinforcement.md",
+      "anchor": "main",
+      "source_sha256": "a5ced269de3edef157a015e435a3f16d3007709a68116d7540a0d0bcdef290e1",
+      "meaning": "A consequence that makes a response more likely by adding something. Positive means addition, not moral approval, and the effect must be judged over time.",
+      "example": "Recognition after useful updates may be positive reinforcement if it makes those updates more likely. Praise alone does not establish the effect.",
+      "forms": [
+        "Positive reinforcement"
+      ]
+    },
+    {
+      "id": "power",
+      "title": "Power",
+      "source": "reference/power.md",
+      "anchor": "main",
+      "source_sha256": "77a72c20f50ff3c40689858abf583e1acf726a0cf1d4d1f5bcf12f2637ae6219",
+      "meaning": "Unequal power means that people differ in their ability to affect resources, decisions or consequences. It can arise through employment, money, housing, information, social standing, care arrangements or authority. Power is not identical to confidence or status: a quiet person may control crucial resources, while a forceful speaker may have few actual options.",
+      "example": "A person controlling access to housing can affect another person’s choices even without being admired. Power and status are different.",
+      "forms": [
+        "Unequal power",
+        "power"
+      ],
+      "defines_here": true
+    },
+    {
+      "id": "presupposition",
+      "title": "Presupposition",
+      "source": "reference/assumptions-and-authority.md",
+      "anchor": "main",
+      "source_sha256": "17fa82fbed3a86d8034ef9d770adf6f33efbb39fb131ccaa43f8c6cbed96360b",
+      "meaning": "A background assumption treated as already settled in what someone says or asks. Such assumptions are common in ordinary conversation, not inherently manipulative.",
+      "example": "Why are you refusing to support the launch assumes refusal. You can support the launch while questioning its date.",
+      "forms": [
+        "Presupposition"
+      ]
+    },
+    {
+      "id": "procrastination",
+      "title": "Procrastination",
+      "source": "reference/procrastination-planning.md",
+      "anchor": "main",
+      "source_sha256": "c678339048da1592f09d0b47cd9e53c590bf6af8684576c144ae20e5f44588b4",
+      "meaning": "Delaying an intended action despite expecting the delay to make things worse. Choosing a different priority or waiting for a necessary resource is not automatically procrastination.",
+      "example": "You want to start a chapter but postpone it to avoid the discomfort of not knowing where to begin.",
+      "forms": [
+        "Procrastination"
+      ]
+    },
+    {
+      "id": "reactance",
+      "title": "Psychological reactance",
+      "source": "reference/autonomy.md",
+      "anchor": "main",
+      "source_sha256": "2938f5c5b9c36b93acde6c1db09e13c3495c136a79595feef7b62c587dd43b0f",
+      "meaning": "A response to a perceived threat to freedom that can motivate resistance or an attempt to restore choice. Resistance alone does not establish this explanation.",
+      "example": "Someone resists an instruction after feeling that their choice has been removed. They might also have a sound objection to the task.",
+      "forms": [
+        "psychological-reactance",
+        "Reactance",
+        "reactance"
+      ],
+      "defines_here": false
+    },
+    {
+      "id": "psychological-safety",
+      "title": "Psychological safety",
+      "source": "reference/feedback-and-speaking-up.md",
+      "anchor": "main",
+      "source_sha256": "1e6ba2920c6ed9c92c9d4db86646f8a1c5b88cad18a1f05edd99238459fd6aa3",
+      "meaning": "Expecting that asking questions, admitting uncertainty or reporting mistakes will not bring punishment or humiliation. It does not mean constant comfort or freedom from accountability.",
+      "example": "A manager invites concerns but ridicules the person who reports an error. The invitation alone does not establish safety.",
+      "forms": [
+        "Psychological safety"
+      ]
+    },
+    {
+      "id": "reinforcement",
+      "title": "Reinforcement",
+      "source": "reference/reinforcement.md",
+      "anchor": "main",
+      "source_sha256": "a5ced269de3edef157a015e435a3f16d3007709a68116d7540a0d0bcdef290e1",
+      "meaning": "A learning process in which a consequence makes a response more likely in similar circumstances. It describes a change in responding, not simply someone’s intention.",
+      "example": "Relief after avoiding an awkward refusal may make avoidance more likely. Check what happens across occasions rather than inferring a learning process from one event.",
+      "forms": [
+        "Reinforcement"
+      ]
+    },
+    {
+      "id": "rejection-sensitivity",
+      "title": "Rejection sensitivity",
+      "source": "reference/fear-rejection.md",
+      "anchor": "main",
+      "source_sha256": "c2e8b050494be2c9a8c859628675b782ef071753cf3eb6e09336e233d4b93fe0",
+      "meaning": "Anxious expectations and reactions concerning rejection, studied as a research concept. A fear of rejection can fit real circumstances and does not establish a diagnosis.",
+      "example": "A delayed reply may feel like rejection. Checking the relationship’s actual reliability matters before treating the feeling as a general sensitivity.",
+      "forms": [
+        "Rejection sensitivity"
+      ]
+    },
+    {
+      "id": "responsiveness",
+      "title": "Responsiveness",
+      "source": "reference/responsive-support.md",
+      "anchor": "main",
+      "source_sha256": "35baddbd601abd2b5d6bfd0f03f8fd0e1822b2fc7a83c397948fc65db8d22dd6",
+      "meaning": "Responding in a way the other person experiences as understanding, acknowledging and caring about what matters to them. Good intentions alone do not establish that an offer is useful.",
+      "example": "A daughter wants to try a homework problem and have one step checked. Taking over the whole problem may miss the support she wants.",
+      "forms": [
+        "Responsive support",
+        "responsiveness"
+      ]
+    },
+    {
+      "id": "scapegoat",
+      "title": "Scapegoat",
+      "source": "reference/unequal-treatment.md",
+      "anchor": "main",
+      "source_sha256": "650cc0ae61b37b0244952e1de80bdff12eb72bef1b47f872782f49c7b6847744",
+      "meaning": "Someone unfairly singled out to carry blame for a problem. Check the particular allegation and pattern rather than assuming that all criticism of that person is false.",
+      "example": "A family repeatedly blames one person for arrangements that several adults made. Compare who actually agreed to what and who could correct the account.",
+      "forms": [
+        "scapegoat"
+      ],
+      "kind": "Everyday label",
+      "defines_here": false
+    },
+    {
+      "id": "schizoid-personality-disorder",
+      "title": "Schizoid personality disorder",
+      "source": "reference/pd-schizoid.md",
+      "anchor": "main",
+      "source_sha256": "dcf3795d2a1a73baac6efa2be8be9bcaef896e84e985bc424dc1db2e7f2a692c",
+      "meaning": "A clinical term involving lasting detachment from social relationships and limited outward emotional expression, assessed in wider functioning. It is not a synonym for privacy, independence or introversion.",
+      "example": "A relative prefers brief visits and rarely shows enthusiasm in the way you expect. Asking what contact they enjoy is more informative than assuming they do not care. A sudden change in their usual activities would raise a different support question.",
+      "forms": [
+        "Schizoid personality disorder"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "schizotypal-personality-disorder",
+      "title": "Schizotypal personality disorder",
+      "source": "reference/pd-schizotypal.md",
+      "anchor": "main",
+      "source_sha256": "08d31e0c48d060522d1e436bbfd3f54a15f52dd631bb120e772228e6a3c096a7",
+      "meaning": "A clinical term involving lasting relationship difficulties alongside unusual patterns of thinking, perception or behaviour. Unfamiliar beliefs, unconventional interests or social discomfort alone do not establish it.",
+      "example": "A friend reports an unsettling experience and is struggling to sleep. You can ask how it is affecting them and help arrange a suitable health conversation without declaring a disorder, confirming a frightening explanation or dismissing the distress.",
+      "forms": [
+        "Schizotypal personality disorder"
+      ],
+      "clinical": true,
+      "kind": "Clinical vocabulary"
+    },
+    {
+      "id": "shame",
+      "title": "Shame",
+      "source": "reference/shame-anger-and-repair.md",
+      "anchor": "main",
+      "source_sha256": "e3fc24f941f65deb3209b12f8851fd983105e173652d5c874f2668636dc6c74f",
+      "meaning": "A negative evaluation of the whole self, rather than only a particular action. Anger or defensiveness does not prove that someone feels shame.",
+      "example": "After a missed deadline, I am useless is a global self-judgment. I missed the agreed date identifies an action that can be addressed.",
+      "forms": [
+        "Shame"
+      ]
+    },
+    {
+      "id": "social-comparison",
+      "title": "Social comparison",
+      "source": "reference/social-comparison.md",
+      "anchor": "main",
+      "source_sha256": "096b9669eb53e9b131a5237e68011935e2eb3930896bc54c0eeeaced38e3f7ca",
+      "meaning": "Evaluating something about yourself by reference to someone else. The comparison can provide useful information or support a judgment the known facts cannot establish.",
+      "example": "A friend’s publication date can suggest a writing process to learn from, but cannot by itself establish that you lack talent.",
+      "forms": [
+        "Social comparison"
+      ]
+    },
+    {
+      "id": "status",
+      "title": "Status",
+      "source": "reference/status.md",
+      "anchor": "main",
+      "source_sha256": "f06822f922b74ae80a96db5cc025efc62736f155656a0f1549f7ff9dd5b0649d",
+      "meaning": "Respect, recognition or being looked up to within a group. This differs from power over resources or decisions.",
+      "example": "An admired expert may have no right to set your deadline. A manager may have that authority without being admired.",
+      "forms": [
+        "Status"
+      ],
+      "clinical": false
+    },
+    {
+      "id": "stonewalling",
+      "title": "Stonewalling",
+      "source": "reference/stonewalling.md",
+      "anchor": "main",
+      "source_sha256": "9edea3a34d72a349324111572f22398c8550288b52de9386f33f4a5d31e0e72c",
+      "meaning": "Stonewalling is commonly used for a pattern of shutting down communication so that an issue cannot be addressed. An agreed pause is different: it allows space while keeping a workable route to return. Neither silence nor leaving a conversation alone establishes an intention to punish or control.",
+      "example": "After an argument about a payment, one person asks for an hour and later returns to agree the amount. That is different from repeatedly refusing every discussion until the other person pays everything to end the silence.",
+      "forms": [
+        "Stonewalling"
+      ],
+      "clinical": false,
+      "kind": "Everyday label"
+    },
+    {
+      "id": "sycophancy",
+      "title": "Sycophancy (AI)",
+      "source": "reference/ai-reflection.md",
+      "anchor": "main",
+      "source_sha256": "50042d0b0229cd33face93ecc2c2f9053956de37ccebad7b2de26932c4e56e84",
+      "meaning": "An AI assistant favouring agreement with the user over an accurate or adequately challenged answer. Agreement from the model is not independent evidence.",
+      "example": "You ask why a relative is manipulating you and receive a confident story built on that assumption. Asking for alternatives may help, but cannot guarantee accuracy.",
+      "forms": [
+        "sycophancy"
+      ],
+      "defines_here": false
+    },
+    {
+      "id": "systematic-review",
+      "title": "Systematic review",
+      "source": "evidence.md",
+      "anchor": "match-the-method-to-the-question",
+      "source_sha256": "90f9311e290c28c6fab869438a73485bc75256bf70dfba23c1f8f7f1c8423942",
+      "meaning": "Using stated methods to search for, select and assess relevant studies. A systematic search cannot remove weaknesses in the studies themselves.",
+      "example": "A review reports its search and selection rules, helping readers inspect which evidence it included.",
+      "forms": [
+        "Systematic review"
+      ],
+      "kind": "Research vocabulary"
+    },
+    {
+      "id": "triangulation",
+      "title": "Triangulation",
+      "source": "reference/thirdparty.md",
+      "anchor": "main",
+      "source_sha256": "988618319ce49538595946ba740ad0b5f6341e97ef9200bf04d2634f96d83c12",
+      "meaning": "A term used in different ways for involving a third person in a two-person difficulty. Describe the person’s actual role and consent; third-party involvement can provide support or create pressure.",
+      "example": "A friend may help you prepare for a discussion, pass messages without consent, or recruit others to take sides. Those are different arrangements.",
+      "forms": [
+        "Triangulation"
+      ]
+    }
+  ]
+}

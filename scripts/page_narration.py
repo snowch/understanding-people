@@ -93,6 +93,11 @@ def speech_sections(title, body):
     sections = [{"title": title, "anchor": "main", "paragraphs": [opening]}]
     skipped = {"page-narration", "reference-listenings", "audio-edition", "audio-exercise", "practice-notes",
                "reference-formats", "library-search", "library-topics", "library-entry-formats", "notes-help", "audio-chapters"}
+    # The glossary also supplies source-bound lookup cards from other narrated
+    # reference lessons. Its existing audio remains the foundation-term tour;
+    # each lookup card links the reference lesson that covers that concept.
+    if clean(title).casefold() == 'glossary':
+        skipped.add('glossary-reference-term')
 
     def add(text):
         text = clean(text)
@@ -206,6 +211,8 @@ def render(source, title, body, page, manifest, editions=None):
     if is_lesson:
         practice_hint = ('A spoken adaptation. Full references and additional practice are on the written page. '
                          if 'reader-action' in body else 'A spoken adaptation. The written page has the full text and links. ')
+    if source == 'glossary.md':
+        practice_hint = ('A spoken adaptation of the foundation terms. Additional reference definitions below each link to their own narrated lesson. ')
     jumps = "".join(f'<li><button type="button" hidden data-audio-seek="page-narration-audio" data-start="{s["start"]}">{stamp(s["start"])} · {escape(s["title"])}</button><a href="#{escape(s["anchor"], quote=True)}">Read {escape(s["title"])}</a></li>' for s in entry["sections"])
     choices = ''.join(f'<option value="{key}">{escape(data["name"])}</option>' for key, data in variants.items())
     from urllib.parse import quote
@@ -214,7 +221,7 @@ def render(source, title, body, page, manifest, editions=None):
     fallback = ''.join(f'<a href="{escape(v["audio"], quote=True)}" download="{escape(v["filename"], quote=True)}">Download {escape(v["name"])} MP3</a> ' for k, v in variants.items() if k != DEFAULT)
     payload = json.dumps(variants, ensure_ascii=False).replace('<', '\\u003c')
     return f'''<section class="page-narration audio-edition" aria-labelledby="page-narration-title">
-<div class="narration-heading"><h2 id="page-narration-title">{'Listen to this lesson' if is_lesson else 'Listen to this page'}</h2><span class="audio-kind">Synthetic voice</span></div>
+<div class="narration-heading"><h2 id="page-narration-title">{'Listen to the foundation terms' if source == 'glossary.md' else 'Listen to this lesson' if is_lesson else 'Listen to this page'}</h2><span class="audio-kind">Synthetic voice</span></div>
 <div class="lesson-transport" hidden>
 <button type="button" class="lesson-toggle" data-player-toggle aria-label="Play lesson"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path data-player-play d="m9 5 11 7-11 7Z" fill="currentColor"/><path data-player-pause d="M8 5h3v14H8zm6 0h3v14h-3z" fill="currentColor"/></svg></button>
 <div class="lesson-timeline"><input type="range" data-player-seek aria-label="Lesson playback position" min="0" max="{entry['duration']}" value="0" step="1"><div class="lesson-time"><span data-player-elapsed>0:00</span><span aria-hidden="true"> / </span><span data-narration-duration data-seconds="{entry['duration']}">{stamp(entry['duration'])}</span></div></div>

@@ -1,0 +1,2010 @@
+{
+  "date": "2026-11-08",
+  "scope": "Terminology, first-use links, lookup definitions, examples and distinctions across all 136 references; not a new scientific or specialist review.",
+  "references_reviewed": 136,
+  "glossary_headwords": 114,
+  "lookup_entries": 90,
+  "existing_course_terms": 24,
+  "references": [
+    {
+      "source": "reference/confirmation-bias.md",
+      "title": "Confirmation bias",
+      "group": "Thinking & interpretation",
+      "source_sha256": "4700bf9cc95dd22870a0848c7ec0a97e9477081031410eeff9ada07406fd7a72",
+      "definition_contexts": [
+        "longitudinal"
+      ],
+      "glossary_links": [
+        "confirmation-bias",
+        "correspondence-bias",
+        "habit",
+        "longitudinal",
+        "motivated-reasoning"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/correspondence-bias.md",
+      "title": "Correspondence bias",
+      "group": "Thinking & interpretation",
+      "source_sha256": "f10df59d23fe6e69e8dd5293f9981a9f128ef9f2e6e1ed1816b9e2f0de42011e",
+      "definition_contexts": [],
+      "glossary_links": [
+        "boundary",
+        "confirmation-bias",
+        "correspondence-bias",
+        "longitudinal"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/identity.md",
+      "title": "Identity & beliefs",
+      "group": "Thinking & interpretation",
+      "source_sha256": "576f1199e98e689c69249c8c575b3c0b5b8f15605456423caaf6e35e8ad9e4f1",
+      "definition_contexts": [],
+      "glossary_links": [
+        "motivated-reasoning",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/observation.md",
+      "title": "Observation & interpretation",
+      "group": "Thinking & interpretation",
+      "source_sha256": "383be3b82825ceff49820fac65d85c5f653b1241725f3efeaa8ce22583f97458",
+      "definition_contexts": [],
+      "glossary_links": [
+        "correspondence-bias",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/deception.md",
+      "title": "Truth, lies & uncertainty",
+      "group": "Thinking & interpretation",
+      "source_sha256": "7b6de523234284d03842212bcd7e6731a0b79b7c0c1532bec2c055f290c719a3",
+      "definition_contexts": [],
+      "glossary_links": [
+        "open-question",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/uncertainty.md",
+      "title": "Uncertainty",
+      "group": "Thinking & interpretation",
+      "source_sha256": "db731527a0f93e1f043a7f01f08f181f5cf8aaee388cd8cdc85cd68d1845d3f6",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/assumptions-and-authority.md",
+      "title": "Assumptions in questions & decision rights",
+      "group": "Thinking & interpretation",
+      "source_sha256": "17fa82fbed3a86d8034ef9d770adf6f33efbb39fb131ccaa43f8c6cbed96360b",
+      "definition_contexts": [
+        "decision-authority",
+        "presupposition"
+      ],
+      "glossary_links": [
+        "decision-authority",
+        "presupposition",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/comparing-occasions.md",
+      "title": "Compare occasions & test an explanation",
+      "group": "Thinking & interpretation",
+      "source_sha256": "9f57b7a90189f308114a9d2fa8d8183184875d5793906618e07d4c85323f291b",
+      "definition_contexts": [],
+      "glossary_links": [
+        "habit",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/declining-help.md",
+      "title": "Declining help",
+      "group": "Behaviour & relationships",
+      "source_sha256": "982f2b796910623b0bac7373e5c17010e23e168afde1abf8b207535c32181213",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "heritability",
+        "meta-analysis",
+        "relatedness",
+        "shame"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/acknowledging.md",
+      "title": "Acknowledging another perspective",
+      "group": "Behaviour & relationships",
+      "source_sha256": "6cad6fe2badbd3d636d7c86f8d7028a115374941043e6e334fb43f165f4a8202",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/followthrough.md",
+      "title": "Agreeing, then not following through",
+      "group": "Behaviour & relationships",
+      "source_sha256": "f3c033cf7b01c467b3434b2661f0f6c8ce269703e6d7ec8d7f0f0b1993ebfcae",
+      "definition_contexts": [],
+      "glossary_links": [
+        "com-b",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/vulnerability.md",
+      "title": "Avoiding vulnerability",
+      "group": "Behaviour & relationships",
+      "source_sha256": "0e98ba95ab65eee4d2114fe3e20d1f7cf22a6d1596c6c84c9553c0d2609fd56b",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "boundary",
+        "competence",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/contempt.md",
+      "title": "Contempt & belittling",
+      "group": "Behaviour & relationships",
+      "source_sha256": "ef83da6b21d99c925250919f09abf7616620d19e495332a08e614ef8c70fb945",
+      "definition_contexts": [],
+      "glossary_links": [
+        "habit",
+        "power",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/financial-control.md",
+      "title": "Control of money & resources",
+      "group": "Behaviour & relationships",
+      "source_sha256": "812604d6af28b96c213353a05a7898a7d5649495480e2bb18825202754b0a0ad",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/deflecting.md",
+      "title": "Deflecting or changing the subject",
+      "group": "Behaviour & relationships",
+      "source_sha256": "b9ab6aa8f3b10cb58fffba9cf4bd8aa32d15d4a2343114b2e23e64922d097b43",
+      "definition_contexts": [],
+      "glossary_links": [
+        "guilt",
+        "shame",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/denial.md",
+      "title": "Denying an event or agreement",
+      "group": "Behaviour & relationships",
+      "source_sha256": "747fd4fcaaf285180fe84e0ec79c1335aa6597d7510832071e3e2ca511e83165",
+      "definition_contexts": [],
+      "glossary_links": [
+        "gaslighting",
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/difficulty-trusting.md",
+      "title": "Difficulty trusting",
+      "group": "Behaviour & relationships",
+      "source_sha256": "a7455a19d7ed8ec37d8ba3709b020e515a2c3946ea2102b8957425ecb960ea6b",
+      "definition_contexts": [],
+      "glossary_links": [
+        "competence",
+        "personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/dismissing-needs.md",
+      "title": "Dismissing another person’s needs",
+      "group": "Behaviour & relationships",
+      "source_sha256": "6fc18130c5ec8c8ef858a3ba0b5793e60aab1e5203548c9fe5f6f41519065f76",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "manipulation",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/emotional-blackmail.md",
+      "title": "Emotional blackmail & conditional threats",
+      "group": "Behaviour & relationships",
+      "source_sha256": "5f2ab6f2b8ae7e73ce1e3d8466a3458d00b751fc407a3f0322898818a5cc2cfd",
+      "definition_contexts": [
+        "emotional-blackmail"
+      ],
+      "glossary_links": [
+        "boundary",
+        "emotional-blackmail",
+        "manipulation",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/narcissistic-behaviour.md",
+      "title": "Entitlement, admiration & others’ needs",
+      "group": "Behaviour & relationships",
+      "source_sha256": "9ff9071ebf8676bdc2566e344316b7a992e130e1e0a882e7111fcfb15bb59091",
+      "definition_contexts": [
+        "narcissism"
+      ],
+      "glossary_links": [
+        "boundary",
+        "meta-analysis",
+        "narcissism",
+        "narcissistic-personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/creating-obligation.md",
+      "title": "Favours that create unwanted obligation",
+      "group": "Behaviour & relationships",
+      "source_sha256": "58c12b172259d1a42f56d187f08389bf8a58c0b91a10b55a3f6c4cb6ea6c2308",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "manipulation",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/gaslighting.md",
+      "title": "Gaslighting & undermining your reality",
+      "group": "Behaviour & relationships",
+      "source_sha256": "88351a6e4cd0674d71012cb7887755fd26165b8a5d42d829e1e14b73f36afa69",
+      "definition_contexts": [],
+      "glossary_links": [
+        "gaslighting",
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/guilt-pressure.md",
+      "title": "Guilt-tripping & pressure through obligation",
+      "group": "Behaviour & relationships",
+      "source_sha256": "573a9ddf58d5b8776178188309181d605fd98497962817aa20c06f48d5bc72e5",
+      "definition_contexts": [
+        "guilt-tripping"
+      ],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "guilt",
+        "guilt-tripping",
+        "relatedness",
+        "shame",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/passive-aggression.md",
+      "title": "Indirect resistance & passive aggression",
+      "group": "Behaviour & relationships",
+      "source_sha256": "4b0647c758b8ffa6d9f385935840f380fee137d86ef8854f64ea1cdb4540e8d1",
+      "definition_contexts": [
+        "passive-aggression"
+      ],
+      "glossary_links": [
+        "passive-aggression",
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/interrupt.md",
+      "title": "Interrupting",
+      "group": "Behaviour & relationships",
+      "source_sha256": "b731a6d2f0ab362890f31da664125f707cf549fdca0ea80286bac5aa15746ab5",
+      "definition_contexts": [],
+      "glossary_links": [
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/intimidation.md",
+      "title": "Intimidation & threats",
+      "group": "Behaviour & relationships",
+      "source_sha256": "4169359537d752c55a71a85b5062efb08d24c6bc1d33e8296533faa43c72dadb",
+      "definition_contexts": [],
+      "glossary_links": [
+        "boundary",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/thirdparty.md",
+      "title": "Involving a third person",
+      "group": "Behaviour & relationships",
+      "source_sha256": "988618319ce49538595946ba740ad0b5f6341e97ef9200bf04d2634f96d83c12",
+      "definition_contexts": [
+        "triangulation"
+      ],
+      "glossary_links": [
+        "manipulation",
+        "mediation",
+        "systematic-review",
+        "triangulation"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/listening.md",
+      "title": "Listening and checking understanding",
+      "group": "Behaviour & relationships",
+      "source_sha256": "a3cbfa89149ea28b5211b3f1ef80bb0eead1b07b1c71cbcaa76ef18d6c4d72cd",
+      "definition_contexts": [],
+      "glossary_links": [
+        "open-question",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/minimising.md",
+      "title": "Minimising harm or impact",
+      "group": "Behaviour & relationships",
+      "source_sha256": "81b0c10b3064d1a49c01d9cd74aa0d530c273ba554afdca3794133369dd88e61",
+      "definition_contexts": [],
+      "glossary_links": [
+        "guilt",
+        "manipulation",
+        "shame",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/monitoring.md",
+      "title": "Monitoring & demands for access",
+      "group": "Behaviour & relationships",
+      "source_sha256": "6e1a5ba3838d71e2ed35146f0291af41d9b7b745057ba6e8c57dbfa61c8d4c8a",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/people-pleasing.md",
+      "title": "People-pleasing & automatic agreement",
+      "group": "Behaviour & relationships",
+      "source_sha256": "a9f7026b4b690e8cbc147d57591ccec60e1f8bde152d09a71aac1c5d89f9fab9",
+      "definition_contexts": [
+        "people-pleasing"
+      ],
+      "glossary_links": [
+        "autonomy",
+        "boundary",
+        "competence",
+        "people-pleasing",
+        "power",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/possessiveness.md",
+      "title": "Possessiveness & demands for exclusivity",
+      "group": "Behaviour & relationships",
+      "source_sha256": "ac6641fba7214d05cf273d83d8fc8489c4b08dee05fb48dac4876e46f346d7fc",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "boundary",
+        "competence",
+        "jealousy",
+        "relatedness",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/repairing.md",
+      "title": "Repair after a misunderstanding",
+      "group": "Behaviour & relationships",
+      "source_sha256": "546180d5d992792349b9e9f4a4bfe96b4a225b52bbbb41ccbc22d2e58a23ee94",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/criticism.md",
+      "title": "Repeated criticism",
+      "group": "Behaviour & relationships",
+      "source_sha256": "714179e7a8b69dddb4bf2a8e5e2f9dca8fbb7728f8e06469d7726ad3bb8cc1ae",
+      "definition_contexts": [],
+      "glossary_links": [
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/reassurance.md",
+      "title": "Repeatedly asking for reassurance",
+      "group": "Behaviour & relationships",
+      "source_sha256": "eab9ef9fd589a8e0dbad48c1d4fd1d5a30b42aa6f545d868941b5731203b3401",
+      "definition_contexts": [],
+      "glossary_links": [
+        "compulsion",
+        "obsession",
+        "ocd",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/boundary-pushing.md",
+      "title": "Repeatedly pushing a stated limit",
+      "group": "Behaviour & relationships",
+      "source_sha256": "846559f107f38b3258a3dbaf5a583f729dd2e0b740ef04c51f9626a791218548",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "boundary",
+        "competence",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/defensive.md",
+      "title": "Responding defensively",
+      "group": "Behaviour & relationships",
+      "source_sha256": "bf02c021946d5e117635b427cd927159080dd5ad9b8ce45c1c0111d425656bca",
+      "definition_contexts": [],
+      "glossary_links": [
+        "competence",
+        "guilt",
+        "motivated-reasoning",
+        "shame",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/isolation.md",
+      "title": "Restricting contact with other people",
+      "group": "Behaviour & relationships",
+      "source_sha256": "dd249c7c9a02de3c68bcec1ed9e8b16a79786f58bb827684ea0118faab2d733e",
+      "definition_contexts": [],
+      "glossary_links": [
+        "boundary",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/coercive-patterns.md",
+      "title": "Restriction, monitoring & coercive patterns",
+      "group": "Behaviour & relationships",
+      "source_sha256": "dc23ec939aaeacb77fe6ccb5b2fc80b2ffed80e1ca3eb64a702992d5b3969aa6",
+      "definition_contexts": [
+        "coercive-control"
+      ],
+      "glossary_links": [
+        "coercive-control",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/retaliation.md",
+      "title": "Retaliation after a refusal or complaint",
+      "group": "Behaviour & relationships",
+      "source_sha256": "a14b9fac2c3be7d737f8cdcd8ac9c95798c22034b2b13fce846efcbe13b0a269",
+      "definition_contexts": [],
+      "glossary_links": [
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/blame-shifting.md",
+      "title": "Shifting responsibility",
+      "group": "Behaviour & relationships",
+      "source_sha256": "116d512f4804cd3b942457b5cee6d3c404933ed1986b1071df019fc5ef8b3024",
+      "definition_contexts": [],
+      "glossary_links": [
+        "guilt",
+        "shame",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/stonewalling.md",
+      "title": "Stonewalling, silence & an agreed pause",
+      "group": "Behaviour & relationships",
+      "source_sha256": "9edea3a34d72a349324111572f22398c8550288b52de9386f33f4a5d31e0e72c",
+      "definition_contexts": [
+        "stonewalling"
+      ],
+      "glossary_links": [
+        "mediation",
+        "stonewalling",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/taking-credit.md",
+      "title": "Taking or withholding credit",
+      "group": "Behaviour & relationships",
+      "source_sha256": "af3681df665425f544110278a0a9ffb85357de86e5528a4e76feca105dfeeb4f",
+      "definition_contexts": [],
+      "glossary_links": [
+        "jealousy",
+        "narcissism",
+        "power",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/over-responsibility.md",
+      "title": "Taking too much responsibility",
+      "group": "Behaviour & relationships",
+      "source_sha256": "8b0640de2295452859caeee526af66f818849dbcb8825cb66821809518720cb1",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "com-b",
+        "competence",
+        "habit",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/withdraw.md",
+      "title": "Withdrawing from a conversation",
+      "group": "Behaviour & relationships",
+      "source_sha256": "8530038845efe2e5e8f7c0b922fea618a49038030fcc135a1ae73532034e4ef1",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/naming-and-belonging.md",
+      "title": "Names, respect & belonging",
+      "group": "Behaviour & relationships",
+      "source_sha256": "e55800995136c3575081f38a4bcfecc5574adee37d575046f263369e971c9fdb",
+      "definition_contexts": [
+        "face",
+        "naming-asymmetry"
+      ],
+      "glossary_links": [
+        "face",
+        "habit",
+        "naming-asymmetry",
+        "power",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/unequal-treatment.md",
+      "title": "Different standards & unequal treatment",
+      "group": "Behaviour & relationships",
+      "source_sha256": "650cc0ae61b37b0244952e1de80bdff12eb72bef1b47f872782f49c7b6847744",
+      "definition_contexts": [
+        "double-standard",
+        "golden-child",
+        "scapegoat"
+      ],
+      "glossary_links": [
+        "double-standard",
+        "golden-child",
+        "habit",
+        "scapegoat",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/interaction-cycles.md",
+      "title": "Pressure, withdrawal & interaction cycles",
+      "group": "Behaviour & relationships",
+      "source_sha256": "c483b02bdd77af0043bac2d1712708bd66c2b010546c3217f74bf28ecf029b42",
+      "definition_contexts": [
+        "demand-withdraw-pattern",
+        "interaction-cycle"
+      ],
+      "glossary_links": [
+        "boundary",
+        "demand-withdraw-pattern",
+        "interaction-cycle",
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/sequential-requests.md",
+      "title": "Escalating requests & everyday influence",
+      "group": "Behaviour & relationships",
+      "source_sha256": "5cf2f51297efef2244e82aa6ba931f218674fa2ada3c969d852eefdedfdf2660",
+      "definition_contexts": [
+        "door-in-the-face",
+        "foot-in-the-door"
+      ],
+      "glossary_links": [
+        "descriptive-norm",
+        "door-in-the-face",
+        "foot-in-the-door",
+        "manipulation",
+        "prescriptive-norm",
+        "reactance",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/exclusion-and-reputation.md",
+      "title": "Exclusion, gossip & reputation",
+      "group": "Behaviour & relationships",
+      "source_sha256": "953729419a1e04ac658b3b187c9802100feb9115486f4e525d16be91f6234bb6",
+      "definition_contexts": [
+        "impression-management",
+        "ostracism"
+      ],
+      "glossary_links": [
+        "impression-management",
+        "meta-analysis",
+        "ostracism",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/blame-reversal.md",
+      "title": "Denial, attack & blame reversal",
+      "group": "Behaviour & relationships",
+      "source_sha256": "03e5bf910580406e25c36e5d36dd263242d18f091a56a39b42926d094e768c29",
+      "definition_contexts": [
+        "darvo"
+      ],
+      "glossary_links": [
+        "darvo",
+        "guilt",
+        "personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/changing-standards.md",
+      "title": "Changing criteria & moving goalposts",
+      "group": "Behaviour & relationships",
+      "source_sha256": "759f35ab3f00522d33527c2d0e7d58eb28ca522e56035f54b822cf02e1483781",
+      "definition_contexts": [],
+      "glossary_links": [
+        "boundary",
+        "manipulation",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/intense-and-inconsistent-contact.md",
+      "title": "Intense affection & inconsistent contact",
+      "group": "Behaviour & relationships",
+      "source_sha256": "90050e2fb491a337455feb3fc79ed3e3bd41f9bc11476f209e5704edf8d1ae75",
+      "definition_contexts": [
+        "breadcrumbing",
+        "hoovering",
+        "love-bombing"
+      ],
+      "glossary_links": [
+        "attachment-anxiety",
+        "boundary",
+        "breadcrumbing",
+        "guilt",
+        "habit",
+        "hoovering",
+        "love-bombing",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/belonging.md",
+      "title": "Belonging",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "a965b886f26a19505b23f55761b760bac6bea1dfed8e3d22189918c70cf3c19e",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/change-conditions.md",
+      "title": "Capability, opportunity & motivation",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "a7576337b2de947f20d4c5b439f90da03b7dbcc45f2f825a9ee136eaf69a2e36",
+      "definition_contexts": [
+        "com-b"
+      ],
+      "glossary_links": [
+        "com-b",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/competing.md",
+      "title": "Competing goals",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "7e5b10e999e1ba72077adc57718e7cbc7c1e9889f5ef68662e1bc14aef8659ca",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "com-b",
+        "competence",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/fairness.md",
+      "title": "Fair treatment",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "0737797eda794cbc7d629d0ba24af2ed0dd8a4f1991a3a47d5d96a7e6d33d690",
+      "definition_contexts": [],
+      "glossary_links": [
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/competence.md",
+      "title": "Feeling capable",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "e044c0690125272eedda696f66d7f4b7fac30b821cd881fcaabc8e491619c9d3",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "com-b",
+        "competence",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/security.md",
+      "title": "Feeling safe",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "b6aeb9a59e9da75a3281de3d2bfd9f2134ed9365444648da39db1cd539e79abc",
+      "definition_contexts": [],
+      "glossary_links": [
+        "com-b",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/autonomy.md",
+      "title": "Having a say",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "2938f5c5b9c36b93acde6c1db09e13c3495c136a79595feef7b62c587dd43b0f",
+      "definition_contexts": [
+        "reactance"
+      ],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "power",
+        "reactance",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/motivation.md",
+      "title": "Motivation",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "39642704a0e2c93523fb0c88442d5ab000ac485713d1f253ac9ed170c51f63e6",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "com-b",
+        "competence",
+        "intrinsic-motivation",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/status.md",
+      "title": "Recognition & status",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "f06822f922b74ae80a96db5cc025efc62736f155656a0f1549f7ff9dd5b0649d",
+      "definition_contexts": [
+        "status"
+      ],
+      "glossary_links": [
+        "decision-authority",
+        "narcissism",
+        "power",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/approval-seeking.md",
+      "title": "Seeking approval",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "af490f987bb1cc15bad784e4b5754be4eec563412cbb882cc081c79309a54a6a",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "power",
+        "rejection-sensitivity",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/avoidconflict.md",
+      "title": "Trying to avoid conflict",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "df958b2906bf4478b3d4c50475891a4019db153a131b200086fa7812801f531c",
+      "definition_contexts": [],
+      "glossary_links": [
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/persuade.md",
+      "title": "Trying to persuade",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "af5d993f41c01add59f0e27726070b597305fec83406c50babfbb8612c326dc4",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "manipulation",
+        "motivated-reasoning",
+        "reactance",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/protect.md",
+      "title": "Trying to protect",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "148b7c1684a48a9d5e8cf545451ae2557a07dd2ff51e7002e9b79ae0825a1231",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/punish.md",
+      "title": "Trying to punish",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "7ff973c8b5cda5a045183094a8813dd6ed10e86faaddc7e63f3347278b7478a0",
+      "definition_contexts": [],
+      "glossary_links": [
+        "boundary",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/maintainrole.md",
+      "title": "Trying to retain a role",
+      "group": "Needs, goals & intentions",
+      "source_sha256": "a4f0a27c24693a0b00046f961d0ae5ced0d4a473e5f78b69edef00ad34d260b8",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "power",
+        "relatedness",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/agreeableness.md",
+      "title": "Agreeableness",
+      "group": "Personality & individual differences",
+      "source_sha256": "37afae7a4aa41821dc794b49a8633e47a2427d6dae5b9313e4ddd526dd47f051",
+      "definition_contexts": [
+        "agreeableness"
+      ],
+      "glossary_links": [
+        "agreeableness",
+        "heritability",
+        "personality-facet",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/conscientiousness.md",
+      "title": "Conscientiousness",
+      "group": "Personality & individual differences",
+      "source_sha256": "15b50e823c49ffbc47769c44b32e594a506045dc543a3079376213430fe81d18",
+      "definition_contexts": [
+        "conscientiousness"
+      ],
+      "glossary_links": [
+        "com-b",
+        "conscientiousness",
+        "habit",
+        "ocd",
+        "ocpd",
+        "personality-facet",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/extraversion.md",
+      "title": "Extraversion",
+      "group": "Personality & individual differences",
+      "source_sha256": "3a9a34924c81794865dbe6a02df1a2ae668974b1cf730a09edf37504f4ee09f6",
+      "definition_contexts": [
+        "extraversion",
+        "introversion"
+      ],
+      "glossary_links": [
+        "competence",
+        "extraversion",
+        "habit",
+        "introversion",
+        "personality-facet",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/emotionality.md",
+      "title": "Negative emotionality",
+      "group": "Personality & individual differences",
+      "source_sha256": "ea0ab41f67082b8601081c55f5c76ed577c5070047874671af4674b53de52350",
+      "definition_contexts": [
+        "negative-emotionality"
+      ],
+      "glossary_links": [
+        "manipulation",
+        "negative-emotionality",
+        "personality-facet",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/openness.md",
+      "title": "Open-mindedness / openness",
+      "group": "Personality & individual differences",
+      "source_sha256": "601b957e0ed3a068ced8d12069cb3ded4d866f14bc16f70e5c33a8fef40ee4bd",
+      "definition_contexts": [
+        "openness"
+      ],
+      "glossary_links": [
+        "habit",
+        "motivated-reasoning",
+        "openness",
+        "personality-facet",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/personality-facets.md",
+      "title": "Personality facets & situation differences",
+      "group": "Personality & individual differences",
+      "source_sha256": "080ac472fd8319edb7e125b6bf50a0306dc916564389df2d45cf796799a0c2d5",
+      "definition_contexts": [
+        "heritability",
+        "personality-facet"
+      ],
+      "glossary_links": [
+        "heritability",
+        "personality-facet",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/reinforcement.md",
+      "title": "Consequences that sustain a pattern",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "a5ced269de3edef157a015e435a3f16d3007709a68116d7540a0d0bcdef290e1",
+      "definition_contexts": [
+        "negative-reinforcement",
+        "positive-reinforcement",
+        "reinforcement"
+      ],
+      "glossary_links": [
+        "com-b",
+        "compulsion",
+        "habit",
+        "negative-reinforcement",
+        "positive-reinforcement",
+        "reinforcement",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/fear-rejection.md",
+      "title": "Fear of rejection",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "c2e8b050494be2c9a8c859628675b782ef071753cf3eb6e09336e233d4b93fe0",
+      "definition_contexts": [
+        "rejection-sensitivity"
+      ],
+      "glossary_links": [
+        "borderline-personality-disorder",
+        "rejection-sensitivity",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/habits.md",
+      "title": "Habits & situations",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "c14a954834b02cd69661bdeaa7610eabab3743fe0619a3b7aa49c5b4ba221e4d",
+      "definition_contexts": [],
+      "glossary_links": [
+        "com-b",
+        "habit",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/jealousy.md",
+      "title": "Jealousy & what follows",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "be93f71597d7e547a85640f273444e045911b57100632738277b30b7bed26754",
+      "definition_contexts": [
+        "jealousy"
+      ],
+      "glossary_links": [
+        "envy",
+        "jealousy",
+        "rejection-sensitivity",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/learned.md",
+      "title": "Learned expectations",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "4702df2a047f8fc3d807a7eb97ae0d13f41f001c23b055d1fd387683235e2d43",
+      "definition_contexts": [],
+      "glossary_links": [
+        "boundary",
+        "habit",
+        "heritability",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/perfectionism.md",
+      "title": "Perfectionism & inflexible standards",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "dab335ebd6b516edbc0065f45c7fab955a83014ef92619f198693a570262ae51",
+      "definition_contexts": [
+        "perfectionism"
+      ],
+      "glossary_links": [
+        "conscientiousness",
+        "ocd",
+        "ocpd",
+        "perfectionism",
+        "personality-facet",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/stress.md",
+      "title": "Stress & overload",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "502d39f687cf9e9c049d0d88d6baad5377e6fef9a6949238555b93e804a1363d",
+      "definition_contexts": [],
+      "glossary_links": [
+        "habit",
+        "systematic-review",
+        "working-memory"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/procrastination-planning.md",
+      "title": "Procrastination & making a start",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "c678339048da1592f09d0b47cd9e53c590bf6af8684576c144ae20e5f44588b4",
+      "definition_contexts": [
+        "implementation-intention",
+        "mental-contrasting",
+        "procrastination"
+      ],
+      "glossary_links": [
+        "implementation-intention",
+        "mental-contrasting",
+        "procrastination",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/social-comparison.md",
+      "title": "Social comparison & envy",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "096b9669eb53e9b131a5237e68011935e2eb3930896bc54c0eeeaced38e3f7ca",
+      "definition_contexts": [
+        "envy",
+        "social-comparison"
+      ],
+      "glossary_links": [
+        "envy",
+        "jealousy",
+        "power",
+        "social-comparison",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/shame-anger-and-repair.md",
+      "title": "Shame, anger & taking responsibility",
+      "group": "Emotion, habits & learning",
+      "source_sha256": "e3fc24f941f65deb3209b12f8851fd983105e173652d5c874f2668636dc6c74f",
+      "definition_contexts": [
+        "guilt",
+        "shame"
+      ],
+      "glossary_links": [
+        "guilt",
+        "shame",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/adolescence.md",
+      "title": "Adolescence: autonomy, peers & support",
+      "group": "Context, relationships & development",
+      "source_sha256": "345365d5ae0dc6ee8dd424a220161e42fe8944f7703fdfd2c9153910e7ca8748",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "com-b",
+        "competence",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/life-transitions.md",
+      "title": "Changing roles & life transitions",
+      "group": "Context, relationships & development",
+      "source_sha256": "1a67bdd93ec4b179b896c9ef23ab5aa9bbbd7b69eb8217db4489e5b822d56a33",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "habit",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/child-development.md",
+      "title": "Children: ability, learning & expectations",
+      "group": "Context, relationships & development",
+      "source_sha256": "953b1015f4fffc7d02ede2991c00ff5627f41b1e74cad64840bde87464611958",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "com-b",
+        "competence",
+        "personality-trait",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/context.md",
+      "title": "Culture & power",
+      "group": "Context, relationships & development",
+      "source_sha256": "7ec683111a0ef6d8981099ecd6221365bfa4a801dcd5042713add72594bbc45c",
+      "definition_contexts": [],
+      "glossary_links": [
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/cultural-meanings.md",
+      "title": "Culture: meanings without stereotypes",
+      "group": "Context, relationships & development",
+      "source_sha256": "ddac190116d2a646914962e311365d240441f641dc052dbe45ac3ced4bd268ea",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/familynorms.md",
+      "title": "Family expectations",
+      "group": "Context, relationships & development",
+      "source_sha256": "851e0e960c31a9492921425e3bf031c45cb3fe3a5d46a3491191522217f13320",
+      "definition_contexts": [],
+      "glossary_links": [
+        "habit",
+        "heritability",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/grief.md",
+      "title": "Grief, loss & changing needs",
+      "group": "Context, relationships & development",
+      "source_sha256": "49943d38a3c1a84a30af7c4321e165cd33a297be3371f2023435a96b50378251",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/language-context.md",
+      "title": "Language, accent & communication context",
+      "group": "Context, relationships & development",
+      "source_sha256": "75c43ead32373e78d18f18ee40934101e2ca12de92b3a65df37ebb55074b1e6c",
+      "definition_contexts": [],
+      "glossary_links": [
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/later-life.md",
+      "title": "Later life: change without age stereotypes",
+      "group": "Context, relationships & development",
+      "source_sha256": "8f9c100806cb88e4d94f81983d1f6b3e97de5156b2edcc6f39bb2d6e45c5498d",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/low-mood.md",
+      "title": "Low mood, withdrawal & support",
+      "group": "Context, relationships & development",
+      "source_sha256": "e9e67c5ed009162ec0d0ee49841e4031305974d856c23c709bc7e8ec53fb95d2",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/neurodiversity.md",
+      "title": "Neurodiversity & communication fit",
+      "group": "Context, relationships & development",
+      "source_sha256": "110302ae42baae64b51288753fef5979ddaadde701b163874eac61df770ade00",
+      "definition_contexts": [
+        "neurodivergent",
+        "neurodiversity"
+      ],
+      "glossary_links": [
+        "com-b",
+        "neurodivergent",
+        "neurodiversity",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/health-change.md",
+      "title": "New changes in behaviour or functioning",
+      "group": "Context, relationships & development",
+      "source_sha256": "8d99c685b64d1ff397e6e026bb4f18b30ff5ecadc834458e19d38ed331646d41",
+      "definition_contexts": [],
+      "glossary_links": [
+        "personality-trait",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/history.md",
+      "title": "Relationship history",
+      "group": "Context, relationships & development",
+      "source_sha256": "69f17d1e8727c39d67270008631e9b292d674cdad848b7e150e3dd56c9e64f56",
+      "definition_contexts": [],
+      "glossary_links": [
+        "habit",
+        "personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/structural-barriers.md",
+      "title": "Rules, exclusion & unequal access",
+      "group": "Context, relationships & development",
+      "source_sha256": "c67a29fef8a33d04b9c64d769bc7977f8d4d1f20fe6dee087bd1720d22c45df4",
+      "definition_contexts": [],
+      "glossary_links": [
+        "com-b",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/capacity.md",
+      "title": "Time, resources & capacity",
+      "group": "Context, relationships & development",
+      "source_sha256": "6907b53d41d26d84d098a998fc827752a4cdbd58d94c37d8e442dcadeb7af476",
+      "definition_contexts": [],
+      "glossary_links": [
+        "com-b",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/trauma-context.md",
+      "title": "Trauma, reminders & present safety",
+      "group": "Context, relationships & development",
+      "source_sha256": "fc90f6b14f2713b5d60a9f261c1598033e243cd7a53db541045858bde4612ba2",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/power.md",
+      "title": "Unequal power",
+      "group": "Context, relationships & development",
+      "source_sha256": "77a72c20f50ff3c40689858abf583e1acf726a0cf1d4d1f5bcf12f2637ae6219",
+      "definition_contexts": [
+        "power"
+      ],
+      "glossary_links": [
+        "power",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/audience.md",
+      "title": "Who else is present",
+      "group": "Context, relationships & development",
+      "source_sha256": "3f37739f103d79889a238b98a73f06a28a7e33f86832bb74fe767ef8629ed54b",
+      "definition_contexts": [],
+      "glossary_links": [
+        "decision-authority",
+        "power",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/anxiety-patterns.md",
+      "title": "Worry, avoidance & reassurance",
+      "group": "Context, relationships & development",
+      "source_sha256": "6370c8ec1c0d5a2ed6fbfd01f317a90e6d64f311896d4d3e57837e40b5e06649",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/family-membership.md",
+      "title": "Family membership, roles & loyalties",
+      "group": "Context, relationships & development",
+      "source_sha256": "6347b0c31c901fa191ff7ae37df834d3f9d6f0236eb504089ede161fd36836c4",
+      "definition_contexts": [
+        "acculturation",
+        "family-boundary-ambiguity",
+        "matriarch",
+        "matrilineal-descent",
+        "matrilocal-residence"
+      ],
+      "glossary_links": [
+        "acculturation",
+        "boundary",
+        "family-boundary-ambiguity",
+        "matriarch",
+        "matrilineal-descent",
+        "matrilocal-residence",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/invisible-work.md",
+      "title": "Invisible work & shared responsibility",
+      "group": "Context, relationships & development",
+      "source_sha256": "2c52d1df04a6ad9b9aa37d37e951507373f1f8590fcfa98256e924034e2e0ff9",
+      "definition_contexts": [
+        "cognitive-work",
+        "kin-keeping"
+      ],
+      "glossary_links": [
+        "cognitive-work",
+        "kin-keeping",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/adult-attachment.md",
+      "title": "Adult attachment: anxiety, avoidance & security",
+      "group": "Context, relationships & development",
+      "source_sha256": "da422ea8e5827f63c1a5c8383641e6c7e6df996b9fdc3fd0f1f7a2637a82fdab",
+      "definition_contexts": [
+        "attachment-anxiety",
+        "attachment-avoidance",
+        "cross-sectional"
+      ],
+      "glossary_links": [
+        "attachment-anxiety",
+        "attachment-avoidance",
+        "avoidant-personality-disorder",
+        "boundary",
+        "cross-sectional",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/gatekeeping.md",
+      "title": "Access, participation & gatekeeping",
+      "group": "Context, relationships & development",
+      "source_sha256": "a406dc4cc162377c7092b134d1914bd062f8a95e776d82d59fcd0a1c2a9301d9",
+      "definition_contexts": [
+        "gatekeeping"
+      ],
+      "glossary_links": [
+        "boundary",
+        "gatekeeping",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/parentification.md",
+      "title": "Children carrying adult responsibilities",
+      "group": "Context, relationships & development",
+      "source_sha256": "1ad4f305b3dac7de3bc1e73b0037eb453f85fd57e91881057129c0612114a6e5",
+      "definition_contexts": [
+        "parentification"
+      ],
+      "glossary_links": [
+        "parentification",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/digital-misunderstandings.md",
+      "title": "Messages, tone & delayed replies",
+      "group": "Context, relationships & development",
+      "source_sha256": "fac6164a6ffeeaec4eebd89d847b7024667bf53fddb27eb56a48fddd033760cb",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/boundaries.md",
+      "title": "Boundaries",
+      "group": "Responding & collaborating",
+      "source_sha256": "1b1f6084ec86f624178bf9ffb9f71a18151a54ea5e089b8259ebe5a965d3ecb2",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "boundary",
+        "competence",
+        "power",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/alternatives.md",
+      "title": "Compare explanations",
+      "group": "Responding & collaborating",
+      "source_sha256": "6ff6174320c21e292553df2432f9a548e3924acdb53ba314ff087f13e35656f8",
+      "definition_contexts": [],
+      "glossary_links": [
+        "correspondence-bias",
+        "motivated-reasoning",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/getting-support.md",
+      "title": "Getting support without needing a label",
+      "group": "Responding & collaborating",
+      "source_sha256": "d0092fcd8abdb2aa9a287d25427afb771640f04aa954a735228838449e18529f",
+      "definition_contexts": [],
+      "glossary_links": [
+        "narcissism",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/clearrequest.md",
+      "title": "Make a clear request",
+      "group": "Responding & collaborating",
+      "source_sha256": "6fc38d3152e0bb41c3968eb99c07ad1b456e40c019aa56235c2dd4619734dfeb",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/shared-agreement.md",
+      "title": "Make a workable agreement",
+      "group": "Responding & collaborating",
+      "source_sha256": "6cdfc0f8a1ef209b8804b879aa93f83aad59abe7d635b27fcf8bd8802a32699d",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/appreciation.md",
+      "title": "Notice what helps",
+      "group": "Responding & collaborating",
+      "source_sha256": "c27c16a7655f23bffef26386de8a646987ec5e1413c02ab3549213a954c3fdc3",
+      "definition_contexts": [],
+      "glossary_links": [
+        "power",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/reciprocity.md",
+      "title": "Reciprocity & mutual consideration",
+      "group": "Responding & collaborating",
+      "source_sha256": "9204d54728101542106abc925c56ce9547cb922a8f5c8571b05fae78af76cd24",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/review.md",
+      "title": "Review what happened",
+      "group": "Responding & collaborating",
+      "source_sha256": "d455a13537e4e9b50bf7389ff7922328c5b32b8d625f5a149dd1ad40cce1cefc",
+      "definition_contexts": [],
+      "glossary_links": [
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/encouragement.md",
+      "title": "Support someone’s next step",
+      "group": "Responding & collaborating",
+      "source_sha256": "1215701fa2d2e50270feb312202fa67e1f0f82cef8a0915262385968926d3ac0",
+      "definition_contexts": [],
+      "glossary_links": [
+        "autonomy",
+        "com-b",
+        "competence",
+        "intrinsic-motivation",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/accountability.md",
+      "title": "Taking responsibility & making corrections",
+      "group": "Responding & collaborating",
+      "source_sha256": "e23795a4a72ee43d1c8e913ba09ae3c26c8ece516545a0973d1987021f6deafc",
+      "definition_contexts": [],
+      "glossary_links": [
+        "guilt",
+        "shame",
+        "systematic-review"
+      ],
+      "disposition": "Retain the plain-English topic explanation; link relevant glossary vocabulary at first use."
+    },
+    {
+      "source": "reference/responsive-support.md",
+      "title": "Support that feels helpful",
+      "group": "Responding & collaborating",
+      "source_sha256": "35baddbd601abd2b5d6bfd0f03f8fd0e1822b2fc7a83c397948fc65db8d22dd6",
+      "definition_contexts": [
+        "responsiveness"
+      ],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "relatedness",
+        "responsiveness",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/oversight-and-delegation.md",
+      "title": "Oversight, delegation & micromanagement",
+      "group": "Responding & collaborating",
+      "source_sha256": "96ab4835f6eb4a8ee0d95856db8f2242a2ef42b560620fff95b95372ed8c3e3b",
+      "definition_contexts": [
+        "correlation",
+        "delegation",
+        "micromanagement"
+      ],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "correlation",
+        "delegation",
+        "micromanagement",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/feedback-and-speaking-up.md",
+      "title": "Feedback & speaking up",
+      "group": "Responding & collaborating",
+      "source_sha256": "1e6ba2920c6ed9c92c9d4db86646f8a1c5b88cad18a1f05edd99238459fd6aa3",
+      "definition_contexts": [
+        "psychological-safety"
+      ],
+      "glossary_links": [
+        "psychological-safety",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/ai-reflection.md",
+      "title": "Use AI without reinforcing a first impression",
+      "group": "Responding & collaborating",
+      "source_sha256": "50042d0b0229cd33face93ecc2c2f9053956de37ccebad7b2de26932c4e56e84",
+      "definition_contexts": [
+        "sycophancy"
+      ],
+      "glossary_links": [
+        "corroboration",
+        "motivated-reasoning",
+        "sycophancy",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/negotiation-and-mediation.md",
+      "title": "Negotiate a workable difference",
+      "group": "Responding & collaborating",
+      "source_sha256": "79a0d1be4ca1f4ba0e9fb1cd8b46730e235c9cbefae52a1d531027997dd0a5e1",
+      "definition_contexts": [
+        "mediation"
+      ],
+      "glossary_links": [
+        "decision-authority",
+        "mediation",
+        "power",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-antisocial.md",
+      "title": "Antisocial personality disorder",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "e1d5298248215e7ef1964a3ffbe175f8d98868736ddeead1b6c145e5ac9d751b",
+      "definition_contexts": [
+        "antisocial-personality-disorder"
+      ],
+      "glossary_links": [
+        "antisocial-personality-disorder",
+        "personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-avoidant.md",
+      "title": "Avoidant personality disorder",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "1187633dead91a0651bb62618a6714d4abcd813c6b9b2ce775137cf5cbe3d6c6",
+      "definition_contexts": [
+        "avoidant-personality-disorder"
+      ],
+      "glossary_links": [
+        "avoidant-personality-disorder",
+        "introversion",
+        "personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-borderline.md",
+      "title": "Borderline personality disorder (BPD)",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "9f0e224cfecad7d3a2faddffb434bb849636ee5125e5133cb3a114ec5839c7d2",
+      "definition_contexts": [
+        "borderline-personality-disorder"
+      ],
+      "glossary_links": [
+        "borderline-personality-disorder",
+        "manipulation",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-dependent.md",
+      "title": "Dependent personality disorder",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "701d97c406caac87813d64e4996412c30bdd3a008de09e1c9bfe99e1dce5fdb2",
+      "definition_contexts": [
+        "dependent-personality-disorder"
+      ],
+      "glossary_links": [
+        "autonomy",
+        "competence",
+        "dependent-personality-disorder",
+        "relatedness",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-histrionic.md",
+      "title": "Histrionic personality disorder",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "6e860707a4682d54147f52bcbcd0dfa216a1984564a3beb537916fb155edacd4",
+      "definition_contexts": [
+        "histrionic-personality-disorder"
+      ],
+      "glossary_links": [
+        "boundary",
+        "correspondence-bias",
+        "histrionic-personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-narcissistic.md",
+      "title": "Narcissistic personality disorder (NPD)",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "44dd6d8ec8975e499e94a58217ad4f2e9aea3dc1082cf099ab84bbe329a7ea00",
+      "definition_contexts": [
+        "narcissistic-personality-disorder"
+      ],
+      "glossary_links": [
+        "narcissism",
+        "narcissistic-personality-disorder",
+        "power",
+        "status",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/ocd.md",
+      "title": "Obsessive-compulsive disorder (OCD)",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "7846a84cb8f9ae68842fe3e7c47042e1ebcd2f42bd84ed821711bb95846ecdd5",
+      "definition_contexts": [
+        "compulsion",
+        "obsession",
+        "ocd"
+      ],
+      "glossary_links": [
+        "compulsion",
+        "obsession",
+        "ocd",
+        "ocpd",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-ocpd.md",
+      "title": "Obsessive-compulsive personality disorder (OCPD)",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "296848d94aef6f8337c8600c9420246cce1fdc9f384929ee731b36b28d123421",
+      "definition_contexts": [
+        "ocpd"
+      ],
+      "glossary_links": [
+        "compulsion",
+        "conscientiousness",
+        "obsession",
+        "ocd",
+        "ocpd",
+        "perfectionism",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-paranoid.md",
+      "title": "Paranoid personality disorder",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "4c1e810571faa0744d3194cb86e948feabbf1a9638e79d986549e5358d7aa2e5",
+      "definition_contexts": [
+        "paranoid-personality-disorder"
+      ],
+      "glossary_links": [
+        "paranoid-personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/personality-disorders.md",
+      "title": "Personality disorders: what the term means",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "3b412bc2e8bf92ab9301e8d72402b75502a8d7b59a39459d4fd6b3396fef3871",
+      "definition_contexts": [
+        "personality-disorder"
+      ],
+      "glossary_links": [
+        "heritability",
+        "personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-schizoid.md",
+      "title": "Schizoid personality disorder",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "dcf3795d2a1a73baac6efa2be8be9bcaef896e84e985bc424dc1db2e7f2a692c",
+      "definition_contexts": [
+        "schizoid-personality-disorder"
+      ],
+      "glossary_links": [
+        "introversion",
+        "personality-disorder",
+        "schizoid-personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    },
+    {
+      "source": "reference/pd-schizotypal.md",
+      "title": "Schizotypal personality disorder",
+      "group": "Clinical vocabulary & support",
+      "source_sha256": "08d31e0c48d060522d1e436bbfd3f54a15f52dd631bb120e772228e6a3c096a7",
+      "definition_contexts": [
+        "schizotypal-personality-disorder"
+      ],
+      "glossary_links": [
+        "personality-disorder",
+        "schizotypal-personality-disorder",
+        "systematic-review"
+      ],
+      "disposition": "Indexed specialist/ambiguous vocabulary; retain the full explanation and its limits."
+    }
+  ]
+}

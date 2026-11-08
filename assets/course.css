@@ -136,6 +136,26 @@ main .definition { border-color:var(--line); border-radius:10px; background:var(
 main .definition dt { font:500 25px/1.4 var(--reading); }
 main .definition dd { font-family:var(--reading); }
 main .definition-label { font:500 12px/1.5 var(--ui); text-transform:none; letter-spacing:0; }
+.reference-term { font-style:normal; }
+/* Dictionary jumps can cross many screens; keep native anchors immediate. */
+html.glossary-page { scroll-behavior:auto; }
+.prose a.glossary-term { color:var(--accent); font-weight:500; text-decoration-style:dotted; text-decoration-thickness:1px; text-underline-offset:4px; }
+.prose a.glossary-term:hover,.prose a.glossary-term:focus-visible { text-decoration-style:solid; text-decoration-thickness:2px; }
+.glossary-reference-term { scroll-margin-top:28px; }
+.glossary-reference-term .definition { margin:12px 0 14px; }
+.glossary-entry-links,.glossary-compare { font:400 13px/1.65 var(--ui); }
+.glossary-entry-nav { margin:8px 0 28px; font:400 12px/1.6 var(--ui); }
+.glossary-entry-nav a { display:inline-flex; align-items:center; min-height:44px; }
+.glossary-entry > .definition { margin:12px 0 14px; }
+.glossary-entry .definition::before { content:'Definition'; display:block; margin-bottom:12px; color:var(--muted); font:500 12px/1.5 var(--ui); }
+.glossary-lookup-controls { margin:26px 0; font:400 13px/1.6 var(--ui); }
+.glossary-lookup-controls[hidden] { display:none; }
+.glossary-lookup-controls label { display:block; font-weight:600; margin-bottom:8px; }
+.glossary-lookup-controls > div { display:flex; gap:10px; align-items:center; }
+.glossary-lookup-controls input { width:100%; min-width:0; min-height:48px; padding:12px 14px; border:1px solid var(--track); border-radius:8px; background:var(--surface); color:var(--ink); font:400 16px/1.5 var(--ui); }
+.glossary-lookup-controls button { min-height:44px; padding:9px 14px; border:1px solid var(--line); border-radius:8px; background:var(--surface); color:var(--accent); }
+#glossary-count { color:var(--muted); margin:8px 0; }
+@media print { .glossary-lookup-controls { display:none; } .glossary-entry[hidden] { display:block!important; } }
 .prose details > summary { font-family:var(--ui); font-size:14px; }
 .practice-notes { border-color:var(--line); border-radius:10px; }
 .notes-field label,.notes-help,.notes-status,.notes-controls { font-family:var(--ui); }
