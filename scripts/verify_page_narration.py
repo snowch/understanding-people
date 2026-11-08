@@ -114,7 +114,13 @@ def verify(base, voice=DEFAULT):
             response = context.request.get(audio_url, headers={'Range': 'bytes=0-511'})
             assert response.status == 206, (source, response.status)
             assert len(response.body()) == 512
-            assert response.headers['content-type'].split(';', 1)[0] in {'audio/mpeg', 'audio/mp3'}
+            types = {'audio/mpeg', 'audio/mp3'}
+            if remote:
+                # GitHub's release CDN serves attachments as octet-stream;
+                # verify the exact media prefix as well as real player delivery.
+                types.add('application/octet-stream')
+                assert response.body() == (ROOT/media_path(source, '.mp3', voice)).read_bytes()[:512]
+            assert response.headers['content-type'].split(';', 1)[0] in types
             text = context.request.get(panel.get_by_role('link', name='Read transcript').evaluate('e=>e.href'))
             assert text.ok and hashlib.sha256(text.body()).hexdigest() == entry['transcript_sha256']
             for anchor in {s['anchor'] for s in entry['sections']}:
