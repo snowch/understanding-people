@@ -16,6 +16,8 @@ Read the editing and build guidance in `README.md` before changing book content 
 
 ## Concepts first, examples in support
 
+- `reading/books.md` is an editorial reading guide, not a research bibliography or full critical review. Use original coverage notes, identify reading style and scope, verify titles/authors against the linked records, and connect readers back to course pages. Keep it under About & sources without creating extra concept nodes. Preserve its anchors and existing media. See `docs/book-reading-guide.md`.
+
 - Keep explanations generic across relationships and settings. Distinguish a broad tendency, learned predictions, habits and the consequences sustaining an action; they can coexist. Separate a pattern’s origin from its present maintenance. Do not treat silence as agreement, selective conduct as proof of a plan, accommodation as a diagnosis, or a repeated interaction as equal responsibility. See `docs/pattern-context-update.md`.
 - Optional `lookupTerms` in canonical entries are reviewed navigation phrases for the library, whole-book search and app snapshot. Keep them descriptive and aligned with the explanation, without implying diagnoses or exhaustive coverage.
 - A shared canonical container can change while a sibling lesson remains exactly the same. Only explicit records in `audio/source-container-reviews.json` may accept that case: canonical entry, page teaching and authored script must all remain identical, with exact old/current container hashes. Never use it for changed teaching. Changed pages use the written-edition registry until new narration is authorised.

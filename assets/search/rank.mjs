@@ -23,7 +23,7 @@ export function createRanker(index, vectorBytes) {
   const words=[...new Set(terms(query))],literal=normalise(query).trim(),scores=[];
   const plan=planQuery(query,documents);
   const clinicalIntent=/\b(disorder|diagnos\w*|clinical|narciss\w*|borderline|antisocial|avoidant|dependent|paranoid|schiz\w*|histrionic|ocd|ocpd|npd|bpd|dpd)\b/.test(literal);
-  const resourceIntent=/\b(library|catalog\w*|sources?|research|bibliograph\w*|references?|contents|author)\b/.test(literal);
+  const resourceIntent=/\b(library|catalog\w*|sources?|research|bibliograph\w*|references?|contents|author|books?|textbooks?)\b/.test(literal);
   for(let i=0;i<passages.length;i++){
    const p=passages[i],d=documents[p.document];let lexical=0,semantic=0;
    const related=plan.role?plan.role.topics.indexOf(d.url):-1;
@@ -41,7 +41,7 @@ export function createRanker(index, vectorBytes) {
    if(embedding){if(semantic<.30&&!(lexical>0&&words.length<=2)&&!exact&&!alias&&related<0)continue;}
    else if(lexical<=0&&!alias&&related<0)continue;
    const wordScore=lexical/(lexical+8);
-   const directory=['reference/index.html','reference/sources.html','references.html','contents.html','about.html'].includes(d.url);
+   const directory=['reference/index.html','reference/sources.html','references.html','contents.html','about.html','reading/books.html'].includes(d.url);
    const score=(embedding?semantic*.83+wordScore*.17+(exact?.25:0):lexical)
     +(alias?(embedding?.65:30):0)
     +(phraseAlias?(embedding?.22:8):0)

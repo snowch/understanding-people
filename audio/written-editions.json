@@ -39,6 +39,12 @@
       "current_source_hashes": {
         "reference/entries/emotion-and-learning.json": "9718e4d2174714180fc6b7bc40474395e24e5855b3c9d46a15bbc9d7b841dc48"
       }
+    },
+    "reading/books.md": {
+      "status": "new-text",
+      "reason": "New editorial reading guide comparing seven books and linking their topics to the course. No narration or excerpts are produced.",
+      "date": "2026-11-10",
+      "page_text_sha256": "a5aa7dc6b8fe4be55c1c46a525ed6489057412ef85a535e6225dde8ea37db141"
     }
   }
 }

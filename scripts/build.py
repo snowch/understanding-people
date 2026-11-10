@@ -57,6 +57,7 @@ PAGES = [
     ("support.md", "When to seek other help"),
     ("glossary.md", "Glossary"),
     ("references.md", "Sources & further reading"),
+    ("reading/books.md", "Books for deeper reading"),
     ("about.md", "About the book & author"),
     ("settings.md", "Settings"),
     ("downloads/index.md", "Download the audiobook"),

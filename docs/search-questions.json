@@ -338,5 +338,26 @@
       "reference/criticism.html"
     ],
     "required": true
+  },
+  {
+    "query": "Which books should I read to understand people?",
+    "expected": [
+      "reading/books.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "Which psychology books complement this course?",
+    "expected": [
+      "reading/books.html"
+    ],
+    "required": true
+  },
+  {
+    "query": "The Dance of Anger book",
+    "expected": [
+      "reading/books.html"
+    ],
+    "required": true
   }
 ]

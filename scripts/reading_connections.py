@@ -7,6 +7,9 @@ import os
 ROOT=Path(__file__).resolve().parents[1]
 
 def render(source, page):
+    if source in ('book.md','contents.md','about.md','references.md'):
+        url=Path(os.path.relpath(Path('reading/books.html'),page.parent)).as_posix()
+        return '<nav class="reference-formats reading-connections" aria-label="Further reading"><p><a href="'+escape(url,quote=True)+'">Books for deeper reading</a> — Choose a book for your question and connect it to the course.</p></nav>'
     entries=json.loads((ROOT/'reference/entries/audit-expansion.json').read_text())['entries']
     catalogue={e['appNode']:e for g in json.loads((ROOT/'reference/catalog.json').read_text())['groups'] for e in g['entries']}
     owner=next((e['appNode'] for e in catalogue.values() if e['source']==source),None)

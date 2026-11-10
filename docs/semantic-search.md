@@ -52,3 +52,7 @@ After the matriarch report, the set was expanded to 22 questions including role 
 ## Reference expansion on 8 November 2026
 
 The expanded corpus has 161 reading pages and 1,956 passages. New references are text-first and their search cards do not offer nonexistent recordings. Reviewed concept aliases (for example mental load and invisible work) identify actual developed explanations. Ordinary-language phrases can contribute a bounded ranking boost; role bridges remain explicitly related reading, and unknown terms receive no invented definition. The library word filter includes the same reviewed aliases. The final local actual-model benchmark found expected reading in the first three for all 45 selected queries, alongside the offline, fallback and privacy checks. This is a regression result for those questions, not proof of general accuracy.
+
+## Reading guide addition — 10 November 2026
+
+The corpus now includes `reading/books.html`: 162 reading pages and 2,072 passages. Book and textbook queries can surface the reading guide; its directory weighting preserves the priority of concept explanations for ordinary behaviour questions. The browser benchmark now includes three book-selection/title queries and passed all 51 expected-reading-in-top-three checks. These are regression cases, not a general accuracy claim. The new guide is text-only and its result offers no nonexistent audio.

@@ -36,7 +36,7 @@ def section(source):
         return 'library'
     if source in ('practice/index.md', 'worksheet.md'):
         return 'practice'
-    if source in ('evidence.md', 'support.md', 'references.md', 'about.md'):
+    if source in ('evidence.md', 'support.md', 'references.md', 'about.md', 'reading/books.md'):
         return 'about'
     return 'book'
 
@@ -62,7 +62,7 @@ def navigation(source, page, chapters):
         library += '</ul></details></li>'
     library += link('glossary.md', 'Glossary')
     practice = link('practice/index.md', 'Choose a practice') + link('worksheet.md', 'Situation worksheet')
-    about = ''.join(link(s, t) for s, t in [('about.md', 'About the book & author'), ('evidence.md', 'How we use evidence'), ('references.md', 'Sources & further reading'), ('support.md', 'When to seek other help')])
+    about = ''.join(link(s, t) for s, t in [('about.md', 'About the book & author'), ('evidence.md', 'How we use evidence'), ('references.md', 'Sources & further reading'), ('reading/books.md', 'Books for deeper reading'), ('support.md', 'When to seek other help')])
     groups = [('book', 'The book', book), ('library', 'Reference library', library), ('practice', 'Practice', practice), ('about', 'About & sources', about)]
     return ''.join(f'<details class="nav-section" data-section="{key}"{" open" if section(source) == key else ""}><summary>{title}</summary><ul class="section-links">{body}</ul></details>' for key, title, body in groups)
 

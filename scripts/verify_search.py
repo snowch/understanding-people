@@ -10,7 +10,8 @@ import time
 from urllib.parse import urlsplit, unquote
 
 from playwright.sync_api import sync_playwright, expect
-from build import Document, OUT
+from build import Document, OUT, PAGES, destination
+from page_narration import eligible
 from book_search import ASSETS, ROOT
 from verify_page_narration import RangeHandler, ThreadingHTTPServer
 
@@ -24,7 +25,7 @@ def verify(base, screenshots=False):
     for d in index['documents']:
         for kind in ['listen', 'practice']:
             assert not d[kind] or d[kind] in docs[d['url']].ids, (d['url'],kind,d[kind])
-    assert len(index['documents']) == 161
+    assert {d['url'] for d in index['documents']} == {destination(source).as_posix() for source,_ in PAGES if eligible(source)}
     cases = json.loads((ROOT/'docs/search-questions.json').read_text())
     with sync_playwright() as pw:
         proxy={'server':os.environ['HTTPS_PROXY']} if base.startswith('https://') and os.environ.get('HTTPS_PROXY') else None
