@@ -42,9 +42,9 @@
     },
     "reading/books.md": {
       "status": "new-text",
-      "reason": "New editorial reading guide comparing eight books and linking their topics to the course. No narration or excerpts are produced.",
+      "reason": "New editorial reading guide comparing nine books and linking their topics to the course. No narration or excerpts are produced.",
       "date": "2026-11-10",
-      "page_text_sha256": "69f7ace5f18d2154e9daa9f064744b2224a5c97dfbcb935e6ed984d1e41678ea"
+      "page_text_sha256": "7b24231e695317c94ff93ab05372579633a50be511650faab700809232091869"
     }
   }
 }

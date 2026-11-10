@@ -2,11 +2,21 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from book_search import catalogue, write_index
+from book_search import catalogue, write_index, book_guide_aliases
 from page_narration import eligible
 
 
 class PassageIndexTests(unittest.TestCase):
+    def test_book_titles_resolve_without_aliasing_ambiguous_concepts(self):
+        aliases=book_guide_aliases()
+        self.assertIn('personality what makes you the way you are daniel nettle',aliases)
+        self.assertIn('daniel nettle personality',aliases)
+        self.assertIn('behave sapolsky',aliases)
+        self.assertIn('the personality puzzle',aliases)
+        self.assertNotIn('personality',aliases)
+        self.assertNotIn('influence',aliases)
+        self.assertNotIn('behave',aliases)
+
     def make(self, html):
         folder=tempfile.TemporaryDirectory();self.addCleanup(folder.cleanup)
         root=Path(folder.name);(root/'lesson.html').write_text(html)

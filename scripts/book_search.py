@@ -29,6 +29,22 @@ def packed(data):
     return json.dumps(data, ensure_ascii=False, separators=(',', ':')).encode()
 
 
+def book_guide_aliases():
+    """Known title/author navigation; never alias an ambiguous one-word title."""
+    text=(ROOT/'reading/books.md').read_text()
+    aliases=set()
+    def words(value):return ' '.join(re.findall(r'[^\W_]+',value.casefold()))
+    for title,authors in re.findall(r'^## (.*?) \{#[^}]+\}\n\n\*\*(.*?) · ',text,re.M):
+        full=words(title);short=words(title.split(':',1)[0])
+        if len(full.split())>1:aliases.add(full)
+        names=re.split(r',\s*|\s+and\s+',authors)
+        for name in names:
+            for author in {words(name),words(re.sub(r'\b[A-Z]\.\s*','',name)),words(name).split()[-1]}:
+                for label in {full,short}:
+                    aliases.update((label+' '+author,author+' '+label))
+    return sorted(aliases)
+
+
 def catalogue(out, pages, chapters):
     from build_reference_entries import content
     lookups={entry['id']:entry.get('lookupTerms',[]) for entry in content()}
@@ -56,6 +72,7 @@ def catalogue(out, pages, chapters):
         doc = {'url': url, 'title': title, 'kind': kind, 'keywords': entry.get('keywords', ''), 'aliases': [*entry.get('aliases', []),*lookups.get(entry.get('appNode'),[])],
                'clinical': 'disorder' in title.lower(),
                'listen': 'page-narration-title' if 'page-narration-title' in ids else None, 'practice': practice}
+        if source=='reading/books.md':doc['aliases']=book_guide_aliases()
         document_id = len(documents); documents.append(doc)
         sections = [{'anchor': 'main', 'heading': title, 'paragraphs': []}]
         parent = ''

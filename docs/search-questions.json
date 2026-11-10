@@ -366,5 +366,13 @@
       "reading/books.html"
     ],
     "required": true
+  },
+  {
+    "query": "Personality What Makes You the Way You Are Daniel Nettle",
+    "expected": [
+      "reading/books.html"
+    ],
+    "required": true,
+    "anchor": "personality-nettle"
   }
 ]

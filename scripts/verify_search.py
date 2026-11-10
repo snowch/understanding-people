@@ -72,6 +72,9 @@ def verify(base, screenshots=False):
             outcomes.append({'query':case['query'],'rank':hit,'seconds':round(time.monotonic()-start,2),'top3':paths[:3]})
             print(json.dumps(outcomes[-1]),flush=True)
             if case.get('required'):assert hit is not None and hit<=3,outcomes[-1]
+            if case.get('anchor'):
+                wanted=next(url for url in case['expected'] if url in paths)
+                expect(page.locator(f'#search-results li h3 a[href="{base}{wanted}#{case["anchor"]}"]')).to_have_count(1)
             assert len(paths)==len(set(paths))
         # A model benchmark is a regression aid, not proof that all questions work.
         Path('/tmp/book-search-relevance.json').write_text(json.dumps(outcomes,indent=2))

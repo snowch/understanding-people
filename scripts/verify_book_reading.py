@@ -9,7 +9,7 @@ from urllib.parse import urlsplit
 from playwright.sync_api import sync_playwright,expect
 from verify_page_narration import RangeHandler,ThreadingHTTPServer
 ROOT=Path(__file__).resolve().parents[1]
-BOOKS=('social-animal','behave','personality-puzzle','learning-and-behavior','mistakes-were-made','dance-of-anger','difficult-conversations','influence')
+BOOKS=('social-animal','behave','personality-nettle','personality-puzzle','learning-and-behavior','mistakes-were-made','dance-of-anger','difficult-conversations','influence')
 
 def verify(base):
  with sync_playwright() as pw:
@@ -29,6 +29,8 @@ def verify(base):
   for id in BOOKS:expect(p.locator('h2#'+id)).to_have_count(1)
   expect(p.locator('#behave')).to_have_text('Behave: The Biology of Humans at Our Best and Worst')
   expect(p.locator('#behave + p')).to_contain_text('Robert M. Sapolsky')
+  expect(p.locator('#personality-nettle')).to_have_text('Personality: What Makes You the Way You Are')
+  expect(p.locator('#personality-nettle + p')).to_contain_text('Daniel Nettle')
   expect(p.locator('.prose a[href^="https://"]')).to_have_count(len(BOOKS))
   p.locator('.on-page > summary').click();p.locator('.on-page a[href="#dance-of-anger"]').click()
   expect(p).to_have_url(base+'reading/books.html#dance-of-anger')
@@ -66,7 +68,7 @@ def verify(base):
   assert not errors,errors
   assert not [u for u in requests if urlsplit(u).path.endswith(('.mp3','.mp4','.onnx','.wasm'))],requests
   b.close()
- print('PASS: eight books, navigation and chapter returns, nested-path save/search, accurate text/audio scope, responsive themes, no-JavaScript reading and installed offline guide.')
+ print('PASS: nine books, navigation and chapter returns, nested-path save/search, accurate text/audio scope, responsive themes, no-JavaScript reading and installed offline guide.')
 
 if __name__=='__main__':
  parser=argparse.ArgumentParser();parser.add_argument('base',nargs='?');args=parser.parse_args()

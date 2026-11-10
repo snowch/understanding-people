@@ -55,4 +55,6 @@ The expanded corpus has 161 reading pages and 1,956 passages. New references are
 
 ## Reading guide addition — 10 November 2026
 
-The corpus now includes `reading/books.html`: 162 reading pages and 2,073 passages. Book and textbook queries can surface the reading guide; its directory weighting preserves the priority of concept explanations for ordinary behaviour questions. The browser benchmark now includes four book-selection/title queries and passed all 52 expected-reading-in-top-three checks. These are regression cases, not a general accuracy claim. The new guide is text-only and its result offers no nonexistent audio.
+The corpus now includes `reading/books.html`: 162 reading pages and 2,074 passages. Book and textbook queries can surface the reading guide; its directory weighting preserves the priority of concept explanations for ordinary behaviour questions. The browser benchmark now includes five book-selection/title queries and passed all 53 expected-reading-in-top-three checks. These are regression cases, not a general accuracy claim. The new guide is text-only and its result offers no nonexistent audio.
+
+Known book-title and author aliases are derived from the guide’s verified headings and author credits. Exact title requests can retrieve the guide without the word “book”, including punctuation variants. Ambiguous one-word titles such as Personality, Influence and Behave are not standalone exact aliases. The Nettle title/author regression also checks the destination section anchor.

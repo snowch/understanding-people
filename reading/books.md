@@ -5,11 +5,12 @@ Several books explore parts of this course in greater depth. This guide helps yo
 ## Where to start {#start}
 
 - **For recurring relationship patterns:** start with [The Dance of Anger](#dance-of-anger), then [Difficult Conversations](#difficult-conversations).
-- **For a broad scientific foundation:** start with [The Social Animal](#social-animal). Choose [The Personality Puzzle](#personality-puzzle) for individual differences.
+- **For a broad scientific foundation:** start with [The Social Animal](#social-animal).
+- **For personality traits:** start with Nettle’s [Personality](#personality-nettle), then use [The Personality Puzzle](#personality-puzzle) for deeper study.
 - **For biology, development and culture together:** choose [Behave](#behave) for a substantial explanation across different timescales.
 - **For why a behaviour persists:** choose [Learning and Behavior](#learning-and-behavior), especially if you want more detail on learning, consequences and context.
 
-You can read selectively. One useful idea that changes what you notice is a better starting point than trying to finish all eight books.
+You can read selectively. One useful idea that changes what you notice is a better starting point than trying to finish all nine books.
 
 ## The Social Animal {#social-animal}
 
@@ -26,6 +27,14 @@ Read alongside [Chapter 1: Why we misinterpret people](../chapters/01-before-you
 Sapolsky connects brain processes and hormones with development, learning, culture and evolution. He examines influences across different timescales, from the circumstances immediately before an action to a lifetime of experience and longer histories. It is particularly useful for resisting a single-cause explanation of behaviour. Expect a dense scientific overview rather than a step-by-step guide to handling a particular interaction.
 
 Read alongside [Chapter 5: Emotion, stress and coping](../chapters/05-emotion-stress-coping.md), [Chapter 6: Personality, habits and situations](../chapters/06-personality-habits-situations.md) and [Chapter 7: Culture, groups and power](../chapters/07-culture-groups-power.md). [UK publisher details](https://www.penguin.co.uk/books/414929/behave-by-robert-sapolsky/9780099575061).
+
+## Personality: What Makes You the Way You Are {#personality-nettle}
+
+**Daniel Nettle · Accessible introduction to personality**
+
+Nettle introduces the Big Five personality traits and explores how different tendencies can bring advantages and costs in different circumstances. It is a useful starting point before Funder’s more substantial textbook. First published in 2007, it also offers evolutionary accounts of personality differences. Read those as explanations to evaluate, not proof of why a particular individual acts as they do. A trait still needs to be considered alongside learning, relationships and present conditions.
+
+Read alongside [Chapter 6: Personality, habits and situations](../chapters/06-personality-habits-situations.md) and [Personality facets and situation differences](../reference/personality-facets.md). [Library catalogue record](https://openlibrary.org/works/OL15325469W).
 
 ## The Personality Puzzle {#personality-puzzle}
 

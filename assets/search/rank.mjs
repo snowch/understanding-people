@@ -34,7 +34,8 @@ export function createRanker(index, vectorBytes) {
     if(titleTerms[p.document].has(word))lexical+=idf*1.2;
    }
    const exact=literal.length>2&&normalise(d.title)===literal;
-   const alias=literal.length>2&&(d.aliases||[]).some(a=>normalise(a)===literal);
+   const aliasKey=value=>normalise(value).replace(/[^\p{L}\p{N}]+/gu,' ').trim();
+   const alias=literal.length>2&&(d.aliases||[]).some(a=>aliasKey(a)===aliasKey(literal));
    const phraseAlias=!alias&&(d.aliases||[]).some(a=>(' '+literal.replace(/[^\p{L}\p{N}]+/gu,' ')+' ').includes(' '+normalise(a).replace(/[^\p{L}\p{N}]+/gu,' ')+' '));
    if(exact)lexical+=20;
    if(embedding&&vectors){for(let j=0;j<dimensions;j++)semantic+=embedding[j]*vectors[i*dimensions+j];semantic/=norms[i]||1;}
@@ -47,7 +48,7 @@ export function createRanker(index, vectorBytes) {
     +(phraseAlias?(embedding?.22:8):0)
     +(related>=0?(embedding ? 0.45-related*.035 : 10-related):0)
     -(d.clinical&&!clinicalIntent?(embedding ? 0.18 : 3):0)
-    -(directory&&!resourceIntent&&!exact?(embedding ? 0.25 : 5):0);
+    -(directory&&!resourceIntent&&!exact&&!alias&&!phraseAlias?(embedding ? 0.25 : 5):0);
    scores.push({passage:i,document:p.document,score,semantic,lexical,related:related>=0});
   }
   scores.sort((a,b)=>b.score-a.score||a.passage-b.passage);
