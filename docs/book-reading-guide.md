@@ -1,6 +1,6 @@
 # Books for deeper reading: editorial scope
 
-10 November 2026. `reading/books.md` compares seven books from the conversation as a selective reading guide. It connects each recommendation to the relevant course chapters or reference entries, gives a few starting routes and links to the existing situation worksheet. It does not claim a full critical review or that the seven books cover every discipline in the course.
+10 November 2026. `reading/books.md` compares eight books from the conversation as a selective reading guide. It connects each recommendation to the relevant course chapters or reference entries, gives a few starting routes and links to the existing situation worksheet. It does not claim a full critical review or that the eight books cover every discipline in the course.
 
 The page sits in **About & sources**, with reading links from the introduction, contents, about page and research bibliography. It can be searched and saved for later. It creates no reference/map node or app snapshot. The page is a new text edition; all approved narrations, transcripts and audiobook files stay unchanged.
 
@@ -9,6 +9,7 @@ The page sits in **About & sources**, with reading links from the introduction, 
 | Book | Source consulted | Access and limits |
 | --- | --- | --- |
 | The Social Animal | [Macmillan, twelfth edition](https://www.macmillanlearning.com/college/us/product/The-Social-Animal/p/1464144184) | Publisher page, authorship and book overview. Joshua Aronson is credited alongside Elliot in this edition; earlier editions differ. This is Elliot Aronson's social-psychology book, not the unrelated David Brooks title. |
+| Behave: The Biology of Humans at Our Best and Worst | [Penguin UK](https://www.penguin.co.uk/books/414929/behave-by-robert-sapolsky/9780099575061) and [Penguin Random House US](https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/) | Publisher authorship, full subtitle and descriptions of biological, developmental and cultural influences across timescales. A substantial scientific overview, not an individual motive assessment. |
 | The Personality Puzzle | [W. W. Norton](https://wwnorton.com/books/The-Personality-Puzzle/) | Publisher title/author and description metadata; much of the product page is rendered with JavaScript. A publisher description does not validate the book's individual claims. |
 | Learning and Behavior: A Contemporary Synthesis | [Open Library work OL8562675W](https://openlibrary.org/works/OL8562675W) | Work metadata and learning/conditioning subject headings. A catalogue record is not a full-text scientific review. |
 | Mistakes Were Made (But Not by Me) | [Open Library work OL15014628W](https://openlibrary.org/works/OL15014628W) | Authorship, description and subject headings. Promotional claims in a description are not adopted as scientific evidence. |
@@ -22,4 +23,6 @@ Book details were checked on the date above. These are original editorial covera
 
 Keep the guide's limits visible, preserve its book anchors, check edition-specific authorship before changing a title, and keep reading links distinct from research citations. A new or changed guide needs a written-edition fingerprint, refreshed search vectors and the normal build. Test desktop/mobile navigation, local search, saving/restoring the guide, chapter returns, no-JavaScript reading and offline access. These checks establish software behaviour, not a book's scientific accuracy.
 
-Run `python scripts/verify_book_reading.py` against the completed local build, or pass a deployed base URL. The publishing check passed navigation from four entry points, seven book anchors, return to Chapter 6, saving and restoring a nested-page fragment, keyword retrieval, phone/tablet/desktop light/dark layouts, no-JavaScript access and installed offline reading. Whole-book search and reading-list regression checks also passed; no media was generated.
+Run `python scripts/verify_book_reading.py` against the completed local build, or pass a deployed base URL. The publishing check passed navigation from four entry points, eight book anchors, return to Chapter 6, saving and restoring a nested-page fragment, keyword retrieval, phone/tablet/desktop light/dark layouts, no-JavaScript access and installed offline reading. Whole-book search and reading-list regression checks also passed; no media was generated.
+
+The live browser check allows up to two minutes for the first whole-course offline installation; the local check retains its 30-second limit. This changes verification timing, not page behaviour.

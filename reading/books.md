@@ -6,9 +6,10 @@ Several books explore parts of this course in greater depth. This guide helps yo
 
 - **For recurring relationship patterns:** start with [The Dance of Anger](#dance-of-anger), then [Difficult Conversations](#difficult-conversations).
 - **For a broad scientific foundation:** start with [The Social Animal](#social-animal). Choose [The Personality Puzzle](#personality-puzzle) for individual differences.
+- **For biology, development and culture together:** choose [Behave](#behave) for a substantial explanation across different timescales.
 - **For why a behaviour persists:** choose [Learning and Behavior](#learning-and-behavior), especially if you want more detail on learning, consequences and context.
 
-You can read selectively. One useful idea that changes what you notice is a better starting point than trying to finish all seven books.
+You can read selectively. One useful idea that changes what you notice is a better starting point than trying to finish all eight books.
 
 ## The Social Animal {#social-animal}
 
@@ -17,6 +18,14 @@ You can read selectively. One useful idea that changes what you notice is a bett
 A starting point for how other people and social situations affect judgment and behaviour. It connects topics such as conformity, influence and self-justification. Use it to broaden an explanation beyond someone's character. It is a foundation in social psychology; the course also draws on other disciplines.
 
 Read alongside [Chapter 1: Why we misinterpret people](../chapters/01-before-you-explain.md) and [Chapter 7: Culture, groups and power](../chapters/07-culture-groups-power.md). [Publisher details: twelfth edition](https://www.macmillanlearning.com/college/us/product/The-Social-Animal/p/1464144184). Earlier editions have different authorship credits.
+
+## Behave: The Biology of Humans at Our Best and Worst {#behave}
+
+**Robert M. Sapolsky · Substantial popular science**
+
+Sapolsky connects brain processes and hormones with development, learning, culture and evolution. He examines influences across different timescales, from the circumstances immediately before an action to a lifetime of experience and longer histories. It is particularly useful for resisting a single-cause explanation of behaviour. Expect a dense scientific overview rather than a step-by-step guide to handling a particular interaction.
+
+Read alongside [Chapter 5: Emotion, stress and coping](../chapters/05-emotion-stress-coping.md), [Chapter 6: Personality, habits and situations](../chapters/06-personality-habits-situations.md) and [Chapter 7: Culture, groups and power](../chapters/07-culture-groups-power.md). [UK publisher details](https://www.penguin.co.uk/books/414929/behave-by-robert-sapolsky/9780099575061).
 
 ## The Personality Puzzle {#personality-puzzle}
 

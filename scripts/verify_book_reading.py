@@ -9,7 +9,7 @@ from urllib.parse import urlsplit
 from playwright.sync_api import sync_playwright,expect
 from verify_page_narration import RangeHandler,ThreadingHTTPServer
 ROOT=Path(__file__).resolve().parents[1]
-BOOKS=('social-animal','personality-puzzle','learning-and-behavior','mistakes-were-made','dance-of-anger','difficult-conversations','influence')
+BOOKS=('social-animal','behave','personality-puzzle','learning-and-behavior','mistakes-were-made','dance-of-anger','difficult-conversations','influence')
 
 def verify(base):
  with sync_playwright() as pw:
@@ -27,7 +27,9 @@ def verify(base):
   expect(p.locator('.page-narration')).to_have_count(0)
   expect(p.locator('.narration-update')).to_contain_text('Written edition')
   for id in BOOKS:expect(p.locator('h2#'+id)).to_have_count(1)
-  expect(p.locator('.prose a[href^="https://"]')).to_have_count(7)
+  expect(p.locator('#behave')).to_have_text('Behave: The Biology of Humans at Our Best and Worst')
+  expect(p.locator('#behave + p')).to_contain_text('Robert M. Sapolsky')
+  expect(p.locator('.prose a[href^="https://"]')).to_have_count(len(BOOKS))
   p.locator('.on-page > summary').click();p.locator('.on-page a[href="#dance-of-anger"]').click()
   expect(p).to_have_url(base+'reading/books.html#dance-of-anger')
   save=p.locator('button[data-reading-current]');expect(save).to_be_visible();save.click()
@@ -36,7 +38,7 @@ def verify(base):
   expect(p.locator('#reading-list-items h2 a')).to_have_attribute('href',base+'reading/books.html#dance-of-anger')
   p.locator('#reading-list-items h2 a').click()
   expect(p.locator('#dance-of-anger')).to_be_visible()
-  p.locator('.prose a[href="../chapters/06-personality-habits-situations.html"]').click()
+  p.locator('.prose a[href="../chapters/06-personality-habits-situations.html"]').first.click()
   expect(p.locator('h1')).to_have_text('Personality, habits and situations')
   # The guide can be saved from a nested path and found through keyword search.
   p.goto(base+'search.html');p.locator('#meaning-search').uncheck()
@@ -58,13 +60,13 @@ def verify(base):
   expect(q.locator('.prose a[href="../reference/reinforcement.html#tendency-expectation-consequence"]')).to_have_count(1)
   # Installation retains this new page and its chapter routes for offline reading.
   o=b.new_context(proxy=proxy);r=o.new_page();r.goto(base+'reading/books.html')
-  r.wait_for_function('navigator.serviceWorker.controller!==null',timeout=30000)
+  r.wait_for_function('navigator.serviceWorker.controller!==null',timeout=120000 if base.startswith('https://') else 30000)
   r.wait_for_function("caches.keys().then(async keys=>(await Promise.all(keys.filter(k=>k.startsWith('understanding-people-')).map(k=>caches.open(k).then(c=>c.match(location.pathname))))).some(Boolean))",timeout=60000)
   o.set_offline(True);r.reload();expect(r.locator('h1')).to_have_text('Books for deeper reading')
   assert not errors,errors
   assert not [u for u in requests if urlsplit(u).path.endswith(('.mp3','.mp4','.onnx','.wasm'))],requests
   b.close()
- print('PASS: seven books, navigation and chapter returns, nested-path save/search, accurate text/audio scope, responsive themes, no-JavaScript reading and installed offline guide.')
+ print('PASS: eight books, navigation and chapter returns, nested-path save/search, accurate text/audio scope, responsive themes, no-JavaScript reading and installed offline guide.')
 
 if __name__=='__main__':
  parser=argparse.ArgumentParser();parser.add_argument('base',nargs='?');args=parser.parse_args()

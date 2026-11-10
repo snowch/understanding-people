@@ -359,5 +359,12 @@
       "reading/books.html"
     ],
     "required": true
+  },
+  {
+    "query": "Behave Robert Sapolsky book",
+    "expected": [
+      "reading/books.html"
+    ],
+    "required": true
   }
 ]
