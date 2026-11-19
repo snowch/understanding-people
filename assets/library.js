@@ -16,10 +16,11 @@
     const terms = normalise(input.value).trim().split(/\s+/).filter(Boolean);
     const plan=planQuery(input.value,documents);
     const related=new Set((plan.role?.topics||[]).map(path=>new URL(path,root).href));
+    const selectedStatus = status?.value || 'all';
     let count = 0;
     for (const entry of entries) {
       const match=terms.every(term => normalise(entry.dataset.librarySearch).includes(term))||related.has(entry.querySelector('h3 a').href);
-      entry.hidden = (status.value !== 'all' && entry.dataset.status !== status.value) || !match;
+      entry.hidden = (selectedStatus !== 'all' && entry.dataset.status !== selectedStatus) || !match;
       if (!entry.hidden) count++;
     }
     for (const group of document.querySelectorAll('.library-group')) {
@@ -31,9 +32,9 @@
     clear.hidden = !terms.length;
   }
   input.addEventListener('input', update);
-  status.addEventListener('change', update);
+  status?.addEventListener('change', update);
   clear.addEventListener('click', () => { input.value = ''; update(); input.focus(); });
-  document.querySelectorAll('.library-topics a').forEach(link => link.addEventListener('click', () => { input.value = ''; status.value = 'all'; update(); }));
+  document.querySelectorAll('.library-topics a').forEach(link => link.addEventListener('click', () => { input.value = ''; if (status) status.value = 'all'; update(); }));
   document.querySelector('.library-search').hidden = false;
   update();
 })();

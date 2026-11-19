@@ -78,7 +78,7 @@
         const a = node('a', 'Find something to read'); a.href = new URL('search.html', root);
         const browse = node('a', 'browse the reference library'); browse.href = new URL('reference/index.html', root);
         empty.append(a, node('span', ' or '), browse, node('span', '.'));
-      } else empty.textContent = filter === 'read' ? 'No pages marked as read. You can mark a page below All.' : 'Nothing waiting to be read. Look under Read or save something new.';
+      } else empty.textContent = filter === 'read' ? 'No pages marked as read. Open To read and choose Mark as read beside a title.' : 'No unread pages. Open Read to revisit pages you’ve marked as read.';
     }
     for (const row of visible) {
       const li = node('li', undefined, 'reading-list-item');

@@ -8,6 +8,7 @@
     const key = prefix + panel.dataset.notesId;
     const fields = [...panel.querySelectorAll('textarea, input')];
     const status = panel.querySelector('.notes-status');
+    let edits = 'saved';
     const message = text => { if (status.textContent !== text) status.textContent = text; };
     const mirror = () => fields.forEach(field => {
       field.nextElementSibling.textContent = field.value;
@@ -39,10 +40,13 @@
     panel.addEventListener('input', event => {
       if (!fields.includes(event.target)) return;
       mirror();
+      if (edits === 'conflict') return;
       try {
         localStorage.setItem(key, JSON.stringify({version: 1, fields: values()}));
+        edits = 'saved';
         message('Saved in this browser on this device.');
       } catch {
+        edits = 'unsaved';
         message('These changes could not be saved. Keep this page open and download your notes before leaving.');
       }
     });
@@ -69,13 +73,20 @@
         message('Saved notes could not be deleted. They have been left on this page so you can keep a copy.');
         return;
       }
+      edits = 'saved';
       fields.forEach(field => { field.value = ''; });
       mirror();
       message('Notes for this exercise deleted from this browser. Downloaded copies are unchanged.');
     });
     // Keep another open copy of the same exercise in step, including deletion.
     window.addEventListener('storage', event => {
-      if (event.key === key || event.key === null) read();
+      if (event.key !== key && event.key !== null) return;
+      if (edits !== 'saved') {
+        edits = 'conflict';
+        message('Another tab changed the saved notes. This page still has your unsaved edits. Download them before reloading.');
+        return;
+      }
+      read();
     });
   });
 })();

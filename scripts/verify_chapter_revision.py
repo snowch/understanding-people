@@ -3,6 +3,7 @@ import json,sys
 from pathlib import Path
 from urllib.parse import urljoin
 from playwright.sync_api import sync_playwright,expect
+from written_editions import editions
 ROOT=Path(__file__).resolve().parents[1];base=sys.argv[1].rstrip('/')+'/'
 archive=json.loads((ROOT/'docs/chapter-revision-anchors.json').read_text())
 with sync_playwright() as pw:
@@ -10,8 +11,12 @@ with sync_playwright() as pw:
  for n,e in archive.items():
   page.goto(urljoin(base,e['path'].replace('.md','.html')))
   expect(page.locator('main video')).to_have_count(0)
-  expect(page.locator('main audio')).to_have_count(1)
-  expect(page.locator('.page-narration audio')).to_have_attribute('preload','none')
+  if e['path'] in editions():
+   expect(page.locator('main audio')).to_have_count(0)
+   expect(page.locator('.narration-update')).to_contain_text('Written edition')
+  else:
+   expect(page.locator('main audio')).to_have_count(1)
+   expect(page.locator('.page-narration audio')).to_have_attribute('preload','none')
   expect(page.locator('.remember-cue')).to_have_count(1)
   expect(page.locator('main .compact-practice')).to_have_count(1)
   expect(page.locator('main .more-practice[open]')).to_have_count(0)
@@ -33,4 +38,4 @@ with sync_playwright() as pw:
  page.goto(base+'reference/confirmation-bias.html');expect(page.locator('main audio')).to_have_count(3)
  page.goto(base+'chapters/11-conflict-manipulation-boundaries.html');expect(page.locator('main')).to_contain_text('Support or protection need not wait');expect(page.locator('main')).to_contain_text('do not provoke a response')
  assert not errors,errors;b.close()
-print('Passed: Chapters 2–12, all earlier section/definition anchors, compact practice, reference links, restored/edited notes for every chapter, matching glossary definitions, responsive layouts, Andrew page narration, paused earlier videos and retained reference audio. No screenshots or recordings created.')
+print('Passed: Chapters 2–12, all earlier section/definition anchors, compact practice, reference links, restored/edited notes for every chapter, matching glossary definitions, responsive layouts, current Andrew players or written-edition notices, paused earlier videos and retained reference audio. No screenshots or recordings created.')

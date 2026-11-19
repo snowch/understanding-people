@@ -39,6 +39,7 @@ with sync_playwright() as pw:
         expect(page.locator('.book-sidebar a[aria-current="page"]')).to_have_count(1)
         if e['appNode'] not in ['confirmation','correspondence','refusehelp']:
             expect(page.locator('main .key-takeaways li')).to_have_count(3)
+            expect(page.locator('main')).not_to_contain_text('A brief fictional example: Fictional example:')
             assert page.locator('main a[href^="https://"]').count()>=1
             for anchor in ['a-distinction-to-keep-in-mind','read-the-foundations-now','related-entries','evidence-to-develop','what-the-full-entry-will-cover']:
                 expect(page.locator('#'+anchor)).to_have_count(1)
@@ -50,6 +51,13 @@ with sync_playwright() as pw:
         page.reload();panel.locator('> summary').click();expect(page.locator('#reference-'+node+'-event')).to_have_value('My '+node+' observation <img src=x onerror=alert(1)>')
         expect(panel.locator('img')).to_have_count(0)
     page.goto(base+'reference/autonomy.html');expect(page.locator('#reference-autonomy-event')).to_have_value('My autonomy observation <img src=x onerror=alert(1)>')
+    page.goto(base+'reference/comparing-occasions.html#practice')
+    comparison_notes=page.locator('[data-notes-id="reference-comparing-occasions"]')
+    comparison_notes.locator('> summary').press('Enter')
+    interpretation=comparison_notes.get_by_label('Interpretation — what could explain the difference?')
+    interpretation.fill('Both offers differed in cost and who controlled the decision.')
+    page.reload()
+    expect(interpretation).to_have_value('Both offers differed in cost and who controlled the decision.')
     page.goto(base+'reference/pd-narcissistic.html');expect(page.locator('main')).to_contain_text('has not received specialist review')
     expect(page.locator('label[for="reference-pd-narcissistic-thought"]')).to_have_text('What remains uncertain or needs professional assessment?')
     for width in [320,390,834,1440]:
@@ -57,9 +65,13 @@ with sync_playwright() as pw:
         for slug in ['index','sources','gaslighting','pd-narcissistic','agreeableness','autonomy','ai-reflection','comparing-occasions','naming-and-belonging']:
             page.goto(base+'reference/'+slug+'.html');assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),(width,slug)
         page.goto(base+'reference/index.html');page.locator('#library-query').fill('gaslighting');page.locator('.library-entry:visible h3 a').click();expect(page.locator('main h1')).to_have_text('Gaslighting & undermining your reality')
-        page.goto(base+'reference/index.html');page.locator('#library-status').select_option('developed');expect(page.locator('.library-entry:visible')).to_have_count(136)
-        page.locator('#library-status').select_option('stub');expect(page.locator('#library-empty')).to_be_visible()
+        page.goto(base+'reference/index.html')
+        expect(page.locator('#library-status')).to_have_count(0)
+        expect(page.locator('.library-entry:visible')).to_have_count(136)
+        page.locator('#library-query').fill('zzqvpxj987')
+        expect(page.locator('#library-empty')).to_be_visible()
+        expect(page.locator('#library-empty')).not_to_contain_text('All entries')
     nojs=b.new_context(java_script_enabled=False,service_workers='block',viewport={'width':390,'height':900});q=nojs.new_page();q.goto(base+'reference/autonomy.html');q.locator('.practice-notes > summary').focus();q.keyboard.press('Enter');expect(q.locator('.practice-notes textarea').first).to_be_visible();expect(q.locator('.practice-notes noscript')).to_be_visible()
     assert not errors,errors
     b.close()
-print('Passed: all 136 written routes, 133 authored coverage, citations/access scope, old anchors, practice structure, note isolation/escaping/reload, clinical prompts, no unsolicited media, search, status filters, responsive widths and no-JavaScript notes. No recordings or screenshots created.')
+print('Passed: all 136 written routes, 133 authored coverage, citations/access scope, old anchors, practice structure, note isolation/escaping/reload, clinical prompts, no unsolicited media, search and its empty state, responsive widths and no-JavaScript notes. No recordings or screenshots created.')

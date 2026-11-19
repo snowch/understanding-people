@@ -33,7 +33,7 @@ Benjamin Harkin and colleagues combined 138 experiments. Interventions that incr
 | Action | A safe step within your control and what you expect it to clarify. |
 | Review | Later result, unintended effects, other feedback and what remains unknown. |
 
-Use the existing notes below or an equivalent private notebook. Do not record more identifying information than needed. Several reports of the same event remain one occasion; AI restating a report does not create another source.
+Copy this table into a private notebook or use **My practice notes** in the practice section below. Include only identifying details you need. Several reports of the same event still describe one occasion. An AI restatement draws on the report you supply.
 
 </details>
 
@@ -87,9 +87,9 @@ These are editorial reading connections, not evidence of a cause or diagnosis in
 
 ## Put it into practice {#practice}
 
-1. In the notes below, record one occasion and a genuine comparison or missing comparison. Put two plausible explanations and evidence against each in your interpretation field.
-2. Choose one safe action that could clarify a difference. State what you expect and what result would make you reconsider.
-3. On the review date, record the result, costs and remaining uncertainty. Decide what to retain, change or stop rather than scoring someone’s character.
+1. Open **My practice notes** below, or use a private notebook. Under **Observation**, record what happened on two comparable occasions. If you only have one, write which second occasion you would need. Under **Interpretation**, write two possible explanations and what could count against each.
+2. Under **Action**, choose one safe step that could clarify the difference, such as asking what kind of help the person wanted. Write what you expect to happen and what result would make you reconsider.
+3. When you return, use **Review** to record what happened, what the step cost and what you still do not know. Decide what to keep, change or stop.
 
 <!-- practice-notes: reference-comparing-occasions | Compare occasions & test an explanation -->
 

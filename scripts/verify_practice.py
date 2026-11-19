@@ -5,8 +5,9 @@ import sys
 import os
 from pathlib import Path
 from urllib.parse import urljoin
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import expect, sync_playwright
 from build import CHAPTERS, destination
+from written_editions import editions
 
 base = sys.argv[1]
 first = urljoin(base, destination(CHAPTERS[0][1]).as_posix())
@@ -37,7 +38,11 @@ with sync_playwright() as pw:
         assert page.locator('.practice-notes[open]').count() == 0
         assert page.locator('#key-takeaways').evaluate("e => !!(e.compareDocumentPosition(document.querySelector('#put-it-into-practice')) & Node.DOCUMENT_POSITION_FOLLOWING)")
         assert page.locator('video').count() == 0
-        assert page.locator('.page-narration audio[preload="none"]').count() == 1
+        if source in editions():
+            expect(page.locator('.page-narration')).to_have_count(0)
+            expect(page.locator('.narration-update')).to_contain_text('Written edition')
+        else:
+            expect(page.locator('.page-narration audio[preload="none"]')).to_have_count(1)
         assert page.locator('.recall-practice').count() == page.locator('.more-practice .recall-practice').count()
         question_count += questions.count()
         recall_count += page.locator('.recall-practice').count()
@@ -159,6 +164,31 @@ with sync_playwright() as pw:
             bn.get_by_role('button', name='Download these notes').click()
         assert 'Keep this unsaved note.' in Path(di.value.path()).read_text()
         blocked.close()
+    # Another tab cannot replace a draft after this tab runs out of storage.
+    conflict = browser.new_context(accept_downloads=True, service_workers='block')
+    draft = conflict.new_page()
+    saved = conflict.new_page()
+    note_id = 'week-01-confirmation'
+    for tab in (draft, saved):
+        tab.goto(first)
+        reveal_more(tab)
+        tab.locator(f'[data-notes-id="{note_id}"] > summary').click()
+    draft_panel = draft.locator(f'[data-notes-id="{note_id}"]')
+    draft_field = draft_panel.locator('[name="event"]')
+    draft_field.fill('The earlier saved note')
+    draft.evaluate("() => { window.savedSetItem=Storage.prototype.setItem; Storage.prototype.setItem=()=>{throw new Error('quota')}; }")
+    draft_field.fill('Unsaved draft in the first tab')
+    saved.locator(f'[data-notes-id="{note_id}"] [name="event"]').fill('New note from the second tab')
+    expect(draft_panel.locator('.notes-status')).to_contain_text('Another tab changed the saved notes')
+    expect(draft_field).to_have_value('Unsaved draft in the first tab')
+    draft.evaluate("() => { Storage.prototype.setItem=window.savedSetItem; }")
+    draft_field.fill('Keep this edited draft too')
+    with draft.expect_download() as download:
+        draft_panel.get_by_role('button', name='Download these notes').click()
+    assert 'Keep this edited draft too' in Path(download.value.path()).read_text()
+    saved.reload()
+    expect(saved.locator(f'[data-notes-id="{note_id}"] [name="event"]')).to_have_value('New note from the second tab')
+    conflict.close()
     # Without JS, the writing space and printable prompts remain, with honest guidance.
     nojs = browser.new_context(java_script_enabled=False, service_workers='block')
     np = nojs.new_page(); np.goto(first); reveal_more(np)

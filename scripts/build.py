@@ -180,6 +180,13 @@ def practice_notes(match):
                 ("action", "What will I try, and when will I review it?"),
                 ("review", "What did I learn about understanding or collaboration?"),
             ]
+        if entry["id"] == "comparing-occasions":
+            fields = [
+                ("event", "Observation — what happened on each occasion?"),
+                ("thought", "Interpretation — what could explain the difference?"),
+                ("action", "Action — what would make me reconsider?"),
+                ("review", "Review — what happened after I tried it?"),
+            ]
     for entry in bias_content()["entries"]:
         if note_id == entry["slug"] + "-practice":
             fields = list(zip(("event", "thought", "action", "review"), entry["practice"]["fields"]))
@@ -195,7 +202,7 @@ def practice_notes(match):
                       '<div class="notes-print-value" aria-hidden="true"></div></div>')
     return f'''<details {"open" if note_id == "confirmation-listening" else ""} class="practice-notes" data-notes-id="{note_id}" data-notes-title="{escape(title, quote=True)}">
 <summary>My practice notes: {escape(title)}</summary>
-<p class="notes-help">Notes save automatically in this browser on this device; they are not sent to the book’s author or synced to other devices. Anyone using this browser may be able to read them. Avoid names and sensitive details. Download a copy to keep: clearing browser data can remove saved notes.</p>
+<p class="notes-help">Notes save automatically in this browser when storage is available. Avoid names and sensitive details, especially on a shared browser. Download a text copy before clearing your browser data.</p>
 <noscript><p>Automatic saving and downloading need JavaScript. You can copy your notes elsewhere or print this page for handwriting. Typing here without JavaScript will not save your notes.</p></noscript>
 <div class="notes-field"><label for="{note_id}-date">Date to return to these notes (optional)</label><input id="{note_id}-date" name="date" type="date"><div class="notes-print-value" aria-hidden="true"></div></div>
 {''.join(inputs)}
@@ -240,6 +247,7 @@ def build(include_narration=True, include_search=True):
     reading_json = json.dumps(reading_catalogue, ensure_ascii=False, sort_keys=True)
     (OUT / 'assets/reading-list-index.json').write_text(reading_json, encoding='utf-8')
     reading_hash = hashlib.sha256((ROOT / 'assets/reading-list.js').read_bytes() + reading_json.encode()).hexdigest()[:12]
+    notes_hash = hashlib.sha256((ROOT / 'assets/practice.js').read_bytes()).hexdigest()[:12]
     narration_manifest = load_narration_manifest() if include_narration else None
     editions = {voice: load_narration_manifest(voice) for voice in VOICES} if include_narration else {}
     audiobook_data = load_audiobook(CHAPTERS, PAGES, editions) if include_narration else None
@@ -280,6 +288,11 @@ def build(include_narration=True, include_search=True):
         body = re.sub(r'(src="[^"]*assets/audio\.js)(?:\?[^"]*)?"', rf'\1?v={audio_hash}"', body)
         body = re.sub(r'(src="[^"]*assets/library\.js)(?:\?[^"]*)?"', rf'\1?v={search_hash}"', body)
         narration_html = render_narration(name, title, body, page, narration_manifest, editions)
+        if name.startswith("reference/"):
+            # Older canonical entries and their renderer both supply the UI label.
+            # Validate the original reading and narration bindings before showing it once.
+            body = body.replace("<strong>A brief fictional example:</strong> Fictional example:",
+                                "<strong>Fictional example:</strong>")
         lookup_controls = glossary_controls() if name == 'glossary.md' else ''
         glossary_script = (f'<script defer src="{relative(Path("assets/glossary.js"), page)}?v={hashlib.sha256((ROOT/"assets/glossary.js").read_bytes()).hexdigest()[:12]}"></script>' if name == 'glossary.md' else '')
         if '<audio' in narration_html:
@@ -298,10 +311,10 @@ def build(include_narration=True, include_search=True):
         settings_url = relative(Path('settings.html'), page) + ('?return=' + quote(page.as_posix(), safe='') if name != 'settings.md' else '')
         settings_link = f'<a class="header-settings" href="{escape(settings_url, quote=True)}" aria-label="Settings" title="Settings"' + (' aria-current="page"' if name == 'settings.md' else '') + '><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3" fill="var(--paper)"/><circle cx="15" cy="17" r="3" fill="var(--paper)"/></svg><span>Settings</span></a>'
         chapter_number = next((i for i, (_, source) in enumerate(CHAPTERS, 1) if source == name), None)
-        eyebrow = f'Chapter {chapter_number} of {len(CHAPTERS)}' if chapter_number else 'A field guide to being human' if name == 'book.md' else ''
+        eyebrow = f'Chapter {chapter_number} of {len(CHAPTERS)}' if chapter_number else ''
         eyebrow_html = f'<p class="eyebrow">{escape(eyebrow)}</p>' if eyebrow else ''
         description = f"{title}. A science-informed guide to what drives people and how to respond."
-        notes_script = (f'<script defer src="{relative(Path("assets/practice.js"), page)}"></script>'
+        notes_script = (f'<script defer src="{relative(Path("assets/practice.js"), page)}?v={notes_hash}"></script>'
                         if 'class="practice-notes"' in body else '')
         audiobook_script = (f'<script defer src="{relative(Path("assets/audiobooks.js"), page)}?v={audiobook_hash}"></script>' if name == 'downloads/index.md' else '')
         search_script = (f'<script type="module" src="{relative(Path("assets/search/search.mjs"), page)}?v={search_hash}"></script>' if name == 'search.md' else '')
@@ -339,7 +352,7 @@ def build(include_narration=True, include_search=True):
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><div class="header-actions">{search_link}{settings_link}<a class="explore-book" href="{relative(Path('contents.html'), page)}">Explore the book <span aria-hidden="true">↗</span></a><a class="github-star" href="https://github.com/snowch/understanding-people" target="_blank" rel="noopener noreferrer" aria-label="Star Understanding people on GitHub (opens in a new tab)" title="Star Understanding people on GitHub"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.8 5.7 6.3.9-4.6 4.5 1.1 6.3-5.6-3-5.6 3 1.1-6.3L3 9.6l6.2-.9Z"/></svg><span>Star on GitHub</span></a><button class="install-button" type="button" aria-label="Install Understanding people" title="Install Understanding people" hidden><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 15v5h16v-5"/></svg></button></div></header>
+<header class="site-header"><a class="brand" href="{home}"><span class="brand-mark" aria-hidden="true">u.</span>Understanding people</a><div class="header-actions">{search_link}{settings_link}<a class="explore-book" href="{relative(Path('contents.html'), page)}">Contents</a><a class="github-star" href="https://github.com/snowch/understanding-people" target="_blank" rel="noopener noreferrer" aria-label="Star Understanding people on GitHub (opens in a new tab)" title="Star Understanding people on GitHub"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.8 5.7 6.3.9-4.6 4.5 1.1 6.3-5.6-3-5.6 3 1.1-6.3L3 9.6l6.2-.9Z"/></svg><span>Star on GitHub</span></a><button class="install-button" type="button" aria-label="Install Understanding people" title="Install Understanding people" hidden><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 15v5h16v-5"/></svg></button></div></header>
 <dialog id="install-help" aria-labelledby="install-title">
 <h2 id="install-title">Install Understanding people</h2>
 <p>Add the book to your home screen or desktop for a separate reading window.</p>

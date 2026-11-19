@@ -126,7 +126,7 @@ def verify(base, voice=DEFAULT):
             for anchor in {s['anchor'] for s in entry['sections']}:
                 expect(page.locator('[id="' + anchor + '"]')).to_have_count(1)
         assert not media, media  # Native players do not fetch on arrival.
-        samples = ['book.md', 'chapters/01-before-you-explain.md', 'reference/confirmation-bias.md', 'reference/gaslighting.md', 'reference/familynorms.md', 'glossary.md']
+        samples = ['book.md', 'chapters/03-needs-motives-goals.md', 'reference/confirmation-bias.md', 'reference/gaslighting.md', 'reference/familynorms.md', 'glossary.md']
         for source in samples:
             page.goto(base + destination(source).as_posix())
             for width in [320, 390, 834, 1440]:
@@ -159,29 +159,29 @@ def verify(base, voice=DEFAULT):
         page.locator('#audio-explanation').evaluate('e=>e.play()')
         page.wait_for_function('document.querySelector("#page-narration-audio").paused && !document.querySelector("#audio-explanation").paused')
         page.locator('#audio-explanation').evaluate('e=>e.pause()')
-        page.goto(base + 'chapters/01-before-you-explain.html')
+        page.goto(base + 'chapters/03-needs-motives-goals.html')
         page.locator('.page-narration .narration-sections > summary').click()
         with page.expect_download() as event:
             page.locator('.page-narration').get_by_role('link', name='Download MP3', exact=True).click()
-        assert hashlib.sha256(Path(event.value.path()).read_bytes()).hexdigest() == manifest['pages']['chapters/01-before-you-explain.md']['audio_sha256']
+        assert hashlib.sha256(Path(event.value.path()).read_bytes()).hexdigest() == manifest['pages']['chapters/03-needs-motives-goals.md']['audio_sha256']
         nojs = browser.new_context(java_script_enabled=False, service_workers='block', viewport={'width': 390, 'height': 900})
         q = nojs.new_page()
-        q.goto(base + 'chapters/01-before-you-explain.html')
+        q.goto(base + 'chapters/03-needs-motives-goals.html')
         expect(q.locator('.page-narration audio')).to_be_visible()
         q.locator('.narration-sections > summary').click()
         expect(q.locator('.page-narration [data-audio-seek]:visible')).to_have_count(0)
         q.locator('.narration-sections a').nth(2).click()
-        expect(q.locator('main h1')).to_have_text('Why we misinterpret people')
+        expect(q.locator('main h1')).to_have_text('Needs, motives and competing goals')
         expect(q.locator('.narration-speed')).to_be_hidden()
         failed = browser.new_context(service_workers='block')
         failed.route('**/assets/media/narration/**', lambda route: route.abort())
         f = failed.new_page()
-        f.goto(base + 'chapters/01-before-you-explain.html')
+        f.goto(base + 'chapters/03-needs-motives-goals.html')
         f.locator('audio').evaluate('e=>{e.load();e.play().catch(()=>{});} ')
         expect(f.locator('.page-narration .audio-status')).to_contain_text('Audio could not load')
         expect(f.locator('.page-narration').get_by_role('link', name='Read transcript')).to_be_visible()
         failed.close()
-        page.goto(base + 'chapters/01-before-you-explain.html#%E0%A4%A')
+        page.goto(base + 'chapters/03-needs-motives-goals.html#%E0%A4%A')
         expect(page.get_by_label('Page narration speed', exact=True)).to_be_visible()
         # Browser-cached text remains offline without silently downloading hours of audio.
         offline = browser.new_context()
@@ -194,7 +194,7 @@ def verify(base, voice=DEFAULT):
         offline.set_offline(True)
         r.reload()
         expect(r.locator('main h1')).to_have_text('Why we misinterpret people')
-        expect(r.locator('.page-narration')).to_contain_text('download the MP3 for offline listening')
+        expect(r.locator('.narration-update')).to_contain_text('Written edition')
         assert not errors, errors
         browser.close()
     print(f'Passed: {len(expected)} retained recordings and {len(expected-set(written_editions()))} current {VOICES[voice]["name"]} players; source/file checksums, all transcripts and range URLs, no automatic audio downloads, section seek/playback/speed, independent optional audio, MP3 download, keyboard/no-JS, light/dark responsive layouts, printing and offline text. No screenshots or recordings created.')

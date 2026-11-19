@@ -45,6 +45,127 @@
       "reason": "New editorial reading guide comparing nine books and linking their topics to the course. No narration or excerpts are produced.",
       "date": "2026-11-10",
       "page_text_sha256": "7b24231e695317c94ff93ab05372579633a50be511650faab700809232091869"
+    },
+    "chapters/01-before-you-explain.md": {
+      "status": "revised-text",
+      "reason": "Teach the three questions before asking learners to recall or apply them, and name the optional notes control.",
+      "date": "2026-11-19",
+      "page_text_sha256": "02e6e2ae0ad4c9283e2ba80fbffcedf7edd4a7efba05f67256cf301c84db03a1",
+      "recorded_page_text_sha256": "bc0d686c274ec7d0f4a53d98aebcd8ca38db6da16f05844f9ba7a6756a8e0296",
+      "recorded_source_hashes": {
+        "chapters/01-before-you-explain.md": "2d69af1b369eab8061971dba8efac97ce2f6c3f3f47747df08861b021b8cebe3"
+      },
+      "current_source_hashes": {
+        "chapters/01-before-you-explain.md": "d3f8193011a96ddb53709bf384d6293f8406ca1d2ec9d5afb8a278f533e803a4"
+      }
+    },
+    "chapters/02-what-counts-as-knowing.md": {
+      "status": "revised-text",
+      "reason": "Explain the denominators in the invented warning table and the two groups and period in the café comparison.",
+      "date": "2026-11-19",
+      "page_text_sha256": "799daa71725c07ae9c596241c1c6ebc00e7c0a50f4515b992880b3dec3d34b68",
+      "recorded_page_text_sha256": "99d73e6de592167af2d4f5c901cffccee5b6c2d1e5b0eeaf91fafdf7e989c99b",
+      "recorded_source_hashes": {
+        "chapters/02-what-counts-as-knowing.md": "098405ddc8a06e38ac30875016cc4dc0ad99ce007b83c5e34b12e8e3bf415e44"
+      },
+      "current_source_hashes": {
+        "chapters/02-what-counts-as-knowing.md": "a61c2a0a2a6ca3d7924392cb46fc71f3f11d80f5714b050cb2f9f041cb30277c"
+      }
+    },
+    "chapters/08-questions-listening-disagreement.md": {
+      "status": "revised-text",
+      "reason": "Use an opening question that leaves agreement itself uncertain and make the weekly task possible even without a correction.",
+      "date": "2026-11-19",
+      "page_text_sha256": "55a1025dd1fb111b0c1840210c2cc4a84be19711fb7388f478058d1450f0cd95",
+      "recorded_page_text_sha256": "fe3870e6869cc50d5fdf292347675cf1f0cf4ecc32e0fa11173d0ec80d94826b",
+      "recorded_source_hashes": {
+        "chapters/08-questions-listening-disagreement.md": "cd693e963da2a2c2f5b3f5c032fa04aeaf2e455ec84af4fe86d26d5ec6fc4ecd"
+      },
+      "current_source_hashes": {
+        "chapters/08-questions-listening-disagreement.md": "a314c6589d2acbe7aa603793cba0b3ad4f185073dd13af94e5d390c98b9ca3de"
+      }
+    },
+    "how-to-use.md": {
+      "status": "revised-text",
+      "reason": "Correct audio and glossary navigation and clarify what practice notes and the return date do.",
+      "date": "2026-11-19",
+      "page_text_sha256": "0997dc1ff25ceb9931ab32f4025974c64a872bf29c090187f0595f4cbb121856",
+      "recorded_page_text_sha256": "d248c4eb02a213b95d1d3bde4c2e3372b47119939ab5dc946c3d4f1949e3f7fd",
+      "recorded_source_hashes": {
+        "how-to-use.md": "d4f7a4c029322494b13ff9fff69a04f1c06428b8550269ee761899118b6af4e3"
+      },
+      "current_source_hashes": {
+        "how-to-use.md": "0928db5765a13718b81388f13af14b259d945cffc0458f05e4eab804f8924623"
+      }
+    },
+    "worksheet.md": {
+      "status": "revised-text",
+      "reason": "State where to write and which evidence to compare at the next step.",
+      "date": "2026-11-19",
+      "page_text_sha256": "88f87c7e1617b4aa9511863dafedf56bd721e41a737bcee7da9e1d85f59ccad8",
+      "recorded_page_text_sha256": "5ffdcf110ee154794d1cd496ecce9d4f9864a94656c06c213393aa5294f0869a",
+      "recorded_source_hashes": {
+        "worksheet.md": "69f1797f6e2c00dce9870e8f4a508684f34838bffe29cd8e00ac59804031d03a"
+      },
+      "current_source_hashes": {
+        "worksheet.md": "88de86759d56c0f51c934a776ac70f3c520eb0d86ccd79616d63244ebca939f4"
+      }
+    },
+    "reference/index.md": {
+      "status": "revised-text",
+      "reason": "Explain browsing and filtering the current catalogue without referring to an unavailable planning category.",
+      "date": "2026-11-19",
+      "page_text_sha256": "7d1fa38ee4e68e7e5435a4e884be5506b0596d9d37c8dfb9d3ee1d5d3d270c3f",
+      "recorded_page_text_sha256": "1f8b3c5bdd2931dee94d94925502699911a0dab1b83a004e764f52e6251ad48d",
+      "recorded_source_hashes": {
+        "reference/catalog.json": "5d427407d856224cd735f9010a386a363699132241fdcb25969402347b6f605d"
+      },
+      "current_source_hashes": {
+        "reference/catalog.json": "5d427407d856224cd735f9010a386a363699132241fdcb25969402347b6f605d"
+      }
+    },
+    "reference/ai-reflection.md": {
+      "status": "revised-text",
+      "reason": "Name the editable draft before asking readers to replace placeholders and explain the offline rehearsal.",
+      "date": "2026-11-19",
+      "page_text_sha256": "c773bfcf735ef8dafc3fffbf8a98e1f7ddae6cfc357a4c2e7732ffff69734f64",
+      "recorded_page_text_sha256": "93878e6d1f6bdad235a4024e3441e705fc408164d22ff96cd17103952d5ee940",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      }
+    },
+    "reference/comparing-occasions.md": {
+      "status": "revised-text",
+      "reason": "Name the four available notes fields and identify the observations, comparison, possible explanations and later review.",
+      "date": "2026-11-19",
+      "page_text_sha256": "2fb5d86af99ef0fafdfee076b7b7eaead3e8faf354e89a1c96ce357065a9aef2",
+      "recorded_page_text_sha256": "101fca7568eefec79b748b107a34905a05154867740262f718278ffe46b97bad",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      }
+    },
+    "reference/personality-disorders.md": {
+      "status": "revised-text",
+      "reason": "Name the DSM and distinguish the manual’s categories from severity and trait descriptions.",
+      "date": "2026-11-19",
+      "page_text_sha256": "ae477e91dbfd8e6b46c15ce18625d617bbac91f9dc2b4345c673a7375f1a6cfc",
+      "recorded_page_text_sha256": "a083a12b23fb175671156d206d466696afc7338a10f328a9ac28850f8290d65d",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      }
     }
   }
 }

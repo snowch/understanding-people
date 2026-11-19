@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "date": "2026-11-08",
-  "reason": "Only criticism, people-pleasing and reinforcement changed in the two shared canonical containers. Every listed sibling entry is structurally identical to its pre-change canonical JSON and has exactly the same page teaching fingerprint and authored scripts. This review does not permit changed teaching to reuse an old lesson or modify any approved manifest, recording, transcript or audiobook.",
+  "date": "2026-11-19",
+  "reason": "Only criticism, people-pleasing and reinforcement changed in the two shared canonical containers. Every listed sibling entry is structurally identical to its pre-change canonical JSON and has exactly the same page teaching fingerprint and authored scripts. This review does not permit changed teaching to reuse an old lesson or modify any approved manifest, recording, transcript or audiobook. The 19 November review also binds unchanged siblings of the revised AI reflection, comparing occasions and personality disorders explanations to their exact current containers.",
   "pages": {
     "reference/acknowledging.md": {
       "entry_id": "acknowledging",
@@ -16,6 +16,57 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "d7caad5cc4b61f1a420c3bc850c6fd5fc144ce874570153eac2e677d1fa65326",
         "en-US-JennyNeural": "98dba2c5f50ea1fc56fcbbfcfb6e861cd59a6f0b4211cea66e2ac3482e4b3f30"
+      }
+    },
+    "reference/adult-attachment.md": {
+      "entry_id": "adult-attachment",
+      "canonical_entry_sha256": "f179701b95e2633383cac3ceac53ecfc2305792d471a31ed93366914293a3305",
+      "page_text_sha256": "c51405edcf949eb4f949e3da65b7e6f4a037f0539ff4561279e3a5d88602da99",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "481ce5e0d2fc6c5e7778c2957cd7fdd2718aa6e79ddaefa6a0007863ca657077",
+        "en-US-JennyNeural": "7b59f7170ba6c268c14a594e016c08373e2193869aca5cb48d9a0ce2acd49ea9"
+      }
+    },
+    "reference/assumptions-and-authority.md": {
+      "entry_id": "assumptions-and-authority",
+      "canonical_entry_sha256": "f00b5c0f97a17e675306f5fc60a12c27621b1fa93dda8309f1cde78a728c933e",
+      "page_text_sha256": "2e960c66cc38fa951db512cf278cd9aa5d3eed51d228ffbd2d778b87fbcfcd53",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "9aea0b44fb3bfe1d759553a6e11b886e6d5db46d246309ea241dd33a686352d3",
+        "en-US-JennyNeural": "29412973619a07f04f64c83ec992de2c9448875dcd0360a5a0cd06061190d919"
+      }
+    },
+    "reference/blame-reversal.md": {
+      "entry_id": "blame-reversal",
+      "canonical_entry_sha256": "5b455421293f71125f1f8e44dce621da95c19d712793c319fb64c8b2a18914c6",
+      "page_text_sha256": "7bc49016050cd125ac163e078934489ab16e0fb5f068f560a5ef4286064efe4e",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "d4e384560cd3017c0c9d694aba43049e88ac1bba24ff4a8dd34350c169dad833",
+        "en-US-JennyNeural": "0ff742b0354f0679c5340f6f9398ccc535711f6ed0f040aa83202ceb3b97e7b9"
       }
     },
     "reference/blame-shifting.md": {
@@ -46,6 +97,23 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "c31fb20c7be823af5f493128fb3a6f5fd2e162800b88c8c0b7f9bfa9d95bbb4f",
         "en-US-JennyNeural": "5adcf92532c88fdc913e8c0138b732e092a4e0d29d978f3c576a486fbba4844b"
+      }
+    },
+    "reference/changing-standards.md": {
+      "entry_id": "changing-standards",
+      "canonical_entry_sha256": "e34d062239ea21b6a325ece556efcc632a288e2dd7d9d8ebcb907c3ef8aadfec",
+      "page_text_sha256": "856ffb8b34d984174b4ea75de716f2db6c17cb05564e2b0e1d00f7d9affc6686",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "a08e3d2d03a6fbb548ad021995f1ab1f5640bdb356a688b7938fae3ac95b36fb",
+        "en-US-JennyNeural": "e0836790511131f601518724be3c5ad16747b0ed1a33e18e4658293861c1eee1"
       }
     },
     "reference/coercive-patterns.md": {
@@ -153,6 +221,23 @@
         "en-US-JennyNeural": "8a5c178642bc71116ead371b67133524479ecefec48a9757a8705985f766c657"
       }
     },
+    "reference/digital-misunderstandings.md": {
+      "entry_id": "digital-misunderstandings",
+      "canonical_entry_sha256": "00755b0449e2c62017887bae7f0df2ba902f6572b4b3f249a69c29e3e432e250",
+      "page_text_sha256": "a024eea1d677d0211ed177ae4e8f4a086400136d631c8e70a51d50d3c305d4d6",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "64f2a868840ec71c029c3c56dbef3dda0843972c30db782035f24d711a4bac14",
+        "en-US-JennyNeural": "cef19d926dba303310f18c6de3cfbef39e7bcfa31e09ff69a41fd1bcf46e76e3"
+      }
+    },
     "reference/dismissing-needs.md": {
       "entry_id": "dismissing-needs",
       "canonical_entry_sha256": "b22bfbb218c8e6c01b2540f8d9b1782e9aeac2be9151ffc437abc0f7f5cc773a",
@@ -183,6 +268,40 @@
         "en-US-JennyNeural": "60e7c2a476d30a5350a813c607255a4286acc6b678e4bfb93afd1d5961018477"
       }
     },
+    "reference/exclusion-and-reputation.md": {
+      "entry_id": "exclusion-and-reputation",
+      "canonical_entry_sha256": "201880f161e4eef5790ed5f956a3ff9434c32185f99f693cf1856ca71c1af4e9",
+      "page_text_sha256": "69a8265b046e1a2cac0d774b4b55d03132d509260411e394a61c8f2f7df46301",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "dc66b2314aac6bf0656e12c08b489ddfd39b0e9cc47b807de249d35748be4d79",
+        "en-US-JennyNeural": "096bd70b597cfa82731911257201a5e117310508d50ff67f22c7b1dd18f420aa"
+      }
+    },
+    "reference/family-membership.md": {
+      "entry_id": "family-membership",
+      "canonical_entry_sha256": "f36b812859769456e74be999ad874a8bc0bc4cf6081f134d44ffe2f564f3cef0",
+      "page_text_sha256": "4e95b42ec1fc7bd1ed6bfe8b5b47bc452f61a9700caf6595d75f048ff48d4b63",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "68b1f0cc426e534d0f5ed03e810d88670e79f1468a0636bc3812cb0022038135",
+        "en-US-JennyNeural": "909cca45056395cb21b17a13bfc60658b93a5b3ef306f5d3fa4d23d7eefebc59"
+      }
+    },
     "reference/fear-rejection.md": {
       "entry_id": "fear-rejection",
       "canonical_entry_sha256": "16f44447c63e4f9e5ab34498e720ce0a6f783fcc07c830a8b5c9fadf31cb90e0",
@@ -196,6 +315,23 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "c48f6225608f2fcdd6cf7b5b33b04f59b2d99e8c980828ce330e8f3710968b66",
         "en-US-JennyNeural": "c04a6b46e35a2df4a675a08bd3ac2893c2cc6176a706bb2fa4f6063687fdd783"
+      }
+    },
+    "reference/feedback-and-speaking-up.md": {
+      "entry_id": "feedback-and-speaking-up",
+      "canonical_entry_sha256": "6beea61fbe60af54f9d431f1c3e6fef81fc15c810b8210777c0cb126ce6e5418",
+      "page_text_sha256": "885d3f723fc2150c2df4cbe3ca4aa94dcf8004953126463db632469c680f0963",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "810a4c958d39e9786c6b2ddfe0baa9ed9c603592581aad88139a76a490d71e8a",
+        "en-US-JennyNeural": "a32ddf20e74eba5699f94e31b9fb04132c9a7f9ab30eaa2ca313edd7280a9104"
       }
     },
     "reference/financial-control.md": {
@@ -243,6 +379,23 @@
         "en-US-JennyNeural": "aa07fa6ebf8ceee86368dfbfcc205b6444871880d2e08c2af3470bd2d1f3a997"
       }
     },
+    "reference/gatekeeping.md": {
+      "entry_id": "gatekeeping",
+      "canonical_entry_sha256": "cc0fed241d19266fa7514fec9f27412651abd2b3ff2bf8bef940db276124ba7a",
+      "page_text_sha256": "3d0bba2851d3a2ba56421abd0b3e56b292b20da8840f2126c8abd27cca493503",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "a95461bffa4dc50d7ceb27fa543f45671103f434d21bd61d4a4ed1dd05394420",
+        "en-US-JennyNeural": "4ddd7750be6cdf5c2b12cf140428ab42c804e26c4d80634f64f26b0c6466b0ee"
+      }
+    },
     "reference/guilt-pressure.md": {
       "entry_id": "guilt-pressure",
       "canonical_entry_sha256": "ae10c59c6082d32d6c20bdf61e78ddfbbcfe67ece651981cf1726df19e4b0f7d",
@@ -273,6 +426,40 @@
         "en-US-JennyNeural": "93cd34927ce273a5e80f07d8d4bd33717d21121c789fab20bacf3668116d415d"
       }
     },
+    "reference/intense-and-inconsistent-contact.md": {
+      "entry_id": "intense-and-inconsistent-contact",
+      "canonical_entry_sha256": "27ccc245acedb34b20c991433cfabe48918ae142ce0e501ed626d58af69ee374",
+      "page_text_sha256": "7587b59c19b52381821ad2505483e1f5d8bb5e5de20421126c84a7d6d3130653",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "d2cb412d84a2663c701c57cdd8e220782a644c5df3ff86607cd2d32f8c541b61",
+        "en-US-JennyNeural": "c1267543ea629fd5903fdb41dc88ef328bc60276bd5907becdcce28341b9db86"
+      }
+    },
+    "reference/interaction-cycles.md": {
+      "entry_id": "interaction-cycles",
+      "canonical_entry_sha256": "143f93ea5424a4a0b5bd5c80d9626e2d337ece67ad791216d2ca50895bbb9af0",
+      "page_text_sha256": "25bc9ec4b683ca3dab6e2013da4798bab7c063205ba5942431290fc39bbedc06",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "3974837368278f38195fa2e2a81f9a75e23cec2c0c3f51b928386e98e86dde37",
+        "en-US-JennyNeural": "dc48355ac1abdaf459fd9f685ae5a5dfcc7feb3cf3868e007b83b47db62c59d0"
+      }
+    },
     "reference/interrupt.md": {
       "entry_id": "interrupt",
       "canonical_entry_sha256": "54a84ebdf25c472747ec1a423b74aa55686086e0882b87c0243505ae006de3d3",
@@ -301,6 +488,23 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "e8f638331fe2e55e8b25d852513503e437299fd40f05fc700b9525b07b00547b",
         "en-US-JennyNeural": "35f68d205f9ca950d79afbdf49c982944d9b344a3af4ed3f518c1d73d2e30b8d"
+      }
+    },
+    "reference/invisible-work.md": {
+      "entry_id": "invisible-work",
+      "canonical_entry_sha256": "7b9bb56e32af4294519bc429385d3ebc69b48254d454ef3f895409dad8c9f29f",
+      "page_text_sha256": "ece0e9cf2352abb85c2fa870c072f124d4de7ac8ce09dd36a268b32888ecaf59",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "6cd0fef05dfb60b55c92cd317e595bf1a91b26516cbff3fd480a00c25eac7e39",
+        "en-US-JennyNeural": "0b60a31977330ee345c0501a4f3e11aa6419b791bddee928cc9a7b7dc5ee04bc"
       }
     },
     "reference/isolation.md": {
@@ -393,6 +597,23 @@
         "en-US-JennyNeural": "1407da9104539d8dfff21bb38c61f67062307e10d754f825b9ff427a669685a5"
       }
     },
+    "reference/naming-and-belonging.md": {
+      "entry_id": "naming-and-belonging",
+      "canonical_entry_sha256": "067c099cd5c76d7480c99540a342c409e3c3f3e93d4fe24d36c34787a0ebc610",
+      "page_text_sha256": "571fada7448031ace3985c75bee595c3813a50b994afa04f23d7d7616561c81e",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "7dafea055f75a7514c6c378fecadda3c58e45b6a5afaa7522bbbfcc7537861a5",
+        "en-US-JennyNeural": "7fc82313e079c048d6e104d7f142d8d6fcffd0fb6a480b81252ee021473ca4f1"
+      }
+    },
     "reference/narcissistic-behaviour.md": {
       "entry_id": "narcissistic-behaviour",
       "canonical_entry_sha256": "604c5fa4eec25fb0779e1b110ab3cb7e4f3141753604f19fdff35f5f72fade15",
@@ -406,6 +627,38 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "7ce10fba2caa27e074a2c522b1166a6c1ecb7242af9acf26a7814108406a7359",
         "en-US-JennyNeural": "5080eff54518caf023551e9bd22f69efff054e2c088a778fd8b64eddc17227fe"
+      }
+    },
+    "reference/negotiation-and-mediation.md": {
+      "entry_id": "negotiation-and-mediation",
+      "canonical_entry_sha256": "7d05ac642b15c1e483273a6b15e6a2b81b76af26a5a22724f4e6831ad3ab2410",
+      "page_text_sha256": "f2cc109d55f2e0c9f6ae2581c18566df62a0bbf8cd3ff17ef7c83c6dd212715e",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "d716b35f35e41588a9c268d7f7cc71a34466ac7266d1d662c45494abc5a1fd0c",
+        "en-US-JennyNeural": "0589a3ebb831cdc8decae2e50e4026e4a3c77ebd5348b9f30eac3c4dfb6cee2d"
+      }
+    },
+    "reference/ocd.md": {
+      "entry_id": "ocd",
+      "canonical_entry_sha256": "f21402d7572f907ab61340e697ff2a3510accd591664cb35717d67a8e99e818a",
+      "page_text_sha256": "329b12b57fb60c5fafd513f08bca59c276ad3d0b37d20d2ee9005d76ee87e4d2",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "b0afae7462912d6841e38c2c679b988a39c6d99b1556cc5019fa66fae0d01226",
+        "en-US-JennyNeural": "da99e54e641682f2f8a798696cd8dc58f397860eeb18d5b83fa60bef791a8f47"
       }
     },
     "reference/over-responsibility.md": {
@@ -423,6 +676,40 @@
         "en-US-JennyNeural": "c599113e156ab9496a4443c6470235c427bf21ac77449c69b88cdb6cd160e7bb"
       }
     },
+    "reference/oversight-and-delegation.md": {
+      "entry_id": "oversight-and-delegation",
+      "canonical_entry_sha256": "f72b3b5209ee383f5958cc672c137341f6197078c0f1d1345a6fcb15823bca40",
+      "page_text_sha256": "56b4ce2c4c8e5180db2b0f088bac430b4cb90ce6c375f8bf799e894eb4facbfd",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "20d84d676a700c325c5eaf1d3815fa92cd852355608531764c59cffae02e934b",
+        "en-US-JennyNeural": "3179e4cb480bb15d89e448cbe25a46102657262d8d1687126d24e3d6413342fd"
+      }
+    },
+    "reference/parentification.md": {
+      "entry_id": "parentification",
+      "canonical_entry_sha256": "1e285808ed2d75a7ec2015182cef82ee3c6c171cca7a2eebbf74c6b62ccbe511",
+      "page_text_sha256": "1a0dabe4b85086a583d716e7f352ad60cccd077caf4fd2cac7009ccea3454e52",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "115414f6ec4ce08b5e491696ab48d9c94a7defbced351159d7e2ddce2baf3bff",
+        "en-US-JennyNeural": "24de193bc06e3d802e58a48c435021c5eab4004301be2c928a163a12120657b8"
+      }
+    },
     "reference/passive-aggression.md": {
       "entry_id": "passive-aggression",
       "canonical_entry_sha256": "f732a63a18b24e74c9506b4da7c23b71613290bc5ab9d546db2c0f26bb54a3e6",
@@ -436,6 +723,156 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "b73719c3c03fd75c42723209a2d35cc4740474e9d91a901b9bc3f10a601cb77d",
         "en-US-JennyNeural": "cf3dd6bd32942b358efa3aff6a339526a878478414a2bf78e8f889676a450272"
+      }
+    },
+    "reference/pd-antisocial.md": {
+      "entry_id": "pd-antisocial",
+      "canonical_entry_sha256": "86afba2704ea0234777d11c387800cfd0842744d0ea49cff1d45007701a86ad3",
+      "page_text_sha256": "59a98471a3109165a81d60eea87ff138bbeaa20a2a346aea558ec2c7a43d50b2",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "6cd2dfe7690e158cd7e868699b56a0557eea10dc4fa67c7985ae2dfa7dffcf81",
+        "en-US-JennyNeural": "708d700d20f8b9475e02da5d998166f0a7390ec43d77c76a64e9e6ae40c9e249"
+      }
+    },
+    "reference/pd-avoidant.md": {
+      "entry_id": "pd-avoidant",
+      "canonical_entry_sha256": "1f10aa42c4a8b0afac32c8561bcddabc8a89e44bb13ba8a0ec1b885a6a5f930a",
+      "page_text_sha256": "fb455dc485734623de55db4a3ad3c6ffc2a2e44cba3a7766b4b01f1e2d7638c0",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "72d5cc9a73567729ce86c121b765dc128879811b2ea93589f20ed80b1e45e317",
+        "en-US-JennyNeural": "57d8ecd469435f3c84fea04bf65ae7dc14968793738380e50a9d2d4c3322fbeb"
+      }
+    },
+    "reference/pd-borderline.md": {
+      "entry_id": "pd-borderline",
+      "canonical_entry_sha256": "1824d230d66f75022557cd3c0ebe7e8eb0717a90ead1de81f4999270d9d40efb",
+      "page_text_sha256": "834e6a737df08767c1aadae6f1b3da07ba389a82190fdada2339945242c79179",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "69116c2ec3d9fb5f1307a38f0a3372e5610a009aec9828318c5a7171c35a851c",
+        "en-US-JennyNeural": "4002b84396e149edadc5046c7734a87f8abf05e4a94e9d43b982289bb3ec47f9"
+      }
+    },
+    "reference/pd-dependent.md": {
+      "entry_id": "pd-dependent",
+      "canonical_entry_sha256": "226c1eaa5c9b0e1b63edfe09b27492f24355aa14b970b08db7543bb27b3fcf6e",
+      "page_text_sha256": "434a7b39903f540a2772f492b29e5bbc7dc0a23738ee19df096789435f514a1a",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "34c0ab1e7b6ad17955ae2a5effa5431635c66c9e9ee78138412e83cb472ae84d",
+        "en-US-JennyNeural": "a079d1e5ab49a0c30ef837ec207bda0683aede0270d16a7f79228e1d6a9eb29a"
+      }
+    },
+    "reference/pd-histrionic.md": {
+      "entry_id": "pd-histrionic",
+      "canonical_entry_sha256": "9a7efe78a04b94da46918c423d5f155df5bd5120474e22c8932c2f1fb95df7ab",
+      "page_text_sha256": "eea3b6682bacab73f9e2ca723f00ee0bcf1cf520eb2300e86f109d2c44f8f80f",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "de423ca0cfe9bfa1f285799d9433ea2ce633b0e07dd5cfd4accb44f3a545965b",
+        "en-US-JennyNeural": "5c58b3d7b25876a3fe84769003078c535b51663c547640ea608750f2cda0669e"
+      }
+    },
+    "reference/pd-narcissistic.md": {
+      "entry_id": "pd-narcissistic",
+      "canonical_entry_sha256": "0163f54206483f64b3bc0008a9084cae6f34699b7bebb2fbcc3dd6df5d0cab87",
+      "page_text_sha256": "d7d771bd32777cc14d67be5ccb40ca7dfd02f2df02b7140b33fe0ddf053b17c5",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "e9650beee71277c1975f9f311170fb00bb140d3a5416cdfc2d7ab2eb18ebfeac",
+        "en-US-JennyNeural": "259933001adec5c46a12f59ef6513eac7ac98a03cb6cac34b38282fdda589ad5"
+      }
+    },
+    "reference/pd-ocpd.md": {
+      "entry_id": "pd-ocpd",
+      "canonical_entry_sha256": "39bd337d30bf483e919fbadde2ba39a41b719900b7f832074a1b12f1f9a37b9b",
+      "page_text_sha256": "bff4f6fb8cdb17372e4e05c3f2b09f54b6df95743bb4a69343b0a61790eb85fa",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "f46d051a47bc5e16802ea6d1acf442cc3aa198bc07152c09fb554500162a8973",
+        "en-US-JennyNeural": "ed15064bbaf58f2e865f230ab75d8a303a5cfe7966c9a35d875e531125ec45d7"
+      }
+    },
+    "reference/pd-paranoid.md": {
+      "entry_id": "pd-paranoid",
+      "canonical_entry_sha256": "47ab6d3951af6349e379bbf7f9d690101ca06ee44a7145ab53abe8f6bf68f09e",
+      "page_text_sha256": "bf22b0bfca32273b0e2b243d3334d17f7f905033d74e0b5502b5d26a590dcc8a",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "e8db6215d816c6bb790161dd2d197932c1a9cea5afaebffd483134022195d734",
+        "en-US-JennyNeural": "e761dede6f0970e47b4dfb19989a20edb5ea742a68606ad694e2738ac30d518a"
+      }
+    },
+    "reference/pd-schizoid.md": {
+      "entry_id": "pd-schizoid",
+      "canonical_entry_sha256": "b4d1c77cc1aaaf09f41d585cbb7acc0c3474438bdf5977107996394c4696a890",
+      "page_text_sha256": "b04ceb00662b95512f777aa63618191f03c057b3549390c5cd90aa378c447d3e",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "1357185524a76111afdb1b8086fc82fbca95130633e6c62e914d046abda22d7e",
+        "en-US-JennyNeural": "2c02d70c346fe15ef3ab22f8b3ba15399450093984e012fb8ef94cd1909612e6"
+      }
+    },
+    "reference/pd-schizotypal.md": {
+      "entry_id": "pd-schizotypal",
+      "canonical_entry_sha256": "5ba5048cb4f35043220693814a2c15c93b8c28d9e9b61eab141cf6a296ac9778",
+      "page_text_sha256": "3fcb86b0763a22f8af3c4fcac75ec4abadcbf828335ca532789d7802ec409ec6",
+      "recorded_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "3f756e694ee9a63870b34b9bc62a1b0924997d093c2c7d387f8728cabd9afae0"
+      },
+      "current_source_hashes": {
+        "reference/entries/clinical-vocabulary.json": "beb2f2930d266eb5c064e05706c4033959c32009449876fff1b48dd6cd73c5a7"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "f92bc3b2635b553e8fe26cad3e50c91f9cb221d12d49d489382c7d3334c1b423",
+        "en-US-JennyNeural": "b321918517f56b8eb657a6222fbbb345a7325c133a8f3a57a0769039272fe216"
       }
     },
     "reference/perfectionism.md": {
@@ -453,6 +890,23 @@
         "en-US-JennyNeural": "607eaaf6c285f6a659a1b0b8ae9485d697073047e4e31045de19760c5d4ce4d9"
       }
     },
+    "reference/personality-facets.md": {
+      "entry_id": "personality-facets",
+      "canonical_entry_sha256": "a0abe9d0cdccf43231440750d4ea6966dc4bd8de0f7bb4300c8a8a11e9b219c6",
+      "page_text_sha256": "8db9886da254727b37dad61f3d0fc40196fdf7287a19d8030d919d18e07d922c",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "ccb1b8e6b66eb08b35fce2c6574d61182f648d769a8e57cda6b3e2583d8ed24f",
+        "en-US-JennyNeural": "505f0808e155c4a6c7baf9474bb3a951b9bec01ffec917667182d0e64f0c69e0"
+      }
+    },
     "reference/possessiveness.md": {
       "entry_id": "possessiveness",
       "canonical_entry_sha256": "4ead42387fdf86258aeb4282447dd97fa577af442fb8e8f39841d9c225ed8546",
@@ -466,6 +920,23 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "61e3bc1b74adda312d0d228215a30b8a17358a2c4796f030e097a7f694fc3888",
         "en-US-JennyNeural": "ca86b21b1a963c515d356f4cb56c360021a0ce8a87463ac494893ca5a7b8a4c1"
+      }
+    },
+    "reference/procrastination-planning.md": {
+      "entry_id": "procrastination-planning",
+      "canonical_entry_sha256": "8c30de83915fb97a85902835322e234bddeaaebe64b714073c04540bae993c30",
+      "page_text_sha256": "86e8558725047eed55d5ac5b8683a93f4fe46b154e9064eb3c1340ee3d0f021f",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "0b0173b9e65f103b9e27119f7e14700c0e401affc1962f914f93b2c0108434e4",
+        "en-US-JennyNeural": "7bf15e386ea4ae143ee40f95368d43c6714e77f994df16cd026cf5a7e0b0546d"
       }
     },
     "reference/reassurance.md": {
@@ -498,6 +969,23 @@
         "en-US-JennyNeural": "43ff7842fa070b095ccbcf577873e70374707a8afbf208618a421139e91a136c"
       }
     },
+    "reference/responsive-support.md": {
+      "entry_id": "responsive-support",
+      "canonical_entry_sha256": "11ee9f707a62d47d7c78c845095d0357e7998a1d4a8795620b3dda33a602aa8b",
+      "page_text_sha256": "83defc2bffd8373558a6c335696d0b3509ca7a201abd719b27ca9ec0422503c8",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "5f7361c2f05878441d9c45647007557cea9bac4ce2de75ed00412fd689aeab5f",
+        "en-US-JennyNeural": "279f7f8331c0f2a2ff756d1cf27a4e673eb41e59b23c264d291eccb1403402d5"
+      }
+    },
     "reference/retaliation.md": {
       "entry_id": "retaliation",
       "canonical_entry_sha256": "2acffa353aee5fe0691370206aa9fd68ec2573ec6d6bd84ca292e29cb29a3c44",
@@ -511,6 +999,57 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "0317ff887dc8e5b8f41402f0256a0803e91e6437121e8005a8db2845eb514ec3",
         "en-US-JennyNeural": "5dd54f7aa361ecf839fb3e064f89e64ba1f0b8e3b7a675cc2956f0a2ca83cbd9"
+      }
+    },
+    "reference/sequential-requests.md": {
+      "entry_id": "sequential-requests",
+      "canonical_entry_sha256": "3499941e417e54e6e6e00c5513a3a759926d1d071ebe682ab8b36e97a2a4064f",
+      "page_text_sha256": "89b9ba166a11e763bc4f9b997ccc75d92b94bf37d97e37f5aacea2513ae3267c",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "43a9a46b3dcdd39f6e1e891cf27f7eeaa1013c98e0331867f2278892b2c30cba",
+        "en-US-JennyNeural": "e38da5a41013e5dfb889187dd36889bdc2a69ddc5aabec85b3b178a5f578fe35"
+      }
+    },
+    "reference/shame-anger-and-repair.md": {
+      "entry_id": "shame-anger-and-repair",
+      "canonical_entry_sha256": "5eaeb2a69e32785a48a8740dc37eb1b21459abf643accd4c56304f202971b588",
+      "page_text_sha256": "1917498e069f4b947466fde14d49b830024848cdfe7e59664c9def9972f46ff7",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "4e123b086be94a33c05b6a7381feef426eaf8e7004a1acc1a381b102f4cfbde6",
+        "en-US-JennyNeural": "49ef400ceec05aa9a6268279902d7fe7879ba471fe6e0b4e05a368a42955d2e4"
+      }
+    },
+    "reference/social-comparison.md": {
+      "entry_id": "social-comparison",
+      "canonical_entry_sha256": "aa2456f64737d11a535e5b908d015486f1a56a38818282aed7cbdeba6ee65f90",
+      "page_text_sha256": "59a4ed243529f11762879435d2d9f692ea7b91f42a5309491172c691c6d0b0f9",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "5e7594f8bf867c5014b245af37c8cb6030542a9784e37bd7298a71455c5a917a",
+        "en-US-JennyNeural": "83e43c3ae7ad243466e5c43f6eaea604204d822f013d4ac33355988604df9682"
       }
     },
     "reference/stonewalling.md": {
@@ -571,6 +1110,23 @@
       "script_sha256": {
         "en-US-AndrewMultilingualNeural": "e16aef6c019e1c2b450ed73bbb9e879d4a99d11fd49830c12864f5c716f61178",
         "en-US-JennyNeural": "0720dc4e2a6bb74e552c306c5cdf5829c9ccbb01f72052efb9ef7596943eacce"
+      }
+    },
+    "reference/unequal-treatment.md": {
+      "entry_id": "unequal-treatment",
+      "canonical_entry_sha256": "e62a5cca75bbb095dc4f9d03d3ce896154329677fc20dfe8d65fad81a57e7588",
+      "page_text_sha256": "3dc76df8cef678a3c054070dd3e918b63364fbb7b613dc76bf3b5cce0b1ce812",
+      "recorded_source_hashes": {
+        "reference/entries/audit-expansion.json": "89efa67b0781823630f305a28a0643cca86e318be7a29b1632fe5ff015e008c3",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "current_source_hashes": {
+        "reference/entries/audit-expansion.json": "3f0c90c990baa2051c8c1390f5d46b0308f8083d9a0521e088d8db0c22acd474",
+        "reference/research-sources.json": "d292af9723fd1a66469360224a7dfbed5f0f11929fed2d8d875c7c7a69769d44"
+      },
+      "script_sha256": {
+        "en-US-AndrewMultilingualNeural": "5b3f0ba24163d4352e4a5d9ad879e038bc7bc6a302eba11ef8cc061c1c4aa168",
+        "en-US-JennyNeural": "c8be8a3d59866af90ce05becb97ceb524b1b33dd6980a5dd5dc0c721997743bf"
       }
     },
     "reference/vulnerability.md": {

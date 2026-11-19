@@ -16,7 +16,7 @@ A description reports an event. A prediction uses a pattern to anticipate anothe
 
 **Brief fictional example:** People who reply quickly to an invitation attend more often. Reply speed may predict attendance without causing it: predictable work hours could make both easier. Requiring fast replies might exclude people rather than increase commitment.
 
-Julia Rohrer’s 2018 methods paper explains how researchers examine causal claims in observational data. A third factor, reverse influence or selection can produce an association. Statistical adjustment depends on assumptions; it does not automatically establish a cause. [Read the paper](https://doi.org/10.1177/2515245917745629).
+Julia Rohrer’s 2018 methods paper explains how researchers check claims about cause and effect when they record what happens without assigning people to different groups. A link between two things can arise because one affects the other in either direction, because a third factor affects both, or because people with different habits enter the groups being compared. Calculations that account for other measured factors still depend on assumptions about how those factors are related. [Read the paper](https://doi.org/10.1177/2515245917745629).
 
 ## Check what the record includes {#ask-what-is-missing-from-the-record}
 
@@ -43,7 +43,7 @@ Here is an **invented arithmetic example**, not a real screening tool. Of 1,000 
 | Broke the rule: 10 people | 8 | 2 |
 | Did not break it: 990 people | 99 | 891 |
 
-Only 8 of the 107 flagged people are cases: about 7.5%. Finding 80% of cases does not mean that 80% of flagged people are cases.
+Look down the **Flagged** column. There are 107 flagged people in all, and 8 of them broke the rule (about 7.5%). Now look across the **Broke the rule** row. The warning caught 8 of the 10 people who broke the rule (80%). The two percentages answer different questions: how often a warning is correct, and how often the warning catches a rule-breaker.
 
 In 1995 experiments, Gerd Gigerenzer and Ulrich Hoffrage found that presenting probability information as counts could improve reasoning on the tasks studied. The example uses that presentation; its numbers say nothing about dishonesty in your circumstances. [Read the paper](https://doi.org/10.1037/0033-295X.102.4.684).
 
@@ -83,7 +83,7 @@ Without looking back, why does a pattern between two things not show that changi
 
 <details class="answer-check" markdown="1"><summary>Show the useful distinction</summary>
 
-A third factor, reverse influence or selection could explain the association. Ask: **“What else could explain this pattern?”**
+One thing could affect the other in the opposite direction. Both could have another cause, or the groups could have differed before the comparison. Ask: **“What else could explain this pattern?”**
 
 </details>
 
@@ -91,11 +91,11 @@ A third factor, reverse influence or selection could explain the association. As
 
 **A new fictional situation:** A café finds that loyalty-card holders spend more. The owner wants to give everyone a card to increase spending.
 
-What is established, and which comparison would help distinguish cause from selection? Say or write your answer before opening the example.
+What do we know about spending now? Which customers’ earlier spending would you compare to check whether the people who chose a card already spent more? Say or write your answer before opening the example.
 
 <details class="answer-check" markdown="1"><summary>Show an example answer</summary>
 
-The association is established in the observed customers. Regular spenders may be more likely to get cards. Comparing spending before card ownership can help examine that possibility, though it will not eliminate every alternative. A fair trial would need suitable design, not merely a confident prediction.
+Current cardholders spend more than customers without cards. Compare the two groups’ spending from before the current cardholders got their cards. If the future cardholders already spent more, the difference existed before they joined. That comparison leaves open whether getting a card also changes spending.
 
 </details>
 

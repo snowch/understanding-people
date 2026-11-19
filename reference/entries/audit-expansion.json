@@ -873,9 +873,9 @@
         "A useful action and review can improve choices while the motive remains uncertain."
       ],
       "practice": [
-        "In the notes below, record one occasion and a genuine comparison or missing comparison. Put two plausible explanations and evidence against each in your interpretation field.",
-        "Choose one safe action that could clarify a difference. State what you expect and what result would make you reconsider.",
-        "On the review date, record the result, costs and remaining uncertainty. Decide what to retain, change or stop rather than scoring someone’s character."
+        "Open **My practice notes** below, or use a private notebook. Under **Observation**, record what happened on two comparable occasions. If you only have one, write which second occasion you would need. Under **Interpretation**, write two possible explanations and what could count against each.",
+        "Under **Action**, choose one safe step that could clarify the difference, such as asking what kind of help the person wanted. Write what you expect to happen and what result would make you reconsider.",
+        "When you return, use **Review** to record what happened, what the step cost and what you still do not know. Decide what to keep, change or stop."
       ],
       "related": [
         {
@@ -905,7 +905,7 @@
           "title": "Optional comparison template",
           "paragraphs": [
             "| Record | What to include |\n| --- | --- |\n| Occasion | Exact action, context and what you observed directly. |\n| Comparison | A similar opportunity, an exception, or an explicit gap in information. |\n| Explanations | At least two credible possibilities, including constraints or misunderstanding where relevant. |\n| Distinguishing information | A question or observation that could weaken the first account. |\n| Action | A safe step within your control and what you expect it to clarify. |\n| Review | Later result, unintended effects, other feedback and what remains unknown. |",
-            "Use the existing notes below or an equivalent private notebook. Do not record more identifying information than needed. Several reports of the same event remain one occasion; AI restating a report does not create another source."
+            "Copy this table into a private notebook or use **My practice notes** in the practice section below. Include only identifying details you need. Several reports of the same event still describe one occasion. An AI restatement draws on the report you supply."
           ],
           "optional": true
         }
@@ -932,8 +932,8 @@
       ],
       "practice": [
         "Write one AI question without assuming the motive. Separate two observations, your first interpretation and one important unknown.",
-        "Use the adaptable prompt on this page or the app’s editable preview. Ask for a credible alternative and a useful action that does not depend on a diagnosis.",
-        "Review one claim against a real source and record what changed in your thinking. Save any useful response as a suggestion, not an event."
+        "Open [A prompt to adapt](#prompt) above. Copy the example into a private draft and fill in the four brackets. Check that the draft asks for a credible alternative and one action within your control. You can try the exercise on paper or choose to send the draft to your AI assistant.",
+        "If you get an AI response, pick one research claim and see whether the cited source supports it. Record any useful suggestion separately from what you observed. If you kept the draft private, check whether it leaves room for more than one explanation."
       ],
       "related": [
         {
@@ -958,7 +958,7 @@
           "id": "prompt",
           "title": "A prompt to adapt",
           "paragraphs": [
-            "Copy this only after replacing the bracketed parts with information you want to share:",
+            "Copy the whole example below into a private draft. In your copy, replace the four bracketed parts with what you are comfortable sharing. Read the full draft before deciding whether to send it.",
             "```text\nHelp me think through an interaction. Treat my account as incomplete.\nObserved or reported events: [exact actions, context and source].\nMy interpretation: [what I currently think].\nAn exception or missing perspective: [what does not fit or is unknown].\nMy goal: [understanding, a decision, collaboration or a boundary].\nSeparate facts in my account, possible explanations and your suggestions.\nGive credible alternatives without inventing history or diagnosing anyone.\nWhat information could change the leading explanation?\nSuggest one action within my control and what to review afterward.\nFor research claims, identify a checkable source or say you cannot verify it.\n```",
             "This is an editorial aid, not a validated safeguard. In the app, Settings → AI connections selects a provider and model. Sending is optional; preview and redact the selected context first. The book’s practice notes are separate from app notes and are not automatically shared."
           ]

@@ -20,7 +20,7 @@ Psychologist Ziva Kunda reviewed research on motivated reasoning. Desired conclu
 
 ## A prompt to adapt {#prompt}
 
-Copy this only after replacing the bracketed parts with information you want to share:
+Copy the whole example below into a private draft. In your copy, replace the four bracketed parts with what you are comfortable sharing. Read the full draft before deciding whether to send it.
 
 ```text
 Help me think through an interaction. Treat my account as incomplete.
@@ -87,8 +87,8 @@ These are editorial reading connections, not evidence of a cause or diagnosis in
 ## Put it into practice {#practice}
 
 1. Write one AI question without assuming the motive. Separate two observations, your first interpretation and one important unknown.
-2. Use the adaptable prompt on this page or the app’s editable preview. Ask for a credible alternative and a useful action that does not depend on a diagnosis.
-3. Review one claim against a real source and record what changed in your thinking. Save any useful response as a suggestion, not an event.
+2. Open [A prompt to adapt](#prompt) above. Copy the example into a private draft and fill in the four brackets. Check that the draft asks for a credible alternative and one action within your control. You can try the exercise on paper or choose to send the draft to your AI assistant.
+3. If you get an AI response, pick one research claim and see whether the cited source supports it. Record any useful suggestion separately from what you observed. If you kept the draft private, check whether it leaves room for more than one explanation.
 
 <!-- practice-notes: reference-ai-reflection | Use AI without reinforcing a first impression -->
 

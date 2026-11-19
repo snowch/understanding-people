@@ -8,7 +8,11 @@ This chapter explains those mistakes and how to check them. The short examples b
 
 ## One habit to practise {#remember-this}
 
-When you feel sure why someone acted, ask: **“What do I know, and what am I guessing?”**
+When you feel sure why someone acted, pause and ask:
+
+1. **What did they say or do?**
+2. **Why do I think they did it?**
+3. **How could I check?**
 
 </section>
 
@@ -111,7 +115,7 @@ Henrich, Heine and Norenzayan's [2010 review](https://pubmed.ncbi.nlm.nih.gov/20
 
 ### Recall {#can-you-use-it}
 
-What three questions would help you check an explanation?
+Try to recall the three questions from **One habit to practise** before opening the answer.
 
 <details class="answer-check" markdown="1">
 <summary>Show the three questions</summary>
@@ -139,7 +143,7 @@ You know she raised the cost. You are guessing she wants to avoid you. Ask which
 
 ### Use it this week {#practise-three-questions}
 
-Use the three questions on one ordinary situation. Make a useful, safe check. Afterwards, note what changed in your explanation and what you will do next.
+Choose one ordinary situation and use the three questions. If you want to save your answers in this browser, open **My practice notes** below. Write what happened and your first explanation. After a useful, safe check, record what you learned and what you will do next.
 
 <!-- practice-notes: chapter-01-three-questions | Try the three questions -->
 

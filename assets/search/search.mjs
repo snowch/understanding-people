@@ -9,13 +9,13 @@ if(form){
  const more=document.querySelector('#search-more'),suggestions=document.querySelector('#search-suggestions');
  let data,ranker,vectorRanker,initializing,loadingVectors,worker,busy=false,job=0,timer,results=[],limit=6,current='',mode='Keywords';
  const root=new URL('../../',import.meta.url);
- const link=(label,path)=>{const a=document.createElement('a');a.textContent=label;a.href=new URL(path,root);return a;};
+ const link=(label,path,action)=>{const a=document.createElement('a');a.textContent=label;a.href=new URL(path,root);a.dataset.searchAction=action;return a;};
  async function init(){
   if(!initializing)initializing=(async()=>{
    const response=await fetch(new URL('./index.json'+buildQuery,import.meta.url));
    if(!response.ok)throw new Error('Search files unavailable.');
    data=await response.json();ranker=createRanker(data);
-   document.querySelector('#search-privacy').textContent=`Searches stay on this device and aren’t saved. The first meaning search downloads about ${Math.ceil(data.engine_bytes/1e6)} MB.`;
+   document.querySelector('#search-model-size').textContent=`about ${Math.ceil(data.engine_bytes/1e6)} MB`;
   })().catch(error=>{initializing=null;throw error;});
   return initializing;
  }
@@ -39,6 +39,9 @@ if(form){
   return (start?'… ':'')+text.slice(start,end)+(end<text.length?' …':'');
  }
  function render(){
+  const active=document.activeElement;
+  const activeResult=active?.closest('#search-results > li');
+  const previousAction=activeResult && active.dataset.searchAction;
   list.replaceChildren();region.hidden=false;
   const plan=planQuery(current,data.documents),note=document.querySelector('#search-term-note');
   note.textContent=plan.notice;note.hidden=!plan.notice;
@@ -46,18 +49,24 @@ if(form){
    const d=data.documents[result.document],p=data.passages[result.passage];
    const li=document.createElement('li'),kind=document.createElement('p'),h=document.createElement('h3');
    kind.className='search-result-kind';kind.textContent=(result.related?'Related topic · ':'')+(d.clinical?'Clinical reference':d.kind);
-   h.append(link(d.title,d.url+'#'+p.anchor));
+   li.dataset.resultPage=d.url;
+   h.append(link(d.title,d.url+'#'+p.anchor,'read'));
    li.append(kind,h);
    if(p.heading!==d.title){const section=document.createElement('p');section.className='search-result-section';section.textContent=p.heading;li.append(section);}
    const quote=document.createElement('p');quote.className='search-excerpt';quote.textContent=excerpt(p.text);li.append(quote);
-   const actions=document.createElement('div');actions.className='search-result-actions';actions.append(link('Read passage',d.url+'#'+p.anchor));
-   if(Object.hasOwn(p,'listen_url')){if(p.listen_url)actions.append(link('Listen in context',p.listen_url));}
-   else if(d.listen)actions.append(link('Listen',d.url+'#'+d.listen));
-   if(d.practice)actions.append(link('Practise',d.url+'#'+d.practice));
-   const save=document.createElement('button');save.type='button';save.className='reading-save';save.hidden=true;save.dataset.readingSave=d.url;save.dataset.readingFragment=p.anchor;actions.append(save);
+   const actions=document.createElement('div');actions.className='search-result-actions';
+   if(Object.hasOwn(p,'listen_url')){if(p.listen_url)actions.append(link('Listen in context',p.listen_url,'listen'));}
+   else if(d.listen)actions.append(link('Listen',d.url+'#'+d.listen,'listen'));
+   if(d.practice)actions.append(link('Practise',d.url+'#'+d.practice,'practise'));
+   const save=document.createElement('button');save.type='button';save.className='reading-save';save.hidden=true;save.dataset.readingSave=d.url;save.dataset.searchAction='save';save.dataset.readingFragment=p.anchor;actions.append(save);
    li.append(actions);list.append(li);
   }
   document.dispatchEvent(new Event('reading-list:refresh'));
+  if(activeResult){
+   const replacement=[...list.children].find(item=>item.dataset.resultPage===activeResult.dataset.resultPage);
+   const control=replacement?.querySelector(`[data-search-action="${previousAction}"]:not([hidden])`);
+   (control || replacement?.querySelector('h3 a') || document.querySelector('#search-results-title')).focus();
+  }
   count.textContent=results.length?`${mode} · ${Math.min(limit,results.length)} related ${results.length===1?'page':'pages'}${results.length>limit?' shown':''}`:'No close matches';
   document.querySelector('#search-empty').hidden=results.length!==0;
   more.hidden=results.length<=limit;
@@ -69,7 +78,7 @@ if(form){
   clear.hidden=false;suggestions.hidden=true;limit=6;loading.textContent='Searching the book…';
   try{await init();if(job!==id)return;
    results=ranker(current);mode='Keywords';render();
-   if(!meaning.checked){loading.classList.add('visually-hidden');loading.textContent='Keyword search. Your question stays on this device.';return;}
+   if(!meaning.checked){loading.textContent='';return;}
    if(!window.Worker||!window.WebAssembly){fail('Meaning search is not supported in this browser. Keyword results are shown.');return;}
    cancel.hidden=false;loading.textContent='Loading meaning search. Keyword results are ready below.';
    try{await initVectors();}catch(error){if(job===id)fail('Meaning-search files could not load. Keyword results are still available; try again after reloading.');return;}
@@ -97,7 +106,7 @@ if(form){
  cancel.addEventListener('click',()=>{stop();loading.textContent='Meaning search stopped. Keyword results remain below.';query.focus();});
  clear.addEventListener('click',()=>{stop(true);query.value='';current='';list.replaceChildren();region.hidden=true;suggestions.hidden=false;clear.hidden=true;textCleanup();query.focus();});
  meaning.addEventListener('change',()=>{if(!meaning.checked){stop();if(ranker&&current){results=ranker(current);mode='Keywords';render();}loading.textContent='Keyword search selected.';}});
- query.addEventListener('input',()=>{if(query.value.trim()!==current){stop();clear.hidden=!query.value;loading.classList.remove('visually-hidden');loading.textContent='Press Search to update the results.';}});
+ query.addEventListener('input',()=>{if(query.value.trim()!==current){stop();clear.hidden=!query.value;loading.classList.remove('visually-hidden');loading.textContent=region.hidden?'Press Search to find related reading.':'Showing results for your previous search. Press Search to update them.';}});
  more.addEventListener('click',()=>{const previous=limit;limit+=6;render();const next=list.children[previous];if(next){next.querySelector('h3 a').focus({preventScroll:true});next.scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});}});
  for(const b of document.querySelectorAll('.search-examples button'))b.addEventListener('click',()=>{query.value=b.textContent;search();});
  form.hidden=false;suggestions.hidden=false;
