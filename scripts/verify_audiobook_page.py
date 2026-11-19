@@ -25,7 +25,7 @@ def verify(base, screenshots=False):
         errors, media = [], []
         page.on('pageerror', lambda error: errors.append(str(error)))
         page.on('request', lambda request: media.append(request.url) if urlsplit(request.url).path.endswith(('.m4b','.mp3')) else None)
-        page.goto(base+'chapters/01-before-you-explain.html')
+        page.goto(base+'chapters/03-needs-motives-goals.html')
         page.locator('.page-narration .narration-sections > summary').click()
         page.locator('.page-narration .whole-book-download').click()
         expect(page).to_have_url(base+'downloads/index.html')

@@ -29,8 +29,10 @@ def verify(source,script,entry,current):
     assert review['current_source_hashes']==current,source
     assert review['page_text_sha256']==entry['page_text_sha256'],source
     assert review['script_sha256'][script['voice']]==entry['script_sha256'],source
-    assert len(script['source_files'])==1, 'Only a reviewed canonical entry container is eligible'
-    path=script['source_files'][0]
+    assert set(script['source_files']) == set(current) == set(entry['source_hashes']), source
+    changed = [path for path in current if current[path] != entry['source_hashes'][path]]
+    assert len(changed) == 1, 'Only one reviewed canonical entry container may change'
+    path = changed[0]
     assert path.startswith('reference/entries/') and path.endswith('.json')
     entries=json.loads((ROOT/path).read_text())['entries']
     canonical=next(e for e in entries if e['id']==review['entry_id'])

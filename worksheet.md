@@ -1,6 +1,6 @@
 # Work through a situation
 
-Choose one ordinary situation from your own life involving **yourself or another person**. Use the same situation for all six steps. Print this page or write your answers in your own notes. Choose something you feel safe thinking about and discussing; for concerns about harm or abuse, start with the [support page](support.md).
+Choose one ordinary situation from your own life involving **yourself or another person**. Use the same situation for all six steps. Print this page to write on it, or copy the prompts into your own notes. Choose something you feel safe thinking about and discussing; for concerns about harm or abuse, start with the [support page](support.md).
 
 <section class="reader-action" markdown="1" aria-labelledby="describe-event">
 
@@ -40,7 +40,7 @@ If you are thinking about something you did, include both your reasons and how i
 | A difficulty such as lack of time, money or help | | |
 | A misunderstanding, including mine | | |
 
-What does the person want? What makes it difficult for them to act? Could either of you have misunderstood something? Use the table to write at least two possible explanations. More than one may be true. Include possibilities you would rather not believe as well as reassuring ones.
+Choose at least two possible explanations for your situation. In the printed table or your notes, write one explanation per row. Use **What would support it?** and **What would count against it?** to record clues that would help you tell the explanations apart. Choose a clue you can check in the next step. More than one explanation may still fit.
 
 </section>
 
@@ -48,7 +48,7 @@ What does the person want? What makes it difficult for them to act? Could either
 
 ## 4. Choose a question or check {#choose-check}
 
-Ask a question that leaves room for an answer you did not expect. Or choose something you can check fairly, such as a date in a shared calendar. If you are trying to understand why you keep putting something off, compare a recent time when you did it with a time when you did not. What was different?
+Ask a question that leaves room for an answer you did not expect. Or choose something you can check fairly, such as a date in a shared calendar. If you keep putting something off, choose a recent time you did it and a recent time you postponed it. Compare the time, help or tools you had on those occasions. Which difference would you check before changing your plan?
 
 **What I will ask or check:** ________________________________________
 

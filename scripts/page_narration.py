@@ -179,9 +179,12 @@ def render(source, title, body, page, manifest, editions=None):
         return ""
     sections = speech_sections(title, body)
     editions = editions or {DEFAULT: manifest}
-    from written_editions import verify as verify_written
+    from written_editions import editions as written_editions, verify as verify_written
     if verify_written(source, fingerprint(sections), editions):
-        return '<p class="narration-update">Written edition · Audio for this text is not available. Existing audiobook downloads retain their recorded edition.</p>'
+        if written_editions()[source]['status'] == 'new-text':
+            return '<p class="narration-update">Written edition. This page has no recording.</p>'
+        audiobooks = Path(os.path.relpath('downloads/index.html', page.parent)).as_posix()
+        return f'<p class="narration-update">Written edition. The <a href="{escape(audiobooks, quote=True)}">audiobook</a> has an earlier version of this page.</p>'
     variants = {}
     for voice, edition in editions.items():
         entry = edition['pages'].get(source)

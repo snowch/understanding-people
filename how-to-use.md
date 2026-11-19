@@ -10,9 +10,9 @@ On a phone, open **Browse the book & library** above the page. The breadcrumb ab
 
 ## Follow the explanation, then try it
 
-Start with the chapter’s main question and concept explanations. Short fictional examples reinforce particular points; the linked reference entries provide more depth. Earlier chapter recordings are paused because they follow the previous story-led text. **One habit to practise** gives you a question to remember and a moment when it could help.
+Start with the chapter’s main question. **One habit to practise** gives you a question to remember and a situation in which to use it. The short fictional examples show how the ideas apply. Follow the reference links for more detail, or use the player at the top of a page when it offers a recording.
 
-After the **Key takeaways**, a green **Put it into practice** panel offers one short sequence: recall the question, try a new situation, then choose one action for the week. Its wording and checklist icon also identify it without colour.
+After **Key takeaways**, **Put it into practice** guides you through one recall question, one fictional situation and one action for the week.
 
 You can read straight through without doing every exercise. When a question fits your situation, pause and use it. Avoid turning ordinary interactions into a running assessment of everyone around you.
 
@@ -38,7 +38,7 @@ When you finish, the [conclusion](conclusion.md) brings together the main lesson
 
 ### Keep notes if they help
 
-Open **My practice notes** beneath an exercise. You can choose a date to return, record what happened and describe what you learned. With JavaScript available, notes save automatically in this browser on this device. The book does not send notes to the author, sync them between devices or send reminders.
+Open **My practice notes** beneath an exercise. You can record what happened, what you think it means, what you tried and what you learned. Notes save automatically in this browser when storage is available. A return date is a note to yourself. Set a separate reminder if you want an alert.
 
 Anyone using the same browser may be able to read the notes. Avoid names and sensitive details, and do not keep records if discovery could put you at risk. Private browsing or clearing browser data can remove them. Use **Download these notes** to keep a text copy, or **Delete these notes** to remove that exercise’s saved notes from this browser. Deleting here does not delete downloaded copies.
 
@@ -46,7 +46,7 @@ If saving is blocked, a message will say so; download or copy the notes before l
 
 ## Know what each element means
 
-Outlined boxes labelled **Definition** explain unfamiliar terms in plain English and give an example. Select the term to find it in the alphabetical [glossary](glossary.md). Each glossary entry links back to its explanation in a chapter.
+Outlined boxes labelled **Definition** explain unfamiliar terms in plain English and give an example. Select the term to find it in the alphabetical [glossary](glossary.md). Each glossary entry links back to the chapter or reference that explains the term in context.
 
 Research claims have nearby source links and a description of the relevant limits. Possible explanations are presented as possibilities. Suggested conversations and action panels are practical applications unless a passage explicitly describes a tested intervention. See the [evidence standards](evidence.md) for more detail.
 
@@ -62,6 +62,6 @@ Likewise, an alternative explanation does not have to be a reassuring one. Consi
 
 ## Read the current edition as a draft
 
-All [twelve chapters](contents.md) are available as a complete first draft. Each explains concepts before using brief examples, with **Key takeaways**, compact practice, optional deeper exercises and links to the reference library. Earlier chapter and overview videos are not part of this revised text edition; the existing confirmation-bias recordings remain with that reference entry. This edition has not undergone external subject-matter review, and its source list is selective rather than a systematic review of all relevant research.
+All [twelve chapters](contents.md) are available in this draft. The book draws on selected research. It still awaits external subject-matter review.
 
 The most useful feedback identifies a passage: what claim seems unsupported, what explanation needs clarification, or what question the example leaves unanswered. Sources and revision history are available through the page-source links.

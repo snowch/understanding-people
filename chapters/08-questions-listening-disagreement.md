@@ -115,7 +115,7 @@ Ask which part of the deadline or work is difficult. Summarise the answer and cl
 
 ### Use it this week {#listen-check}
 
-This week, choose one ordinary conversation. Ask a question whose answer could change your next step, then use **“Have I understood you correctly?”** Record the correction you received and what you did with it. Respect a refusal or an unsafe setting.
+This week, choose one ordinary conversation. Ask a question whose answer could change your next step, then use **“Have I understood you correctly?”** Record what your summary helped clarify and what you did with the answer. If the person declines to answer or the setting feels unsafe, stop.
 
 <!-- practice-notes: week-08 | Check one answer before giving yours -->
 
@@ -132,7 +132,7 @@ This week, choose one ordinary conversation. Ask a question whose answer could c
 
 <details class="answer-check" markdown="1"><summary>Show what to consider</summary>
 
-“What date do you remember agreeing?” Then compare accounts with any relevant record. A neutral opening cannot guarantee memory accuracy, but it avoids supplying the answer you want.
+“What do you remember us agreeing to, if anything?” Then compare accounts with any relevant record. The question leaves open whether an agreement was made and when. The answer can still be mistaken.
 
 </details>
 

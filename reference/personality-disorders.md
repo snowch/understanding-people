@@ -26,7 +26,7 @@ Tinca Polderman and colleagues combined twin-study findings across many human tr
 
 ## What else could explain it? {#a-distinction-to-keep-in-mind}
 
-Clinical systems describe personality difficulties differently. The NHS notes a move toward descriptions of severity and traits, whereas familiar named categories remain widely used in DSM-based material. An ordinary trait, a period of stress, another health condition and a personality disorder are not interchangeable. A diagnosis also does not establish whether a particular action was intended or abusive.
+Clinical systems describe personality difficulties differently. The NHS notes a move toward describing how severe the difficulties are and which traits are involved. The American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM) still uses familiar named categories. An ordinary trait, a period of stress, another health condition and a personality disorder are not interchangeable. A diagnosis also does not establish whether a particular action was intended or abusive.
 
 These alternatives are starting points, not an exhaustive list.
 

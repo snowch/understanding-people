@@ -24,6 +24,19 @@ class SourceReviewTests(unittest.TestCase):
   with patch.object(review,'reviews',return_value={self.source:item}):
    with self.assertRaisesRegex(AssertionError,'Entry changed after'):
     review.verify(self.source,self.script,self.entry,self.current)
+ def test_only_the_reviewed_canonical_container_can_change(self):
+  source = 'reference/naming-and-belonging.md'
+  script = scripts()[source][1]
+  entry = load_manifest('andrew')['pages'][source]
+  current = source_hashes(script)
+  self.assertEqual(len(current), 2)
+  self.assertTrue(review.verify(source, script, entry, current))
+  current['reference/research-sources.json'] = '0' * 64
+  item = copy.deepcopy(review.reviews()[source])
+  item['current_source_hashes'] = current
+  with patch.object(review, 'reviews', return_value={source: item}):
+   with self.assertRaisesRegex(AssertionError, 'Only one reviewed canonical entry container'):
+    review.verify(source, script, entry, current)
  def test_stale_source_or_altered_recording_binding_is_rejected(self):
   with self.assertRaises(AssertionError):review.verify(self.source,self.script,self.entry,{})
   altered=copy.deepcopy(self.entry);altered['script_sha256']='0'*64

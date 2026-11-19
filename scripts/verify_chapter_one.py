@@ -14,7 +14,9 @@ with sync_playwright() as pw:
     page = browser.new_page(service_workers='block')
     page.goto(urljoin(base, 'chapters/01-before-you-explain.html'))
     assert page.locator('video').count() == 0
-    assert page.locator('.page-narration audio[preload="none"]').count() == 1
+    assert page.locator('.page-narration').count() == 0
+    assert page.locator('.narration-update a').get_attribute('href') == '../downloads/index.html'
+    assert page.locator('.remember-cue ol li').all_text_contents() == ['What did they say or do?', 'Why do I think they did it?', 'How could I check?']
     assert page.locator('a[href*="audio/chapter-01"],a[href*="media/chapter-01"]').count() == 0
     for anchor in ('separate-layers', 'what-did-rowan-actually-say', 'check-an-answer', 'check-own-account', 'choose-response', 'week-correspondence'):
         assert page.locator(f'#{anchor}').count() == 1, anchor
@@ -35,4 +37,4 @@ with sync_playwright() as pw:
         page.goto(urljoin(base, path))
         assert page.locator('a[href*="audio/chapter-01"]').count() == 0
     browser.close()
-print('Passed: revised Chapter 1 narration, earlier media excluded, old audio link notice, stable anchors, matching definitions and responsive layouts.')
+print('Passed: Chapter 1 recall cue and recorded-edition link, earlier videos excluded, old audio link notice, stable anchors, matching definitions and responsive layouts.')
